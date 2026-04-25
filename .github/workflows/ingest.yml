@@ -1,0 +1,129 @@
+name: Ingest
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  # Job A — always-succeeds path. Pulls feeds, distills OSINT content,
+  # re-renders from the last known enriched JSON. If DeepSeek is having a
+  # bad day, the site still updates with fresh items + yesterday's
+  # clustered view. Never blank.
+  fetch_render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Cache Playwright browsers
+        id: pw-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-chromium-v1
+
+      - name: Install Playwright Chromium
+        if: steps.pw-cache.outputs.cache-hit != 'true'
+        run: python -m playwright install --with-deps chromium
+
+      - name: Install Playwright OS deps (when cache hit)
+        if: steps.pw-cache.outputs.cache-hit == 'true'
+        run: python -m playwright install-deps chromium
+
+      - name: Run fetcher
+        run: python fetch.py
+
+      - name: Distill OSINT platform content
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python osint_content.py
+
+      - name: Render OSINT dashboard
+        run: python dashboard.py
+
+      - name: Slice regions
+        run: python region_slice.py
+
+      - name: Render HTML dashboard
+        run: python render_html.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Yepisyeni Türkiye"
+          git config user.email "yepisyeniturkiye@gmail.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "fetch+render: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "no changes to commit"
+          fi
+
+  # Job B — can-fail path. Runs infer against the feed/ that Job A just
+  # committed. If DeepSeek hangs or times out, Job A's output already
+  # landed and the site has something for today. Job B re-renders
+  # regions + HTML with the fresh enriched JSON if infer succeeds.
+  infer:
+    runs-on: ubuntu-latest
+    needs: fetch_render
+    timeout-minutes: 35
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Sync to latest (Job A just pushed)
+        run: git pull origin main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Run inference pass
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: python infer.py
+
+      - name: Re-render with fresh enriched
+        run: |
+          python region_slice.py
+          python render_html.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Yepisyeni Türkiye"
+          git config user.email "yepisyeniturkiye@gmail.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "infer: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin main
+            git push
+          else
+            echo "no infer changes to commit"
+          fi

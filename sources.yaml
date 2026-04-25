@@ -1,0 +1,1045 @@
+# sources.yaml
+# Generated 2026-04-20. Regenerate by rerunning Phase 0 brief.
+sources:
+  # === Investigative Journalism ===
+  # Publishers that do institutional investigative/OSINT reporting in article form.
+  # Distinct from the osint_monitor_* layer below, which catalogs DATA platforms.
+  - id: bellingcat
+    name: Bellingcat
+    homepage: https://www.bellingcat.com
+    feed_url: https://www.bellingcat.com/feed/
+    feed_type: rss
+    category: investigative
+    region: eu
+    language: en
+    status: live
+    notes: "Open-source investigations. NL/UK-based."
+    last_verified: 2026-04-21
+
+  - id: occrp
+    name: OCCRP
+    homepage: https://www.occrp.org
+    feed_url: https://www.occrp.org/en/feed
+    feed_type: rss
+    category: investigative
+    region: eu
+    language: en
+    status: live
+    notes: "Organized Crime and Corruption Reporting Project. Cross-border investigations; main feed carries ~60 items."
+    last_verified: 2026-04-21
+
+  - id: cit-investigations
+    name: Conflict Intelligence Team
+    homepage: https://citeam.org
+    feed_url: https://citeam.org/feed/
+    feed_type: rss
+    category: investigative
+    region: eu
+    language: en
+    status: live
+    notes: "Russian anti-Kremlin OSINT collective (Ruslan Leviev). Article stream. Institutional dashboard entry remains as osint_monitor_conflict id=cit."
+    last_verified: 2026-04-21
+
+  - id: the-intercept
+    name: The Intercept
+    homepage: https://theintercept.com
+    feed_url: https://theintercept.com/feed/?rss
+    feed_type: rss
+    category: investigative
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-21
+
+  - id: propublica
+    name: ProPublica
+    homepage: https://www.propublica.org
+    feed_url: https://www.propublica.org/feeds/propublica/main
+    feed_type: rss
+    category: investigative
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-21
+
+  - id: dropsite-news
+    name: DropSite News
+    homepage: https://www.dropsitenews.com
+    feed_url: https://www.dropsitenews.com/feed
+    feed_type: rss
+    category: investigative
+    region: us
+    language: en
+    status: live
+    notes: "Jeremy Scahill's Substack-era investigative outlet."
+    last_verified: 2026-04-21
+
+  # === Regional (Israel/Palestine/MENA — article sources) ===
+  - id: plus972
+    name: "+972 Magazine"
+    homepage: https://www.972mag.com
+    feed_url: https://www.972mag.com/feed/
+    feed_type: rss
+    category: regional
+    region: mena
+    language: en
+    status: live
+    notes: "Israeli/Palestinian independent magazine."
+    last_verified: 2026-04-21
+
+  - id: electronic-intifada
+    name: Electronic Intifada
+    homepage: https://electronicintifada.net
+    feed_url: https://electronicintifada.net/rss.xml
+    feed_type: rss
+    category: regional
+    region: mena
+    language: en
+    status: live
+    notes: "Palestine-focused news and analysis."
+    last_verified: 2026-04-21
+
+  - id: middle-east-eye
+    name: Middle East Eye
+    homepage: https://www.middleeasteye.net
+    feed_url: https://www.middleeasteye.net/rss.xml
+    feed_type: rss
+    category: regional
+    region: mena
+    language: en
+    status: live
+    notes: "MENA-focused news; UK-based."
+    last_verified: 2026-04-21
+
+  # === General Left ===
+  - id: alternet
+    name: AlterNet
+    homepage: https://www.alternet.org
+    feed_url: https://www.alternet.org/feeds/feed.rss
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: common-dreams
+    name: Common Dreams
+    homepage: https://www.commondreams.org
+    feed_url: https://www.commondreams.org/feeds/feed.rss
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: "Built on RebelMouse; primary feed is /feeds/feed.rss"
+    last_verified: 2026-04-20
+
+  - id: democracy-now
+    name: Democracy Now!
+    homepage: https://www.democracynow.org
+    feed_url: https://feeds.feedburner.com/democracynowblog
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: "FeedBurner RSS; no native /feed path"
+    last_verified: 2026-04-20
+
+  - id: the-nation
+    name: The Nation
+    homepage: https://www.thenation.com
+    feed_url: https://www.thenation.com/feed/
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: jacobin
+    name: Jacobin
+    homepage: https://jacobin.com
+    feed_url: https://jacobin.com/feed/
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: in-these-times
+    name: In These Times
+    homepage: https://inthesetimes.com
+    feed_url: ""
+    feed_type: ""
+    category: general_left
+    region: us
+    language: en
+    status: no_feed
+    notes: "All feed paths return 403; site may require user-agent whitelisting. Recovery lane: oc-portal curator feed may carry items; verify in Phase 2 full scrape."
+    last_verified: 2026-04-20
+
+  - id: truthout
+    name: Truthout
+    homepage: https://truthout.org
+    feed_url: https://truthout.org/feed/?withoutcomments=1
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: "Querystring required for valid XML"
+    last_verified: 2026-04-20
+
+  - id: real-news-network
+    name: The Real News Network
+    homepage: https://therealnews.com
+    feed_url: https://therealnews.com/feed
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: monthly-review
+    name: Monthly Review
+    homepage: https://mronline.org
+    feed_url: https://mronline.org/feed/
+    feed_type: rss
+    category: general_left
+    region: us
+    language: en
+    status: live
+    notes: "Rate-limited; retry after 429 resolved"
+    last_verified: 2026-04-20
+
+  # === Anti-imperialism ===
+  - id: geopolitical-economy-report
+    name: Geopolitical Economy Report
+    homepage: https://geopoliticaleconomy.com
+    feed_url: https://geopoliticaleconomy.com/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: us
+    language: en
+    status: live
+    notes: "Ben Norton; also has YouTube channel"
+    last_verified: 2026-04-20
+
+  - id: mintpress-news
+    name: MintPress News
+    homepage: https://www.mintpressnews.com
+    feed_url: https://www.mintpressnews.com/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: us
+    language: en
+    status: live
+    obscuring_required: true
+    notes: "Heat-attracting framing; inference pipeline extracts factual kernel into neutral voice."
+    last_verified: 2026-04-20
+
+  - id: world-socialist-web-site
+    name: World Socialist Web Site
+    homepage: https://www.wsws.org
+    feed_url: ""
+    feed_type: ""
+    category: anti_imperialism
+    region: us
+    language: en
+    status: no_feed
+    notes: "No direct RSS/Atom feed discoverable at common paths. Articles arrive into OC Portal curator feed (id: oc-portal), which is our de-facto WSWS ingest."
+    last_verified: 2026-04-20
+
+  - id: tricontinental
+    name: "Tricontinental: Institute for Social Research"
+    homepage: https://www.thetricontinental.org
+    feed_url: https://www.thetricontinental.org/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: global
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: the-grayzone
+    name: The Grayzone
+    homepage: https://thegrayzone.com
+    feed_url: https://thegrayzone.com/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: us
+    language: en
+    status: live
+    obscuring_required: true
+    notes: "Heat-attracting framing; inference pipeline extracts factual kernel into neutral voice."
+    last_verified: 2026-04-20
+
+  # === People's Movements and Labor ===
+  - id: liberation-news
+    name: Liberation News
+    homepage: https://www.liberationnews.org
+    feed_url: https://www.liberationnews.org/feed/
+    feed_type: rss
+    category: movements_labor
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: peoples-dispatch
+    name: People's Dispatch
+    homepage: https://peoplesdispatch.org
+    feed_url: https://peoplesdispatch.org/feed/
+    feed_type: rss
+    category: movements_labor
+    region: global
+    language: en
+    status: live
+    notes: "Homepage behind Cloudflare challenge; RSS feed is accessible directly"
+    last_verified: 2026-04-20
+
+  - id: fight-racism-imperialism
+    name: Fight Racism! Fight Imperialism!
+    homepage: https://revolutionarycommunist.org
+    feed_url: https://revolutionarycommunist.org/feed/
+    feed_type: rss
+    category: movements_labor
+    region: uk
+    language: en
+    status: live
+    notes: "Publication lives at revolutionarycommunist.org; original domain fightracismimperialism.org is dead"
+    last_verified: 2026-04-20
+
+  # === Video-First Platforms ===
+  - id: breakthrough-news
+    name: BreakThrough News
+    homepage: https://www.breakthroughnews.org
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCiinSjWS3E0vtAa3DCvp7iA
+    feed_type: youtube
+    category: video
+    region: us
+    language: en
+    status: live
+    notes: "Website blocked by Cloudflare from automated clients; YouTube channel is primary ingest endpoint"
+    last_verified: 2026-04-20
+
+  - id: peoples-world
+    name: People's World
+    homepage: https://www.peoplesworld.org
+    feed_url: https://www.peoplesworld.org/feed/
+    feed_type: rss
+    category: video
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: novara-media
+    name: Novara Media
+    homepage: https://novaramedia.com
+    feed_url: https://novaramedia.com/feed/
+    feed_type: rss
+    category: video
+    region: uk
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: gravel-institute
+    name: Gravel Institute
+    homepage: https://www.gravelinstitute.org
+    feed_url: ""
+    feed_type: ""
+    category: video
+    region: us
+    language: en
+    status: dead
+    notes: "Site now redirects all traffic to /lander page; appears to be defunct or inactive as a web property"
+    last_verified: 2026-04-20
+
+  - id: empire-files
+    name: Empire Files (Abby Martin)
+    homepage: https://theempirefiles.org
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_D-2V-tHdWv2SgaNbAKH2w
+    feed_type: youtube
+    category: video
+    region: us
+    language: en
+    status: live
+    notes: "Website unreachable (timeout); YouTube channel @TheEmpireFiles has recent uploads and is active"
+    last_verified: 2026-04-20
+
+  # === Regional ===
+  - id: mondoweiss
+    name: Mondoweiss
+    homepage: https://mondoweiss.net
+    feed_url: https://mondoweiss.net/feed/
+    feed_type: rss
+    category: regional
+    region: mena
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: resumen-latinoamericano
+    name: Resumen Latinoamericano
+    homepage: https://www.resumenlatinoamericano.org
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: latam
+    language: es
+    status: dead
+    notes: "Host unreachable from automated clients; may be up for browsers but blocked for scripts/curl. Recovery lane: oc-portal curator feed may carry items; verify in Phase 2 full scrape."
+    last_verified: 2026-04-20
+
+  - id: brasil-de-fato
+    name: Brasil de Fato
+    homepage: https://www.brasildefato.com.br
+    feed_url: https://www.brasildefato.com.br/feed/
+    feed_type: rss
+    category: regional
+    region: latam
+    language: pt
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: pan-african-tv
+    name: Pan African TV
+    homepage: https://panafricantv.com
+    feed_url: https://panafricantv.com/feed/
+    feed_type: rss
+    category: regional
+    region: africa
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: newsclick
+    name: NewsClick
+    homepage: https://newsclick.org
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: asia
+    language: en
+    status: dead
+    notes: "newsclick.org times out; newsclick.in returns 403; site may be down or blocking automated access. Recovery lane: oc-portal curator feed may carry items; verify in Phase 2 full scrape."
+    last_verified: 2026-04-20
+
+  - id: dongsheng
+    name: Dongsheng
+    homepage: https://dongshengnews.com
+    feed_url: https://dongshengnews.com/feed
+    feed_type: rss
+    category: regional
+    region: asia
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: scroll-in
+    name: Scroll.in
+    homepage: https://scroll.in
+    feed_url: https://feeds.feedburner.com/ScrollinArticles.rss
+    feed_type: rss
+    category: regional
+    region: asia
+    language: en
+    status: live
+    notes: "Indian independent news; FeedBurner-hosted feed. ~100 items."
+    last_verified: 2026-04-21
+
+  - id: asia-times
+    name: Asia Times
+    homepage: https://www.asiatimes.com
+    feed_url: https://www.asiatimes.com/feed/
+    feed_type: rss
+    category: regional
+    region: asia
+    language: en
+    status: live
+    notes: "Hong Kong-based; covers Asia-Pacific politics and economics."
+    last_verified: 2026-04-21
+
+  - id: rappler
+    name: Rappler
+    homepage: https://www.rappler.com
+    feed_url: https://www.rappler.com/feed/
+    feed_type: rss
+    category: regional
+    region: asia
+    language: en
+    status: live
+    notes: "Philippines investigative journalism; founded by Maria Ressa."
+    last_verified: 2026-04-21
+
+  - id: frontline-thehindu
+    name: Frontline
+    homepage: https://frontline.thehindu.com
+    feed_url: https://frontline.thehindu.com/feeder/default.rss
+    feed_type: rss
+    category: regional
+    region: asia
+    language: en
+    status: live
+    notes: "The Hindu's left-leaning Indian magazine. Low volume (weekly)."
+    last_verified: 2026-04-21
+
+  - id: new-frame
+    name: New Frame
+    homepage: https://www.newframe.com
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: africa
+    language: en
+    status: no_feed
+    notes: "Site behind Cloudflare; no RSS feed detected at /feed, /rss, or via link tags. Recovery lane: oc-portal curator feed may carry items; verify in Phase 2 full scrape."
+    last_verified: 2026-04-20
+
+  - id: madaar
+    name: Madaar
+    homepage: https://madaar.net
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: mena
+    language: ar
+    status: dead
+    notes: "Host unreachable (timeout); site appears to be down or moved"
+    last_verified: 2026-04-20
+
+  - id: palestinian-peoples-party
+    name: Palestinian People's Party
+    homepage: https://palestinianpeople.org
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: mena
+    language: en
+    status: dead
+    notes: "Host unreachable; site appears to be offline"
+    last_verified: 2026-04-20
+
+  - id: argmedios
+    name: ArgMedios
+    homepage: https://argmedios.com
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: latam
+    language: es
+    status: dead
+    notes: "Host unreachable from automated clients"
+    last_verified: 2026-04-20
+
+  - id: mst
+    name: Landless Workers' Movement (MST)
+    homepage: https://www.mst.org.br
+    feed_url: https://www.mst.org.br/feed
+    feed_type: rss
+    category: regional
+    region: latam
+    language: pt
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: ctc-cuba
+    name: Workers' Central Union of Cuba (CTC)
+    homepage: https://www.cta.cu
+    feed_url: ""
+    feed_type: ""
+    category: regional
+    region: latam
+    language: es
+    status: dead
+    notes: "Host unreachable; cta.cu and related domains all time out"
+    last_verified: 2026-04-20
+
+  - id: numsa
+    name: National Union of Metal Workers of South Africa (NUMSA)
+    homepage: https://www.numsa.org.za
+    feed_url: https://www.numsa.org.za/feed/
+    feed_type: rss
+    category: regional
+    region: africa
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  # === Addendum ===
+  - id: counterpunch
+    name: CounterPunch
+    homepage: https://www.counterpunch.org
+    feed_url: https://www.counterpunch.org/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: us
+    language: en
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: roar-magazine
+    name: ROAR Magazine
+    homepage: https://roarmag.org
+    feed_url: ""
+    feed_type: ""
+    category: movements_labor
+    region: eu
+    language: en
+    status: dead
+    notes: "Server returns 500 errors on all requests; likely defunct"
+    last_verified: 2026-04-20
+
+  - id: alborada
+    name: Alborada
+    homepage: https://alborada.cl
+    feed_url: https://alborada.cl/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: latam
+    language: es
+    status: live
+    notes: ""
+    last_verified: 2026-04-20
+
+  - id: investigaction
+    name: Investig'Action
+    homepage: https://investigaction.net
+    feed_url: https://investigaction.net/feed/
+    feed_type: rss
+    category: anti_imperialism
+    region: eu
+    language: fr
+    status: live
+    notes: "Belgian site by Michel Collon; primary feed in French"
+    last_verified: 2026-04-20
+
+  - id: redfish
+    name: Redfish
+    homepage: https://redfishcontent.ca
+    feed_url: ""
+    feed_type: ""
+    category: video
+    region: eu
+    language: en
+    status: dead
+    notes: "Confirmed taken down. YouTube channel returns no items."
+    last_verified: 2026-04-20
+
+  # === Curator Feeds (recovery lane for uncovered sources) ===
+  - id: oc-portal
+    name: The OC Portal
+    homepage: https://www.inoreader.com/stream/user/1003877176/tag/The%20OC%20Portal/view/html?cs=m
+    feed_url: https://www.inoreader.com/stream/user/1003877176/tag/The%20OC%20Portal/view/html?cs=m
+    feed_type: inoreader_html_playwright
+    category: curator
+    region: global
+    language: multi
+    status: live
+    notes: |
+      Consolidated curator feed owned by a Yepisyeni Türkiye follower (user id 1003877176).
+      RSS export is gated behind Inoreader Pro; HTML view is public but requires a real browser
+      to render (headless Playwright, not curl). Phase 2 fetcher must:
+        1. Navigate via Playwright to the feed_url
+        2. Scroll/paginate to load full item set (initial viewport shows ~21, feed has ~170+)
+        3. Extract items from .article_magazine_content_wraper selectors
+        4. Dedup by canonical article URL (Inoreader renders duplicate wrappers for the same item)
+        5. Normalize to {title, url, source, pubDate}
+      Observed publishers in initial viewport (2026-04-20): commondreams.org, truthout.org,
+      therealnews.com, peoplesworld.org, wsws.org, jacobin.com, thenation.com,
+      youtube.com (BreakThrough shorts). Full publisher set requires full-feed scrape.
+      Acts as de-facto ingest lane for sources without direct RSS (wsws, in-these-times,
+      new-frame, possibly resumen-latinoamericano, newsclick, others). Items whose publisher
+      already has a direct feed should be deduped against that feed's output.
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — Maritime / Shipping ===
+  - id: marinetraffic
+    name: MarineTraffic
+    homepage: https://www.marinetraffic.com
+    feed_url: https://www.marinetraffic.com
+    feed_type: link_only
+    category: osint_monitor_maritime
+    region: global
+    language: en
+    status: live
+    notes: "Paid API; ToS restricts raw AIS redistribution. Dashboard reference only — cite/link, don't rehost. Canonical for shipping-denial debunks (Turkey-Israel trade case)."
+    last_verified: 2026-04-20
+
+  - id: vesselfinder
+    name: VesselFinder
+    homepage: https://www.vesselfinder.com
+    feed_url: https://www.vesselfinder.com
+    feed_type: link_only
+    category: osint_monitor_maritime
+    region: global
+    language: en
+    status: live
+    notes: "Paid API. Dashboard reference. Useful cross-check against MarineTraffic."
+    last_verified: 2026-04-20
+
+  - id: aishub
+    name: AIS Hub
+    homepage: https://www.aishub.net
+    feed_url: https://www.aishub.net/HowToGetData.aspx
+    feed_type: api
+    category: osint_monitor_maritime
+    region: global
+    language: en
+    status: live
+    notes: "Community AIS exchange. Closest thing to open AIS — requires contributing a receiver for API access."
+    last_verified: 2026-04-20
+
+  - id: ifc-ior
+    name: Information Fusion Centre — Indian Ocean Region
+    homepage: https://www.ifc-ior.org
+    feed_url: https://www.ifc-ior.org
+    feed_type: link_only
+    category: osint_monitor_maritime
+    region: asia
+    language: en
+    status: live
+    notes: "Indian Navy maritime security reports (piracy, IUU fishing, IOR incidents). PDF reports; no feed. Link to latest monthly monitor."
+    last_verified: 2026-04-20
+
+  - id: mschoa
+    name: MSCHOA (EU NAVFOR)
+    homepage: https://www.mschoa.org
+    feed_url: https://www.mschoa.org
+    feed_type: link_only
+    category: osint_monitor_maritime
+    region: global
+    language: en
+    status: live
+    notes: "Red Sea / Gulf of Aden incident advisories. Primary source post-2023 Houthi campaign."
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — Aviation ===
+  - id: adsbexchange
+    name: ADS-B Exchange
+    homepage: https://www.adsbexchange.com
+    feed_url: https://www.adsbexchange.com/data/
+    feed_type: api
+    category: osint_monitor_aviation
+    region: global
+    language: en
+    status: live
+    notes: "Unfiltered ADS-B — does not blocklist military/gov aircraft (key OSINT differentiator)."
+    last_verified: 2026-04-20
+
+  - id: flightradar24
+    name: Flightradar24
+    homepage: https://www.flightradar24.com
+    feed_url: https://www.flightradar24.com
+    feed_type: link_only
+    category: osint_monitor_aviation
+    region: global
+    language: en
+    status: live
+    notes: "Paid API. Filters some military aircraft. Dashboard reference for mass-market flight checks."
+    last_verified: 2026-04-20
+
+  - id: opensky-network
+    name: OpenSky Network
+    homepage: https://opensky-network.org
+    feed_url: https://opensky-network.org/apidoc/
+    feed_type: api
+    category: osint_monitor_aviation
+    region: global
+    language: en
+    status: live
+    notes: "Academic ADS-B. Free API with historical access. Research-grade source."
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — Trade / Commodity ===
+  - id: un-comtrade
+    name: UN Comtrade
+    homepage: https://comtradeplus.un.org
+    feed_url: https://uncomtrade.un.org/api/swagger/ui/index
+    feed_type: api
+    category: osint_monitor_trade
+    region: global
+    language: en
+    status: live
+    notes: "Bilateral trade flows by commodity (HS code). Reference dataset — IMF, World Bank, WTO."
+    last_verified: 2026-04-20
+
+  - id: trase
+    name: Trase
+    homepage: https://trase.earth
+    feed_url: https://trase.earth/open-data
+    feed_type: bulk_csv
+    category: osint_monitor_trade
+    region: global
+    language: en
+    status: live
+    notes: "Supply-chain mapping for deforestation-risk commodities (soy, beef, palm, cocoa). Used in EUDR policy work."
+    last_verified: 2026-04-20
+
+  - id: oec
+    name: Observatory of Economic Complexity
+    homepage: https://oec.world
+    feed_url: https://oec.world/api
+    feed_type: api
+    category: osint_monitor_trade
+    region: global
+    language: en
+    status: live
+    notes: "Visual bilateral trade built on Comtrade + BACI. Good for fast visual checks."
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — Satellite / Earth Observation ===
+  - id: copernicus
+    name: Copernicus Data Space
+    homepage: https://dataspace.copernicus.eu
+    feed_url: https://documentation.dataspace.copernicus.eu
+    feed_type: api
+    category: osint_monitor_satellite
+    region: global
+    language: en
+    status: live
+    notes: "ESA Sentinel-1/2/3/5P open archive. OData, STAC, bulk. European canonical open EO."
+    last_verified: 2026-04-20
+
+  - id: nasa-worldview
+    name: NASA Worldview / EOSDIS
+    homepage: https://worldview.earthdata.nasa.gov
+    feed_url: https://www.earthdata.nasa.gov/engage/open-data-services-software/api
+    feed_type: api
+    category: osint_monitor_satellite
+    region: global
+    language: en
+    status: live
+    notes: "Near-real-time global imagery (MODIS, VIIRS, Landsat). Good for fire/smoke/flood events."
+    last_verified: 2026-04-20
+
+  - id: planet-disaster-data
+    name: Planet Labs — Disaster Data Program
+    homepage: https://www.planet.com/disasterdata/
+    feed_url: https://www.planet.com/disasterdata/
+    feed_type: link_only
+    category: osint_monitor_satellite
+    region: global
+    language: en
+    status: live
+    notes: "Open-license imagery subset for active disasters/conflicts (CC-BY-SA). Registration-lite."
+    last_verified: 2026-04-20
+
+  - id: cresda
+    name: CRESDA (China Centre for Resources Satellite Data)
+    homepage: https://www.cresda.com/CN/
+    feed_url: https://www.cresda.com/CN/
+    feed_type: link_only
+    category: osint_monitor_satellite
+    region: asia
+    language: zh
+    status: needs_verification
+    notes: "Chinese public satellite data (Gaofen, Ziyuan). Multipolar balance candidate. NOT YET VERIFIED from DE — test reachability and whether non-CN phone numbers work for registration before relying on."
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — Sanctions / Corporate ===
+  - id: opensanctions
+    name: OpenSanctions
+    homepage: https://www.opensanctions.org
+    feed_url: https://www.opensanctions.org/docs/api/
+    feed_type: api
+    category: osint_monitor_sanctions
+    region: global
+    language: en
+    status: live
+    notes: "Consolidated global sanctions + PEP database. Operated by former OCCRP/ICIJ staff. Bulk JSON/CSV + REST."
+    last_verified: 2026-04-20
+
+  - id: opencorporates
+    name: OpenCorporates
+    homepage: https://opencorporates.com
+    feed_url: https://api.opencorporates.com
+    feed_type: api
+    category: osint_monitor_sanctions
+    region: global
+    language: en
+    status: live
+    notes: "Largest open corporate registry aggregator. UK-based. Used by ICIJ (Panama/Paradise Papers)."
+    last_verified: 2026-04-20
+
+  - id: occrp-aleph
+    name: OCCRP Aleph
+    homepage: https://aleph.occrp.org
+    feed_url: https://aleph.occrp.org
+    feed_type: link_only
+    category: osint_monitor_sanctions
+    region: global
+    language: en
+    status: live
+    notes: "Entity search across leaks, registries, sanctions, court records. LINK-ONLY on dashboard — do NOT mirror individual profile pages (persona-rights concerns). Cite/link as investigative pivot only."
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — Conflict / Event Data ===
+  - id: acled
+    name: ACLED
+    homepage: https://acleddata.com
+    feed_url: https://acleddata.com/data-export-tool/
+    feed_type: api
+    category: osint_monitor_conflict
+    region: global
+    language: en
+    status: live
+    notes: "Armed Conflict Location and Event Data. Free API for non-commercial with registration."
+    last_verified: 2026-04-20
+
+  - id: gdelt
+    name: GDELT Project
+    homepage: https://www.gdeltproject.org
+    feed_url: https://www.gdeltproject.org/data.html
+    feed_type: api
+    category: osint_monitor_conflict
+    region: global
+    language: en
+    status: live
+    notes: "Machine-coded global event stream from news media, 15-minute updates. BigQuery public datasets + CSV + REST."
+    last_verified: 2026-04-20
+
+  - id: ucdp
+    name: Uppsala Conflict Data Program
+    homepage: https://ucdp.uu.se
+    feed_url: https://ucdp.uu.se/apidocs/
+    feed_type: api
+    category: osint_monitor_conflict
+    region: global
+    language: en
+    status: live
+    notes: "Longest-running academic conflict dataset. Event-level + dyad-level. Swedish university."
+    last_verified: 2026-04-20
+
+  - id: airwars
+    name: Airwars
+    homepage: https://airwars.org
+    feed_url: https://airwars.org
+    feed_type: link_only
+    category: osint_monitor_conflict
+    region: global
+    language: en
+    status: live
+    notes: "Civilian-harm tracking across conflicts (Iraq, Syria, Yemen, Gaza, Ukraine). UK-based. Per-incident dossiers; WordPress feed disabled by operator — link-only."
+    last_verified: 2026-04-20
+
+  - id: liveuamap
+    name: LiveUAMap
+    homepage: https://liveuamap.com
+    feed_url: https://liveuamap.com
+    feed_type: link_only
+    category: osint_monitor_conflict
+    region: global
+    language: en
+    status: live
+    notes: "Live conflict event map (Ukraine, MENA, wider war theatres). Older public RSS endpoints retired; current access via web UI or paid API only. Dashboard reference."
+    last_verified: 2026-04-21
+
+  - id: cit
+    name: Conflict Intelligence Team
+    homepage: https://citeam.org
+    feed_url: https://citeam.org
+    feed_type: link_only
+    category: osint_monitor_conflict
+    region: eu
+    language: en
+    status: live
+    notes: "Russian anti-Kremlin OSINT collective (Ruslan Leviev). Domain rotation risk — review quarterly. Forensic investigations of Russian military activity."
+    review_quarterly: true
+    last_verified: 2026-04-20
+
+  # === OSINT Monitors — General Info / Infrastructure ===
+  - id: submarine-cable-map
+    name: Submarine Cable Map (TeleGeography)
+    homepage: https://www.submarinecablemap.com
+    feed_url: https://github.com/telegeography/www.submarinecablemap.com
+    feed_type: bulk_json
+    category: osint_monitor_general
+    region: global
+    language: en
+    status: live
+    notes: "Public cable and landing-station map. CC-licensed JSON via GitHub."
+    last_verified: 2026-04-20
+
+  - id: cloudflare-radar
+    name: Cloudflare Radar
+    homepage: https://radar.cloudflare.com
+    feed_url: https://developers.cloudflare.com/radar/
+    feed_type: api
+    category: osint_monitor_general
+    region: global
+    language: en
+    status: live
+    notes: "Global internet traffic, BGP, outages, attack trends from CF vantage. Journalism staple for internet-shutdown stories."
+    last_verified: 2026-04-20
+
+  - id: ioda
+    name: IODA (Internet Outage Detection and Analysis)
+    homepage: https://ioda.inetintel.cc.gatech.edu
+    feed_url: https://ioda.inetintel.cc.gatech.edu
+    feed_type: api
+    category: osint_monitor_general
+    region: global
+    language: en
+    status: live
+    notes: "Georgia Tech academic outage detection. Complementary to Cloudflare Radar. Used by Access Now #KeepItOn."
+    last_verified: 2026-04-20
+
+  - id: usgs-earthquakes
+    name: USGS Earthquake Hazards
+    homepage: https://earthquake.usgs.gov
+    feed_url: https://earthquake.usgs.gov/earthquakes/feed/
+    feed_type: atom
+    category: osint_monitor_general
+    region: global
+    language: en
+    status: live
+    notes: "Global real-time earthquake feed. GeoJSON + Atom. Canonical."
+    last_verified: 2026-04-20
+
+  - id: emsc
+    name: EMSC (European-Mediterranean Seismological Centre)
+    homepage: https://www.emsc-csem.org
+    feed_url: https://www.emsc-csem.org
+    feed_type: rss
+    category: osint_monitor_general
+    region: eu
+    language: en
+    status: live
+    notes: "European seismic monitoring. Faster for EU/MENA events than USGS. FDSN API + RSS/Atom."
+    last_verified: 2026-04-20
+
+  - id: nasa-firms
+    name: NASA FIRMS
+    homepage: https://firms.modaps.eosdis.nasa.gov
+    feed_url: https://firms.modaps.eosdis.nasa.gov
+    feed_type: api
+    category: osint_monitor_general
+    region: global
+    language: en
+    status: live
+    notes: "Near-real-time active fire detections (MODIS/VIIRS). CSV/KML/WMS + API. Wildfire + military-burn-scar analysis."
+    last_verified: 2026-04-20

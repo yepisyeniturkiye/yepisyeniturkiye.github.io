@@ -1,0 +1,186 @@
+<!doctype html>
+<html data-lang="tr" lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OSINT · Yepisyeni Türkiye</title>
+  <link rel="stylesheet" href="assets/dash.css">
+  <meta name="description" content="">
+  <meta name="robots" content="index,follow">
+</head>
+<body>
+
+<header class="topbar">
+  <span class="date">2026-04-25</span>
+  <nav class="nav">
+    <a href="index.html">world</a>
+    <a href="dashboard.html" class="active">osint</a>
+    <a href="regions/mena.html">mena</a>
+    <a href="regions/latam.html">latam</a>
+    <a href="regions/africa.html">africa</a>
+    <a href="regions/asia.html">asia</a>
+    <a href="regions/eu.html">eu</a>
+    <a href="regions/us.html">us</a>
+  </nav>
+  <button id="lang-toggle" aria-label="Toggle language"><span class="t-tr">→ EN</span><span class="t-en">→ TR</span></button>
+</header>
+<section class="dash-grid">
+<div class="dash-cat">
+<h3><span class="t-tr">Denizcilik</span><span class="t-en">Maritime</span></h3>
+<div class="item">
+<a href="https://www.marinetraffic.com" rel="noopener">MarineTraffic</a><span class="access">[↗]</span>
+<div class="desc">Paid API; ToS restricts raw AIS redistribution.</div>
+</div>
+<div class="item">
+<a href="https://www.vesselfinder.com" rel="noopener">VesselFinder</a><span class="access">[↗]</span>
+<div class="desc">Paid API.</div>
+</div>
+<div class="item">
+<a href="https://www.aishub.net" rel="noopener">AIS Hub</a><span class="access">[API]</span>
+<div class="desc">Community AIS exchange.</div>
+</div>
+<div class="item">
+<a href="https://www.ifc-ior.org" rel="noopener">Information Fusion Centre — Indian Ocean Region</a><span class="access">[↗]</span>
+<div class="desc">Indian Navy maritime security reports (piracy, IUU fishing, IOR incidents).</div>
+</div>
+<div class="item">
+<a href="https://www.mschoa.org" rel="noopener">MSCHOA (EU NAVFOR)</a><span class="access">[↗]</span>
+<div class="desc">Red Sea / Gulf of Aden incident advisories.</div>
+</div>
+</div>
+<div class="dash-cat">
+<h3><span class="t-tr">Havacılık</span><span class="t-en">Aviation</span></h3>
+<div class="item">
+<a href="https://www.adsbexchange.com" rel="noopener">ADS-B Exchange</a><span class="access">[API]</span>
+<div class="desc">Unfiltered ADS-B — does not blocklist military/gov aircraft (key OSINT differentiator).</div>
+</div>
+<div class="item">
+<a href="https://www.flightradar24.com" rel="noopener">Flightradar24</a><span class="access">[↗]</span>
+<div class="desc">Paid API.</div>
+</div>
+<div class="item">
+<a href="https://opensky-network.org" rel="noopener">OpenSky Network</a><span class="access">[API]</span>
+<div class="desc">Academic ADS-B.</div>
+</div>
+</div>
+<div class="dash-cat">
+<h3><span class="t-tr">Ticaret</span><span class="t-en">Trade</span></h3>
+<div class="item">
+<a href="https://comtradeplus.un.org" rel="noopener">UN Comtrade</a><span class="access">[API]</span>
+<div class="desc">Bilateral trade flows by commodity (HS code).</div>
+</div>
+<div class="item">
+<a href="https://trase.earth" rel="noopener">Trase</a><span class="access">[CSV]</span>
+<div class="desc">Supply-chain mapping for deforestation-risk commodities (soy, beef, palm, cocoa).</div>
+</div>
+<div class="item">
+<a href="https://oec.world" rel="noopener">Observatory of Economic Complexity</a><span class="access">[API]</span>
+<div class="desc">Visual bilateral trade built on Comtrade + BACI.</div>
+</div>
+</div>
+<div class="dash-cat">
+<h3><span class="t-tr">Uydu</span><span class="t-en">Satellite</span></h3>
+<div class="item">
+<a href="https://dataspace.copernicus.eu" rel="noopener">Copernicus Data Space</a><span class="access">[API]</span>
+<div class="desc">ESA Sentinel-1/2/3/5P open archive.</div>
+</div>
+<div class="item">
+<a href="https://worldview.earthdata.nasa.gov" rel="noopener">NASA Worldview / EOSDIS</a><span class="access">[API]</span>
+<div class="desc">Near-real-time global imagery (MODIS, VIIRS, Landsat).</div>
+</div>
+<div class="item">
+<a href="https://www.planet.com/disasterdata/" rel="noopener">Planet Labs — Disaster Data Program</a><span class="access">[↗]</span>
+<div class="desc">Open-license imagery subset for active disasters/conflicts (CC-BY-SA).</div>
+</div>
+<div class="item">
+<a href="https://www.cresda.com/CN/" rel="noopener">CRESDA (China Centre for Resources Satellite Data)</a><span class="access">[↗]</span> <span class="access" style="color:var(--neutral);font-style:italic;">⚠ needs verification</span>
+<div class="desc">Chinese public satellite data (Gaofen, Ziyuan).</div>
+</div>
+</div>
+<div class="dash-cat">
+<h3><span class="t-tr">Yaptırımlar</span><span class="t-en">Sanctions</span></h3>
+<div class="item">
+<a href="https://www.opensanctions.org" rel="noopener">OpenSanctions</a><span class="access">[API]</span>
+<div class="desc">Consolidated global sanctions + PEP database.</div>
+</div>
+<div class="item">
+<a href="https://opencorporates.com" rel="noopener">OpenCorporates</a><span class="access">[API]</span>
+<div class="desc">Largest open corporate registry aggregator.</div>
+</div>
+<div class="item">
+<a href="https://aleph.occrp.org" rel="noopener">OCCRP Aleph</a><span class="access">[↗]</span>
+<div class="desc">Entity search across leaks, registries, sanctions, court records.</div>
+</div>
+</div>
+<div class="dash-cat">
+<h3><span class="t-tr">Çatışma</span><span class="t-en">Conflict</span></h3>
+<div class="item">
+<a href="https://acleddata.com" rel="noopener">ACLED</a><span class="access">[API]</span>
+<div class="desc">Armed Conflict Location and Event Data.</div>
+</div>
+<div class="item">
+<a href="https://www.gdeltproject.org" rel="noopener">GDELT Project</a><span class="access">[API]</span>
+<div class="desc">Machine-coded global event stream from news media, 15-minute updates.</div>
+</div>
+<div class="item">
+<a href="https://ucdp.uu.se" rel="noopener">Uppsala Conflict Data Program</a><span class="access">[API]</span>
+<div class="desc">Longest-running academic conflict dataset.</div>
+</div>
+<div class="item">
+<a href="https://airwars.org" rel="noopener">Airwars</a><span class="access">[↗]</span>
+<div class="desc">Civilian-harm tracking across conflicts (Iraq, Syria, Yemen, Gaza, Ukraine).</div>
+</div>
+<div class="item">
+<a href="https://liveuamap.com" rel="noopener">LiveUAMap</a><span class="access">[↗]</span>
+<div class="desc">Live conflict event map (Ukraine, MENA, wider war theatres).</div>
+</div>
+<div class="item">
+<a href="https://citeam.org" rel="noopener">Conflict Intelligence Team</a><span class="access">[↗]</span>
+<div class="desc">Russian anti-Kremlin OSINT collective (Ruslan Leviev).</div>
+</div>
+</div>
+<div class="dash-cat">
+<h3><span class="t-tr">Altyapı</span><span class="t-en">Infrastructure</span></h3>
+<div class="item">
+<a href="https://www.submarinecablemap.com" rel="noopener">Submarine Cable Map (TeleGeography)</a><span class="access">[JSON]</span>
+<div class="desc">Public cable and landing-station map.</div>
+</div>
+<div class="item">
+<a href="https://radar.cloudflare.com" rel="noopener">Cloudflare Radar</a><span class="access">[API]</span>
+<div class="desc">Global internet traffic, BGP, outages, attack trends from CF vantage.</div>
+</div>
+<div class="item">
+<a href="https://ioda.inetintel.cc.gatech.edu" rel="noopener">IODA (Internet Outage Detection and Analysis)</a><span class="access">[API]</span>
+<div class="desc">Georgia Tech academic outage detection.</div>
+</div>
+<div class="item">
+<a href="https://earthquake.usgs.gov" rel="noopener">USGS Earthquake Hazards</a><span class="access">[Atom]</span>
+<div class="desc">Global real-time earthquake feed.</div>
+</div>
+<div class="item">
+<a href="https://www.emsc-csem.org" rel="noopener">EMSC (European-Mediterranean Seismological Centre)</a><span class="access">[RSS]</span>
+<div class="desc">European seismic monitoring.</div>
+</div>
+<div class="item">
+<a href="https://firms.modaps.eosdis.nasa.gov" rel="noopener">NASA FIRMS</a><span class="access">[API]</span>
+<div class="desc">Near-real-time active fire detections (MODIS/VIIRS).</div>
+</div>
+</div>
+</section>
+<script>
+(function(){
+  var root = document.documentElement;
+  var saved = localStorage.getItem('yy-lang') || 'tr';
+  root.dataset.lang = saved;
+  var btn = document.getElementById('lang-toggle');
+  if (btn) {
+    btn.addEventListener('click', function(){
+      var next = root.dataset.lang === 'tr' ? 'en' : 'tr';
+      root.dataset.lang = next;
+      localStorage.setItem('yy-lang', next);
+    });
+  }
+})();
+</script>
+</body>
+</html>

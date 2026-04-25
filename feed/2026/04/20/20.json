@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-04-20T20:16:06.360041+00:00",
+  "item_count": 2,
+  "items": [
+    {
+      "source_id": "truthout",
+      "source_name": "Truthout",
+      "title": "A Data Center Is Getting a $77 Million Tax Break. It Promises to Create 1 Job.",
+      "url": "https://truthout.org/articles/a-data-center-is-getting-a-77-million-tax-break-it-promises-to-create-1-job/",
+      "canonical_url": "https://truthout.org/articles/a-data-center-is-getting-a-77-million-tax-break-it-promises-to-create-1-job",
+      "published": "2026-04-20T20:15:58+00:00",
+      "fetched": "2026-04-20T20:16:06.360041+00:00",
+      "summary": "The type of tax break given to the JPMorganChase data center was designed to attract companies that bring steady jobs.",
+      "category": "general_left",
+      "region": "us",
+      "language": "en",
+      "feed_type": "rss"
+    },
+    {
+      "source_id": "alternet",
+      "source_name": "AlterNet",
+      "title": "Trump’s 'grandiosity' is 'checking off almost every item' in the dictator playbook",
+      "url": "https://www.alternet.org/trump-stalin-dictators/",
+      "canonical_url": "https://alternet.org/trump-stalin-dictators",
+      "published": "2026-04-20T20:14:26+00:00",
+      "fetched": "2026-04-20T20:16:06.360041+00:00",
+      "summary": "Historian/author Ruth Ben-Ghiat, who teaches at New York University, is known for her expertise on the history of authoritarianism, both fascist and communist. And she often points out, in meticulous detail, the ways in which she believes that U.S. President Donald Trump's behavior is consistent with the history of fascism. Ben-Ghiat isn't the only one who is sounding the alarm. In an article publ",
+      "category": "general_left",
+      "region": "us",
+      "language": "en",
+      "feed_type": "rss"
+    }
+  ]
+}

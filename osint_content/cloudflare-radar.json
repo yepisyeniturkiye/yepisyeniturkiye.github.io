@@ -1,0 +1,34 @@
+{
+  "platform_id": "cloudflare-radar",
+  "platform_name": "Cloudflare Radar",
+  "homepage": "https://radar.cloudflare.com",
+  "category": "osint_monitor_general",
+  "fetched_at": "2026-04-24T10:52:39.569863+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "DDoS threat report for 2025 Q4",
+      "title_tr": "2025 Q4 DDoS tehdit raporu",
+      "url": "https://radar.cloudflare.com/reports",
+      "date": ""
+    },
+    {
+      "title_en": "Agent Readiness Score: Check website readiness for AI agents",
+      "title_tr": "AI ajanları için web sitesi hazırlığını kontrol eden Agent Readiness Skoru",
+      "url": "https://radar.cloudflare.com/scan",
+      "date": ""
+    },
+    {
+      "title_en": "Sudan internet outage on April 22, 2026",
+      "title_tr": "26 Nisan 2026'da Sudan'da internet kesintisi",
+      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
+      "date": "2026-04-22"
+    },
+    {
+      "title_en": "Network Quality Test (new)",
+      "title_tr": "Ağ Kalite Testi (yeni)",
+      "url": "https://radar.cloudflare.com/speedtest",
+      "date": ""
+    }
+  ]
+}

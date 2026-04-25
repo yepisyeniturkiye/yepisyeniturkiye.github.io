@@ -1,0 +1,40 @@
+{
+  "platform_id": "acled",
+  "platform_name": "ACLED",
+  "homepage": "https://acleddata.com",
+  "category": "osint_monitor_conflict",
+  "fetched_at": "2026-04-24T10:52:39.569863+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "In Jammu and Kashmir, new risks for security forces and civilians threaten regional peace",
+      "title_tr": "Keşmir'de güvenlik güçleri ve siviller için yeni riskler bölgesel barışı tehdit ediyor",
+      "url": "https://acleddata.com/report/jammu-and-kashmir-new-risks-security-forces-and-civilians-threaten-regional-peace",
+      "date": "2026-04-23"
+    },
+    {
+      "title_en": "Europe and the Caucasus: Attacks on property fuel rising violence against local officials",
+      "title_tr": "Avrupa ve Kafkasya: Mülke yönelik saldırılar yerel yetkililere yönelik artan şiddeti körüklüyor",
+      "url": "https://acleddata.com/report/europe-and-caucasus-attacks-property-fuel-rising-violence-against-local-officials",
+      "date": "2026-04-23"
+    },
+    {
+      "title_en": "Africa: Non-state armed groups are the main drivers of violence targeting local officials",
+      "title_tr": "Afrika: Devlet dışı silahlı gruplar yerel yetkililere yönelik şiddetin ana itici gücü",
+      "url": "https://acleddata.com/report/africa-non-state-armed-groups-are-main-drivers-violence-targeting-local-officials",
+      "date": "2026-04-23"
+    },
+    {
+      "title_en": "Iran war updates",
+      "title_tr": "İran savaş güncellemeleri",
+      "url": "https://acleddata.com/iran-crisis-live",
+      "date": ""
+    },
+    {
+      "title_en": "Ukraine Conflict Monitor",
+      "title_tr": "Ukrayna Çatışma İzleyicisi",
+      "url": "https://acleddata.com/monitor/ukraine-conflict-monitor",
+      "date": ""
+    }
+  ]
+}

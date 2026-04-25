@@ -1,0 +1,9 @@
+{
+  "platform_id": "mschoa",
+  "platform_name": "MSCHOA (EU NAVFOR)",
+  "homepage": "https://www.mschoa.org",
+  "category": "osint_monitor_maritime",
+  "fetched_at": "2026-04-24T10:52:39.569863+00:00",
+  "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.mschoa.org/\nCall log:\n  - navigating to \"https://www.mschoa.org/\", waiting until \"domcontentloaded\"\n",
+  "items": []
+}

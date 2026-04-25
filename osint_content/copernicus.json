@@ -1,0 +1,40 @@
+{
+  "platform_id": "copernicus",
+  "platform_name": "Copernicus Data Space",
+  "homepage": "https://dataspace.copernicus.eu",
+  "category": "osint_monitor_satellite",
+  "fetched_at": "2026-04-24T10:52:39.569863+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "Planned database upgrade 22/04/26",
+      "title_tr": "Planlanmış veritabanı yükseltmesi 22/04/26",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-10-planned-database-upgrade-220426",
+      "date": "2026-04-10"
+    },
+    {
+      "title_en": "Copernicus Sentinel-1A Data Unavailability on 22 April 2026",
+      "title_tr": "Copernicus Sentinel-1A Veri Kullanılamazlığı 22 Nisan 2026",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-23-copernicus-sentinel-1a-data-unavailability-22-april-2026",
+      "date": "2026-04-23"
+    },
+    {
+      "title_en": "Sentinel-2C Reprocessing of Tandem Data with Sentinel-2A",
+      "title_tr": "Sentinel-2C ile Sentinel-2A Tandem Verilerinin Yeniden İşlenmesi",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-21-sentinel-2c-reprocessing-tandem-data-sentinel-2a",
+      "date": "2026-04-21"
+    },
+    {
+      "title_en": "Machine Learning for Forest Fire Mapping: Using openEO's Random Forest",
+      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Ormanı",
+      "url": "https://dataspace.copernicus.eu/cases/machine-learning-forest-fire-mapping-using-openeos-random-forest-process",
+      "date": ""
+    },
+    {
+      "title_en": "Solar panels on Hapcheon Lake, South Korea",
+      "title_tr": "Hapcheon Gölü, Güney Kore'de güneş panelleri",
+      "url": "https://dataspace.copernicus.eu/gallery/2026-3-27-beauty-green-transition-solar-panels-hapcheon-lake-south-korea",
+      "date": "2026-03-27"
+    }
+  ]
+}
