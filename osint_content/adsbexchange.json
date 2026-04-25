@@ -3,7 +3,7 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-04-24T10:52:39.569863+00:00",
+  "fetched_at": "2026-04-25T08:38:56.757630+00:00",
   "error": "",
   "items": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "title_en": "Close Calls (TCAS Alerts) dashboard",
-      "title_tr": "Yakın Geçişler (TCAS Uyarıları) panosu",
+      "title_tr": "Yakın Çağrılar (TCAS Uyarıları) panosu",
       "url": "https://www.adsbexchange.com/?page_id=39350",
       "date": ""
     },

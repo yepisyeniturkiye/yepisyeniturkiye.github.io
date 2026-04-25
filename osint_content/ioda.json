@@ -3,36 +3,30 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-24T10:52:39.569863+00:00",
+  "fetched_at": "2026-04-25T08:38:56.757630+00:00",
   "error": "",
   "items": [
     {
       "title_en": "Iranian Internet Pro implementation visible in IODA data",
       "title_tr": "İran İnternet Pro uygulaması IODA verilerinde görünür",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mjwpmuoolk2n",
+      "url": "https://ioda.inetintel.cc.gatech.edu/country/IR",
       "date": "2026-04-20"
     },
     {
-      "title_en": "Sharif University of Technology AS12660 offline after airstrikes",
-      "title_tr": "Hava saldırıları sonrası Şerif Teknoloji Üniversitesi AS12660 çevrimdışı",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mitg4sff3k25",
+      "title_en": "Sharif University of Technology (AS12660) offline after airstrikes",
+      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) hava saldırıları sonrası çevrimdışı",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR",
       "date": "2026-04-06"
     },
     {
-      "title_en": "Amazon Web Services AS16509 in Bahrain damaged, probing drops to 0%",
-      "title_tr": "Bahreyn'de Amazon Web Services AS16509 hasar gördü, aktif yoklama %0'a düştü",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mijpaymwes2r",
+      "title_en": "Amazon Web Services (AS16509) in Bahrain damaged, probing drops to 0%",
+      "title_tr": "Bahreyn'deki Amazon Web Services (AS16509) hasar gördü, aktif yoklama %0'a düştü",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH",
       "date": "2026-04-02"
     },
     {
-      "title_en": "Longest documented Iran shutdown ongoing since Feb 28, 2026",
-      "title_tr": "28 Şubat 2026'dan beri süren en uzun İran kapatması",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mhg2gqvwns2s",
-      "date": "2026-03-19"
-    },
-    {
-      "title_en": "Recent Outages dashboard showing outage severity scores",
-      "title_tr": "Kesinti şiddet puanlarını gösteren Son Kesintiler panosu",
+      "title_en": "Recent Outages dashboard showing last 24 hours",
+      "title_tr": "Son 24 saatteki kesintileri gösteren panel",
       "url": "https://ioda.inetintel.cc.gatech.edu/dashboard",
       "date": ""
     }
