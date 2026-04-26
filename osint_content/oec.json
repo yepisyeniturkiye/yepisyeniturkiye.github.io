@@ -3,7 +3,7 @@
   "platform_name": "Observatory of Economic Complexity",
   "homepage": "https://oec.world",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
   "items": [
     {
@@ -19,21 +19,21 @@
       "date": ""
     },
     {
-      "title_en": "Country Rankings 2024 Trade",
-      "title_tr": "2024 Ticaret Ülke Sıralamaları",
+      "title_en": "Latest Data Updates: Argentina, Brazil, Chile, China, India, Norway, Qatar, Singapore, South Africa, South Korea, United States (Feb 2026)",
+      "title_tr": "En Son Veri Güncellemeleri: Arjantin, Brezilya, Şili, Çin, Hindistan, Norveç, Katar, Singapur, Güney Afrika, Güney Kore, ABD (Şubat 2026)",
+      "url": "https://oec.world/en/data-updates",
+      "date": "2026-04-17"
+    },
+    {
+      "title_en": "Country Rankings 2024",
+      "title_tr": "Ülke Sıralamaları 2024",
       "url": "https://oec.world/en/country-rankings/2024/trade",
       "date": ""
     },
     {
-      "title_en": "Product Rankings 2024 Trade",
-      "title_tr": "2024 Ticaret Ürün Sıralamaları",
+      "title_en": "Product Rankings 2024",
+      "title_tr": "Ürün Sıralamaları 2024",
       "url": "https://oec.world/en/product-rankings/2024/trade",
-      "date": ""
-    },
-    {
-      "title_en": "Data Updates & Insights",
-      "title_tr": "Veri Güncellemeleri ve İçgörüler",
-      "url": "https://oec.world/en/data-updates",
       "date": ""
     }
   ]

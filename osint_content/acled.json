@@ -3,7 +3,7 @@
   "platform_name": "ACLED",
   "homepage": "https://acleddata.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "Europe and the Caucasus: Attacks on property fuel rising violence against local officials",
-      "title_tr": "Avrupa ve Kafkaslar: Mülke yönelik saldırılar yerel yetkililere karşı artan şiddeti körüklüyor",
+      "title_tr": "Avrupa ve Kafkasya: Mülke yönelik saldırılar yerel yetkililere yönelik artan şiddeti körüklüyor",
       "url": "https://acleddata.com/report/europe-and-caucasus-attacks-property-fuel-rising-violence-against-local-officials",
       "date": "2026-04-23"
     },
@@ -25,14 +25,14 @@
       "date": "2026-04-23"
     },
     {
-      "title_en": "Iran war updates",
-      "title_tr": "İran savaş güncellemeleri",
+      "title_en": "Iran war updates: Daily updates on the conflict in Iran and wider region",
+      "title_tr": "İran savaş güncellemeleri: İran ve geniş bölgedeki çatışmaya dair günlük güncellemeler",
       "url": "https://acleddata.com/iran-crisis-live",
       "date": ""
     },
     {
-      "title_en": "Ukraine Conflict Monitor",
-      "title_tr": "Ukrayna Çatışma İzleyicisi",
+      "title_en": "Ukraine Conflict Monitor: Near real-time information on the ongoing war",
+      "title_tr": "Ukrayna Çatışma Monitörü: Devam eden savaş hakkında gerçek zamanlı bilgi",
       "url": "https://acleddata.com/monitor/ukraine-conflict-monitor",
       "date": ""
     }

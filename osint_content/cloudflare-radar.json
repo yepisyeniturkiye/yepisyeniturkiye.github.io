@@ -3,7 +3,7 @@
   "platform_name": "Cloudflare Radar",
   "homepage": "https://radar.cloudflare.com",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
   "items": [
     {
@@ -13,27 +13,27 @@
       "date": ""
     },
     {
-      "title_en": "Network Quality Test - new feature",
-      "title_tr": "Ağ Kalite Testi - yeni özellik",
+      "title_en": "Introducing the Agent Readiness score",
+      "title_tr": "Ajan Hazırlık puanı tanıtılıyor",
+      "url": "https://blog.cloudflare.com/agent-readiness/",
+      "date": ""
+    },
+    {
+      "title_en": "Network Quality Test (New)",
+      "title_tr": "Ağ Kalite Testi (Yeni)",
       "url": "https://radar.cloudflare.com/speedtest",
       "date": ""
     },
     {
-      "title_en": "Agent Readiness score for AI agents",
-      "title_tr": "AI ajanları için Ajan Hazırlık puanı",
-      "url": "https://radar.cloudflare.com/ai-insights",
+      "title_en": "URL Scanner (Updated)",
+      "title_tr": "URL Tarayıcı (Güncellendi)",
+      "url": "https://radar.cloudflare.com/scan",
       "date": ""
     },
     {
-      "title_en": "Internet outage in Sudan on Apr 23, 2026",
-      "title_tr": "Sudan'da 23 Nisan 2026 internet kesintisi",
+      "title_en": "Last observed outage worldwide",
+      "title_tr": "Dünya genelinde son gözlemlenen kesinti",
       "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
-      "date": "2026-04-23"
-    },
-    {
-      "title_en": "URL Scanner updated tool",
-      "title_tr": "URL Tarayıcı güncellenmiş araç",
-      "url": "https://radar.cloudflare.com/scan",
       "date": ""
     }
   ]

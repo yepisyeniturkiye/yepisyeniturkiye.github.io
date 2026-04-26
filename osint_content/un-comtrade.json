@@ -3,25 +3,13 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
   "items": [
     {
       "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
       "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
       "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
-      "date": "2025"
-    },
-    {
-      "title_en": "Comtrade Trend data availability dashboard",
-      "title_tr": "Comtrade Trend veri kullanılabilirliği panosu",
-      "url": "https://comtradeplus.un.org/Visualization/DADashboard",
-      "date": ""
-    },
-    {
-      "title_en": "HS Tracker provided by WTO",
-      "title_tr": "WTO tarafından sağlanan HS İzleyici",
-      "url": "https://comtradeplus.un.org/Visualization/Labs",
       "date": ""
     }
   ]

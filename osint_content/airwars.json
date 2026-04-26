@@ -3,18 +3,18 @@
   "platform_name": "Airwars",
   "homepage": "https://airwars.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
   "items": [
     {
       "title_en": "Iran one month on: New joint report on U.S. and Israeli strikes",
-      "title_tr": "İran bir ay sonra: ABD ve İsrail saldırılarına ilişkin yeni ortak rapor",
+      "title_tr": "İran bir ay sonra: ABD ve İsrail saldırılarına dair yeni ortak rapor",
       "url": "https://airwars.org/civilian-harm-in-iran-after-one-month-of-war/",
       "date": "2026-03-27"
     },
     {
-      "title_en": "The first civilian confirmed killed in an AI-strike?",
-      "title_tr": "Bir yapay zeka saldırısında öldürülen ilk sivil mi?",
+      "title_en": "First civilian confirmed killed in an AI-assisted strike?",
+      "title_tr": "Yapay zeka destekli saldırıda öldürülen ilk sivil mi?",
       "url": "https://airwars.org/the-first-civilian-confirmed-killed-in-an-ai-assisted-strike/",
       "date": "2026-03-10"
     },
@@ -25,16 +25,16 @@
       "date": "2026-03-26"
     },
     {
-      "title_en": "The munitions of the Iran war on Open Source Munitions Portal",
-      "title_tr": "Açık Kaynak Mühimmat Portalı'nda İran savaşının mühimmatları",
-      "url": "https://osmp.ngo/collection/the-iran-war-2026/",
-      "date": "2026-03-04"
-    },
-    {
       "title_en": "Airwars publishes final of 5,000 civilian harm incidents from Russian actions in Syria",
       "title_tr": "Airwars, Rusya'nın Suriye'deki eylemlerinden 5.000 sivil zarar olayını yayınladı",
       "url": "https://airwars.org/airwars-publishes-final-of-5000-civilian-harm-incidents-from-russian-actions-in-syria/",
       "date": "2025-08-20"
+    },
+    {
+      "title_en": "Airwars wins Overseas Press Club of America award",
+      "title_tr": "Airwars, Amerika Denizaşırı Basın Kulübü ödülünü kazandı",
+      "url": "https://airwars.org/airwars-wins-overseas-press-club-of-america-award/",
+      "date": "2025-04-19"
     }
   ]
 }

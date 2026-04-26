@@ -3,7 +3,7 @@
   "platform_name": "Conflict Intelligence Team",
   "homepage": "https://citeam.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
   "items": [
     {
@@ -13,8 +13,8 @@
       "date": ""
     },
     {
-      "title_en": "Geolocation of GRU Spetsnaz in Luhansk",
-      "title_tr": "Luhansk'ta GRU Özel Kuvvetleri'nin coğrafi konumu",
+      "title_en": "Geolocation of Spetsnaz presence in Luhansk",
+      "title_tr": "Luhansk'ta Özel Kuvvetler varlığının coğrafi konumu",
       "url": "https://citeam.org/mamai-luhansk/",
       "date": ""
     },
@@ -25,14 +25,14 @@
       "date": ""
     },
     {
-      "title_en": "Russian troop deployment to Syria before official approval",
-      "title_tr": "Resmi onaydan önce Rus birliklerinin Suriye'ye konuşlandırılması",
+      "title_en": "Deployment of Russian troops to Syria",
+      "title_tr": "Rus birliklerinin Suriye'ye konuşlandırılması",
       "url": "https://citeam.org/are-there-russian-troops-in-syria/",
       "date": ""
     },
     {
-      "title_en": "National Guard special forces used to suppress Jan 31 protests",
-      "title_tr": "31 Ocak protestolarını bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
+      "title_en": "National Guard special forces used to suppress Jan 31 protests in Moscow",
+      "title_tr": "31 Ocak Moskova protestolarını bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
       "url": "https://citeam.org/ru-spetsnaz-january-31/",
       "date": "2021-02-01"
     }

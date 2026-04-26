@@ -3,7 +3,38 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
+  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
   "error": "",
-  "items": []
+  "items": [
+    {
+      "title_en": "Tracking Map",
+      "title_tr": "Takip Haritası",
+      "url": "https://globe.adsbexchange.com/",
+      "date": ""
+    },
+    {
+      "title_en": "Feeder Leaderboard",
+      "title_tr": "Besleyici Liderlik Tablosu",
+      "url": "https://globe.adsbexchange.com/leaderboard/",
+      "date": ""
+    },
+    {
+      "title_en": "Enterprise API",
+      "title_tr": "Kurumsal API",
+      "url": "https://www.adsbexchange.com/products/enterprise-api/",
+      "date": ""
+    },
+    {
+      "title_en": "Historical Data",
+      "title_tr": "Geçmiş Veri",
+      "url": "https://www.adsbexchange.com/products/historical-data/",
+      "date": ""
+    },
+    {
+      "title_en": "API Lite",
+      "title_tr": "API Lite",
+      "url": "https://www.adsbexchange.com/api-lite/",
+      "date": ""
+    }
+  ]
 }
