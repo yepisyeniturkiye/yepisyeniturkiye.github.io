@@ -3,7 +3,26 @@
   "platform_name": "LiveUAMap",
   "homepage": "https://liveuamap.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-25T08:38:56.757630+00:00",
+  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
   "error": "",
-  "items": []
+  "items": [
+    {
+      "title_en": "Tehran's Shahran oil depot consumed by blaze after Israeli airstrikes",
+      "title_tr": "İsrail hava saldırıları sonrası Tahran'daki Shahran petrol deposu alevler içinde",
+      "url": "https://iran.liveuamap.com/en/2026/7-march-20-tehrans-shahran-oil-depot-is-completely-consumed",
+      "date": "2026-03-20"
+    },
+    {
+      "title_en": "Violent explosions in Tehran",
+      "title_tr": "Tahran'da şiddetli patlamalar",
+      "url": "https://iran.liveuamap.com/en/2026/6-march-22-violent-explosions-in-tehran",
+      "date": "2026-03-22"
+    },
+    {
+      "title_en": "Number of wounded in Tel Aviv rises to 21",
+      "title_tr": "Tel Aviv'de yaralı sayısı 21'e yükseldi",
+      "url": "https://iran.liveuamap.com/en/2026/28-february-21-number-of-wounded-in-tel-aviv-rises-to-21",
+      "date": "2026-02-28"
+    }
+  ]
 }

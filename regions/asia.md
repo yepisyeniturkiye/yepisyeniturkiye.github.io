@@ -4,694 +4,421 @@ title: Yepisyeni Türkiye — Asya
 
 # Asya / Asia
 
-**2026-04-25 — 57 küme / cluster**
+**2026-04-26 — 34 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Middle East & North Africa](../regions/mena.md) · [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. ABD müzakerecileri İslamabad'a gidecek; İran doğrudan görüşmeleri reddediyor
-*US negotiators to visit Islamabad; Iran denies direct talks*
+### 1. Trump, İran görüşmeleri için Pakistan'a gidecek ABD heyetini iptal etti
+*Trump cancels US delegation trip to Pakistan for Iran talks*
 
-Amerika Birleşik Devletleri, görüşmeler için İslamabad'a müzakereci göndermeyi planlıyor, ancak İran ABD'li yetkililerle doğrudan toplantı yapmayacağını belirtti. İran'ın tutumu Pakistan aracılığıyla iletilecek. Anlaşmazlık, İran'ın Hürmüz Boğazı'nı büyük ölçüde kapatması ve küresel petrol sevkiyatını aksatmasıyla ortaya çıktı.
+ABD Başkanı Donald Trump, İran ile savaşı sona erdirme görüşmeleri için Pakistan'a gidecek müzakerecilerin ziyaretini iptal etti ve seyahatin çok fazla iş olacağını söyledi. Karar, İran Dışişleri Bakanı Abbas Araghçi'nin İslamabad'dan ayrılması ve İran'ın doğrudan görüşmeleri reddederek önce operasyonel engellerin kaldırılmasında ısrar etmesinin ardından geldi.
 
-*The United States plans to send negotiators to Islamabad for talks, but Iran has stated it will not hold direct meetings with US officials. Iran's position will be conveyed through Pakistan. The impasse comes as Iran has largely closed the Strait of Hormuz, disrupting global oil shipments.*
+*US President Donald Trump canceled a planned visit by US negotiators to Pakistan for talks on ending the war with Iran, saying the trip would be too much work. The decision came after Iranian Foreign Minister Abbas Araghchi left Islamabad and Iran rejected direct talks, insisting on removal of operational obstacles first.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/world/global-affairs/us-negotiators-pakistan-iran-no-direct-talks/)  *2026-04-25 05:35* — US negotiators to go to Islamabad, but Iran says no direct talks
-- [Scroll.in](https://scroll.in/latest/1092369/iranian-foreign-minister-arrives-in-islamabad-us-says-envoys-to-travel-for-talks?utm_source=rss&utm_medium=public)  *2026-04-25 04:33* — Iranian foreign minister arrives in Islamabad, US says envoys to travel for talks
+- [Scroll.in](https://scroll.in/latest/1092382/trump-cancels-us-delegations-pakistan-visit-for-iran-war-talks?utm_source=rss&utm_medium=public)  *2026-04-26 03:30* — Trump cancels US delegation’s Pakistan visit for Iran war talks
+- [Rappler](https://www.rappler.com/world/middle-east/usa-israel-war-iran-updates-april-26-2026/)  *2026-04-26 03:19* — US-Iran peace hopes fade as Trump scraps talks
+- [Rappler](https://www.rappler.com/video/top-5-news-this-week/april-25-2026/)  *2026-04-26 02:56* — Top 5 News This Week: Trouble for Rodrigo and Sara Duterte, Martin Romualdez, and Finlayson’s squirrels
+- [Asia Times](https://asiatimes.com/2026/04/iran-diplomat-leaves-islamabad-trump-cancels-us-delegation-trip/)  *2026-04-25 20:28* — Iran diplomat leaves Islamabad, Trump cancels US delegation trip
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/trump-cancela-envio-de-negociadores-ao-paquistao-apos-chanceler-iraniano-deixar-o-pais/)  *2026-04-25 19:32* — Trump cancela envio de negociadores ao Paquistão após chanceler iraniano deixar o país
 
 ---
 
-### 2. Hegseth, İran savaşını Trump'ın hediyesi olarak nitelendirdi, ABD ordusunun Nobel Barış Ödülü'nü hak ettiğini söyledi
-*Hegseth calls Iran war Trump's gift, says US military deserves Nobel Peace Prize*
+### 2. Delhi'de Swiss Air uçağının motoru arızalandı, kalkışta alev aldı
+*Swiss Air flight engine fails, catches fire during takeoff in Delhi*
 
-Asia Times ve Truthout, ABD Savunma Bakanı Pete Hegseth'in İran ile savaşı 'dünyaya bir hediye' olarak nitelendirdiğini ve ABD ordusunun her yıl Nobel Barış Ödülü'nü kazanması gerektiğini söylediğini bildiriyor. Hegseth ayrıca askerlerin liderliği altında 'azami şiddet' uygulama yetkisine sahip olduğunu belirtti.
+Delhi havalimanında bir Swiss Air uçağının kalkış sırasında motoru arızalandı ve alev aldı. 230'dan fazla yolcu ve mürettebat, acil durum kaydırakları kullanılarak pistte tahliye edildi.
 
-*Asia Times and Truthout report that US Defense Secretary Pete Hegseth called the war with Iran a 'gift to the world' and suggested the US military should win the Nobel Peace Prize every year. Hegseth also stated that soldiers are empowered to enact 'maximum violence' under his leadership.*
+*A Swiss Air flight experienced an engine failure and caught fire during takeoff at Delhi airport. More than 230 passengers and crew were evacuated on the runway using emergency slides as a precautionary measure.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/hegseth-calls-iran-war-trumps-gift-to-the-world/)  *2026-04-24 17:03* — Hegseth calls Iran war Trump’s ‘gift to the world’
-- [Truthout](https://truthout.org/articles/hegseth-says-us-military-should-win-nobel-peace-prize-every-single-year/)  *2026-04-24 16:44* — Hegseth Says US Military Should Win Nobel Peace Prize “Every Single Year”
+- [Scroll.in](https://scroll.in/latest/1092383/delhi-six-injured-as-swiss-air-flight-engine-fails-catches-fire-during-takeoff?utm_source=rss&utm_medium=public)  *2026-04-26 06:28* — Delhi: Six injured as Swiss Air flight engine fails, catches fire during takeoff
 
 ---
 
-### 3. BenCab'ın son eseri, kadınlarla sanatsal diyaloğunu yansıtıyor
-*BenCab's swan song reflects on his artistic dialogue with women*
+### 3. Fotoğrafçı Raghu Rai 83 yaşında vefat etti
+*Photographer Raghu Rai dies at 83*
 
-Filipinli sanatçı BenCab, kariyerinin sonunda, geçmişindeki kadınlarla süregelen ve huzursuz diyaloğunu yeni bir eserinde ele alıyor. Parça, sanatçının sürekli yansımasını vurgulayarak tamamlanmamış olarak tanımlanıyor.
+Ünlü foto muhabiri Raghu Rai 83 yaşında hayatını kaybetti. Bağımsızlık sonrası Hindistan'daki önemli olayları fotoğrafladı.
 
-*In the twilight of his career, Filipino artist BenCab explores his ongoing and uneasy dialogue with the women of his past in a new work. The piece is described as incomplete, highlighting the artist's continuous reflection.*
+*Renowned photojournalist Raghu Rai has died at the age of 83. He captured several key events in post-Independence India.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/people/artists/bencab-women-of-the-past-larawan-drawings-exhibit-2026/)  *2026-04-25 07:00* — To all the girls that BenCab loved before, here’s your swan song
+- [Scroll.in](https://scroll.in/latest/1092380/photographer-raghu-rai-dies-at-84?utm_source=rss&utm_medium=public)  *2026-04-26 06:13* — Photographer Raghu Rai dies at 83
 
 ---
 
-### 4. İran çatışması, Güneydoğu Asya'nın ABD savunmasından uzaklaşmasını hızlandırıyor
-*Iran conflict accelerates Southeast Asia's shift away from US defense*
+### 4. Sosyal medya genç Filipinlilerin ruh sağlığı için can simidi
+*Social media a lifeline for young Filipinos' mental health*
 
-Güneydoğu Asya ülkeleri, ABD-İsrail ile İran arasındaki çatışma sırasında ABD savunmasına olan bağımlılıklarını sessizce azaltıyor. Çoğu ülke müdahale etmeme politikası benimsemiş ve savunma ortaklıklarını çeşitlendirme çabalarını hızlandırıyor.
+Bir görüş yazısı, sosyal medyanın genç Filipinlilerin ruh sağlığı için bir can simidi olduğunu ancak aynı zamanda tehlikeler barındırdığını, bu nedenle çok yönlü kampanyalar ve politika reformu gerektiğini savunuyor.
 
-*Southeast Asian nations are quietly reducing defense dependence on the United States amid the US-Israel conflict with Iran. Most countries have adopted non-interference policies and are accelerating efforts to diversify their defense partnerships.*
+*An opinion piece argues that social media serves as a lifeline for young Filipinos' mental health, but also poses hazards, necessitating multi-faceted campaigns and policy reform.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/iran-war-is-accelerating-se-asias-drift-from-america/)  *2026-04-25 06:31* — Iran war is accelerating SE Asia’s drift from America
+- [Rappler](https://www.rappler.com/voices/thought-leaders/social-media-lifeline-filipino-youth-mental-health/)  *2026-04-26 06:06* — [OPINION] Social media: A lifeline for young Filipinos’ mental health
 
 ---
 
-### 5. Bölünme şiddeti, Hinduları ve Sihleri Afganistan'dan kaçmaya zorladı
-*Partition violence forced Hindus and Sikhs to flee Afghanistan*
+### 5. Londra'daki sergi Duleep Singh prenseslerinin hayatlarını ortaya koyuyor
+*Exhibition reveals lives of Duleep Singh princesses in London*
 
-Arşiv yazışmaları, 1947 Bölünmesi'nden sonra Hinduların ve Sihlerin Afganistan'dan ayrılışını korku, yerinden edilme ve bürokratik engellerin şekillendirdiğini ortaya koyuyor. Belgeler, bu toplulukların karşılaştığı zorlukları vurguluyor.
+Londra'daki bir sergi, Sih imparatorluğunun son hükümdarının melez kızları olan Duleep Singh prenseslerinin büyüleyici hayatlarını sergiliyor. Öncü kadın öğrencilerdi; biri süfrajet, diğeri anti-faşistti.
 
-*Archival correspondence reveals how fear, displacement, and bureaucratic hurdles shaped the departure of Hindus and Sikhs from Afghanistan after the 1947 Partition. The documents highlight the challenges faced by these communities.*
+*An exhibition in London showcases the fascinating lives of the Duleep Singh princesses, the mixed-race daughters of the last ruler of the Sikh empire. They were pioneering female students, one a suffragette, another an antifascist.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/magazine/1092330/how-partition-violence-drove-hindus-and-sikhs-out-of-afghanistan?utm_source=rss&utm_medium=public)  *2026-04-25 06:07* — How Partition violence affected Hindus and Sikhs in Afghanistan
+- [Scroll.in](https://scroll.in/article/1092332/in-london-an-exhibition-reveals-the-fascinating-lives-of-the-duleep-singh-princesses?utm_source=rss&utm_medium=public)  *2026-04-26 06:00* — In London, an exhibition reveals the fascinating lives of the Duleep Singh princesses
 
 ---
 
-### 6. Hip-hop yıldızı Riehata, yeni nesil Filipinli yetenekleri keşfedecek
-*Hip-hop star Riehata to discover Filipino talent from next generation*
+### 6. Alyssa Valdez'in etkisi Creamline'ın PVL şampiyonluğunda güçlü
+*Alyssa Valdez's impact strong as Creamline wins PVL championship*
 
-Hip-hop sanatçısı Riehata, yeni nesil Filipinli yetenekleri keşfetmek için bir platform başlatıyor. Girişim, ulusal ve bölgesel düzeyde fırsatlar sağlamayı hedefliyor.
+Alyssa Valdez'in sakinleştirici varlığı ve akıllı liderliği, Creamline Cool Smashers'ı rekor kıran 11. PVL şampiyonluğuna taşıdı.
 
-*Hip-hop artist Riehata is launching a platform to uncover Filipino talent from the next generation of performers. The initiative aims to provide opportunities on national and regional levels.*
+*Alyssa Valdez's calming presence and savvy leadership guided the Creamline Cool Smashers to a record-extending 11th PVL championship.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/people/artists/riehata-stella-dance-jam-2026/)  *2026-04-25 06:00* — Hip-hop star Riehata to uncover Filipino talent from next generation of ‘Stellas’
+- [Rappler](https://www.rappler.com/people/athletes/alyssa-valdez-impact-creamline-dynasty/)  *2026-04-26 06:00* — Alyssa Valdez’s impact as strong as ever for dynastic Creamline
 
 ---
 
-### 7. LeBron James, Lakers'ı Rockets karşısında uzatmada zafere taşıyarak seride 3-0 öne geçirdi
-*LeBron James leads Lakers to OT win over Rockets for 3-0 series lead*
+### 7. Jeokültürel güçler Çin'in ekonomik haritasını yeniden şekillendiriyor
+*Geocultural forces reshaping China's economic map*
 
-LeBron James ve Marcus Smart, Los Angeles Lakers'ı Houston Rockets karşısında uzatmada zafere taşıyarak Batı Konferansı ilk tur serisinde 3-0 öne geçirdi. Lakers, normal sürenin sonunda altı sayılık farkı kapattı.
+Çin Ulusal İstatistik Bürosu, büyük metropollerde istikrarlı büyüme gösteren ancak aynı zamanda ekonomide önemli bir coğrafi kayma olduğunu ortaya koyan GSYİH sıralamalarını yayınladı; Jiangsu ve Zhejiang ilk sırada yer aldı.
 
-*LeBron James and Marcus Smart led the Los Angeles Lakers to an overtime victory over the Houston Rockets, giving the Lakers a commanding 3-0 lead in their Western Conference first-round series. The Lakers overcame a six-point deficit late in regulation.*
+*China's National Bureau of Statistics released GDP rankings showing consistent growth across major metropolises, but also a significant geographic shift in the economy, with Jiangsu and Zhejiang ranking first.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/people/athletes/nba-playoffs-los-angeles-lakers-houston-rockets-april-24-2026/)  *2026-04-25 05:54* — LeBron James, Lakers pull out OT win over Rockets, move to verge of sweep
+- [Asia Times](https://asiatimes.com/2026/04/geocultural-forces-reshaping-chinas-economic-map/)  *2026-04-26 05:47* — Geocultural forces reshaping China’s economic map
 
 ---
 
-### 8. Rusya'nın Ukrayna savaşına direnişi az rapor ediliyor
-*Russian resistance to Ukraine war remains underreported*
+### 8. EC, Bengal seçimlerinde görevi kötüye kullanma nedeniyle beş polis memurunun görevden uzaklaştırılmasını emretti
+*EC orders suspension of five police officers for misconduct in Bengal polls*
 
-Rus sivil toplumunun Ukrayna savaşında pasif veya suç ortağı olduğu yönündeki hakim anlatıya rağmen, genellikle göz ardı edilen süregelen bir direniş var. Tam ölçekli işgal muhalefeti tamamen bastırmadı, ancak korku ve baskı devam ediyor.
+Seçim Komisyonu, Bengal seçimlerinde görevi kötüye kullandıkları iddiasıyla beş polis memurunun görevden uzaklaştırılmasını emretti. Eyalet yönetiminden talimatları uygulaması ve bir uyum raporu sunması istendi.
 
-*Despite a dominant narrative that Russian civil society is passive or complicit in the Ukraine war, there is ongoing resistance that is often overlooked. The full-scale invasion has not completely quashed dissent, though fear and repression persist.*
+*The Election Commission ordered the suspension of five police officers for alleged misconduct during the Bengal polls. The state administration was asked to implement the directions and submit a compliance report.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/the-russian-resistance-no-one-is-talking-about/)  *2026-04-25 05:27* — The Russian resistance no one is talking about
+- [Scroll.in](https://scroll.in/latest/1092376/bengal-polls-ec-orders-suspension-of-five-police-officers-for-alleged-misconduct?utm_source=rss&utm_medium=public)  *2026-04-26 05:47* — Bengal polls: EC orders suspension of five police officers for alleged misconduct
 
 ---
 
-### 9. Ombudsman, Filipinli senatör Escudero için seyahat yasağı talep ediyor
-*Ombudsman seeks travel ban for Philippine senator Escudero*
+### 9. Trump silah sesleri sonrası etkinlikten tahliye edildi, şüpheli gözaltında
+*Trump evacuated from event after gunfire, suspect in custody*
 
-Filipinler Ombudsmanı Boying Remulla, Senatör Chiz Escudero hakkındaki yağma, yolsuzluk ve rüşvet şikayetleri nedeniyle seyahat yasağı talep etti. Talep, Remulla tarafından Rappler'a yapılan açıklamada doğrulandı.
+ABD Başkanı Donald Trump, silah sesleri sonrası bir etkinlikten tahliye edildi. Kendisi, ailesi ve Muhabirler Yemeği'ndeki diğerleri yara almadı, ancak bir güvenlik görevlisi yaralandı. Bir şüpheli gözaltında.
 
-*Philippine Ombudsman Boying Remulla has requested a travel ban against Senator Chiz Escudero in connection with plunder, graft, and bribery complaints. The request was confirmed by Remulla in a statement to Rappler.*
+*US President Donald Trump was evacuated from an event after gunfire. He, his family, and others at the Correspondents' Dinner were unharmed, but one security officer was injured. A suspect is in custody.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/philippines/ombudsman-precautionary-hold-departure-order-request-chiz-escudero-april-2026/)  *2026-04-25 05:14* — Ombudsman asks for travel ban vs Escudero over plunder, graft complaints
+- [Scroll.in](https://scroll.in/latest/1092381/watch-trump-evacuated-from-white-house-event-after-gunfire-suspect-apprehended?utm_source=rss&utm_medium=public)  *2026-04-26 05:10* — Watch: Trump evacuated from event after gunfire, suspect in custody
 
 ---
 
-### 10. Filipinler'deki sari-sari dükkanı satışları Orta Doğu kriziyle birlikte arttı
-*Philippine sari-sari store sales surge amid Middle East crisis*
+### 10. Trump'ın savaşı: imparatorlukları bitiren askeri macera
+*Trump's war: military misadventure that ends empires*
 
-Teknoloji girişimi Packworks, Orta Doğu krizi sırasında büyük akaryakıt zamlarının duyurulmasının ardından Filipinler'deki sari-sari dükkanlarının brüt mal değerinin 21 Mart'ta %265 arttığını bildirdi.
+Asia Times makalesi, Trump'ın askeri saldırılarının tarihsel olarak emperyal çöküşün sinyali olan bir 'mikro-militarizm' biçimi olduğunu ve bunu antik Atina ile karşılaştırıyor.
 
-*Tech startup Packworks reported that gross merchandise value of Philippine sari-sari stores surged 265% on March 21, following the announcement of major fuel price hikes amid the Middle East crisis.*
+*An Asia Times article argues that Trump's military strikes are a form of 'micro-militarism' that historically signals imperial decline, comparing it to ancient Athens.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/business/sari-sari-store-sales-surge-middle-east-crisis-packworks-study-march-2026/)  *2026-04-25 05:00* — Sari-sari store sales surge in March amid Middle East crisis – study
+- [Asia Times](https://asiatimes.com/2026/04/trumps-war-the-kind-of-military-misadventure-that-ends-empires/)  *2026-04-26 04:07* — Trump’s war: the kind of military misadventure that ends empires
 
 ---
 
-### 11. Analist: ABD YZ efsanesinin peşinde koşarken Çin YZ geleceğini inşa ediyor
-*US chases AGI myth while China builds AI future, analyst says*
+### 11. Tarihi tanımlama gücü topluluklara geri dönüyor
+*Power to define history shifting back to communities*
 
-Asia Times, Amerika Birleşik Devletleri'nin YZ stratejisini net olarak tanımlayamadığı veya ölçemediği Yapay Genel Zeka (AGI) kavramına odakladığını bildiriyor. Bu arada Çin, YZ geleceğini inşa etmede pratik ilerleme kaydediyor.
+Rappler'deki bir görüş yazısı, tarihi tanımlama gücünün topluluklara geri döndüğünü ve hiyerarşiyi doğal gösteren çerçevelerin şekillenmesinde antropolojinin rolüne atıfta bulunuyor.
 
-*Asia Times reports that the United States is focusing its AI strategy on the concept of Artificial General Intelligence (AGI), which it cannot clearly define or measure. Meanwhile, China is making practical progress in building the AI future.*
+*An opinion piece in Rappler discusses how the power to define history is shifting back to communities, referencing anthropology's role in shaping frameworks that made hierarchy appear natural.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/us-chasing-agi-myth-while-china-builds-the-ai-future/)  *2026-04-25 04:42* — US chasing AGI myth while China builds the AI future
+- [Rappler](https://www.rappler.com/voices/thought-leaders/time-trowel-communities-power-define-history/)  *2026-04-26 04:00* — [Time Trowel] The power to define history is shifting back to communities
 
 ---
 
-### 12. Paul N Ballin, seyircinin sahne kişiliğinin ötesinde gerçek benliğini tanımasını istiyor
-*Paul N Ballin wants audience to know the real him beyond stage persona*
+### 12. Eski UST oyuncusu genç sporcuların hayallerini şekillendirerek yeni bir hayat buluyor
+*Former UST player finds new lease on life shaping young athletes' dreams*
 
-'POGI' hiti ve 2026 Spotify RADAR sanatçısı olarak tanınan Filipinli sanatçı Paul N Ballin, seyircisinin sert sahne kişiliğinin ötesinde gerçek benliğini tanımasını arzuladığını ifade ediyor.
+UST Growling Tigers'ın eski yabancı öğrenci-sporcusu Steve Akomo, basketbolda neredeyse hayatını kaybediyordu. Şimdi Visayas'taki gençlerin hayallerinin peşinden koşmasına yardım ediyor.
 
-*Filipino artist Paul N Ballin, known for his hit 'POGI' and as a 2026 Spotify RADAR artist, expresses a desire for his audience to know the real him beyond his tough stage persona.*
+*Steve Akomo, a former foreign student-athlete for the UST Growling Tigers, nearly lost his life in basketball. Now he helps youngsters in the Visayas chase their dreams.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/people/artists/rapper-paul-n-ballin-profile/)  *2026-04-25 04:00* — Paul N Ballin wants you to know the real him
+- [Rappler](https://www.rappler.com/people/athletes/steve-akomo-new-lease-life-shaping-young-players-dreams/)  *2026-04-26 04:00* — How this former UST player found a new lease on life in shaping young athletes’ dreams
 
 ---
 
-### 13. Tahir Fazal: Hill Kaka'nın sivil savaşçısı
-*Tahir Fazal: The civilian fighter of Hill Kaka*
+### 13. Frontline'dan 'Bir medeniyetin ağırlığı' makalesi
+*The weight of a civilisation article from Frontline*
 
-Frontline, kardeşi teröristler tarafından öldürüldükten sonra Tahir Fazal'ın Suudi Arabistan'dan döndüğünü ve Pir Panjal'da Hindistan'ın terörle mücadelesini şekillendiren bir köy milis gücü kurduğunu bildiriyor.
+Frontline, 'Bir medeniyetin ağırlığı' başlıklı bir makale yayınladı, ancak özet mevcut değil.
 
-*Frontline reports that after terrorists killed his brother, Tahir Fazal returned from Saudi Arabia and built a village militia that shaped India's counter-insurgency in Pir Panjal.*
+*Frontline published an article titled 'The weight of a civilisation', but no summary is available.*
 
 **Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/other/obituary/hill-kaka-poonch-counterinsurgency-vdc/article70901355.ece)  *2026-04-25 03:56* — Tahir Fazal: The civilian fighter of Hill Kaka
+- [Frontline](https://frontline.thehindu.com/newsletter/once-upon-a-time/iran-persia-civilisation-cyrus-achaemenid-empire-history/article70897137.ece)  *2026-04-26 03:40* — The weight of a civilisation
 
 ---
 
-### 14. ‘Touring Talkies’: Jayant Kaikini'nin film yazıları estetik merakını yansıtıyor
-*‘Touring Talkies’: Jayant Kaikini’s essays about movies speak to his remarkable aesthetic curiosity*
+### 14. Seçim Komisyonu küçük ihlallerin peşinde koşmakla eleştiriliyor
+*Election Commission criticized for chasing minor violations*
 
-Scroll.in, Jayant Kaikini'nin Kannada dilinde yazdığı denemelerin film eleştirileri ve ölüm ilanlarından arka plan müziği ve film izleme deneyimine kadar uzandığını bildiriyor.
+Bir görüş yazısı, Seçim Komisyonu'nun model davranış kurallarının bariz ihlallerini ele almak yerine motosikletlileri ve turistleri kovalamaya odaklandığını savunuyor.
 
-*Scroll.in reports that Jayant Kaikini's essays, written in Kannada, range from film reviews and obituaries to deep dives on background score and the texture of watching a movie.*
+*An opinion piece argues that the Election Commission is focusing on chasing motorcyclists and tourists instead of addressing obvious violations of the model code of conduct.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/article/1091935/touring-talkies-jayant-kaikinis-essays-about-movies-speak-to-his-remarkable-aesthetic-curiosity?utm_source=rss&utm_medium=public)  *2026-04-25 03:35* — ‘Touring Talkies’: Jayant Kaikini’s essays about movies speak to his remarkable aesthetic curiosity
+- [Scroll.in](https://scroll.in/article/1092367/model-code-of-misconduct?utm_source=rss&utm_medium=public)  *2026-04-26 03:30* — Model code of misconduct
 
 ---
 
-### 15. ABD-İsrail'in İran savaşında kadınlar orantısız bedel ödedi
-*In the US-Israel war on Iran, women have paid a disproportionate price*
+### 15. Chennai'nin ekolojik güvenliği su projesi tarafından tehdit ediliyor
+*Chennai's ecological security threatened by water project*
 
-Scroll.in, İranlı kadınların güvenliğini, haklarını ve katılımını sağlamanın yalnızca ahlaki bir zorunluluk değil, aynı zamanda sürdürülebilir herhangi bir yol için gerekli olduğunu bildiriyor.
+Mamallan projesi, Chennai'nin Büyük Tuz Gölü'nü tatlı su tankına dönüştürmeyi amaçlıyor; bilim insanları ve yerel topluluklar bunun ekolojik güvenliği feda ettiğini söyleyerek karşı çıkıyor.
 
-*Scroll.in reports that ensuring the safety, rights and participation of Iran's women is not only a moral imperative but essential to any sustainable path forward.*
+*The Mamallan project aims to transform Chennai's Great Salt Lake into a freshwater tank, a move opposed by scientists and local communities who say it sacrifices ecological security.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/article/1092283/in-the-us-israel-war-on-iran-women-have-paid-a-disproportionate-price?utm_source=rss&utm_medium=public)  *2026-04-25 03:30* — In the US-Israel war on Iran, women have paid a disproportionate price
+- [Scroll.in](https://scroll.in/video/1092374/eco-india-is-chennai-sacrificing-its-ecological-security-for-drinking-water?utm_source=rss&utm_medium=public)  *2026-04-26 03:25* — Eco India: Is Chennai sacrificing its ecological security for drinking water?
 
 ---
 
-### 16. Manipur: Ukhrul'da Kuki ve Naga çatışmalarında üç ölü, çok sayıda yaralı
-*Manipur: Three killed, several injured in clashes between Kukis and Nagas in Ukhrul*
+### 16. Palantir, savaşın kaçınılmazlığını teşvik etmekle eleştiriliyor
+*Palantir criticized for promoting inevitability of war*
 
-Scroll.in, Manipur'un Ukhrul bölgesinde Kuki ve Naga grupları arasındaki çatışmalarda üç kişinin öldüğünü ve çok sayıda kişinin yaralandığını bildiriyor. Her iki topluluk da şiddeti Cuma günü diğer tarafın başlattığını iddia ediyor.
+Bir görüş yazısı, Palantir'i savaş ve çatışmadan kâr sağlayan ve insanları bu tür şeylerin kaçınılmaz ve hatta tavsiye edilebilir olduğuna ikna etmeye çalışan bir sosyal medya gönderisi nedeniyle eleştiriyor.
 
-*Scroll.in reports that three people were killed and several injured in clashes between Kukis and Nagas in Ukhrul, Manipur. Members of both communities accused the other of starting the violence on Friday.*
+*An opinion piece criticizes Palantir for a social media post that it says profits from war and conflict and tries to convince people that such things are inevitable and advisable.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092366/manipur-three-killed-several-injured-in-clashes-between-kukis-and-nagas-in-ukhrul?utm_source=rss&utm_medium=public)  *2026-04-25 03:18* — Manipur: Three killed, several injured in clashes between Kukis and Nagas in Ukhrul
+- [Rappler](https://www.rappler.com/technology/features/tech-thoughts-palantir-summary-technological-republic-book-evil/)  *2026-04-26 03:00* — [Tech Thoughts] Palantir says the evil parts out loud
 
 ---
 
-### 17. ‘Gooday Nagar': Bir şehrin yaşam boyu deneyimleri, gündelik hayat ve spekülatif öykülerde
-*‘Gooday Nagar’: A city’s lifetime of experiences in slice-of-life and speculative short stories*
+### 17. Kadın kocasının porno bağımlılığını affetmekte zorlanıyor
+*Woman struggles to forgive husband for porn addiction*
 
-Scroll.in, çevirmen ve yazar Maithreyi Karnoor'un koleksiyonunun on öyküden oluştuğunu bildiriyor.
+Bir mektup yazarı, kocasının porno bağımlılığını keşfettikten sonra yanında yatmanın iğrenç geldiğini, ancak mahremiyetini ihlal ettiğini belli etmemek için bunu yapmak zorunda olduğunu söylüyor.
 
-*Scroll.in reports that translator and fiction writer Maithreyi Karnoor's collection comprises ten stories.*
+*A letter writer says she feels gross lying next to her husband after discovering his porn addiction, but must do so to avoid revealing she violated his privacy.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/article/1091426/gooday-nagar-a-citys-lifetime-of-experiences-in-slice-of-life-and-speculative-short-stories?utm_source=rss&utm_medium=public)  *2026-04-25 03:00* — ‘Gooday Nagar’: A city’s lifetime of experiences in slice-of-life and speculative short stories
+- [Rappler](https://www.rappler.com/people/human-interest/two-pronged-husband-porn-addiction/)  *2026-04-26 03:00* — [Two Pronged] Unable to forgive my husband for his porn addiction
 
 ---
 
-### 18. Çocuk kitabı yazarı Luis Gatmaitan, 2 Mayıs'ta UST'de ders verecek
-*Children’s book author Luis Gatmaitan to deliver UST lecture on May 2*
+### 18. Japon partiler Başbakan Takaichi'ye Hürmüz enerji krizi konusunda baskı yapıyor
+*Japanese parties pressure PM Takaichi on Hormuz energy crisis*
 
-Rappler, University of Santo Tomas'ın Paz Latorena Anma Konferansı'nın 2 Mayıs'ta gerçekleşeceğini bildiriyor.
+Japonya Liberal Demokrat Partisi politika şefi Takayuki Kobayashi, Başbakan Sanae Takaichi ile bir araya geldi ve Hürmüz çatışması sona erdikten sonra mayın tarama gemileri gönderilmesi de dahil olmak üzere çeşitli önlemler önerdi.
 
-*Rappler reports that University of Santo Tomas' Paz Latorena Memorial Lecture is happening on May 2.*
+*Japan's Liberal Democratic Party policy chief Takayuki Kobayashi met with Prime Minister Sanae Takaichi and proposed dispatching minesweepers after the Hormuz conflict ends, among other measures.*
 
 **Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/bulletin-board/events/author-luis-gatmaitan-deliver-ust-paz-latorena-memorial-lecture-2026/)  *2026-04-25 03:00* — Children’s book author Luis Gatmaitan to deliver UST lecture on May 2
+- [Asia Times](https://asiatimes.com/2026/04/japanese-parties-pressure-pm-takaichi-on-hormuz-energy-crisis/)  *2026-04-25 21:53* — Japanese parties pressure PM Takaichi on Hormuz energy crisis
 
 ---
 
-### 19. Sarmad Khoosat 'Lali', arzu ve normları yıkmak üzerine: 'Mümkün olduğunda üst toprağı kaldırıyorum'
-*Sarmad Khoosat on ‘Lali’, desire and subverting norms: ‘Wherever I can, I take off the top soil’*
+### 19. Yazar Bama'ya göre Dalit feminizmi genel feminizmden farklı
+*Dalit feminism distinct from general feminism, says author Bama*
 
-Scroll.in, Sarmad Khoosat'ın filmi 'Lali', arzu ve normları yıkma üzerine konuştuğunu, tarzını Yorgos Lanthimos'un 'The Lobster' filmine benzettiğini bildiriyor.
+Frontline, yazar Bama'nın Dalit feminizminin ana akım feminizmden farklı mücadelelerini, Ambedkar'ın mirası ve Hindistan'daki kast bağlamında ele aldığını bildiriyor.
 
-*Scroll.in reports that Sarmad Khoosat discussed his film 'Lali', desire, and subverting norms, comparing his style to Yorgos Lanthimos' 'The Lobster'.*
+*Frontline reports that author Bama discusses the unique struggles of Dalit feminism, distinct from mainstream feminism, in the context of Ambedkar's legacy and caste in India.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/reel/1092365/sarmad-khoosat-on-lali-desire-and-subverting-norms-wherever-i-can-i-take-off-the-top-soil?utm_source=rss&utm_medium=public)  *2026-04-25 02:30* — Sarmad Khoosat on ‘Lali’, desire and subverting norms: ‘Wherever I can, I take off the top soil’
+- [Frontline](https://frontline.thehindu.com/interviews/bama-interview-ambedkar-dalit-writing-resistance/article70906303.ece)  *2026-04-25 16:38* — Dalit feminism is not general feminism—their struggles are unique: Bama
 
 ---
 
-### 20. ‘Bandigoat': Garip kurgu antolojisi tuhaf ile folklorik arasında gidip geliyor
-*‘Bandigoat’: This anthology of strange fiction bounces between the weird and the folkloric*
+### 20. Yedi milletvekilinin BJP'ye geçmesinin ardından AAP örgütsel krizle karşı karşıya
+*AAP faces organizational crisis after seven MPs defect to BJP*
 
-Scroll.in, antolojinin topluluk yaşamını, figüratif yoğunlukları ve efsanenin sınırlı yapısını keşfettiğini, kırsal ve banliyö atmosferlerini gerçek dışılıkla harmanladığını bildiriyor.
+Frontline, yedi Rajya Sabha milletvekilinin Aam Aadmi Partisi'nden (AAP) BJP'ye geçmesinin örgütsel zayıflıkları ortaya çıkardığını ve Arvind Kejriwal'ın liderliği hakkında soru işaretleri yarattığını bildiriyor.
 
-*Scroll.in reports that the anthology explores the life of community, figural intensities, and the bounded structure of legend, blending pastoral and suburban atmospherics with irreality.*
+*Frontline reports that the defection of seven Rajya Sabha MPs from the Aam Aadmi Party (AAP) to the BJP has exposed organizational weaknesses and raised questions about Arvind Kejriwal's leadership.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/article/1092299/bandigoat-this-anthology-of-strange-fiction-bounces-between-the-weird-and-the-folkloric?utm_source=rss&utm_medium=public)  *2026-04-25 02:00* — ‘Bandigoat’: This anthology of strange fiction bounces between the weird and the folkloric
+- [Frontline](https://frontline.thehindu.com/politics/aap-crisis-rajya-sabha-defections-chadha-pathak/article70906105.ece)  *2026-04-25 16:28* — AAP after the exodus
+- [Frontline](https://frontline.thehindu.com/politics/aap-collapse-delhi-election-kejriwal-leadership-crisis/article70905088.ece)  *2026-04-25 14:48* — What went wrong with AAP—and what, if anything, remains
 
 ---
 
-### 21. ABD, DeepSeek V4 çıkarken Çin'in AI damıtmasına karşı uyarıyor
-*US warns against China's AI distillation as DeepSeek V4 debuts*
+### 21. Hindistan'ın otlak karbon potansiyeli iklim politikası tarafından göz ardı ediliyor
+*India's grassland carbon potential overlooked by climate policy*
 
-Beyaz Saray Bilim ve Teknoloji Politikası Ofisi, Çin'in DeepSeek'in en son sistemini tanıtmasıyla birlikte ABD yapay zeka modellerinden izinsiz fikri mülkiyet çıkarılmasını engelleme sözü verdi.
+Frontline, Hindistan'ın meralarının karbon depoladığını ve milyonlarca insanı desteklediğini, ancak iklim politikası tarafından göz ardı edildiğini; karbon piyasalarının haklar ve gelirler arasında soru işaretleri yarattığını bildiriyor.
 
-*The White House Office of Science and Technology Policy vowed to curb unauthorized extraction of intellectual property from US AI models, as China's DeepSeek unveiled its latest system.*
+*Frontline reports that India's rangelands store carbon and support millions, but have been ignored by climate policy; carbon markets now raise questions about rights versus revenues.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/us-sounds-alarm-on-chinas-ai-distillation-as-deepseek-v4-debuts/)  *2026-04-24 19:16* — US sounds alarm on China’s AI distillation as DeepSeek V4 debuts
+- [Frontline](https://frontline.thehindu.com/environment/india-grasslands-carbon-finance-rights-pastoralists-climate-policy/article70905160.ece)  *2026-04-25 16:09* — How India can make grassland carbon work for people and ecosystems
 
 ---
 
-### 22. Trump yönetimi Fed Başkanı Powell hakkındaki soruşturmayı düşürdü
-*Trump administration drops investigation of Fed Chair Powell*
+### 22. Frontline dergisinde AAP'nin Hedefleri makalesi
+*AAP's Ambitions article in Frontline magazine*
 
-Asia Times, Adalet Bakanlığı'nın Federal Rezerv Başkanı Jerome Powell hakkında bina yenileme maliyetleriyle ilgili soruşturmayı düşürdüğünü ve bunun yeni Fed liderliğinin önünü açabileceğini bildiriyor. Bu hamle Senatör Thom Tillis için bir zafer olarak görülüyor.
+Frontline dergisi, özeti bulunmayan 'AAP'nin Hedefleri' başlıklı bir makale yayımladı.
 
-*Asia Times reports that the Department of Justice dropped its investigation of Federal Reserve Chair Jerome Powell over building renovation costs, potentially opening the door for new Fed leadership. The move is seen as a victory for Senator Thom Tillis.*
+*Frontline magazine published an article titled 'AAP’s Ambitions' with no summary provided.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/trump-administration-investigation-of-fed-chair-powell-scrapped/)  *2026-04-24 16:18* — Trump administration investigation of Fed chair Powell scrapped
+- [Frontline](https://frontline.thehindu.com/newsletter/the-frontline-weekly/aaps-ambitions/article66332913.ece)  *2026-04-25 13:33* — AAP’s Ambitions
 
 ---
 
-### 23. Japonya'nın savunma politikası değişikliği hazırlık, pasifizmin sonu değil
-*Japan's defense policy shift is preparation, not pacifism end*
+### 23. Frontline dergisinde Eve Dönüş makalesi
+*The ride home article in Frontline magazine*
 
-Asia Times, Japonya kabinesinin silah ihracatı kısıtlamalarını gevşetme kararının bir dönüm noktası olduğunu ancak Japonya'nın pasifizminin sonu olmadığını bildiriyor. Makale, savunma politikalarının pasifizmle değil hazırlıkla ilgili olduğunu savunuyor.
+Frontline dergisi, özeti bulunmayan 'Eve Dönüş' başlıklı bir makale yayımladı.
 
-*Asia Times reports that Japan's cabinet decision to relax arms export restrictions is a landmark but not the end of Japan's pacifism. The article argues that defense policies are about preparation, not pacifism.*
+*Frontline magazine published an article titled 'The ride home' with no summary provided.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/preparation-not-pacifism-defines-japans-defense-policy/)  *2026-04-24 16:00* — Preparation, not pacifism, defines Japan’s defense policy
+- [Frontline](https://frontline.thehindu.com/newsletter/the-frontline-weekly/dalit-trans-bicycle-violence-india-2026/article70864644.ece)  *2026-04-25 09:53* — The ride home
 
 ---
 
-### 24. BJP'nin Nüfus İlkesi Federal Endişeleri Artırıyor
-*BJP's Population Principle Raises Federal Concerns*
+### 24. Frontline dergisinde Kimsiniz? makalesi
+*Who are you? article in Frontline magazine*
 
-Siyaset bilimci Suhas Palshikar, sınırların yeniden belirlenmesinin gecikmiş olduğunu ancak nüfusa dayalı temsil ile federal kaygılar arasında denge kurulması gerektiğini belirterek, BJP'nin baskısının kuzey-güney ve merkez-eyalet gerilimlerini derinleştirme riski taşıdığı uyarısında bulundu.
+Frontline dergisi, özeti bulunmayan 'Kimsiniz?' başlıklı bir makale yayımladı.
 
-*Political scientist Suhas Palshikar says delimitation is overdue but must balance population-based representation with federal concerns, warning BJP's push risks deepening north-south and Centre-State tensions.*
+*Frontline magazine published an article titled 'Who are you?' with no summary provided.*
 
 **Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/politics/delimitation-bill-women-reservation-bjp-suhas-palshikar/article70902062.ece)  *2026-04-24 14:08* — For BJP, population alone is the sacrosant principle: Suhas Palshikar
+- [Frontline](https://frontline.thehindu.com/newsletter/the-frontline-weekly/state-control-identity-india-2026/article70838359.ece)  *2026-04-25 09:52* — Who are you?
 
 ---
 
-### 25. ABD'li Asker, Maduro'nun Kaçırılması Üzerine Bahis Oynadığı İçin Tutuklandı
-*US Soldier Arrested for Betting on Maduro Abduction*
+### 25. Delhi Yüksek Mahkemesi, eski Kongre meclis üyesi İşret Cihan'ın kefaletle serbest bırakılmasına yönelik polis itirazını reddetti
+*Delhi High Court rejects police appeal against bail to ex-Congress councillor Ishrat Jahan*
 
-ABD Adalet Bakanlığı, Başçavuş Gannon Ken Van Dyke'ın, Trump yönetiminin Nicolás Maduro'yu kaçırma operasyonunun zamanlamasına ilişkin gizli bilgilere dayanarak bahis oynayıp 400.000 doların üzerinde para kazandığı gerekçesiyle tutuklandığını duyurdu.
+Delhi Yüksek Mahkemesi, Delhi olaylarıyla bağlantılı olarak eski Kongre meclis üyesi İşret Cihan'a verilen kefaletle serbest bırakma kararına yönelik polis itirazını reddetti. Mahkeme, kefalet koşullarının ihlal edilmediğine hükmetti.
 
-*The US Justice Department announced that Master Sergeant Gannon Ken Van Dyke was arrested for pocketing over $400,000 by betting, based on classified information, on the timing of the Trump administration's abduction of Nicolás Maduro.*
+*The Delhi High Court rejected a police appeal against the bail granted to former Congress councillor Ishrat Jahan in connection with the Delhi riots. The court found no violation of bail conditions.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/us-soldier-pinched-for-profiting-off-maduro-abduction-bets/)  *2026-04-24 14:03* — US soldier pinched for profiting off Maduro abduction bets
+- [Scroll.in](https://scroll.in/latest/1092372/delhi-riots-hc-rejects-polices-appeal-against-bail-granted-to-ex-congress-councillor-ishrat-jahan?utm_source=rss&utm_medium=public)  *2026-04-25 08:11* — Delhi riots: HC rejects police’s appeal against bail granted to ex-Congress councillor Ishrat Jahan
 
 ---
 
-### 26. Seçim Menüsü
-*The Election Menu*
+### 26. Rahul Singh, ilk romanı Unfolding'de erkekliği tartışıyor
+*Rahul Singh discusses masculinity in debut novel Unfolding*
 
-Frontline, 'Seçim Menüsü' başlıklı bir makale yayımladı; özet sağlanmadı.
+Yazar Rahul Singh ile ilk romanı 'Unfolding' hakkında, erkekliği iki erkek arasındaki çatışma olarak ele alan bir röportaj.
 
-*Frontline published an article titled 'The election menu' with no summary provided.*
+*An interview with author Rahul Singh about his debut novel 'Unfolding,' which explores masculinity as a conflict between two men.*
 
 **Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/newsletter/poll-vault-anand-mishra/modi-jhal-muri-west-bengal-election-theatre/article70901123.ece)  *2026-04-24 13:08* — The election menu
+- [Scroll.in](https://scroll.in/article/1091962/masculinity-is-always-at-loggerheads-between-two-men-what-rahul-singh-explores-in-his-debut-novel?utm_source=rss&utm_medium=public)  *2026-04-25 08:00* — ‘Masculinity is always at loggerheads between two men’: What Rahul Singh explores in his debut novel
 
 ---
 
-### 27. Gazze Soykırımı Gelecek Operasyonlar İçin Model Olarak Gösteriliyor
-*Gaza Genocide as Blueprint for Future Operations*
+### 27. Rappler'dan haftanın fotoğrafları: 18-24 Nisan 2026
+*Week in photos: April 18-24, 2026 from Rappler*
 
-Frontline, B'Tselem sözcüsü Yair Dvir'in Gazze'deki soykırım boyunca İsrail'e tanınan dokunulmazlığın uluslararası hesap verebilirlik mekanizmalarının gerilemesine işaret ettiğini söylediğini aktarıyor.
+Rappler, 18-24 Nisan 2026 haftası için Filipinler ve dünyadan haber, spor, yaşam, eğlence ve ilgi çekici insan fotoğraflarının yer aldığı bir fotoğraf özeti yayımladı.
 
-*Frontline quotes B'Tselem spokesperson Yair Dvir saying the immunity granted to Israel throughout the genocide in Gaza signifies the decline of international accountability mechanisms.*
+*Rappler published a photo recap of news, sports, lifestyle, entertainment, and human interest images from the Philippines and around the world for the week of April 18-24, 2026.*
 
 **Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/interviews/btselem-yair-dvir-gaza-genocide-blueprint-for-war/article70884268.ece)  *2026-04-24 11:38* — The genocide in Gaza has become the blueprint: Yair Dvir
+- [Rappler](https://www.rappler.com/world/global-affairs/the-week-in-photos-april-18-24-2026/)  *2026-04-25 08:00* — The week in photos: April 18-24, 2026
 
 ---
 
-### 28. Francesca Albanese, İsrail'in Yalanları ve Hindistan'ın İlişkileri Üzerine
-*Francesca Albanese on Israel's Lies and India's Ties*
+### 28. Bengal seçimi: ADR raporuna göre adayların %23'ü hakkında suç davası var
+*Bengal election: 23% of candidates have criminal cases, ADR report says*
 
-Frontline, Francesca Albanese'nin Hindistan'ın İsrail'le gelişen ilişkisini incelediğini, dış politika, savunma bağları ve demokrasi ile insan hakları üzerindeki etkileri hakkında sorular sorduğunu aktarıyor.
+Demokratik Reformlar Derneği (ADR) raporuna göre, Batı Bengal'deki adayların %23'ü hakkında suç davası olduğu, %20'sinin ise ciddi suçlamalarla karşı karşıya olduğu bildirildi. BJP, en fazla suç kaydı bulunan adaya sahip parti.
 
-*Frontline quotes Francesca Albanese examining India's evolving relationship with Israel, raising questions about foreign policy, defence ties, and implications for democracy and human rights.*
+*According to a report by the Association for Democratic Reforms (ADR), 23% of candidates in West Bengal have declared criminal cases, with 20% facing serious charges. The BJP has the highest number of candidates with criminal cases.*
 
 **Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/interviews/francesca-albanese-gaza-genocide-un/article70901397.ece)  *2026-04-24 11:38* — Today the world is divided into two. Those who believe Israel’s lies and those who don’t:  Francesca Albanese
+- [Scroll.in](https://scroll.in/latest/1092370/bengal-23-candidates-have-declared-criminal-cases-20-face-serious-cases-says-adr-report?utm_source=rss&utm_medium=public)  *2026-04-25 06:40* — Bengal: 23% candidates have declared criminal cases, 20% face serious cases, says ADR report
 
 ---
 
-### 29. ABD Donanması, Çin'e karşı Hint-Pasifik'te insansız hava aracı sürüsü konuşlandırmayı planlıyor
-*US Navy plans drone swarm deployment against China in Indo-Pacific*
+### 29. Rain or Shine Elasto Painters, PBA'daki statükoya tehdit olarak öne çıkıyor
+*Rain or Shine Elasto Painters emerge as threat to PBA status quo*
 
-ABD Donanması, Hint-Pasifik'te binlerce insansız yüzey aracı konuşlandırmayı hedefliyor; bu araçların Çin'e karşı etkinliği sorgulanıyor.
+Rain or Shine Elasto Painters, Filipinler Basketbol Birliği'ndeki (PBA) güçlü takımlara potansiyel bir rakip olarak görülüyor. Takımın bu sezonki performansı dikkat çekiyor.
 
-*The US Navy aims to deploy thousands of unmanned surface vessels in the Indo-Pacific, raising questions about their effectiveness against China.*
+*The Rain or Shine Elasto Painters are being seen as a potential challenger to the dominant teams in the Philippine Basketball Association (PBA). The team's performance this season has drawn attention.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/us-navys-audacious-drone-swarm-bet-against-china/)  *2026-04-24 10:46* — US Navy’s audacious drone swarm bet against China
+- [Rappler](https://www.rappler.com/people/athletes/rain-or-shine-elasto-painters-ultimate-underdog-team/)  *2026-04-25 02:00* — Rooting for an underdog? Rain or Shine is your team
 
 ---
 
-### 30. AAP Milletvekili Raghav Chadha, Rajya Sabha parti bölünmesi olduğunu ve grubun BJP'ye katılacağını iddia ediyor
-*AAP MP Raghav Chadha claims Rajya Sabha party split, faction to join BJP*
+### 30. Harsh Mander: Dil, yerel yönetim ve maliye tartışmaları Hint federalizmini tanımlıyor
+*Harsh Mander: Language, local governance and finance debates define Indian federalism*
 
-Aam Aadmi Partisi milletvekili Raghav Chadha, Rajya Sabha'daki parti grubunun bölündüğünü ve bir grubun Bharatiya Janata Partisi'ne katılacağını belirtti. Partinin Üst Meclis üyelerinin üçte ikisinin desteğine sahip olduğunu iddia etti.
+Harsh Mander bir makalesinde, dil, yerel yönetim ve maliye tartışmalarının Hint federalizmini nasıl şekillendirdiğini ele alıyor ve 2014'ten bu yana federal demokrasiye yönelik bir saldırı olduğunu belirtiyor.
 
-*Raghav Chadha, an MP from the Aam Aadmi Party, stated that the party's legislative party in the Rajya Sabha has split and that a faction will join the Bharatiya Janata Party. He claimed the support of two-thirds of the party's Upper House members.*
+*In an article, Harsh Mander discusses how debates over language, local governance, and finance have shaped Indian federalism, noting an assault on federal democracy since 2014.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092357/aap-mp-raghav-chadha-says-rajya-sabha-legislative-party-has-split-faction-to-join-bjp?utm_source=rss&utm_medium=public)  *2026-04-24 10:35* — AAP MP Raghav Chadha says Rajya Sabha legislative party has split, faction to join BJP
+- [Scroll.in](https://scroll.in/article/1091866/harsh-mander-language-local-governance-and-finance-the-debates-that-defined-indian-federalism?utm_source=rss&utm_medium=public)  *2026-04-25 01:00* — Harsh Mander: Language, local governance and finance – the debates that defined Indian federalism
 
 ---
 
-### 31. Hindistan'ın büyükelçi seçimi Bangladeş ilişkileri konusunda endişe sinyali veriyor
-*India's envoy pick signals anxiety over Bangladesh relations*
+### 31. Yeni dünya düzeni stratejik darboğazların kullanılmasına bağlı
+*New world order depends on leveraging strategic chokepoints*
 
-Hindistan'ın Bangladeş'e büyükelçi olarak kariyer diplomatı yerine deneyimli bir siyasetçi gönderme kararı, Dakka'da eski Şeyh Hasina merkezli yaklaşımın artık işe yaramayacağının kabulü olarak yorumlanıyor.
+Bir analiz, ortaya çıkan yeni dünya düzeninin ülkelerin kendi Hürmüz Boğazı versiyonlarını nasıl kullandıklarına bağlı olacağını öne sürüyor. Her şey kaldıraçla ilgili olduğunda güç, göz ardı edilemez olmaktan geliyor.
 
-*India's reported decision to send a veteran politician rather than a career diplomat as envoy to Bangladesh is interpreted in Dhaka as an admission that the old approach centered on Sheikh Hasina will no longer work.*
+*An analysis suggests that the emerging new world order will depend on how countries leverage their own version of the Strait of Hormuz. Power comes from being impossible to ignore when everything is about leverage.*
 
 **Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/politics/india-political-envoy-bangladesh-dhaka-strategy-shift/article70900914.ece)  *2026-04-24 10:18* — Envoy pick shows India’s Bangladesh anxiety
+- [Scroll.in](https://scroll.in/article/1092324/new-world-order-will-depend-on-how-countries-leverage-their-own-version-of-the-strait-of-hormuz?utm_source=rss&utm_medium=public)  *2026-04-24 16:30* — New world order will depend on how countries leverage their own version of the Strait of Hormuz
 
 ---
 
-### 32. Mumbai'de, bir kadının yol kapatma protestosunda BJP lideriyle yüzleşmesi üzerine şikayette bulunuldu
-*Mumbai complaint filed against woman who confronted BJP leader over road blockade*
+### 32. Rus Ordusu'ndan salıverilmeyi bekleyen on Hint vatandaşı öldü, Merkez Yüksek Mahkeme'ye bildirdi
+*Ten Indians seeking release from Russian Army have died, Centre tells SC*
 
-Mumbai'de bir protesto sırasında yolu kapatan BJP lideriyle yüzleşen bir kadın hakkında şikayette bulunuldu. Polis, kadın hakkında herhangi bir resmi şikayet kaydedilmediğini söyledi.
+Hint hükümeti Yüksek Mahkeme'ye, aileleri Rus Ordusu'ndan salıverilmelerini isteyen on Hint vatandaşının öldüğünü bildirdi. Hükümet, çoğunun Rus ordusuna gönüllü olarak katıldığını iddia etti.
 
-*A complaint was filed in Mumbai against a woman who confronted a BJP leader for blocking a road during a protest. Police said no FIR has been registered against the woman.*
+*The Indian government told the Supreme Court that ten Indians whose families were seeking their release from the Russian Army have died. Most had joined the Russian military voluntarily, the government claimed.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092345/mumbai-complaint-filed-against-woman-who-confronted-bjp-leader-for-blocking-road-during-protest?utm_source=rss&utm_medium=public)  *2026-04-24 10:12* — Mumbai: Complaint filed against woman who confronted BJP leader for blocking road during protest
+- [Scroll.in](https://scroll.in/latest/1092359/ten-indians-whose-families-are-seeking-their-release-from-russian-army-have-died-centre-tells-sc?utm_source=rss&utm_medium=public)  *2026-04-24 15:01* — Ten Indians whose families are seeking their release from Russian Army have died: Centre tells SC
 
 ---
 
-### 33. Trump, yetkisiz savaş iddiaları ortasında İran'ı yıkımla tehdit ediyor
-*Trump threatens Iran with destruction amid unauthorized war claims*
+### 33. ChatGPT kopya tartışması eski hayalet yazarlık endişelerini yansıtıyor
+*Debate over ChatGPT cheating echoes old ghostwriting concerns*
 
-Makale, ABD Başkanı Donald Trump'ın, İran'ın kayıtsız şartsız teslim olmayı kabul etmemesi halinde İran'ı 'Taş Devri'ne itmekle ve İran medeniyetini sona erdirmekle tehdit ettiğini, bunu İran'a karşı yetkisiz bir savaş olarak nitelendirdiğini bildiriyor.
+Bir makale, ister ChatGPT kullanmak ister bir hayalet yazara para ödemek olsun, entelektüel çalışmaya yardımın otomatik olarak etik dışı olmadığını savunuyor. Yapay zeka kopya tartışması, hayalet yazarlıkla ilgili eski tartışmaları yansıtıyor.
 
-*The article reports that US President Donald Trump has threatened to push Iran 'into the Stone Ages' and end Iranian civilization if Iran does not agree to unconditional surrender, describing it as an unauthorized war against Iran.*
+*An article argues that whether using ChatGPT or paying a ghostwriter, assistance on intellectual work is not automatically unethical. The debate over AI cheating mirrors older debates about ghostwriting.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/trump-feeds-americas-enduring-appetite-for-destruction/)  *2026-04-24 10:11* — Trump feeds America’s enduring appetite for destruction
+- [Scroll.in](https://scroll.in/article/1092138/if-using-chatgpt-is-cheating-what-about-ghostwriting-the-old-debate-behind-a-new-panic?utm_source=rss&utm_medium=public)  *2026-04-24 15:00* — If using ChatGPT is cheating, what about ghostwriting? The old debate behind a new panic
 
 ---
 
-### 34. Röportaj Finlandiya'nın mutluluk sıralamasının sırrını araştırıyor
-*Interview explores secret to Finland's happiness ranking*
+### 34. Delhi mahkemesi milletvekili Mühendis Rashid'in geçici tahliye talebini reddetti
+*Delhi court rejects MP Engineer Rashid's interim bail plea*
 
-Rappler genel yayın yönetmeni Marites Vitug, Finlandiya Büyükelçisi Saija Nurminen ile Finlandiya'nın küresel mutluluk raporlarındaki sürekli üst sıralaması hakkında röportaj yapıyor.
+Delhi mahkemesi, tutuklu milletvekili Mühendis Rashid'in geçici tahliye talebini reddetti. Rashid, ağır hasta olan babasını görmesi gerektiğini mahkemeye bildirmişti.
 
-*Rappler editor-at-large Marites Vitug interviews Finnish Ambassador Saija Nurminen about Finland's sustained top ranking in global happiness reports.*
-
-**Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/world/global-affairs/view-marites-vitug-decoding-finland-happiness/)  *2026-04-24 10:04* — World View with Marites Vitug: Decoding the secret to Finland’s happiness
-
----
-
-### 35. Bengal seçmen listesi silmeleri: Yüksek Mahkeme etkilenenleri temyiz mahkemesine yönlendirdi
-*Bengal voter list deletions: Supreme Court directs affected to appellate tribunal*
-
-Hindistan Yüksek Mahkemesi, Bengal'de seçmen listelerinden isimleri silinen 65 seçim görevlisi de dahil olmak üzere kişilere temyiz mahkemesine başvurmalarını söyledi. Mahkeme, aciliyet gösterilmesi halinde mahkemelerin sıra dışı duruşma yapabileceğini belirtti.
-
-*The Supreme Court of India told persons whose names were deleted from voter rolls in Bengal, including 65 election duty officers, to move the appellate tribunal. The court noted that if urgency is shown, tribunals may give out-of-turn hearings.*
+*A Delhi court rejected the interim bail plea of jailed MP Engineer Rashid. He had told the bench that he needed to meet his critically ill father.*
 
 **Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092355/bengal-sir-65-election-duty-officers-among-those-deleted-sc-tells-them-to-move-appellate-tribunal?utm_source=rss&utm_medium=public)  *2026-04-24 09:56* — Bengal SIR: 65 election duty officers among those deleted, SC tells them to move appellate tribunal
-
----
-
-### 36. Ukrayna, savaş stratejisi uçurumu derinleşirken Trump'a karşı geliyor
-*Ukraine defies Trump as rift over war strategy deepens*
-
-Asia Times, Ukrayna'nın savaş stratejisi konusundaki anlaşmazlıklar yoğunlaşırken ABD Başkanı Donald Trump'a karşı geldiğini bildiriyor. Makale ayrıca Almanya'nın stratejik değişiminin ekonomik kısıtlamalarla karşı karşıya olduğunu belirtiyor.
-
-*Asia Times reports that Ukraine is defying US President Donald Trump as disagreements over war strategy intensify. The article also notes Germany's strategic shift faces economic constraints.*
-
-**Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/ukraine-defies-trump-as-rift-over-war-strategy-deepens/)  *2026-04-24 09:18* — Ukraine defies Trump as rift over war strategy deepens
-
----
-
-### 37. Görüş yazısı Martin Romualdez'in bütçe süreci çerçevesini eleştiriyor
-*Opinion criticizes Martin Romualdez's framing of budget process*
-
-Rappler'deki bir görüş yazısı, Meclis Başkanı Martin Romualdez'in bütçe süreci çerçevesini eleştiriyor ve sorumluluğu tasarımdan uygulamaya kaydırdığını savunuyor.
-
-*An opinion piece on Rappler criticizes House Speaker Martin Romualdez's framing of the budget process, arguing it redraws responsibility from design to execution.*
-
-**Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/voices/thought-leaders/opinion-problem-with-martin-romualdez-framing-of-budget-process/)  *2026-04-24 08:22* — [OPINION] The problem with Martin Romualdez’s framing of the budget process
-
----
-
-### 38. ASEAN dönem başkanı Filipinler, Myanmar'dan Aung San Suu Kyi'yi serbest bırakmasını istedi
-*ASEAN chair Philippines urges Myanmar to release Aung San Suu Kyi*
-
-ASEAN dönem başkanı Filipinler, Myanmar'ın siyasi krizine barışçıl bir çözüm bulunmasına yardımcı olma taahhüdünü yineleyen bir açıklama yaparak, Aung San Suu Kyi dahil daha fazla mahkumun serbest bırakılması çağrısında bulundu.
-
-*The Philippines, as ASEAN chair, issued a statement reaffirming commitment to assist Myanmar in achieving a peaceful solution to its political crisis, and urged the release of more prisoners including Aung San Suu Kyi.*
-
-**Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/philippines/asean-chair-urges-myanmar-free-more-prisoners-aung-san-suu-kyi/)  *2026-04-24 08:19* — ASEAN chair PH urges Myanmar to free more prisoners including Aung San Suu Kyi
-
----
-
-### 39. Claude Mythos yapay zekası siber operasyonlarda yeni sınıra ulaştı
-*Claude Mythos AI reaches new frontier in cyber operations*
-
-Claude Mythos Preview adlı en son yapay zeka modelinin bağımsız testi, minimum rehberlikle insan kapasitesinin ötesinde hızlarda karmaşık siber operasyonlar planlayıp yürütebildiğini göstererek, sınır yapay zekası için yeni bir eşik oluşturdu.
-
-*An independent test of Claude Mythos Preview, the latest AI model, showed it can plan and execute sophisticated cyber operations with minimal guidance at speeds beyond human capability, marking a new threshold for frontier AI.*
-
-**Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/claude-mythos-has-crossed-an-ai-red-line/)  *2026-04-24 08:16* — Claude Mythos crosses an AI point of no return
-
----
-
-### 40. Hindistan'daki milyarder sayısının 2031'de 313'e çıkması bekleniyor
-*India's billionaire count projected to rise to 313 by 2031*
-
-Bir araştırma, Hindistan'daki milyarder sayısının 2031 yılına kadar 207'den 313'e yükseleceğini öngörüyor. Hindistan'da halihazırda 25.200'den fazla ultra yüksek net değere sahip birey bulunurken, dünyadaki en yüksek servet eşitsizliği oranlarından birine sahip.
-
-*A study projects that the number of Indian billionaires will increase from 207 to 313 by 2031. India currently has over 25,200 ultra-high net worth individuals but also has among the highest rates of wealth inequality in the world.*
-
-**Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092344/number-of-indian-billionaires-may-rise-to-313-from-207-by-2031-study?utm_source=rss&utm_medium=public)  *2026-04-24 08:13* — Number of Indian billionaires may rise to 313 from 207 by 2031: Study
-
----
-
-### 41. Müslüman kurulu, Hint Yüksek Mahkemesi'ne kadınların camilere girebileceğini ancak ana kapıdan giremeyeceğini söyledi
-*Muslim board tells Indian Supreme Court women can enter mosques but not via main door*
-
-Müslüman kurulu, Yüksek Mahkeme'ye İslam'da kadınların camilere girmesine engel olmadığını ancak ana kapıdan giriş talep edemeyeceklerini bildirdi. Mahkeme, Kerala'daki Sabarimala tapınağına kadınların girişi ve diğer dini mekanlardaki ayrımcılıkla ilgili bir davayı görüşüyordu.
-
-*The Muslim board submitted to the Supreme Court that there is no bar in Islam on women entering mosques, but they cannot seek entry via the main door. The court was hearing a case related to entry of women into Kerala's Sabarimala temple and discrimination at other religious places.*
-
-**Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092341/no-bar-in-islam-on-women-at-mosques-but-they-cannot-seek-entry-via-main-door-muslim-board-to-sc?utm_source=rss&utm_medium=public)  *2026-04-24 08:11* — ‘No bar in Islam on women in mosques, but they cannot seek entry via main door’: Muslim board to SC
-
----
-
-### 42. Mynt CEO'su, fintech ve hükümet çabalarının akaryakıt fiyatı yükünü hafiflettiğini söyledi
-*Mynt CEO says fintech and government efforts ease oil price burden*
-
-Mynt CEO'su Martha Sazon, fintech ve hükümet çabalarının akaryakıt fiyatlarının tüketiciler üzerindeki yükünü hafifletmeye yardımcı olduğunu belirtti. Singapur'daki CNBC CONVERGE LIVE etkinliğinde GoTo Group ve FWD liderleriyle birlikte konuştu.
-
-*Mynt CEO Martha Sazon stated that fintech and government efforts have helped ease the burden of oil prices on consumers. She spoke at CNBC's CONVERGE LIVE in Singapore alongside GoTo Group and FWD leaders.*
-
-**Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/brandrap/mynt-ceo-says-fintech-government-efforts-help-ease-oil-price-burden/)  *2026-04-24 08:02* — Fintech, government efforts help ease oil price burden on consumers — Mynt CEO
-
----
-
-### 43. Kitap alıntısı, Ajanta mağaralarının 19. yüzyıldan günümüze restorasyon çabalarını anlatıyor
-*Book excerpt details restoration efforts of Ajanta caves from 19th century*
-
-Ashwin Prabhu'nun 'Magnificent Murals: Buddhist Art of Ajanta' adlı kitabından bir alıntı, Ajanta mağaralarının 19. yüzyıldan günümüze kadar yapılan tüm restorasyon girişimlerini detaylandırıyor.
-
-*An excerpt from Ashwin Prabhu's book 'Magnificent Murals: Buddhist Art of Ajanta' details all attempts to restore the Ajanta caves from the 19th century to the present day.*
-
-**Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/article/1092095/for-young-readers-all-the-attempts-to-restore-the-ajanta-caves-from-19th-century-to-present-day?utm_source=rss&utm_medium=public)  *2026-04-24 08:00* — For young readers: All the attempts to restore the Ajanta caves from 19th century to present day
-
----
-
-### 44. Düzinelerce Taylandlı muhalif, krala hakaret yasasını değiştirme girişimi nedeniyle yargılanıyor
-*Dozens of Thai opposition figures face trial over royal insult law amendment bid*
-
-Halk Partisi lideri Natthaphong Ruengpanyawut ve eski Move Forward lideri Pita Limjaroenrat dahil düzinelerce Taylandlı muhalif, krala hakaret yasasını değiştirme girişimleri nedeniyle yargılanacak. Pita halen 10 yıllık siyaset yasağı cezasını çekiyor.
-
-*Dozens of Thai opposition figures, including People's Party leader Natthaphong Ruengpanyawut and former Move Forward leader Pita Limjaroenrat, are to go on trial over their attempt to amend the royal insult law. Pita is currently serving a 10-year ban from politics.*
-
-**Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/world/asia-pacific/thailand-opposition-figures-to-go-trial-bid-amend-royal-insult-law/)  *2026-04-24 07:57* — Dozens of Thai opposition figures to go on trial over bid to amend royal insult law
-
----
-
-### 45. Asia Times, Japonya'nın Endonezya'nın kömürden çıkışını finanse etmesi gerektiğini savunuyor
-*Asia Times argues Japan should help fund Indonesia's coal exit*
-
-Asia Times, Japonya'nın Endonezya'nın kömürden uzaklaşma geçişine yardımcı olması gerektiğini savunuyor ve Endonezya'nın dünyanın en büyük kömür üreticilerinden ve tüketicilerinden biri olduğunu, tüm eyaletlerin kömüre bağlı olduğunu belirtiyor.
-
-*Asia Times argues that Japan should help pay for Indonesia's transition away from coal, noting that Indonesia is one of the world's largest coal producers and consumers, with entire provinces tied to coal.*
-
-**Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/why-japan-should-help-pay-for-indonesias-coal-exit/)  *2026-04-24 07:39* — Why Japan should help pay for Indonesia’s coal exit
-
----
-
-### 46. Film eleştirisi: Ötenazi konulu 'Mercy' filmi neredeyse cansız
-*Film review: 'Mercy' on euthanasia is barely alive*
-
-Scroll.in, ötenazi konusunu işleyen Hintçe drama filmi 'Mercy'yi eleştirerek filmin neredeyse cansız olduğunu belirtiyor. Film şu anda sinemalarda gösterimde.
-
-*Scroll.in reviews the Hindi drama 'Mercy', which deals with euthanasia, stating that the film is barely alive. The film is currently in cinemas.*
-
-**Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/reel/1092336/mercy-review-film-on-euthanasia-is-barely-alive?utm_source=rss&utm_medium=public)  *2026-04-24 07:37* — ‘Mercy’ review: Film on euthanasia is barely alive
-
----
-
-### 47. LRT-2 Santolan İstasyonu yolcularına ücretsiz park imkanı sunuyor
-*LRT-2 Santolan Station offers free parking for passengers*
-
-Filipinler'deki LRT-2 Santolan İstasyonu, toplu taşıma kullanımını teşvik etmek amacıyla 27 Nisan Pazartesi gününden itibaren yolcularına ücretsiz park hizmeti sunmaya başladı.
-
-*LRT-2 Santolan Station in the Philippines started offering free parking for its passengers starting Monday, April 27, to encourage the use of public transportation.*
-
-**Kaynaklar / Sources:**
-- [Rappler](https://www.rappler.com/philippines/metro-manila/lrt-2-santolan-station-free-parking/)  *2026-04-24 07:20* — LRT-2 Santolan Station offers free parking for its passengers
-
----
-
-### 48. Gauhati Yüksek Mahkemesi, Kongre lideri Pawan Khera'nın gıyabi kefalet talebini reddetti
-*Gauhati High Court denies anticipatory bail to Congress leader Pawan Khera*
-
-Gauhati Yüksek Mahkemesi, Assam Başbakanı'nın eşi Riniki Bhuyan Sarma tarafından açılan davada Kongre lideri Pawan Khera'nın gıyabi kefalet talebini reddetti. Khera, hakaret, sahtecilik ve suç komplosu suçlamalarıyla itham edildi.
-
-*The Gauhati High Court denied anticipatory bail to Congress leader Pawan Khera in a case filed by Assam Chief Minister's wife, Riniki Bhuyan Sarma. Khera has been booked on charges of defamation, forgery and criminal conspiracy.*
-
-**Kaynaklar / Sources:**
-- [Scroll.in](https://scroll.in/latest/1092342/gauhati-hc-denies-anticipatory-bail-to-congress-leader-pawan-khera-in-case-filed-by-assam-cms-wife?utm_source=rss&utm_medium=public)  *2026-04-24 06:15* — Gauhati HC denies anticipatory bail to Congress leader Pawan Khera in case filed by Assam CM’s wife
-
----
-
-### 49. Bangladeş'teki yakıt krizi büyük ölçüde hükümetin yönetim hatasından kaynaklanıyor
-*Bangladesh's fuel crunch largely due to government mismanagement*
-
-Asia Times, Bangladeş'teki yakıt krizinin, hükümetin bazı kesimlerinin iddia ettiği gibi panik alımları veya kartellerden değil, arz tarafındaki yönetim hatası ve gecikmiş fiyat düzeltmesinden kaynaklandığını bildirdi.
-
-*Asia Times reports that Bangladesh's fuel crisis is primarily caused by supply-side mismanagement and delayed price correction, rather than panic buying or syndicates as claimed by parts of the government.*
-
-**Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/bangladeshs-fuel-crunch-is-largely-the-governments-fault/)  *2026-04-23 12:50* — Bangladesh’s fuel crunch is largely the government’s fault
-
----
-
-### 50. Pakistan'daki istikrarsızlık ABD'nin Asya stratejisini kısıtlıyor
-*Pakistan instability constrains US strategy in Asia*
-
-Asia Times, Pakistan'daki istikrarsızlığın ABD'nin Asya stratejisi üzerinde yapısal bir kısıtlama olarak ortaya çıktığını bildirdi. Bu durum, Washington'un kritik minerallerde Çin'e bağımlılığı azaltma, Orta Asya'ya erişimi genişletme ve Körfez'den Güney Asya'ya güvenlik dinamiklerini yönetme önceliklerini etkiliyor.
-
-*Asia Times reports that Pakistan's instability is emerging as a structural constraint on US strategy in Asia, affecting Washington's priorities of reducing dependence on China in critical minerals, expanding access to Central Asia, and managing security dynamics from the Gulf to South Asia.*
-
-**Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/pakistan-is-the-hole-in-americas-great-game-strategy/)  *2026-04-23 12:19* — Pakistan is the hole in America’s Great Game strategy
-
----
-
-### 51. Bengal'in en iyi ayak askeri Sunil Mukherjee 14 yıl önce unutulmuş olarak öldü
-*Bengal's finest foot soldier Sunil Mukherjee died unsung 14 years ago*
-
-Frontline, Bengal film endüstrisinde yetenekli ancak ihmal edilmiş bir ayak askeri olan Sunil Mukherjee'nin 14 yıl önce bir hastane köşesinde öldüğünü bildirdi. Bu, endüstrinin en yetenekli işçilerini sömürdüğünü gözler önüne seriyor.
-
-*Frontline reports that Sunil Mukherjee, a talented but neglected foot soldier in Bengal's film industry, died in a hospital corner 14 years ago, highlighting the industry's exploitation of its most talented workers.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/arts-and-culture/cinema/sunil-mukherjee-bengal-cinema-neglect/article70868846.ece)  *2026-04-18 11:14* — You loved his face, his eyes, his voice. But did you pay him?
-
----
-
-### 52. Delhi'nin Pink Saheli planı en çok ihtiyacı olan göçmen kadınları dışlıyor
-*Delhi's Pink Saheli scheme excludes migrant women who need it most*
-
-Frontline, Delhi'nin ücretsiz otobüs seyahati için 'Pink Saheli' akıllı kart planının, ikametgah bağlantılı Aadhaar kartı gerektirdiğini ve Delhi adresi olmayan düşük gelirli göçmen kadınları dışladığını bildirdi.
-
-*Frontline reports that Delhi's 'Pink Saheli' smart card scheme for free bus travel requires a domicile-linked Aadhaar card, excluding low-income migrant women who lack Delhi addresses.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/the-nation/delhi-pink-saheli-card-migrant-exclusion/article70876947.ece)  *2026-04-18 10:38* — Delhi’s ‘Pink Saheli’ Smart Card scheme excludes migrant women who need it most
-
----
-
-### 53. Fiyortlar, üst geçitler
-*Fjords, flyovers*
-
-Başlığı 'Fiyortlar, üst geçitler' olan bir Frontline makalesinin özeti mevcut değil.
-
-*A Frontline article with the title 'Fjords, flyovers' has no summary available.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/newsletter/reading-with-frontline/why-the-scream-by-munch-still-resonates-modern-urban-life/article70869814.ece)  *2026-04-18 09:33* — Fjords, flyovers
-
----
-
-### 54. Kenara çekil bakır; kırık güzeldir; ve kozmos yavaşlıyor
-*Move over, copper; broken is beautiful; and the cosmos slows*
-
-Başlığı 'Kenara çekil bakır; kırık güzeldir; ve kozmos yavaşlıyor' olan bir Frontline makalesinin özeti mevcut değil.
-
-*A Frontline article with the title 'Move over, copper; broken is beautiful; and the cosmos slows' has no summary available.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/science-and-technology/ultra-conductive-metal-defect-light-dark-energy-breakthroughs-2026-science/article70873816.ece)  *2026-04-18 08:10* — Move over, copper; broken is beautiful; and the cosmos slows
-
----
-
-### 55. Tamil Nadu: Güneyde partiler nasıl konumlanıyor
-*Tamil Nadu: How parties are positioned in the south*
-
-Frontline, Tamil Nadu'daki tüm büyük ve küçük siyasi aktörlerin, kast dengelerinin seçim sonuçlarını belirleyebileceği yüksek riskli mücadelelere hazırlandığını bildirdi.
-
-*Frontline reports that all major and minor political players in Tamil Nadu are gearing up for high-stakes battles, where caste equations can determine electoral outcomes.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/politics/tamil-nadu-election-campaign-parties-caste-politics-south/article70869135.ece)  *2026-04-18 07:09* — Tamil Nadu: How parties are placed down south
-
----
-
-### 56. Hindistan'ın Manipur kentinde söylentiler bir subayın linç edilmesine neredeyse yol açıyordu
-*Rumors nearly led to lynching of army officer in Manipur, India*
-
-Manipur'un Thinungei kentinde, Kuki militanlarının sivil bir araçla seyahat ettiği söylentisi bir otoyol ablukasına ve bir subayın neredeyse linç edilmesine yol açtı. Subay olayın kişisel hesabını paylaştı.
-
-*In Thinungei, Manipur, a rumor that Kuki militants were traveling in a civilian vehicle led to a highway blockade and a near lynching of an army officer. The officer provided a personal account of the incident.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/the-nation/manipur-disinformation-rumour-mob-violence-assam-rifles/article70873426.ece)  *2026-04-17 17:02* — How rumours nearly got an Army officer lynched in Manipur
-
----
-
-### 57. Modi'nin sınır belirleme çalışması Tamil Nadu ile federalizm anlaşmazlığına yol açıyor
-*Modi's delimitation exercise sparks federalism dispute with Tamil Nadu*
-
-DMK lideri M.K. Stalin, Modi'nin sınır belirleme çalışmasını eleştirerek federalizmi zayıflattığını ve Tamil Nadu'nun insani gelişimini cezalandırırken az gelişmiş eyaletleri ödüllendirdiğini savundu.
-
-*DMK leader M.K. Stalin criticized Modi's delimitation exercise, arguing it undermines federalism and punishes Tamil Nadu's human development while rewarding less developed states.*
-
-**Kaynaklar / Sources:**
-- [Frontline](https://frontline.thehindu.com/columns/tamil-nadu-stalin-modi-bjp-federalism-delimitation-row/article70873375.ece)  *2026-04-17 16:50* — Why Modi’s delimitation exercise makes Stalin see red
+- [Scroll.in](https://scroll.in/latest/1092363/delhi-court-rejects-jailed-mp-engineer-rashids-interim-bail-plea?utm_source=rss&utm_medium=public)  *2026-04-24 14:29* — Delhi court rejects jailed MP Engineer Rashid’s interim bail plea
 
 ---

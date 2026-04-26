@@ -4,80 +4,44 @@ title: Yepisyeni Türkiye — Ortadoğu ve Kuzey Afrika
 
 # Ortadoğu ve Kuzey Afrika / Middle East & North Africa
 
-**2026-04-25 — 6 küme / cluster**
+**2026-04-26 — 3 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Hizbullah insansız hava araçları yenilikçi taktiklerle İsrail tanklarını hedef alıyor
-*Hezbollah drones target Israeli tanks with innovative tactics*
+### 1. İsrail saldırıları Gazze Şehri'nin el-Zahra mahallesini yaşanmaz hale getirdi
+*Israel's attacks rendered Gaza City's al-Zahra neighborhood uninhabitable*
 
-Electronic Intifada, Hizbullah'ın İsrail askeri altyapısını, özellikle tankları hedef almak için insansız hava araçları kullandığı yenilikçi taktikleri bildiriyor.
+Electronic Intifada, Ekim 2023'teki İsrail saldırılarının Gazze Şehri'nin el-Zahra mahallesini yaşanmaz hale getirdiğini bildiriyor.
 
-*Electronic Intifada reports on Hezbollah's innovative tactics in using drones to target Israeli military infrastructure, specifically tanks.*
+*Electronic Intifada reports that Israeli attacks on Gaza City's al-Zahra neighborhood in October 2023 rendered it uninhabitable.*
 
 **Kaynaklar / Sources:**
-- [Electronic Intifada](https://electronicintifada.net/blogs/tamara-nassar/how-hizballah-drones-hunt-israeli-tanks)  *2026-04-24 16:41* — How Hizballah drones hunt Israeli tanks
+- [Electronic Intifada](https://electronicintifada.net/content/how-israel-ravaged-gaza-citys-al-zahra-neighborhood/51355)  *2026-04-25 18:14* — How Israel ravaged Gaza City’s al-Zahra neighborhood
 
 ---
 
-### 2. Filistinliler yıllar sonra ilk kez yerel seçimlerde oy kullanıyor
-*Palestinians vote in local elections for first time in years*
+### 2. Filistin belediye seçimlerine İsrail baskısı nedeniyle düşük katılım
+*Palestinian municipal elections see low turnout amid Israeli crackdown*
 
-+972 Magazine, Batı Şeria ve Gazze'deki bir şehirde yerel seçimlerin yapıldığını, sakinlerin oylamanın meşruiyeti ve değişim potansiyeli konusunda bölünmüş olduğunu bildiriyor.
+Mondoweiss, bir zamanlar demokratik bir çıkış olan Filistin belediye seçimlerine, iki yıllık soykırım ve İsrail baskısı nedeniyle çok az adayın katıldığını, bunun siyasi hayatı boşalttığını bildiriyor.
 
-*+972 Magazine reports that local elections are taking place across the West Bank and one city in Gaza, with residents split on the vote's legitimacy and potential for change.*
+*Mondoweiss reports that Palestinian municipal elections, once a democratic outlet, are seeing few candidates due to two years of genocide and Israeli crackdown, hollowing out political life.*
 
 **Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/palestinian-local-elections-west-bank-gaza/)  *2026-04-24 15:58* — What’s at stake as Palestinians go to the polls for the first time in years
+- [Mondoweiss](https://mondoweiss.net/2026/04/palestinians-are-holding-local-elections-but-hardly-anyone-is-running-heres-why-that-matters/)  *2026-04-25 17:01* — Palestinians are holding local elections, but hardly anyone is running. Here’s why that matters.
 
 ---
 
-### 3. Kurumsal medya İsrail'in Gazze'deki soykırımını körükledi, kitap iddia ediyor
-*Corporate media helped fuel Israel's genocide in Gaza, says book*
+### 3. İngiliz milletvekili, yeni idam yasası nedeniyle hükümeti İsrail politikasını yeniden değerlendirmeye çağırıyor
+*UK MP urges government to reevaluate Israel policy over new death penalty law*
 
-Mondoweiss, medya eleştirmeni Adam Johnson'ın kurumsal medyanın Gazze'deki Filistinlilerin toplu katliamına destek oluşturmaya yardımcı olduğunu savunan yeni kitabını bildiriyor.
+Mondoweiss'te yazan İngiliz milletvekili İkbal Muhammed, İngiltere hükümetinin İsrail politikasını yeniden değerlendirmesi gerektiğini savunuyor. Soykırım, açlık ve Filistinlilere yönelik idam cezasının İşçi Partisi hükümeti için kırmızı çizgi olup olmadığını sorguluyor.
 
-*Mondoweiss reports on a new book by media critic Adam Johnson that argues corporate media helped build support for the mass killing of Palestinians in Gaza.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/how-the-corporate-media-helped-fuel-israels-genocide-in-gaza/)  *2026-04-24 15:15* — How the corporate media helped fuel Israel’s genocide in Gaza
-
----
-
-### 4. ABD'li Yahudilere hain diyen İsrail köşe yazısı Siyonizm üzerindeki bölünmeyi işaret ediyor
-*Israeli op-ed calling US Jews traitors points to fracture over Zionism*
-
-Mondoweiss, sağcı bir İsrailli gazetecinin İsrail'e göç etmedikleri için ABD'li Yahudilere hain diyen bir köşe yazısının, İsrailli ve ABD'li Yahudiler arasında Siyonizm konusunda yaklaşan bir çatışmayı vurguladığını bildiriyor.
-
-*Mondoweiss reports that an op-ed by a right-wing Israeli journalist calling US Jews traitors for not emigrating to Israel highlights a looming conflict between Israeli and US Jews over Zionism.*
+*British MP Iqbal Mohamed, writing in Mondoweiss, argues that the UK government must reevaluate its Israel policy. He questions whether genocide, starvation, and a death penalty for Palestinians are not red lines for the Labour government.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/an-israeli-op-ed-calling-u-s-jews-traitors-for-refusing-to-emigrate-to-israel-points-to-the-looming-jewish-fracture-over-zionism/)  *2026-04-24 14:56* — An Israeli Op-Ed calling U.S. Jews ‘traitors’ for refusing to emigrate to Israel points to the looming Jewish fracture over Zionism
-
----
-
-### 5. İsrail'in 'Kalıcı Güvenlik' Doktrini Sorgulanıyor
-*Israel's 'Permanent Security' Doctrine Under Scrutiny*
-
-+972 Magazine, İsrail'in 'tam zafer' arayışının onu İran'la kazanılamaz bir savaşa sürüklediğini, yurtdışında meşruiyetini aşındırdığını ve içeride ahlaki çürümeyi derinleştirdiğini bildiriyor.
-
-*+972 Magazine reports that Israel's pursuit of 'total victory' has entangled it in an unwinnable war with Iran, eroding legitimacy abroad and deepening moral decay within.*
-
-**Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/israel-iran-permanent-security-doctrine/)  *2026-04-24 12:45* — The beginning of the end of Israel’s ‘permanent security’ doctrine
-
----
-
-### 6. İsrail Gazze Operasyonlarını Yeniden Başlatma Tehdidinde Bulunuyor
-*Israel Threatens to Resume Gaza Operations*
-
-Mondoweiss, dünya İran'a odaklanmışken İsrail'in Gazze'de askeri operasyonları yeniden başlatma planlarının sinyalini verdiğini bildiriyor.
-
-*Mondoweiss reports that while the world is focused on Iran, Israel is signaling plans to restart military operations in Gaza.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/israel-is-threatening-to-resume-the-genocide-in-gaza-this-time-the-world-isnt-paying-attention/)  *2026-04-24 12:41* — Israel is threatening to resume the genocide in Gaza. This time, the world isn’t paying attention.
+- [Mondoweiss](https://mondoweiss.net/2026/04/new-death-penalty-law-should-force-starmer-government-to-reevaluate-uk-policy-toward-israel/)  *2026-04-25 13:24* — New death penalty law should force Starmer government to reevaluate UK policy toward Israel
 
 ---

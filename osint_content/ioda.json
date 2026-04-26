@@ -3,30 +3,30 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-25T08:38:56.757630+00:00",
+  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Iranian Internet Pro implementation visible in IODA data",
-      "title_tr": "İran İnternet Pro uygulaması IODA verilerinde görünür",
-      "url": "https://ioda.inetintel.cc.gatech.edu/country/IR",
+      "title_en": "Iranian Internet users have not had access to global Internet since Feb 28",
+      "title_tr": "İranlı internet kullanıcıları 28 Şubat'tan beri küresel internete erişemiyor",
+      "url": "https://ioda.inetintel.cc.gatech.edu/country/IR?f...",
       "date": "2026-04-20"
     },
     {
-      "title_en": "Sharif University of Technology (AS12660) offline after airstrikes",
-      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) hava saldırıları sonrası çevrimdışı",
-      "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR",
+      "title_en": "Sharif University of Technology (AS12660) went offline after airstrikes",
+      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) hava saldırıları sonrası çevrimdışı oldu",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR...",
       "date": "2026-04-06"
     },
     {
-      "title_en": "Amazon Web Services (AS16509) in Bahrain damaged, probing drops to 0%",
+      "title_en": "Amazon Web Services (AS16509) in Bahrain damaged, active probing dropped to 0%",
       "title_tr": "Bahreyn'deki Amazon Web Services (AS16509) hasar gördü, aktif yoklama %0'a düştü",
-      "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH...",
       "date": "2026-04-02"
     },
     {
-      "title_en": "Recent Outages dashboard showing last 24 hours",
-      "title_tr": "Son 24 saatteki kesintileri gösteren panel",
+      "title_en": "Recent Outages dashboard showing outage severity scores",
+      "title_tr": "Kesinti şiddet puanlarını gösteren Son Kesintiler panosu",
       "url": "https://ioda.inetintel.cc.gatech.edu/dashboard",
       "date": ""
     }

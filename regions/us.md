@@ -4,726 +4,525 @@ title: Yepisyeni Türkiye — ABD
 
 # ABD / United States
 
-**2026-04-25 — 59 küme / cluster**
+**2026-04-26 — 43 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Middle East & North Africa](../regions/mena.md) · [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Trump'ın İran savaşı politikasının küresel yansımaları
-*Global fallout from Trump's Iran war policy*
+### 1. Rejim değişikliği ideologları ve kapitalist pragmatistler Küba'yı tehdit ediyor
+*Regime change ideologues and capitalist pragmatists threaten Cuba*
 
-İran savaşına bağlı yakıt kıtlığı protestoları dünya çapında patlak veriyor. Trump, çatışma nedeniyle İspanya'yı NATO'dan atmakla tehdit etti. Kampanya yaklaşık 5 milyar dolara mal oldu ve Trump'ın Truth Social paylaşımlarının müzakereleri bozduğu bildiriliyor.
+CounterPunch, Trump'ın onayının düşmesiyle birlikte daha fazla vergi mükellefi parasını anlamsız bir savaşa harcamakla tehdit ettiğini ve Küba'nın rejim değişikliği ideologları ve kapitalist pragmatistlerden gelen tehditlerle karşı karşıya olduğunu bildiriyor.
 
-*Protests over fuel shortages linked to the Iran war are erupting worldwide. Trump threatened to expel Spain from NATO over the conflict. The campaign has cost nearly $5 billion, and Trump's Truth Social posts reportedly upended negotiations.*
+*CounterPunch reports that as Trump's approval plummets, he threatens to throw away more taxpayer money on another senseless war, with Cuba facing threats from regime change ideologues and capitalist pragmatists.*
 
 **Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/shorts/7uHOIhCbCKY)  *2026-04-24 19:54* — Iran war fallout: Countries rocked by protests over global fuel crisis
-- [Novara Media](https://novaramedia.com/2026/04/24/trump-threatens-to-expel-spain-from-nato-over-iran-war/)  *2026-04-24 19:22* — Trump Threatens to Expel Spain From NATO Over Iran War
-- [Truthout](https://truthout.org/articles/trumps-venezuela-boat-strike-campaign-have-cost-nearly-5-billion-so-far/)  *2026-04-24 18:50* — Trump’s Venezuela, Boat Strike Campaign Have Cost Nearly $5 Billion So Far
-- [Truthout](https://truthout.org/articles/trumps-truth-social-posts-upended-iran-war-negotiations-report/)  *2026-04-24 17:41* — Trump’s Truth Social Posts Upended Iran War Negotiations — Report
+- [CounterPunch](https://www.counterpunch.org/2026/04/26/regime-change-ideologues-capitalist-pragmatists-and-the-looming-threat-to-cuba/)  *2026-04-26 05:58* — Regime Change Ideologues, Capitalist Pragmatists and the Looming Threat to Cuba
 
 ---
 
-### 2. Trump'ın zihinsel durumu ve onay oranları mercek altında
-*Trump's mental fitness and approval ratings under scrutiny*
+### 2. CounterPunch'tan 'Aktivistlerden Teröristlere' makalesi
+*From Activists to Terrorists article published by CounterPunch*
 
-Birden fazla haber, Başkan Donald Trump'ın zihinsel durumu ve düşen onay oranlarıyla ilgili endişeleri vurguluyor. Eski Beyaz Saray Basın Sözcü Yardımcısı Sarah Matthews, yaşın Trump'ın davranışlarını etkilediğini söylerken, Newsmax sunucusu Greg Kelly Savunma Bakanı Pete Hegseth'i eleştirdi. Trump'ın onay oranları, Cumhuriyetçiler arasında bile tüm zamanların en düşük seviyesine indi.
+CounterPunch, 'Aktivistlerden Teröristlere' başlıklı bir makale yayınladı, ancak özette başka ayrıntı bulunmuyor.
 
-*Multiple reports highlight concerns about President Donald Trump's mental fitness and declining approval ratings. Former White House Deputy Press Secretary Sarah Matthews said age is affecting Trump's behavior, while Newsmax host Greg Kelly criticized Defense Secretary Pete Hegseth. Trump's approval ratings have hit an all-time low, even among Republicans.*
+*CounterPunch published an article titled 'From Activists to Terrorists', but no further details are available in the summary.*
 
 **Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-maga-enemies/)  *2026-04-24 22:07* — Angry and alienated Trump is 'running out of' friends
-- [AlterNet](https://www.alternet.org/trump-crazy-dementia/)  *2026-04-24 21:44* — Former Trump official confirms age is 'enhancing' Trump’s craziness
-- [BreakThrough News](https://www.youtube.com/shorts/-vPrEYq5VFY)  *2026-04-24 20:59* — Trump approval ratings at 'all-time low'
-- [AlterNet](https://www.alternet.org/john-phelan-trump-hegseth/)  *2026-04-24 20:24* — 'Insecure FAKE': Newsmax host posts rare shellacking of Trump official
-- [AlterNet](https://www.alternet.org/trump-corruption-family/)  *2026-04-24 20:13* — Trump quickly disowns insider trading as prosecutors close in on suspects
+- [CounterPunch](https://www.counterpunch.org/2026/04/26/from-activists-to-terrorists/)  *2026-04-26 05:56* — From Activists to Terrorists
 
 ---
 
-### 3. Hegseth, İran savaşını Trump'ın hediyesi olarak nitelendirdi, ABD ordusunun Nobel Barış Ödülü'nü hak ettiğini söyledi
-*Hegseth calls Iran war Trump's gift, says US military deserves Nobel Peace Prize*
+### 3. Mısırlı aile 10 aylık ICE gözetiminin ardından yeniden tutuklandı
+*Egyptian family re-arrested after 10 months in ICE detention*
 
-Asia Times ve Truthout, ABD Savunma Bakanı Pete Hegseth'in İran ile savaşı 'dünyaya bir hediye' olarak nitelendirdiğini ve ABD ordusunun her yıl Nobel Barış Ödülü'nü kazanması gerektiğini söylediğini bildiriyor. Hegseth ayrıca askerlerin liderliği altında 'azami şiddet' uygulama yetkisine sahip olduğunu belirtti.
+Truthout, Mısırlı bir anne ve çocuklarının 10 aylık ICE gözetiminin ardından yeniden tutuklandığını, çürüyen yiyecek, güvenli olmayan su ve Müslüman inançlarına saygısızlık yaşadıklarını bildiriyor.
 
-*Asia Times and Truthout report that US Defense Secretary Pete Hegseth called the war with Iran a 'gift to the world' and suggested the US military should win the Nobel Peace Prize every year. Hegseth also stated that soldiers are empowered to enact 'maximum violence' under his leadership.*
+*Truthout reports that an Egyptian mother and children were re-arrested after 10 months in ICE detention, describing rotting food, unsafe water, and disrespect toward their Muslim faith.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/hegseth-calls-iran-war-trumps-gift-to-the-world/)  *2026-04-24 17:03* — Hegseth calls Iran war Trump’s ‘gift to the world’
-- [Truthout](https://truthout.org/articles/hegseth-says-us-military-should-win-nobel-peace-prize-every-single-year/)  *2026-04-24 16:44* — Hegseth Says US Military Should Win Nobel Peace Prize “Every Single Year”
+- [Truthout](https://truthout.org/articles/egyptian-family-re-arrested-following-10-months-in-ice-detention/)  *2026-04-25 19:35* — Egyptian Family Re-Arrested Following 10 Months in ICE Detention
 
 ---
 
-### 4. İsrail, Lübnan'da gazeteci Amal Khalil'i insansız hava aracı saldırısında öldürdü
-*Israel kills journalist Amal Khalil in Lebanon drone strike*
+### 4. Trump ailesi kâr ederken meme coin yatırımcıları zararla karşı karşıya
+*Trump family profits as meme coin investors face losses*
 
-Lübnanlı gazeteci Amal Khalil, el-Baisariye'de İsrail'in insansız hava aracı saldırısında öldürüldü. Truthout, İsrail'in meslektaşını da üç saldırıyla hedef aldığını, bunlardan birinin ambulansa yapıldığını bildirdi. Perşembe günü Khalil için cenaze töreni düzenlendi.
+AlterNet, Başkan Donald Trump'ın değeri düşen Trump meme coin yatırımcılarıyla bir araya geldiğini, Trump ailesinin ise önemli ölçüde kâr ettiğini bildiriyor.
 
-*Lebanese journalist Amal Khalil was killed in an Israeli drone strike in al-Baisariyah. Truthout reports that Israel also targeted her colleague with three strikes, including one on an ambulance. A funeral procession was held for Khalil on Thursday.*
+*AlterNet reports that President Donald Trump met with investors in his Trump meme coin as its value fell, while the Trump family reportedly profited significantly.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/israel-kills-journalist-in-lebanon-after-hunting-down-her-and-a-colleague/)  *2026-04-23 18:11* — Israel Kills Journalist in Lebanon After “Hunting” Down Her and a Colleague
-- [BreakThrough News](https://www.youtube.com/shorts/2c9GZeywAHI)  *2026-04-23 17:08* — Lebanon mourns journalist Amal Khalil, assassinated by Israel
+- [AlterNet](https://www.alternet.org/trump-corruption-crypto/)  *2026-04-25 18:12* — Trump family nabs cool $1B while crashing investors cry into 'champagne flutes'
 
 ---
 
-### 5. Cumhuriyetçi, Trump'ın enflasyonu için Biden'ı suçlayınca yayında hüsrana uğradı
-*Republican flames out on-air after blaming Biden for Trump’s inflation*
+### 5. Zeteo, Beyaz Saray Muhabirleri Yemeği davetini reddetti
+*Zeteo declines White House Correspondents' Dinner invitation*
 
-AlterNet, muhafazakar stratejist Scott Jennings'in, Paul Begala'nın enflasyonu tanımlamasının ardından Başkan Donald Trump'ın enflasyon sorunları için eski başkan Biden'ı suçlama iddiasını kanıtlayamadığını bildiriyor.
+AlterNet, Zeteo editörlerinin Beyaz Saray Muhabirleri Yemeği davetini, Başkan Trump'ın basın özgürlüğü politikalarına karşı oldukları gerekçesiyle reddettiğini bildiriyor.
 
-*AlterNet reports that conservative strategist Scott Jennings failed to make his case for blaming President Donald Trump's inflation problems on former president Biden, after Paul Begala identified inflation.*
+*AlterNet reports that Zeteo editors declined an invitation to the White House Correspondents' Dinner, citing opposition to President Trump's policies on press freedom.*
 
 **Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-blames-biden-inflation/)  *2026-04-25 02:09* — Republican flames out on-air after blaming Biden for Trump’s inflation
+- [AlterNet](https://www.alternet.org/trump-reporters-2676814540/)  *2026-04-25 17:34* — News org laughs off invite to 'wannabe tyrant' Trump's dinner
 
 ---
 
-### 6. Eski yetkili: Tehlikeli Trump'a 'sanki yarın yokmuş gibi' yalan söyleniyor
-*Dangerous Trump is getting lied to 'like there’s no tomorrow': ex-official*
+### 6. Cumhuriyetçiler, seçim inkârına rağmen Kevin Warsh'ı Fed başkanlığına itiyor
+*Republicans push Kevin Warsh for Fed chair despite election denial*
 
-AlterNet, eski bir Trump yetkilisinin, yardımcılarının Başkan Donald Trump'a kötü haberler ve anket sonuçları hakkında yalan söylediğini söylediğini bildiriyor.
+Truthout, Cumhuriyetçilerin, Trump'ın 2020 yenilgisini kabul etmemesine rağmen Kevin Warsh'ı Federal Rezerv başkanlığına getirmek için çaba gösterdiğini bildiriyor.
 
-*AlterNet reports that a former Trump official said that aides are lying to President Donald Trump about bad news and poll numbers.*
+*Truthout reports that Republicans are advancing Kevin Warsh for Federal Reserve chair, despite his refusal to acknowledge Trump's 2020 defeat.*
 
 **Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-reality-dementia/)  *2026-04-25 01:15* — Dangerous Trump is getting lied to 'like there’s no tomorrow': ex-official
+- [Truthout](https://truthout.org/articles/republicans-race-to-advance-trumps-federal-reserve-pick/)  *2026-04-25 16:44* — Republicans Race to Advance Trump’s Federal Reserve Pick
 
 ---
 
-### 7. Rapor: MAGA'nın saflığı paylaştıkları bu yanılsamayı açıklıyor
-*MAGA gullibility explains this one delusion they share: report*
+### 7. El Kaide bağlantılı grup ve Tuareg ayrılıkçıları Mali'de saldırı başlattı
+*Al Qaeda affiliate and Tuareg separatists launch offensive in Mali*
 
-AlterNet, psikoloji araştırmacılarının MAGA kitlesinin kurucu ilkelerinden en az birinin tamamen gerçek yokluğuna dayandığını doğruladığını bildiriyor.
+BreakThrough News, El Kaide bağlantılı Jama'at Nusrat al-Islam wal-Muslimin'in Tuareg ayrılıkçılarıyla birlikte Mali'de geniş çaplı bir saldırı başlattığını ve birkaç kasabayı ele geçirdiğini bildiriyor.
 
-*AlterNet reports that psychology researchers have confirmed that at least one of the MAGA fold's founding principles is based on a complete absence of fact.*
+*BreakThrough News reports that Jama'at Nusrat al-Islam wal-Muslimin, an Al Qaeda affiliate, along with Tuareg separatists, launched a nationwide offensive in Mali, taking several towns.*
 
 **Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/maga-gulible/)  *2026-04-25 00:25* — MAGA gullibility explains this one delusion they share: report
+- [BreakThrough News](https://www.youtube.com/shorts/wzL4TyAayn8)  *2026-04-25 16:36* — Sahel states in the crosshairs: Western-backed armed groups attack Mali
 
 ---
 
-### 8. Genç Amerikalıların hükümete güveni yeni düşük seviyede
-*Young Americans' trust in government hits new low*
+### 8. Köşe yazarları Trump'ın anlaşma yapma itibarının bir efsane olduğunu savunuyor
+*Columnists argue Trump's deal-making reputation is a myth*
 
-Harvard Gençlik anketi, 18-29 yaş arası genç Amerikalıların yalnızca %15'inin hükümete güvendiğini ve %13'ünün ülkenin doğru yolda olduğunu düşündüğünü ortaya koydu. Sadece %33'ü yaklaşan ara seçimlerin adil olacağına güveniyor.
+AlterNet, New York Times köşe yazarlarının Başkan Trump'ın anlaşma yapıcı olarak itibarının bir efsane olduğunu, İran politikasında zorlandığını savunduğunu bildiriyor.
 
-*A Harvard Youth poll found that only 15% of young Americans aged 18-29 trust the government, and 13% think the country is on the right track. Only 33% trust that upcoming midterm elections will be fair.*
+*AlterNet reports that New York Times columnists argue President Trump's reputation as a deal-maker is a myth, as he struggles with Iran policy.*
 
 **Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-midterms-2676812239/)  *2026-04-24 21:02* — Infuriated young voters suspect Trump will derail the election
+- [AlterNet](https://www.alternet.org/trump-iran-ceasefire-disaster/)  *2026-04-25 16:35* — Reality check: Angry voters face the consequences of buying the Trump 'myth'
 
 ---
 
-### 9. Yeni yasa tasarısı ICE'in seçmen korkutması endişelerini artırıyor
-*New bill raises concerns about ICE voter intimidation*
+### 9. Stratejiste göre Demokratlar Trump destekçileriyle bağlarını kesiyor
+*Democrats cutting ties with Trump supporters, says strategist*
 
-ICE finansmanı zaten %400 artırılmışken, yasa koyucular ek 70 milyar doların ara seçimler öncesinde kolluk mu yoksa denetimsiz gücü genişletmek için mi olduğunu sorguluyor.
+AlterNet, Demokrat stratejist Jessica Tarlov'un liberallerin Trump destekçileriyle bağlarını kestiğini ve MAGA'yı yalnız bıraktığını söylediğini bildiriyor.
 
-*With ICE funding already increased by 400%, lawmakers question whether an additional $70 billion is for enforcement or expanding unchecked power ahead of the midterms.*
+*AlterNet reports that Democratic strategist Jessica Tarlov says liberals are cutting ties with Trump supporters, leaving MAGA isolated.*
 
 **Kaynaklar / Sources:**
-- [The Real News Network](https://therealnews.com/ice-intimidate-voters-midterms)  *2026-04-24 19:58* — Will ICE be used to intimidate voters? A new bill might make that possible.
+- [AlterNet](https://www.alternet.org/trump-maga-voters-2676814358/)  *2026-04-25 15:42* — Dems are cutting ties with Trump supporters —and MAGA is paying the price
 
 ---
 
-### 10. Lübnan hükümeti İsrail saldırılarıyla yüzleşmemekle eleştiriliyor
-*Lebanon government criticized for not confronting Israeli attacks*
+### 10. ABD'nin sıkılaştırdığı yakıt ablukasına rağmen Küba egemenliğinden vazgeçmiyor
+*Cuba refuses to surrender sovereignty amid tightened US fuel blockade*
 
-Lübnan merkezli gazeteci Hüseyin Esad, İsrail-Lübnan ateşkesinin savaşı sınırlama olduğunu, barış olmadığını ve hükümeti gazeteci Amal Halil'in öldürülmesi de dahil olmak üzere İsrail saldırılarıyla yüzleşmemekle eleştirdi.
+BreakThrough News, ABD'nin Küba'ya yönelik yakıt ablukasını sıkılaştırdığını, ancak Kübalı yetkililer ve analistlerin adanın egemenliğinden vazgeçmeyeceğini söylediğini bildiriyor.
 
-*Lebanon-based journalist Hussein Assaf said the Israel-Lebanon ceasefire is war containment, not peace, and criticized the government for failing to confront Israeli attacks, including the killing of journalist Amal Khalil.*
+*BreakThrough News reports that the US has tightened its fuel blockade on Cuba, but Cuban officials and analysts say the island will not surrender its sovereignty.*
 
 **Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/watch?v=H8g5c4Pf56c)  *2026-04-24 19:01* — Why Won’t Lebanon’s Government Confront Israeli Attacks?
+- [BreakThrough News](https://www.youtube.com/watch?v=dQenkratnbo)  *2026-04-25 15:00* — ‘Cuba Will Never Surrender Its Sovereignty’
 
 ---
 
-### 11. Musk ve Silikon Vadisi özgürlükçülük değil devletle bütünleşme istiyor
-*Musk and Silicon Valley seek fusion with state, not libertarianism*
+### 11. Yerinden edilmiş Lübnanlılar, İsrail işgalinin ardından evlerini kontrol etmek için uydu görüntüleri kullanıyor
+*Displaced Lebanese use satellite images to check homes after Israeli invasion*
 
-Yazar Quinn Slobodian, büyük teknoloji şirketlerinin özgürlükçü ideallerin aksine devletle daha yakın bir ilişki aradığını savunuyor.
+DropSite News, İsrail'in işgali ve yıkımı nedeniyle güney Lübnan'a dönemeyen yerinden edilmiş Lübnanlıların, evlerinin durumunu görmek için para toplayarak uydu görüntüleri satın aldığını bildiriyor.
 
-*Author Quinn Slobodian argues that Big Tech seeks a closer relationship with the state, contrary to libertarian ideals.*
+*DropSite News reports that displaced Lebanese residents, unable to return to southern Lebanon due to Israel's invasion and demolition, are pooling money to buy satellite images to see the state of their homes.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/video/musk-and-silicon-valley-arent-libertarian-they-want-to-fuse-with-the-state/)  *2026-04-24 18:09* — Musk and Silicon Valley Aren’t Libertarian. They Want to Fuse With the State.
+- [DropSite News](https://www.dropsitenews.com/p/displaced-southern-lebanese-aitaroun-israeli-military-satellite-images)  *2026-04-25 14:59* — Displaced Lebanese Pool Money to Buy Satellite Images to See What Remains of their Homes
 
 ---
 
-### 12. Katar'da mahsur kalan Afganlar, Trump'ın onları DRC'ye gönderme çabasından ihanete uğramış hissediyor
-*Afghans stranded in Qatar feel betrayed by Trump's push to send them to DRC*
+### 12. İranlı din adamı Hürmüz Boğazı'nın İran'ın kontrolünde kalacağını söyledi
+*Iranian cleric says Strait of Hormuz will remain under Iran's control*
 
-2021 ABD çekilmesinden bu yana Katar'da mahsur kalan Afganlar, Trump'ın onları Demokratik Kongo Cumhuriyeti'ne gönderme çabası nedeniyle ihanete uğramış hissediyor.
+BreakThrough News, İsfahan'daki bir mitingde İranlı din adamı Mohi Al-Din Mir Morshidi'nin, ABD ve İsrail ile devam eden gerilim ortamında Hürmüz Boğazı'nın İran'ın kontrolünde kalacağını ilan ettiğini bildiriyor.
 
-*Afghans left stranded in Qatar since the 2021 US withdrawal express betrayal over Trump's push to send them to the Democratic Republic of Congo.*
+*BreakThrough News reports that at a rally in Isfahan, Iranian cleric Mohi Al-Din Mir Morshidi declared that the Strait of Hormuz will stay under Iranian control, amid ongoing tensions with the US and Israel.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/afghans-stranded-in-qatar-express-betrayal-at-trumps-push-to-send-them-to-drc/)  *2026-04-24 17:57* — Afghans Stranded in Qatar Express Betrayal at Trump’s Push to Send Them to DRC
+- [BreakThrough News](https://www.youtube.com/shorts/TYhdoK_sXvw)  *2026-04-25 14:56* — Iran cleric: 'The Strait of Hormuz will stay under our control'
 
 ---
 
-### 13. Fosil yakıtları bitirme konferansı militarizmi de ele almalı
-*Conference to end fossil fuels must address militarism*
+### 13. NPR'ye göre Trump'ın tarifeleri Cumhuriyetçi çiftçileri sınıra getirdi
+*Trump tariffs push Republican farmers to brink, NPR reports*
 
-Pentagon, dünyanın en büyük fosil yakıt tüketicisidir ve çoğu ülkeden daha büyük bir karbon ayak izine sahiptir; bu da iklim çabalarında militarizmin ele alınması gerektiğini vurgulamaktadır.
+AlterNet, NPR'nin Trump'ın tarife politikalarının, 12 milyar dolarlık yardım programına rağmen ömür boyu Cumhuriyetçi olan çiftçiler de dahil olmak üzere çiftçileri sınıra getirdiğini bildirdiğini aktarıyor.
 
-*The Pentagon is the world's largest fossil fuel consumer, with a carbon footprint larger than most countries, highlighting the need to address militarism in climate efforts.*
+*AlterNet reports that NPR says Trump's tariff policies are pushing farmers, including lifelong Republicans, to the brink despite a $12 billion assistance program.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/the-first-ever-conference-to-end-fossil-fuels-has-to-address-militarism-too/)  *2026-04-24 17:41* — The First-Ever Conference to End Fossil Fuels Has to Address Militarism, Too
+- [AlterNet](https://www.alternet.org/trump-farmers-fertilizer/)  *2026-04-25 14:43* — 'Lifelong Republican' losing patience with Trump in deep red state
 
 ---
 
-### 14. Savaş harcamaları Amerikalı işçilerin ekonomik beklentilerini iyileştirmiyor
-*War spending fails to boost American workers' economic prospects*
+### 14. Fox News anketi Trump'ın ekonomi güvenini kaybettiğini, tadilat odağını gösteriyor
+*Fox News poll shows Trump losing economic confidence amid renovation focus*
 
-The Real News Network, artan Pentagon bütçelerinin Amerikalı işçiler için istihdam artışı sağlamadığını, silah endüstrisinin daha konsolide ve otomatik hale geldiğini bildiriyor. Makale, savaş devletinin çalışan insanlar için etkili bir ekonomik kalkınma stratejisi olmadığını savunuyor.
+AlterNet'in haberine göre, Fox News anketi Başkan Donald Trump'ın ekonomi konusunda kamuoyu güvenini kaybettiğini gösteriyor. Bu arada Trump, kraliyet ziyareti öncesinde Beyaz Saray'da yeni bir siyah granit yol dahil tadilatlara odaklanmış durumda.
 
-*The Real News Network reports that increased Pentagon budgets have not translated into job gains for American workers, as the arms industry has become more consolidated and automated. The article argues that the warfare state is not an effective economic development strategy for working people.*
+*A Fox News poll indicates President Donald Trump is losing public confidence on the economy, as reported by AlterNet. Meanwhile, Trump has focused on White House renovations ahead of a royal visit, including a new black granite path.*
 
 **Kaynaklar / Sources:**
-- [The Real News Network](https://therealnews.com/war-isnt-working-for-american-workers)  *2026-04-24 17:27* — War isn’t working for American workers
+- [AlterNet](https://www.alternet.org/trump-economy-midterms-2676814173/)  *2026-04-25 14:41* — News anchor floored as Fox News delivers bad news to Trump
+- [AlterNet](https://www.alternet.org/trump-white-house-renovation-2676813853/)  *2026-04-25 12:12* — ​Trump fawns over 'tacky' marble floors as problems mount and his popularity plummets
 
 ---
 
-### 15. Yahudi New Yorklular Filistin karşıtı tampon bölge yasa tasarısının veto edilmesini memnuniyetle karşıladı
-*Jewish New Yorkers welcome veto of anti-Palestinian buffer zone bill*
+### 15. Trump yönetimi hava standartlarını zayıflatırken ABD'li çocukların yarısı zehirli hava soluyor
+*Trump administration weakens air standards as half of US children breathe toxic air*
 
-Common Dreams, Yahudi New Yorkluların protestolar etrafında tampon bölgeler oluşturacak bir yasa tasarısının veto edilmesini memnuniyetle karşıladığını ve bunun anayasal haklara müdahale olduğunu bildiriyor. Belediye Meclisi'ne antisemitizmle mücadele bahanesiyle protestolara saldırmayı bırakması çağrısında bulundular.
+Truthout'a göre, Trump yönetimi hava kalitesi standartlarını zayıflatırken, ABD'li çocukların neredeyse yarısı zehirli havaya maruz kalıyor. Hava kirliliği dünya çapında yılda 7 milyon ölümle ilişkilendiriliyor.
 
-*Common Dreams reports that Jewish New Yorkers welcomed the veto of a bill that would have created buffer zones around protests, calling it an infringement on constitutional rights. They urged the City Council to stop attacking protests under the guise of fighting antisemitism.*
+*Truthout reports that the Trump administration has weakened air quality standards, while nearly half of US children are exposed to toxic air. Air pollution is linked to 7 million deaths annually worldwide.*
 
 **Kaynaklar / Sources:**
-- [Common Dreams](https://www.commondreams.org/newswire/jewish-new-yorkers-welcome-mamdani-s-veto-of-anti-palestinian-buffer-zone-bill-call-on-city-council-to-stop-attacking-protest)  *2026-04-24 17:07* — Jewish New Yorkers Welcome Mamdani's Veto of Anti-Palestinian Buffer Zone Bill, Call on City Council to Stop Attacking Protest
+- [Truthout](https://truthout.org/articles/trump-admin-weakens-air-standards-while-almost-half-of-us-kids-breathe-toxic-air/)  *2026-04-25 13:38* — Trump Admin Weakens Air Standards While Almost Half of US Kids Breathe Toxic Air
 
 ---
 
-### 16. Kötü hijyen koşulları nedeniyle Gazze'deki çadır kampları kemirgen istilasına uğradı
-*Gaza tent camps overrun by rodents due to poor sanitation*
+### 16. Gazze'deki öğretmen İsrail'in eğitimi yok ederek umudu söndürdüğünü söylüyor
+*Gaza teacher says Israel has extinguished hope through education destruction*
 
-Truthout, Gazze'deki çadır kamplarında koşulların kötüleştiğini, yetersiz hijyen nedeniyle kemirgenlerin hastalık ve yıkım yaydığını bildiriyor.
+Truthout'ta yazan bir Gazze öğretmeni, eğitimin bir zamanlar öğrencilere umut getirdiğini ancak İsrail'in eylemlerinin bu umudu söndürdüğünü belirtiyor. Yazı, kaybedilen vaatleri ve çatışmanın genç öğrenciler üzerindeki etkisini anlatıyor.
 
-*Truthout reports that Gaza's tent camps are facing worsening conditions, with rodents spreading disease and destruction due to lack of proper sanitation.*
+*A teacher in Gaza writes in Truthout that education once brought hope to students, but Israel's actions have extinguished that hope. The piece describes lost promises and the impact of conflict on young students.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/lacking-proper-sanitation-gazas-tent-camps-are-being-overrun-by-rodents/)  *2026-04-24 17:04* — Lacking Proper Sanitation, Gaza’s Tent Camps Are Being Overrun by Rodents
+- [Truthout](https://truthout.org/articles/as-a-teacher-in-gaza-i-saw-education-bring-hope-israel-has-extinguished-it/)  *2026-04-25 13:36* — As a Teacher in Gaza, I Saw Education Bring Hope. Israel Has Extinguished It.
 
 ---
 
-### 17. İsrail, Lübnan'da bir gazeteciyi ve meslektaşını hedef alarak öldürdü
-*Israel kills journalist in Lebanon after targeting her and colleague*
+### 17. Oklahoma örgütçüleri muhalefetle ICE deposu inşaatını durdurdu
+*Oklahoma organizers halt ICE warehouse construction through opposition*
 
-The Real News Network, İsrail'in Lübnan'da bir gazeteciyi ve meslektaşını, biri ambulansa olmak üzere birden fazla saldırıyla hedef alarak öldürdüğünü bildiriyor.
+Truthout'a göre, Oklahoma'daki örgütçüler bir ICE deposunun inşasını başarıyla durdurdu. Kampanya, kitlesel öfkeyi göçmen adaleti için uzun vadeli örgütlenmeye yönlendirdi.
 
-*The Real News Network reports that Israel killed a journalist in Lebanon after targeting her and a colleague with multiple strikes, including one on an ambulance.*
+*Truthout reports that organizers in Oklahoma successfully halted the construction of an ICE warehouse. The campaign channeled mass outrage into long-term organizing for immigration justice.*
 
 **Kaynaklar / Sources:**
-- [The Real News Network](https://therealnews.com/israel-kills-journalist-in-lebanon-after-hunting-down-her-and-a-colleague)  *2026-04-24 16:35* — Israel kills journalist in Lebanon after “hunting” down her and a colleague
+- [Truthout](https://truthout.org/articles/as-opposition-grows-oklahoma-organizers-share-how-they-halted-an-ice-warehouse/)  *2026-04-25 13:33* — As Opposition Grows, Oklahoma Organizers Share How They Halted an ICE Warehouse
 
 ---
 
-### 18. FBI Direktörü Kash Patel gençliğinde halka açık yerde idrar yapmaktan tutuklandı
-*FBI Director Kash Patel arrested for public urination in youth*
+### 18. Trump'ın kişisel avukatı Todd Blanche, geçici başsavcı olarak Adalet Bakanlığı'nı siyasallaştırıyor
+*Trump's personal attorney Todd Blanche politicizes DOJ as interim attorney general*
 
-The Intercept, FBI Direktörü Kash Patel'in gençliğinde halka açık yerde idrar yapma dahil alkolle ilgili olaylar nedeniyle iki kez tutuklandığını bildiriyor. Patel bu olayların olağan davranışlarını yansıtmadığını söyledi.
+AlterNet, Trump'ın eski kişisel avukatı olan geçici Başsavcı Todd Blanche'ın, Başkan Trump'ı memnun etmek için Adalet Bakanlığı kaynaklarını agresif bir şekilde kullanarak bakanlığı daha da siyasallaştırdığını bildiriyor.
 
-*The Intercept reports that FBI Director Kash Patel was arrested twice in his youth for alcohol-related incidents, including public urination. Patel said these incidents were not representative of his usual conduct.*
+*AlterNet reports that interim Attorney General Todd Blanche, Trump's former personal attorney, has aggressively used DOJ resources to please President Trump, further politicizing the department.*
 
 **Kaynaklar / Sources:**
-- [The Intercept](https://theintercept.com/2026/04/24/kash-patel-arrest-alcohol-drinking/)  *2026-04-24 16:02* — Kash Patel Got Arrested for Public Urination After a Night of Drinking
+- [AlterNet](https://www.alternet.org/trump-doj-todd-blanche/)  *2026-04-25 12:55* — Trump’s 'lowlife' personal attorney is sliding the DOJ further into Trump’s pocket
 
 ---
 
-### 19. SPLC bağışçıları Trump Adalet Bakanlığı'nın dolandırıcılık iddialarını reddetti, muhbir ödemelerini desteklediklerini söyledi
-*SPLC donors reject Trump DOJ fraud claims, say they supported informant payments*
+### 19. Trump'ın seçmen sahtekarlığı avı, yüklenici anlaşmazlığıyla bir darbe daha alıyor
+*Trump's voter fraud hunt faces another setback as contractor dispute emerges*
 
-The Intercept, Güney Yoksulluk Hukuk Merkezi'ne yirmi bağışçının, kovuşturulan sözde dolandırıcılığın, muhbir ödemeleri de dahil olmak üzere, grubun paralarını harcamasını tam olarak umdukları şekilde olduğunu söylediğini bildiriyor.
+Başkan Donald Trump'ın, 2020 seçim sahtekarlığı iddialarını desteklemek için tutulan bir yükleniciyle yeniden anlaşmazlık yaşadığı bildirildi. Washington Post'a göre, 2020'de seçmen sahtekarlığı kanıtı bulmak için tutulan Berkeley Research Group anlaşmazlığın içinde yer alıyor.
 
-*The Intercept reports that twenty donors to the Southern Poverty Law Center said the alleged fraud being prosecuted was exactly how they hoped the group would spend their money, including paying informants.*
+*President Donald Trump has reportedly had another falling-out with a contractor hired to support his 2020 election fraud claims. The Berkeley Research Group, hired in 2020 to find evidence of voter fraud, is involved in the dispute, according to The Washington Post.*
 
 **Kaynaklar / Sources:**
-- [The Intercept](https://theintercept.com/2026/04/24/splc-donors-fraud-doj-kash-patel/)  *2026-04-24 15:57* — “We Knew They Were Paying Informants”: SPLC Donors Reject Trump DOJ Fraud Claims
+- [AlterNet](https://www.alternet.org/trump-2020-election-conspiracy/)  *2026-04-24 19:39* — Tempers flare as Trump's voter fraud hunt implodes — again
 
 ---
 
-### 20. Maduro kaçırma olayına karışan asker Polymarket bahislerinden tutuklandı
-*Soldier involved in Maduro abduction arrested for Polymarket bets*
+### 20. Cumhuriyetçiler, tatile girmeden önce tartışmalı yasalarla 'cehennem haftası' ile karşı karşıya
+*Republicans face 'hell week' with controversial legislation ahead of recess*
 
-Truthout, Venezuela Devlet Başkanı Nicolás Maduro'nun kaçırılmasına karışan bir askerin Polymarket bahislerinden kâr elde ettiği için tutuklandığını bildiriyor. Suçlamalar, Trump yönetiminde benzeri görülmemiş yolsuzluk iddialarının ortasında geldi.
+Cumhuriyetçiler, Demokratların muhalefeti ve parti içi bölünmelerle karşı karşıya kalırken üç tartışmalı yasa tasarısını ilerletmeye çalıştıkları zorlu bir haftaya hazırlanıyor. Temsilciler Meclisi Başkanı Mike Johnson durumu yönetmede beceri gösterdi.
 
-*Truthout reports that a soldier involved in the abduction of Venezuelan President Nicolás Maduro was arrested for profiting off Polymarket bets. The charges come amid allegations of unprecedented corruption within the Trump administration.*
+*Republicans are preparing for a challenging week as they push three controversial pieces of legislation while facing opposition from Democrats and internal party divisions. House Speaker Mike Johnson has shown skill in navigating the situation.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/soldier-involved-in-maduro-abduction-arrested-for-profiting-off-polymarket-bets/)  *2026-04-24 15:51* — Soldier Involved in Maduro Abduction Arrested for Profiting Off Polymarket Bets
+- [AlterNet](https://www.alternet.org/republicans-congress-midterms/)  *2026-04-24 19:09* — 'Hell week' closing in on Republicans as recess looms
 
 ---
 
-### 21. Palantir, Trump'ın IRS'sine büyük ölçekli veri madenciliği yapmasında yardımcı oluyor
-*Palantir helps Trump's IRS conduct massive-scale data mining*
+### 21. Muhafazakar AEI raporu, Trump gündemini tersine çevirmezse nüfus azalması krizi uyarısı yapıyor
+*Conservative AEI report warns of depopulation crisis unless Trump reverses agenda*
 
-The Intercept, askeri yüklenici Palantir'in IRS tarafından hassas federal veritabanlarını analiz etmesi için 130 milyon doların üzerinde ödeme aldığını ve büyük ölçekli veri madenciliğine olanak sağladığını bildiriyor.
+American Enterprise Institute, Nicholas Eberstadt tarafından hazırlanan bir rapor yayınlayarak, politika değişiklikleri yapılmazsa ABD'nin bir nüfus azalması kriziyle karşı karşıya olduğu uyarısında bulundu. Rapor, Amerika'nın süresiz nüfus azalmasıyla refah içinde olup olamayacağını sorguluyor.
 
-*The Intercept reports that military contractor Palantir has been paid over $130 million by the IRS to analyze sensitive federal databases, enabling massive-scale data mining.*
+*The American Enterprise Institute released a report by Nicholas Eberstadt warning that the US faces a depopulation crisis unless policy changes are made. The report questions whether America can prosper with indefinite depopulation.*
 
 **Kaynaklar / Sources:**
-- [The Intercept](https://theintercept.com/2026/04/24/palantir-irs-contract-data/)  *2026-04-24 15:00* — Palantir Is Helping Trump’s IRS Conduct “Massive-Scale” Data Mining
+- [AlterNet](https://www.alternet.org/george-will-nicholas-eberstadt/)  *2026-04-24 18:30* — Conservative alarm: America faces crisis unless Trump reverses agenda
 
 ---
 
-### 22. Adalet Bakanlığı'nın vatandaşlığı iptal kampanyası; asker Polymarket bahislerinden suçlandı; et paketçileri grevi kazandı
-*Justice Dept campaign to strip citizenship; soldier charged with Polymarket bets; meatpackers win strike*
+### 22. Beyaz Saray zorlu bir haftada beş büyük başarısızlık yaşadı
+*White House suffers five major failures in a difficult week*
 
-DropSite News birden fazla haberi bildiriyor: Adalet Bakanlığı'nın vatandaşlığı iptal etmek için benzeri görülmemiş kampanyası, gizli bilgileri kullanarak Polymarket'te bahis oynayan bir askerin suçlanması ve et paketçilerinin tarihi bir grevin ardından kazanması.
+Başkan Donald Trump'ın yönetimi, 1 milyon dolar karşılığında vatandaşlık vermeyi amaçlayan 'altın kart' vize planının başarısızlığı da dahil olmak üzere bir dizi aksilik yaşadı. Ticaret Bakanı Howard Lutnick daha önce programa yüksek talep olduğunu iddia etmişti.
 
-*DropSite News reports on multiple stories: the Justice Department's unprecedented campaign to strip citizenship, a soldier charged with using classified info to bet on Polymarket, and meatpackers winning after a historic strike.*
+*President Donald Trump's administration experienced a series of setbacks, including the failure of the 'gold card' visa plan, which was intended to grant citizenship for $1 million. Commerce Secretary Howard Lutnick had previously claimed high demand for the program.*
 
 **Kaynaklar / Sources:**
-- [DropSite News](https://www.dropsitenews.com/p/trump-justice-department-denaturalization-soldier-polymarket-maduro-jbs-meatpackers-colorado)  *2026-04-24 14:47* — The Justice Dept’s unprecedented campaign to strip citizenship; Soldier charged with using classified info to bet on Polymarket; Meatpackers win after historic strike
+- [AlterNet](https://www.alternet.org/trumps-bad-week-2676810763/)  *2026-04-24 18:16* — White House notches 5 major 'flops' in no-good-very-bad week
 
 ---
 
-### 23. 'Ben de' hareketi ara seçimlerde Kongre'ye geri dönüyor
-*'Me Too' movement returns to Congress midterm elections*
+### 23. Trump'ın yeğeni Mary Trump, başkanın 'kumarhane' yorumuna yanıt verdi, iflasları hatırlattı
+*Trump niece Mary Trump responds to president's 'casino' comment, cites bankruptcies*
 
-The Intercept, ara seçim döneminde ortaya çıkan temaları, 'Ben de' hareketinin Kongre'ye dönüşü de dahil olmak üzere bildiriyor.
+Başkan Donald Trump'ın 'dünya bir kumarhanedir' sözlerinin ardından yeğeni Mary Trump, amcasının üç kumarhaneyi iflas ettirdiğini belirterek yanıt verdi. Bu diyalog, Oval Ofis'te bir muhabirin sorusu üzerine gerçekleşti.
 
-*The Intercept reports on themes emerging in the midterm election season, including the return of the 'Me Too' movement to Congress.*
+*After President Donald Trump remarked that 'the world is a casino,' his niece Mary Trump responded by noting that her uncle has bankrupted three casinos. The exchange occurred following a reporter's question in the Oval Office.*
 
 **Kaynaklar / Sources:**
-- [The Intercept](https://theintercept.com/2026/04/24/congress-me-too-swalwell-democrats-midterms/)  *2026-04-24 10:00* — “Me Too” Comes Back To Congress
+- [AlterNet](https://www.alternet.org/trump-casino-iran/)  *2026-04-24 17:55* — 'Bankrupted 3 of them': Trump family member pounces on president's 'casino' comment
 
 ---
 
-### 24. Temelsiz sağlık endişeleri güneş enerjisi tepkisini körüklüyor
-*Unfounded health concerns fuel solar energy backlash*
+### 24. Trump müttefiki Glenn Youngkin Virginia seçim yenilgisinden sorumlu tutuluyor
+*Trump ally Glenn Youngkin blamed for Virginia election loss*
 
-ProPublica, temelsiz sağlık endişelerinin güneş enerjisi tesislerine karşı bir tepkiyi körüklediğini bildiriyor.
+Politico'ya göre, Başkan Donald Trump'ın üst düzey bir müttefiki, Virginia'daki son GOP yenilgisinin suçlanmasıyla yönetimle arasının bozulduğu bildiriliyor. Eski Virginia Valisi Glenn Youngkin'in Demokratlara karşı alınan utanç verici yenilgiden sorumlu tutulduğu belirtiliyor.
 
-*ProPublica reports that unfounded health concerns are driving a backlash against solar energy installations.*
+*According to Politico, a top ally of President Donald Trump is reportedly on the outs with the administration amid blame for a recent GOP loss in Virginia. Former Virginia Governor Glenn Youngkin is said to be catching blame for the humiliating defeat to Democrats.*
 
 **Kaynaklar / Sources:**
-- [ProPublica](https://www.propublica.org/article/michigan-solar-farms-health-concerns-st-clair-county)  *2026-04-24 09:00* — Unfounded Health Concerns Are Powering a Solar Backlash
+- [AlterNet](https://www.alternet.org/trump-youngkin/)  *2026-04-24 17:46* — Trump ally in the dog house amid blame for humiliating loss to Democrats
 
 ---
 
-### 25. CounterPunch makalesi ABD'nin gerileme dönemindeki 'mikro-militarizm'ini anlatıyor
-*CounterPunch article describes US 'micro-militarism' in decline*
+### 25. Muhafazakar yargıç Trump'ın Anayasa'yı zorla çökerttiğini söyledi
+*Conservative judge says Trump forcibly collapsed Constitution*
 
-CounterPunch, ABD gibi bir emperyal gücün gerileme döneminde liderlerinin sıklıkla 'mikro-militarizm' ile tepki verdiğini, yani etkiyi yeniden kazanma umuduyla cesur askeri saldırılar düzenlediğini ve antik Atina ile paralellikler kurduğunu yazıyor.
+Emekli muhafazakar yargıç J. Michael Luttig, Donald Trump'ı Anayasa için 'açık ve mevcut bir tehlike' olarak tanımladı. 6 Ocak Seçim Komitesi'nde ifade veren Luttig, Trump'ın ABD Anayasası'nı 'zorla çökerttiğini' söyledi.
 
-*CounterPunch writes that when an imperial power like the US is in decline, its leaders often react with 'micro-militarism'—bold military strikes in hopes of regaining influence, drawing parallels to ancient Athens.*
+*Retired conservative Judge J. Michael Luttig described Donald Trump as a 'clear and present danger' to the Constitution. He testified before the January 6 Select Committee and has now stated that Trump has 'forcibly collapsed' the US Constitution.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/american-micro-militarism/)  *2026-04-24 05:55* — American “Micro-Militarism”
+- [AlterNet](https://www.alternet.org/conservative-retired-judge-trumps-on-constition-growing-exponentially-worse/)  *2026-04-24 17:32* — Conservative retired judge: Trump has 'forcibly collapsed' the US Constitution
 
 ---
 
-### 26. CounterPunch, milyarderlerin gereksiz olduğunu ve piyasanın onlarsız yapılandırılabileceğini savunuyor
-*CounterPunch argues billionaires are unnecessary and market can be structured without them*
+### 26. Cumhuriyetçi milletvekili, Adalet Bakanlığı'nın infaz mangası eklemesinin ardından asılma çağrısı yaptı
+*Republican congressman calls for hanging after DOJ adds firing squads*
 
-CounterPunch, milyarderlerin gerekli olmadığını ve piyasanın onlardan kaçınacak şekilde yapılandırılabileceğini savunarak, The Economist'in süper zengin bireylerin teknolojik yayılım için gerekli olduğu iddiasını eleştiriyor.
+Bir Cumhuriyetçi kongre üyesi, Adalet Bakanlığı'nın federal sivil tarihte ilk kez infaz mangası da dahil olmak üzere idamları hızlandıracağını açıklamasının ardından idam mahkumlarının asılmasını talep etti. Adalet Bakanlığı ayrıca ölümcül enjeksiyonu yeniden benimsemeyi planlıyor.
 
-*CounterPunch argues that billionaires are not needed and that the market can be structured to avoid having them, criticizing The Economist's claim that mega-wealthy individuals are necessary for technological diffusion.*
+*A Republican member of Congress called for death row prisoners to be hanged after the Department of Justice announced it will expedite executions, including by firing squads for the first time in federal civilian history. The DOJ also plans to readopt lethal injections.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/we-dont-need-billionaires-and-we-can-structure-the-market-so-we-dont-have-them/)  *2026-04-24 05:55* — We Don’t Need Billionaires, and We Can Structure the Market So We Don’t Have Them
+- [AlterNet](https://www.alternet.org/the-right-wing/doj-firing-squad/)  *2026-04-24 17:24* — Republican demands 'hanging' after DOJ brings back firing squads for executions
 
 ---
 
-### 27. CounterPunch, Demokratların 1 Mayıs satın alınabilirlik politikasını eleştiriyor
-*CounterPunch criticizes Democrats' May Day affordability politics*
+### 27. Texas Tech, LGBTQ konularında kısıtlayıcı politikalar oluşturdu
+*Texas Tech establishes restrictive policies on LGBTQ topics*
 
-CounterPunch, ilerici Demokratların 'May Day Strong Coalition' adlı ekonomik protesto günü çağrısını eleştirerek, satın alınabilirlik politikalarının anın gerektirdiğini karşılamadığını savunuyor.
+Truthout'a göre, Texas Tech Üniversitesi LGBTQ konularında yeni sansür politikaları oluşturarak sınıf içi eğitimi kısıtladı ve içerik sansürünü öğrenci araştırmalarına kadar genişletti.
 
-*CounterPunch criticizes progressive Democrats' 'May Day Strong Coalition' call for a day of economic protest, arguing that their affordability politics do not meet the moment.*
+*Texas Tech University has established new censorship policies on LGBTQ topics, restricting classroom instruction and extending content censorship to student research, according to Truthout.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/may-day-surrender-the-dems-affordability-politics-does-not-meet-the-moment/)  *2026-04-24 05:55* — May Day Surrender: The Dems’ Affordability Politics Does Not Meet the Moment
+- [Truthout](https://truthout.org/articles/texas-tech-establishes-draconian-new-censorship-policies-on-lgbtq-topics/)  *2026-04-24 15:50* — Texas Tech Establishes Draconian New Censorship Policies on LGBTQ Topics
 
 ---
 
-### 28. CounterPunch makalesi Trump ve Netanyahu'yu Gazze şiddeti nedeniyle eleştiriyor
-*CounterPunch article criticizes Trump and Netanyahu over Gaza violence*
+### 28. FCC'nin trans içerik uyarıları ekleme hamlesi eleştiri topladı
+*FCC move to add trans content warnings draws criticism*
 
-CounterPunch, ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu'yu Filistinlileri tehdit etmek ve öldürmekle ve birbirlerini şiddette desteklemekle suçlayarak eleştiriyor.
+Eleştirmenler, FCC'nin derecelendirme sistemini trans içerik uyarılarını içerecek şekilde güncelleme hamlesini kınadı. FCC'nin tek Demokrat üyesi bunu 'sorun arayan bir çözüm' olarak nitelendirdi.
 
-*CounterPunch criticizes US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, accusing them of threatening and killing Palestinians, and supporting each other in violence.*
+*Critics slammed the FCC's move to update the ratings system to include trans content warnings. The lone Democratic member of the FCC called it 'a solution in search of a problem.'*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/or-well-kill-you/)  *2026-04-24 05:54* — … Or We’ll Kill You
+- [Truthout](https://truthout.org/articles/critics-slam-fcc-move-to-update-ratings-system-to-include-trans-content-warnings/)  *2026-04-24 15:45* — Critics Slam FCC Move to Update Ratings System to Include Trans Content Warnings
 
 ---
 
-### 29. CounterPunch, AB'nin Gazze soykırımı sırasında İsrail'i koruduğu için ahlaken iflas ettiğini söylüyor
-*CounterPunch says EU morally bankrupt for shielding Israel amid Gaza genocide*
+### 29. Film eleştirisi: 'The History of Sound' incelendi
+*Film review: 'The History of Sound' reviewed*
 
-CounterPunch, AB'nin İspanya, İrlanda ve Slovenya'nın İsrail ile bağları askıya alma çağrılarını reddettiğini, AB'yi silah satıcıları ve Siyonist çıkarlar karteli olarak nitelendirerek ahlaki iflasla suçladığını bildiriyor.
+CounterPunch, Oliver Hermanus'un yönettiği ve Ben Shattuck'ın kısa öyküsünden uyarladığı senaryosuyla 'The History of Sound' filminin bir eleştirisini yayınladı. Eleştiri, başlığın görkemli evrenselliğinin filmi zayıflattığını belirtiyor.
 
-*CounterPunch reports that the EU rejected calls from Spain, Ireland, and Slovenia to suspend ties with Israel, calling the EU a cartel of arms dealers and Zionist interests, and accusing it of moral bankruptcy.*
+*CounterPunch published a review of the film 'The History of Sound', directed by Oliver Hermanus from a script by Ben Shattuck adapting his short story. The review notes the title's grandiose universality undercuts the film.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/the-eus-moral-bankruptcy-germany-and-italy-shield-israel-as-the-gaza-genocide-continues/)  *2026-04-24 05:54* — The EU’s Moral Bankruptcy: Germany and Italy Shield Israel as the Gaza Genocide Continues
+- [CounterPunch](https://www.counterpunch.org/2026/04/24/sound-history/)  *2026-04-24 05:46* — Sound History
 
 ---
 
-### 30. CounterPunch, kölelik için tazminatı meşru bir mücadele olarak destekliyor
-*CounterPunch supports reparations for slavery as legitimate struggle*
+### 30. Köşe yazısı Donald Trump'ın gelecekteki 'ceset sinodunu' hayal ediyor
+*Opinion piece imagines future 'cadaver synod' of Donald Trump*
 
-CounterPunch, kölelik için tazminatın meşru bir mücadele olduğunu savunarak, bir kişi diğerine zarar verdiğinde özür dilemesi ve zararı telafi etmesi gerektiğinin sağduyu olduğunu belirtiyor.
+CounterPunch, 'Papa Donald'ın Ceset Sinodu' başlıklı bir görüş yazısı yayınladı. Yazı, Donald Trump'ın ölümü ve mirası hakkında spekülasyon yapıyor ve Trump'ı eleştirmek için canlı imgeler kullanıyor.
 
-*CounterPunch argues that reparations for slavery are a legitimate struggle, stating that common sense dictates that when one person hurts another, they should apologize and make amends.*
+*CounterPunch published an opinion piece titled 'The Cadaver Synod of Pope Donald' that speculates about Donald Trump's death and legacy. The piece uses vivid imagery to criticize Trump.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/reparations-for-slavery-a-legitimate-struggle/)  *2026-04-24 05:53* — Reparations for Slavery: a Legitimate Struggle
+- [CounterPunch](https://www.counterpunch.org/2026/04/24/the-cadaver-synod-of-pope-donald/)  *2026-04-24 05:45* — The Cadaver Synod of Pope Donald
 
 ---
 
-### 31. CounterPunch, Trump'ı Netanyahu'nun 'şeker babası' olarak tanımlıyor
-*CounterPunch describes Trump as Netanyahu's 'sugar daddy'*
+### 31. Orman Hizmetleri projesi kovuk bağımlı baykuşları tehdit ediyor, eleştirmenler diyor
+*Forest Service project threatens snag-dependent owls, critics say*
 
-CounterPunch, Donald Trump ile Binyamin Netanyahu arasındaki ilişkiyi tanımlamak için 'şeker babası' benzetmesini kullanarak Trump'ın Netanyahu'ya mali ve siyasi destek sağladığını ima ediyor.
+Custer-Gallatin Ulusal Ormanı, Yellowstone yakınlarında 824 dönümlük alanı tıraşlama ve 802 dönümlük alandaki ağaçların çoğunu kesme öngören Bear-Palmer projesini önerdi. Eleştirmenler, bunun kovuk bağımlı baykuşları mahvedeceğini söylüyor.
 
-*CounterPunch uses the analogy of a 'sugar daddy' arrangement to describe the relationship between Donald Trump and Benjamin Netanyahu, implying that Trump provides financial and political support to Netanyahu.*
+*The Custer-Gallatin National Forest proposed the Bear-Palmer project near Yellowstone, which would clearcut 824 acres and log most trees on 802 acres. Critics say it will devastate snag-dependent owls.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/trump-netanyahus-sugar-daddy/)  *2026-04-24 05:52* — Trump: Netanyahu’s Sugar Daddy
+- [CounterPunch](https://www.counterpunch.org/2026/04/24/the-forest-services-bear-palmer-logging-and-burning-project-will-devastate-snag-dependent-owls/)  *2026-04-24 05:43* — The Forest Service’s Bear-Palmer Logging and Burning Project Will Devastate Snag-Dependent Owls
 
 ---
 
-### 32. Sırp siyasetinde Jasenovac söyleminin analizi
-*Analysis of Jasenovac discourse in Serbian politics*
+### 32. Ridglan Çiftlikleri'ne karşı canlı deney karşıtı kampanya tartışıldı
+*Anti-vivisection campaign against Ridglan Farms discussed*
 
-CounterPunch, Sırp siyasi söyleminde Jasenovac toplama kampına ilişkin ahlaki çöküşün bir analizini yayınladı. Makale, içeriğin yerleşik ideolojik kalıpları izlemesine rağmen, sunumundaki soğukluğun şok edici olduğunu belirtiyor.
+CounterPunch, Wayne Hsiung liderliğindeki Ridglan Çiftlikleri'ne karşı canlı deney karşıtı kampanyayı tartışıyor. Aktivistler 15 Mart'ta Wisconsin'deki bir beagle yetiştirme tesisinden 22 köpeği kurtardı, 27 kişi tutuklandı.
 
-*CounterPunch published an analysis of the moral collapse in Serbian political discourse regarding the Jasenovac concentration camp. The article notes that while the content follows established ideological patterns, the coldness of its delivery is shocking.*
+*CounterPunch discusses the anti-vivisection campaign against Ridglan Farms led by Wayne Hsiung. Activists rescued 22 dogs from a beagle-breeding facility in Wisconsin on March 15, with 27 people arrested.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/anatomy-of-a-moral-collapse-jasenovac-on-the-serbian-political-market/)  *2026-04-24 05:50* — Anatomy of a Moral Collapse: Jasenovac on the Serbian Political Market
+- [CounterPunch](https://www.counterpunch.org/2026/04/24/the-ridglan-regression/)  *2026-04-24 05:43* — The Ridglan Regression
 
 ---
 
-### 33. Trump'ın Bütçesi Çevre Programlarını Hedef Alıyor
-*Trump's Budget Targets Environmental Programs*
+### 33. Analiz, İran çatışmasında ABD politikasındaki tutarsızlığı eleştiriyor
+*Analysis criticizes US policy incoherence in Iran conflict*
 
-CounterPunch, Trump'ın bütçe talebinin 'Yeşil Yeni Dolandırıcılık' olarak adlandırdığı programları hedef alan çevre girişimlerinde kesintiler içerdiğini, askeri harcamaları ise artırdığını bildiriyor.
+CounterPunch, İran çatışmasındaki ABD politikasının stratejik tutarsızlıkla tanımlandığını, Başkan Trump'ın değişen pozisyonları ve karışık savaş hedefleri olduğunu savunan bir analiz yayınladı. Hürmüz Boğazı'nın kapatılmasından bahsediliyor.
 
-*CounterPunch reports that Trump's budget request includes cuts to environmental initiatives, targeting what he calls 'Green New Scam' programs, while increasing military spending.*
+*CounterPunch published an analysis arguing that US policy in the Iran conflict is defined by strategic incoherence, with President Trump's shifting positions and confused war objectives. The closure of the Strait of Hormuz is mentioned.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/trumps-budget-targets-out-last-line-of-defense-against-pandemics-and-environmental-crises/)  *2026-04-24 05:50* — Trump’s Budget Targets Out Last Line of Defense Against Pandemics and Environmental Crises
+- [CounterPunch](https://www.counterpunch.org/2026/04/24/confusion-and-delusion-in-the-iran-war/)  *2026-04-24 05:41* — Confusion and Delusion in the Iran War
 
 ---
 
-### 34. Gazi Evsizliği ve Mücadeleleri Vurgulanıyor
-*Veteran Homelessness and Struggles Highlighted*
+### 34. Köşe yazısı Siyonizm ve ABD dış politikasını eleştiriyor
+*Opinion piece criticizes Zionism and US foreign policy*
 
-CounterPunch, bir gazinin hizmet sonrası evsizlik ve düşük ücretli iş deneyimini aktararak birçok gazinin karşılaştığı ruh sağlığı sorunlarını ve ailevi zorlukları vurguluyor.
+CounterPunch, 'Hiçbir İranlı Bana Goyim Demedi: Siyonizm ve Amerika'nın Trajedisi' başlıklı bir görüş yazısı yayınladı. Yazı, Siyonizm ve ABD dış politikasını eleştiriyor, Muhammed Ali ve Henry Kissinger'a atıfta bulunuyor.
 
-*CounterPunch features a veteran's account of homelessness and low-wage work after service, highlighting mental health issues and family challenges faced by many veterans.*
+*CounterPunch published an opinion piece titled 'No Iranian Ever Called Me Goyim: the Tragedy of Zionism and America' that criticizes Zionism and US foreign policy, referencing Muhammad Ali and Henry Kissinger.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/i-served-my-country-but-its-leaving-me-high-and-dry/)  *2026-04-24 05:50* — I Served My Country But It’s Leaving Me High and Dry
+- [CounterPunch](https://www.counterpunch.org/2026/04/24/no-iranian-ever-called-me-goyim-the-tragedy-of-zionism-and-america/)  *2026-04-24 05:40* — No Iranian Ever Called Me Goyim:  the Tragedy of Zionism and America
 
 ---
 
-### 35. İran'ın Şeytanlaştırılmasının Eleştirisi
-*Critique of Demonization of Iran*
+### 35. Minneapolis'te bir kadın, ICE tarafından arabadan sürüklenmesinin ardından tazminat başvurusunda bulundu
+*Minneapolis woman files claim after being dragged from car by ICE*
 
-CounterPunch, İran'ın büyük bir tehdit olarak gösterilmesinin 1953 ABD-İngiliz darbesini göz ardı ettiğini ve ABD saldırganlığını meşrulaştırmak için anlatıya 1979'dan başladığını savunuyor.
+Aliya Rahman, ICE ajanları tarafından arabasından şiddetle sürüklenmesinin ardından İç Güvenlik Bakanlığı'na tazminat başvurusunda bulundu. Kitlesel ırk şiddeti eylemlerini çok pahalı hale getirebilecek araçları vurgulamayı umuyor.
 
-*CounterPunch argues that the portrayal of Iran as a major threat overlooks the 1953 US-British coup and starts the narrative in 1979 to justify US aggression.*
+*Aliya Rahman filed a claim against the Department of Homeland Security after being violently dragged from her car by ICE agents. She hopes to highlight tools that could make mass acts of racial violence too expensive.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/demonized-iran-a-tale-told-by-an-idiot/)  *2026-04-24 05:49* — Demonized Iran: A Tale Told By An Idiot
+- [Truthout](https://truthout.org/video/minneapolis-woman-violently-dragged-from-car-by-ice-files-claim-against-dhs/)  *2026-04-17 18:13* — Minneapolis Woman Violently Dragged From Car by ICE Files Claim Against DHS
 
 ---
 
-### 36. Kitap İncelemesi: Büyük Resimde Ağır Yük Kaldırmak
-*Book Review: Heavy Lifting in the Big Picture*
+### 36. Trump, İran'ın boğazı açtığı iddiasına rağmen ablukanın devam ettiğini söyledi
+*Trump says blockade of Iran remains despite Strait opening claim*
 
-CounterPunch, toplumsal sorunların Büyük Resim eleştirisini sunan ve düzeltmeler öneren bir kitabı inceliyor; onu Silent Spring ve Small is Beautiful gibi eserlerle karşılaştırıyor.
+Başkan Trump, İran'ın Hürmüz Boğazı'nı açtığını iddia etmesinin ardından, ABD'nin İran'a yönelik deniz ablukasının 'İRAN'LA İŞLEMİMİZ %100 TAMAMLANANA KADAR' yürürlükte kalacağını söyledi.
 
-*CounterPunch reviews a book that offers a Big Picture critique of societal problems and proposes correctives, comparing it to works like Silent Spring and Small is Beautiful.*
+*President Trump said the US naval blockade of Iran will remain in effect until 'OUR TRANSACTION WITH IRAN IS 100% COMPLETE,' after Iran claimed it was opening the Strait of Hormuz.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/heavy-lifting-in-the-big-picture/)  *2026-04-24 05:49* — Heavy Lifting in the Big Picture
+- [Truthout](https://truthout.org/articles/trump-says-hes-still-blockading-iran-after-it-says-its-opening-strait/)  *2026-04-17 17:28* — Trump Says He’s Still Blockading Iran After It Says It’s Opening Strait
 
 ---
 
-### 37. Virginia Seçim Bölgesi Düzenleme Önlemi Yasal Engelle Karşılaştı
-*Virginia Gerrymander Measure Faces Legal Challenge*
+### 37. Temsilciler Meclisi Adalet Komitesi, Jared Kushner'ın Suudi yatırımlarını araştırıyor
+*House Judiciary investigates Jared Kushner's Saudi investments*
 
-CounterPunch, Virginia'da ABD Temsilciler Meclisi bölgelerinin Demokrat Parti lehine yeniden çizilmesine izin veren bir seçim önleminin seçmenler tarafından onaylandığını ancak bir yargıcın oy pusulası dilini yanıltıcı bularak sonuçların onaylanmasını engellediğini bildiriyor.
+Temsilciler Meclisi Adalet Komitesi, Jared Kushner'ın 'Barış Özel Temsilcisi' olarak görev yaparken Suudi Arabistan'dan aldığı yatırımları araştırıyor. Kushner, özel işi için Körfez monarşilerinden yatırım talep ediyor.
 
-*CounterPunch reports that a Virginia ballot measure allowing redrawing of US House districts for Democratic benefit was approved by voters but a judge blocked certification, calling the ballot language misleading.*
+*The House Judiciary Committee is investigating Jared Kushner's investments from Saudi Arabia while he serves as 'Special Envoy for Peace.' Kushner is soliciting investments from Gulf monarchies for his private business.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/theres-a-simple-way-to-end-the-gerrymander-wars/)  *2026-04-24 05:48* — There’s a Simple Way to End the Gerrymander Wars
+- [Truthout](https://truthout.org/articles/house-judiciary-investigating-jared-kushners-investments-from-saudi-arabia/)  *2026-04-17 16:27* — House Judiciary Investigating Jared Kushner’s Investments From Saudi Arabia
 
 ---
 
-### 38. ABD federal bütçe teklifi başkanlık değerlerini yansıtıyor, nadiren Kongre'den geçiyor
-*US federal budget proposal reflects presidential values, rarely passes Congress*
+### 38. OMB başkanı İran savaşı maliyet tahminlerini vermeyi reddetti
+*OMB head refuses to provide Iran war cost estimates*
 
-Makale, ABD başkanının yıllık federal bütçe teklifinin pratik bir plan değil, değerleri ifade eden ahlaki bir belge olduğunu ve neredeyse hiçbir zaman Kongre'den yazıldığı gibi geçmediğini tartışıyor.
+Yönetim ve Bütçe Ofisi başkanı Russ Vought, İran savaşı maliyetlerine ilişkin mali tahminler vermeyi reddetti. Bir politika uzmanı, savaşın sonunda maliyetlerin 1 trilyon doları aşacağını tahmin ediyor.
 
-*The article discusses how the US president's annual federal budget proposal is a moral document expressing values rather than a practical plan, as it virtually never passes Congress as written.*
+*Office of Management and Budget head Russ Vought refused to provide financial estimates on Iran war costs. One policy expert estimates costs will likely exceed $1 trillion by the end of the war.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/when-we-disinvest-in-people-we-all-pay-the-price/)  *2026-04-24 05:48* — When We Disinvest in People, We All Pay the Price
+- [Truthout](https://truthout.org/articles/omb-head-russ-vought-refuses-to-provide-financial-estimates-on-iran-war-costs/)  *2026-04-17 16:15* — OMB Head Russ Vought Refuses to Provide Financial Estimates on Iran War Costs
 
 ---
 
-### 39. Rolling Stone dergisinin Woodstock sayısı bir okuyucu tarafından anımsanıyor
-*Rolling Stone magazine's Woodstock issue recalled by reader*
+### 39. Cumhuriyetçi karar Minnesota vahşi doğasını madenciliğe açıyor
+*GOP resolution opens Minnesota wilderness to mining*
 
-Kişisel bir anlatı, Rolling Stone dergisiyle ilk karşılaşmayı, özellikle 1969 Woodstock festivaline ayrılmış sayıyı anlatıyor.
+Cumhuriyetçi Parti, Minnesota vahşi doğasını madenciliğe açan bir kararı kabul etti. Orman Hizmetleri, değerlendirilen maden gibi madenlerin 'ciddi ve telafisi mümkün olmayan zararlara' yol açabileceği uyarısında bulundu.
 
-*A personal account describes the first encounter with Rolling Stone magazine, specifically the issue devoted to the 1969 Woodstock festival.*
+*The GOP passed a resolution to open Minnesota wilderness up for mining. The Forest Service has warned that mines like the one under consideration could cause 'serious and irreplaceable harm.'*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/like-a-rolling-stone/)  *2026-04-24 05:47* — Like a Rolling Stone?
+- [Truthout](https://truthout.org/articles/the-gop-just-passed-a-resolution-to-open-minnesota-wilderness-up-for-mining/)  *2026-04-17 15:24* — The GOP Just Passed a Resolution to Open Minnesota Wilderness Up for Mining
 
 ---
 
-### 40. Netflix dizisi 'Beef 2' büyük teknolojinin dijital egemenliğini inceliyor
-*Netflix series 'Beef 2' explores digital domination by big tech*
+### 40. İsrail'in yeni idam yasası Filistinli mahkumların umudunu hedef alıyor
+*Israel's new death penalty law targets Palestinian prisoners' hope*
 
-Makale, Lee Sung Jin'in sekiz bölümlük Netflix dizisi 'Beef 2'yi inceliyor; 2023 yapımı 'Beef' dizisindeki yol öfkesi olayı temalarını sürdürüyor ve büyük teknolojinin dijital egemenliğine genişliyor.
+Filistinli Mahkumlar Günü'nde, yeni bir İsrail idam yasası, tutuklu Filistinlilerin aileleri için acı gerçeği daha da kötüleştiriyor. Truthout'a göre yasa, mahkumların yaşadığı umudu yok etmeyi hedefliyor.
 
-*The article reviews 'Beef 2', an eight-episode Netflix series by Lee Sung Jin, which continues themes from the 2023 series 'Beef' about a road rage incident and expands to digital domination by big tech.*
+*On Palestinian Prisoners' Day, a new Israeli death penalty law exacerbates the painful reality for families of imprisoned Palestinians. The law aims to destroy the hope that prisoners live on, according to Truthout.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/24/beef-2-perpetrators-and-victims-of-big-techs-digital-domination/)  *2026-04-24 05:46* — “Beef 2”: Perpetrators and Victims of Big Tech’s Digital Domination
+- [Truthout](https://truthout.org/articles/palestinian-prisoners-live-on-hope-israels-death-penalty-aims-to-destroy-it/)  *2026-04-17 15:22* — Palestinian Prisoners Live on Hope. Israel’s Death Penalty Aims to Destroy It.
 
 ---
 
-### 41. Eldorado do Carajás katliamı 30 yıl sonra anılıyor
-*Eldorado do Carajás massacre remembered 30 years later*
+### 41. Truthout, her iki partinin de İran'la olası savaşın yolunu açtığını savunuyor
+*Both parties paved way for potential war with Iran, Truthout argues*
 
-BreakThrough News, 1996'da Brezilya askeri polisinin Eldorado do Carajás Katliamı'nda 21 topraksız işçiyi öldürdüğünü bildiriyor. Otuz yıl sonra, adalet hâlâ sağlanamadı ve faillerin çoğu hesap vermedi.
+Truthout, Trump yönetiminin İran'a yönelik savaşının yalnızca Trump'ın işi olmadığını; Demokratların da Cumhuriyetçilerle birlikte böyle bir savaşı mümkün kılan iklimi yaratma sorumluluğunu paylaştığını savunuyor.
 
-*BreakThrough News reports that in 1996, Brazilian military police killed 21 landless workers in the Eldorado do Carajás Massacre. Thirty years later, justice remains incomplete, with most perpetrators unaccountable.*
+*Truthout argues that the Trump administration's war on Iran is not solely Trump's doing; Democrats share responsibility with Republicans for creating the climate that made such a war possible.*
 
 **Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/watch?v=_NJUEpuWXD0)  *2026-04-23 23:05* — 21 Workers Killed, But Not Forgotten: The Massacre Still Shaping Brazil’s MST
+- [Truthout](https://truthout.org/articles/this-isnt-just-trumps-war-on-iran-both-parties-paved-the-way-for-disaster/)  *2026-04-17 15:10* — This Isn’t Just Trump’s War on Iran. Both Parties Paved the Way for Disaster.
 
 ---
 
-### 42. Gazeteci Amal Khalik İsrail güçleri tarafından öldürüldü
-*Journalist Amal Khalik killed by Israeli forces*
+### 42. Palantir, 1,6 milyar dolar gelire rağmen 2025'te federal gelir vergisi ödemedi
+*Palantir paid no federal income tax in 2025 despite $1.6 billion revenue*
 
-BreakThrough News, Al-Akhbar muhabiri Amal Khalil'in İsrail'den sürekli tehditler aldığını ve hedef alınarak öldürüldüğünü bildiriyor. İsrail güçleri, hava saldırıları düzenleyerek kurtarma ekiplerinin cesedini saatlerce almasını engelledi.
+Truthout, Palantir'in 1,6 milyar dolar kazanmasına ve 10 milyar dolarlık askeri sözleşme almasına rağmen 2025'te federal gelir vergisi ödemediğini bildiriyor. Şirket, ICE ve Pentagon ile ortaklık yapıyor.
 
-*BreakThrough News reports that Al-Akhbar reporter Amal Khalil faced constant threats from Israel and was targeted in an assassination. Israeli forces blocked rescue teams from recovering her body for hours by launching airstrikes.*
+*Truthout reports that Palantir paid no federal income tax in 2025, despite earning $1.6 billion and securing a $10 billion military contract. The company partners with ICE and the Pentagon.*
 
 **Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/shorts/VDm3N8tYOJc)  *2026-04-23 23:02* — Journalist Amal Khalik 'refused to stop' despite Israel's threats
+- [Truthout](https://truthout.org/articles/palantir-paid-no-federal-income-tax-in-2025-as-it-partnered-with-ice-pentagon/)  *2026-04-16 21:17* — Palantir Paid No Federal Income Tax in 2025 as It Partnered With ICE, Pentagon
 
 ---
 
-### 43. Meksika devlet başkanı, Chihuahua'da izinsiz CIA ajanlarını doğruladı
-*Mexico's president confirms unauthorized CIA agents in Chihuahua*
+### 43. Savunma Bakanı Hegseth, basını eleştirmek için İncil hikayesi kullandı, sahte pasaj okudu
+*Defense Secretary Hegseth uses Bible story to bash press, reads fake passage*
 
-BreakThrough News, Meksika Devlet Başkanı Claudia Sheinbaum'un Chihuahua'da izinsiz olarak CIA ajanlarının faaliyet gösterdiğini doğruladığını bildiriyor. İki ajan, Meksika hükümetiyle koordine edilmeyen bir uyuşturucuyla mücadele operasyonunun ardından bir trafik kazasında öldü.
+Truthout, Savunma Bakanı Pete Hegseth'in 'Trump'tan nefret eden' basını eleştirmek için 'Pulp Fiction'dan sahte bir İncil pasajı okuduğu dini bir etkinliğe katıldığını bildiriyor.
 
-*BreakThrough News reports that Mexican President Claudia Sheinbaum confirmed CIA agents were operating in Chihuahua without authorization. Two agents were killed in a car accident after a counter-narcotics operation not coordinated with the Mexican government.*
-
-**Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/shorts/-X20IpUKCHk)  *2026-04-23 21:49* — Claudia Sheinbaum confirms CIA agents operating in Mexico without authorization
-
----
-
-### 44. Trump, politika değişiklikleri nedeniyle MAHA destekçilerini kaybediyor
-*Trump loses MAHA supporters over policy shifts*
-
-AlterNet, Başkan Donald Trump'ın, RFK Jr.'ın Trump'ı desteklemesinden önce onu destekleyen sağlık bilincine sahip kadın koalisyonu Make America Healthy Again (MAHA) destekçilerini kaybettiğini bildiriyor. Trump'ın tehlikeli maddelerin yasaklanması gibi konularda geri adım atmasıyla hayal kırıklığı arttı.
-
-*AlterNet reports that President Donald Trump is losing Make America Healthy Again (MAHA) supporters, a health-conscious female coalition that backed RFK Jr. before he endorsed Trump. Disillusionment grew after Trump turned on issues like banning dangerous substances.*
+*Truthout reports that Defense Secretary Pete Hegseth participated in a religious event where he read a fake Bible passage from 'Pulp Fiction' to criticize the 'Trump-hating' press.*
 
 **Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/maha-pesticide-trump/)  *2026-04-23 21:26* — 'I've never felt so betrayed': MAHA disillusionment hits high gear
-
----
-
-### 45. Lara Trump, başkanlığın Trump'a zarar verdiğini iddia ettiği için eleştirildi
-*Lara Trump criticized for claiming presidency hurts Trump*
-
-AlterNet, sosyal medyadaki eleştirmenlerin Lara Trump'ı, başkanlığın Donald Trump'a zarar verdiğini iddia ettiği için eleştirdiğini ve servetinin patladığını belirttiğini bildiriyor. Trump'ın başkan olmasaydı hayatının daha iyi olacağı iddiasını reddettiler.
-
-*AlterNet reports that critics on social media slammed Lara Trump for claiming that the presidency is hurting Donald Trump, noting that his wealth has exploded. They rejected her claim that Trump's life would be better if he weren't president.*
-
-**Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-family-corruption-wealth/)  *2026-04-23 21:15* — Lara Trump buried for claiming presidency is hurting Trump — as his wealth explodes
-
----
-
-### 46. Trump elçisinin oğlu uyuşturucu bulundurmaktan tutuklandı, görüntülendi
-*Trump envoy's son arrested for drug possession, filmed*
-
-AlterNet, Steve Witkoff'un oğlu Zach Witkoff'un Ocak 2022'de Miami'de bir gece kulübünde uyuşturucu bulundurmaktan tutuklanmasına ilişkin görüntülerin ortaya çıktığını bildiriyor. Tutuklama kaydedildi ve polis memurları ona isim vermeyi bırakmasını söyledi.
-
-*AlterNet reports that footage has emerged of Steve Witkoff's son Zach Witkoff being arrested for drug possession at a Miami nightclub in January 2022. The arrest was filmed, and officers told him to stop dropping names.*
-
-**Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/steve-witkoff-son-drugs/)  *2026-04-23 20:42* — Officers order Trump official's son to 'stop dropping names' during filmed arrest
-
----
-
-### 47. Cumhuriyetçiler Trump'a Fed Başkanı Powell'a yönelik saldırıları sonlandırması çağrısı yapıyor
-*Republicans urge Trump to end attacks on Fed Chair Powell*
-
-AlterNet, daha fazla Cumhuriyetçinin Başkan Trump'a Fed Başkanı Jerome Powell'a yönelik yasal saldırılarını durdurmasını emrettiğini ve Trump'ın gelecek ay Powell'ın yerine atama yapacağını belirttiğini bildiriyor. Saldırılar anlamsız olarak görülüyor.
-
-*AlterNet reports that more Republicans are ordering President Trump to stop his legal attacks on Fed Chair Jerome Powell, noting that Trump will appoint Powell's replacement next month. The attacks are seen as pointless.*
-
-**Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-fed-chair-2676806562/)  *2026-04-23 19:59* — More Republicans order Trump to 'get rid' of his war on fed chair Jerome Powell
-
----
-
-### 48. On binlerce Samsung işçisi zam ve prim talep ediyor
-*Tens of thousands of Samsung workers demand higher wages and bonuses*
-
-Güney Kore'nin Pyeongtaek kentinde yaklaşık 40.000 sendikalı Samsung işçisi Perşembe günü zam ve prim talebiyle miting düzenledi. Sendika, şirket kârlarının daha adil dağıtılmasını istiyor ve 21 Mayıs'ta grev çağrısı yaptı.
-
-*Around 40,000 unionized Samsung workers in Pyeongtaek, South Korea rallied to demand higher wages and bonuses on Thursday. The union is pushing for better profit distribution and has called for a strike on May 21.*
-
-**Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/shorts/-O3GBd8FVSs)  *2026-04-23 19:28* — Tens of thousands of Samsung workers demand higher wages, bonuses
-
----
-
-### 49. Trump'ın yeni Deniz Kuvvetleri Bakanı tartışmalı görüşleri ve görevden alma anlaşmazlığı
-*Trump's new Navy secretary has controversial views and firing dispute*
-
-John Phelan'ın ayrılmasının ardından atanan geçici Deniz Kuvvetleri Bakanı Hung Cao, 'uyanık' karşıtı duruşu ve tartışmalı açıklamalarıyla tanınıyor. Fox News, Phelan'ın mahkeme kararını görmezden gelmeyi reddettiği için kovulduğunu ve Savunma Bakanı Pete Hegseth ile anlaşmazlık yaşadığını bildirdi.
-
-*Acting Navy Secretary Hung Cao, appointed after John Phelan's departure, is known for anti-'woke' stances and controversial statements. Fox News reported that Phelan was fired for refusing to ignore a court order, leading to a dispute with Defense Secretary Pete Hegseth.*
-
-**Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-naval-secretary/)  *2026-04-23 19:26* — Trump's new Navy secretary has thoughts on 'witchcraft' — and that's just for starters
-- [AlterNet](https://www.alternet.org/john-phelan-fired/)  *2026-04-23 19:23* — Fox News says Trump admin fired Navy secretary for refusing to ignore court order
-
----
-
-### 50. Trump'ın 'her şeyin berbat' yönetimi için yeni bir kelime önerildi
-*New word suggested for Trump's 'omnishambles' governance*
-
-Zeteo editörü Martin Pengelly, Başkan Donald Trump'ın yönetimindeki krizin derinliğini tanımlamak için, İskoç bir aktörün 'The Thick of It' dizisindeki 'omnishambles' (her şeyin berbat) sözünden esinlenerek yeni bir terim önerdi.
-
-*Zeteo editor Martin Pengelly suggested a new term to describe the depth of crisis in President Donald Trump's administration, inspired by a Scottish actor's line from 'The Thick of It' calling it an 'omnishambles'.*
-
-**Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/trump-iran-midterms-mess/)  *2026-04-23 19:16* — A scathing new word is suggested for Trump's particular brand of 'shambles'
-
----
-
-### 51. Gazetecilik profesörü Trump'ın yalanlarına karşı strateji önerdi
-*Journalism professor suggests strategy to counter Trump's lies*
-
-Bir gazetecilik profesörü, Beyaz Saray muhabirlerinin Başkan Donald Trump'ın her gerçek iddiasında anında doğrulama yapmasını önerdi. Bu yöntemle sık sık yalan söyleyen Trump'a karşı tarafsızlık suçlamalarından kaçınılabileceği belirtildi.
-
-*A journalism professor suggested that the White House press corps should immediately fact-check President Donald Trump every time he asserts a fact, to counter his frequent lies without being accused of bias.*
-
-**Kaynaklar / Sources:**
-- [AlterNet](https://www.alternet.org/the-media-can-catch-trump-s-lies-by-doing-these-two-things/)  *2026-04-23 19:12* — The simple two-word strategy that could stop Trump's lies cold
-
----
-
-### 52. Aktivist: Trump'ın Küba saldırılarına ABD'de destek yok
-*No support for Trump's Cuba attacks in US, says activist*
-
-BreakThrough News, Trump'ın enerji ablukası nedeniyle Küba'da 96.000 kişinin ameliyat sırası beklediğini bildirdi. Aktivist Manolo.socialista, Trump'ın Küba'ya yönelik saldırılarının ABD'de hiçbir desteği olmadığını, bunun sadece aşırı sağcı Küba asıllı Amerikalıların azınlığı tarafından yönlendirildiğini iddia etti.
-
-*BreakThrough News reports that 96,000 people in Cuba are waiting for surgery due to fuel shortages from Trump's energy blockade. Activist Manolo.socialista claims there is no support in the US for Trump's attacks on Cuba, driven only by a minority of far-right Cuban Americans.*
-
-**Kaynaklar / Sources:**
-- [BreakThrough News](https://www.youtube.com/shorts/is4Fv7XZ2IQ)  *2026-04-23 18:47* — 'No support' for Trump's attacks on Cuba in US
-
----
-
-### 53. Capital One'a İsrail silah şirketine kredi vermesi nedeniyle protesto
-*Protest targets Capital One over loans to Israeli weapons company*
-
-Aktivistler, Capital One'ın İsrail'in en büyük silah üreticisi Elbit Systems'e kredi vermesini protesto etti ve bankayı bu kredileri durdurmaya çağırdı.
-
-*Activists protested outside Capital One, urging the bank to stop extending credit to Elbit Systems, Israel's largest weapons manufacturer.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/protest-targets-capital-one-to-demand-bank-ends-loans-to-israeli-weapons-company/)  *2026-04-23 18:16* — Protest Targets Capital One to Demand Bank Ends Loans to Israeli Weapons Company
-
----
-
-### 54. Hürmüz Boğazı'nın uzun süreli kapanması küresel açlık felaketine yol açabilir
-*Prolonged Strait of Hormuz closure may cause global hunger catastrophe*
-
-Adam Hanieh, Hürmüz Boğazı'nın uzun süreli kapanmasının, gelişmekte olan ülkelerdeki rekor düzeydeki borç kriziyle birlikte küresel bir gıda krizine yol açabileceği uyarısında bulundu.
-
-*Adam Hanieh warns that a prolonged closure of the Strait of Hormuz could lead to a global food crisis amid the worst debt crisis on record for developing countries.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/video/prolonged-closure-of-strait-of-hormuz-may-lead-to-global-hunger-catastrophe/)  *2026-04-23 17:49* — Prolonged Closure of Strait of Hormuz May Lead to Global Hunger Catastrophe
-
----
-
-### 55. Senato Cumhuriyetçileri, ilaç fiyatlarını yarıya indirecek Sanders değişikliğini engelledi
-*Senate GOP blocks Sanders amendment to cut drug prices by half*
-
-Senato Cumhuriyetçileri, Senatör Bernie Sanders'ın Amerikalıların ilaçlara birçok zengin ülkedeki insanlarla benzer fiyatlar ödemesini zorunlu kılacak değişikliğini engelledi. Bu değişiklik ilaç fiyatlarını yarıya indirebilirdi.
-
-*The Senate GOP blocked Senator Bernie Sanders' amendment that would have required Americans to pay similar prices for medications as people in many wealthy nations, potentially cutting drug prices by half.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/senate-gop-blocks-sanders-amendment-that-would-have-cut-drug-prices-by-half/)  *2026-04-23 15:57* — Senate GOP Blocks Sanders Amendment That Would Have Cut Drug Prices by Half
-
----
-
-### 56. Bombalamalar azalsa da İsrail Gazze'de hayatın her alanını kontrol ediyor
-*Israel controls every aspect of life in Gaza despite reduced bombing*
-
-Truthout'taki bir makale, bombalamaların yavaşlamasına rağmen İsrail'in Gazze'de hayatın her alanını kontrol ettiğini, sakinlerin kısıtlamalar arasında küçük mutluluk anları bulduğunu anlatıyor.
-
-*A Truthout article describes how, despite a slowdown in bombing, Israel maintains control over every aspect of life in Gaza, with residents finding small moments of joy amid restrictions.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/the-bombs-have-slowed-but-israel-controls-every-aspect-of-our-lives-in-gaza/)  *2026-04-18 14:34* — The Bombs Have Slowed, But Israel Controls Every Aspect of Our Lives in Gaza
-
----
-
-### 57. ABD madencilik planı, silah ve teknoloji için Meksika'nın çevresini feda ediyor
-*US mining plan sacrifices Mexico's environment for weapons and tech*
-
-Truthout, ABD ile Meksika arasındaki yeni madencilik anlaşmasının Meksika'ya hiçbir fayda sağlamadığını ve sağlık ile çevresel etkileri ele almadığını, ABD'nin silah ve teknoloji ihtiyaçlarına öncelik verdiğini bildirdi.
-
-*Truthout reports that a new mining agreement between the US and Mexico provides no benefits for Mexico and fails to address health and environmental impacts, prioritizing US weapons and tech needs.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/us-mining-plan-will-sacrifice-mexicos-environment-for-weapons-and-tech/)  *2026-04-18 14:13* — US Mining Plan Will Sacrifice Mexico’s Environment for Weapons and Tech
-
----
-
-### 58. RFK Jr. siyahi çocukların yeniden eğitilmesi çağrısını reddediyor, vekil yalanlıyor
-*RFK Jr. denies calling for re-parenting Black kids, lawmaker disputes*
-
-Demokrat Temsilci Terri Sewell, RFK Jr.'ın 2024'te siyahi çocukların 'yeniden eğitilmesi' çağrısı yaptığını belirtti; Kennedy ise bunu reddediyor. Sewell, iddiayı uydurmadığında ısrar ediyor.
-
-*Democratic Rep. Terri Sewell stated that RFK Jr. called for 're-parenting' Black children in 2024, which Kennedy denies. Sewell insisted she is not fabricating the claim.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/rfk-jr-refuses-to-acknowledge-he-called-for-re-parenting-black-kids-in-2024/)  *2026-04-17 18:53* — RFK Jr. Refuses to Acknowledge He Called for “Re-Parenting” Black Kids in 2024
-
----
-
-### 59. İsrail ateşkes öncesi Lübnan'da yaklaşık 100 kişiyi öldürdü, ihlaller bildirildi
-*Israel killed nearly 100 in Lebanon before ceasefire, violations reported*
-
-İsrail, ateşkes öncesi Lübnan'da bir günde yaklaşık 100 kişiyi öldürdü. Lübnan ordusu, İsrail'in ateşkesi ihlal ettiğini bildirdi.
-
-*Israel killed nearly 100 people in Lebanon in the day leading up to a ceasefire. The Lebanese military has reported violations of the ceasefire by Israel.*
-
-**Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/israel-killed-nearly-100-people-in-lebanon-in-day-leading-up-to-ceasefire/)  *2026-04-17 18:44* — Israel Killed Nearly 100 People in Lebanon in Day Leading Up to Ceasefire
+- [Truthout](https://truthout.org/articles/defense-secretary-uses-bible-story-to-bash-trump-hating-press/)  *2026-04-16 20:56* — Defense Secretary Uses Bible Story to Bash “Trump-Hating” Press
 
 ---

@@ -3,7 +3,7 @@
   "platform_name": "NASA Worldview / EOSDIS",
   "homepage": "https://worldview.earthdata.nasa.gov",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-04-25T08:38:56.757630+00:00",
+  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "Land Surface Disturbance",
-      "title_tr": "Arazi Yüzeyi Bozulması",
+      "title_tr": "Yer Yüzeyi Bozulması",
       "url": "https://worldview.earthdata.nasa.gov/?p=story&id=land-surface-disturbance",
       "date": ""
     },

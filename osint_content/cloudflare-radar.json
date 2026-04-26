@@ -3,7 +3,7 @@
   "platform_name": "Cloudflare Radar",
   "homepage": "https://radar.cloudflare.com",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-25T08:38:56.757630+00:00",
+  "fetched_at": "2026-04-26T07:13:35.228445+00:00",
   "error": "",
   "items": [
     {
@@ -13,27 +13,27 @@
       "date": ""
     },
     {
-      "title_en": "Agent Readiness score: Is your site agent-ready?",
-      "title_tr": "Ajan Hazırlık puanı: Siteniz ajana hazır mı?",
-      "url": "https://radar.cloudflare.com/ai-insights",
-      "date": "2026-04"
-    },
-    {
-      "title_en": "Network Quality Test: Measure your Internet connection quality",
-      "title_tr": "Ağ Kalite Testi: İnternet bağlantı kalitenizi ölçün",
+      "title_en": "Network Quality Test - new feature",
+      "title_tr": "Ağ Kalite Testi - yeni özellik",
       "url": "https://radar.cloudflare.com/speedtest",
       "date": ""
     },
     {
-      "title_en": "Internet outage in Sudan (nationwide, government directed)",
-      "title_tr": "Sudan'da internet kesintisi (ulusal çapta, hükümet kaynaklı)",
-      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
-      "date": "2026-04-22"
+      "title_en": "Agent Readiness score for AI agents",
+      "title_tr": "AI ajanları için Ajan Hazırlık puanı",
+      "url": "https://radar.cloudflare.com/ai-insights",
+      "date": ""
     },
     {
-      "title_en": "Traffic trends: HTTP 77.2%, IPv6 39.8%, Mobile 40.3%",
-      "title_tr": "Trafik trendleri: HTTP %77.2, IPv6 %39.8, Mobil %40.3",
-      "url": "https://radar.cloudflare.com/traffic",
+      "title_en": "Internet outage in Sudan on Apr 23, 2026",
+      "title_tr": "Sudan'da 23 Nisan 2026 internet kesintisi",
+      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
+      "date": "2026-04-23"
+    },
+    {
+      "title_en": "URL Scanner updated tool",
+      "title_tr": "URL Tarayıcı güncellenmiş araç",
+      "url": "https://radar.cloudflare.com/scan",
       "date": ""
     }
   ]
