@@ -3,9 +3,15 @@
   "platform_name": "ACLED",
   "homepage": "https://acleddata.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
+  "fetched_at": "2026-04-27T12:07:47.786678+00:00",
   "error": "",
   "items": [
+    {
+      "title_en": "Who are the Israel-backed armed groups fighting Hamas in Gaza?",
+      "title_tr": "Hamas'a karşı savaşan İsrail destekli silahlı gruplar kimler?",
+      "url": "https://acleddata.com/report/who-are-israel-backed-armed-groups-fighting-hamas-gaza",
+      "date": "2026-04-27"
+    },
     {
       "title_en": "In Jammu and Kashmir, new risks for security forces and civilians threaten regional peace",
       "title_tr": "Keşmir'de güvenlik güçleri ve siviller için yeni riskler bölgesel barışı tehdit ediyor",
@@ -14,14 +20,8 @@
     },
     {
       "title_en": "Europe and the Caucasus: Attacks on property fuel rising violence against local officials",
-      "title_tr": "Avrupa ve Kafkaslar: Mülke yönelik saldırılar yerel yetkililere yönelik artan şiddeti körüklüyor",
+      "title_tr": "Avrupa ve Kafkasya: Mülke yönelik saldırılar yerel yetkililere yönelik artan şiddeti körüklüyor",
       "url": "https://acleddata.com/report/europe-and-caucasus-attacks-property-fuel-rising-violence-against-local-officials",
-      "date": "2026-04-23"
-    },
-    {
-      "title_en": "Africa: Non-state armed groups are the main drivers of violence targeting local officials",
-      "title_tr": "Afrika: Devlet dışı silahlı gruplar yerel yetkililere yönelik şiddetin ana itici gücü",
-      "url": "https://acleddata.com/report/africa-non-state-armed-groups-are-main-drivers-violence-targeting-local-officials",
       "date": "2026-04-23"
     },
     {

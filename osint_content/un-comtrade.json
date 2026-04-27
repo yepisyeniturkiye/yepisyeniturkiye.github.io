@@ -3,37 +3,37 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
+  "fetched_at": "2026-04-27T12:07:47.786678+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Data Availability Dashboard: Registered, In Processing, In Review",
-      "title_tr": "Veri Kullanılabilirliği Panosu: Kayıtlı, İşleniyor, İncelemede",
+      "title_en": "Data Availability Dashboard: Registered, In Processing, Released",
+      "title_tr": "Veri Kullanılabilirliği Panosu: Kayıtlı, İşleniyor, Yayınlanan",
       "url": "https://comtradeplus.un.org/Visualization/DADashboard",
       "date": ""
     },
     {
-      "title_en": "Recent Releases page for latest trade data",
-      "title_tr": "En son ticaret verileri için Son Yayınlar sayfası",
+      "title_en": "Recent Releases of Trade Data",
+      "title_tr": "Son Ticaret Verileri Yayınları",
       "url": "https://comtradeplus.un.org/RecentReleases",
       "date": ""
     },
     {
-      "title_en": "Bulk Download of trade records (premium subscription required)",
-      "title_tr": "Ticaret kayıtlarının toplu indirilmesi (premium abonelik gerekli)",
+      "title_en": "Bulk Download of Trade Data (Premium subscription required)",
+      "title_tr": "Toplu Ticaret Verisi İndirme (Premium abonelik gerekli)",
       "url": "https://comtradeplus.un.org/BulkFilesSearch",
       "date": ""
     },
     {
-      "title_en": "Trade Balance View for bilateral trade comparisons",
-      "title_tr": "İkili ticaret karşılaştırmaları için Ticaret Dengesi Görünümü",
-      "url": "https://comtradeplus.un.org/TradeBalance",
+      "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
+      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
+      "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
       "date": ""
     },
     {
-      "title_en": "Bilateral Data Comparison tool",
-      "title_tr": "İkili Veri Karşılaştırma aracı",
-      "url": "https://comtradeplus.un.org/BilateralData",
+      "title_en": "UN Comtrade Database Intelligence dashboard by Francisco Sabido",
+      "title_tr": "Francisco Sabido tarafından UN Comtrade Veritabanı Zekası panosu",
+      "url": "https://comtradeplus.un.org/Visualization/Labs",
       "date": ""
     }
   ]

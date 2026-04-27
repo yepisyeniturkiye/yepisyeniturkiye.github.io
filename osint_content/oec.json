@@ -3,7 +3,7 @@
   "platform_name": "Observatory of Economic Complexity",
   "homepage": "https://oec.world",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
+  "fetched_at": "2026-04-27T12:07:47.786678+00:00",
   "error": "",
   "items": [
     {
@@ -19,22 +19,22 @@
       "date": ""
     },
     {
-      "title_en": "Latest Data Updates: Argentina Feb 2026",
-      "title_tr": "Son Veri Güncellemeleri: Arjantin Şubat 2026",
-      "url": "https://oec.world/en/profile/country/arg",
-      "date": "2026-02"
-    },
-    {
-      "title_en": "Country Rankings 2024",
-      "title_tr": "Ülke Sıralamaları 2024",
+      "title_en": "Country Rankings 2024 Trade",
+      "title_tr": "2024 Ticaret Ülke Sıralamaları",
       "url": "https://oec.world/en/country-rankings/2024/trade",
       "date": ""
     },
     {
-      "title_en": "Product Rankings 2024",
-      "title_tr": "Ürün Sıralamaları 2024",
+      "title_en": "Product Rankings 2024 Trade",
+      "title_tr": "2024 Ticaret Ürün Sıralamaları",
       "url": "https://oec.world/en/product-rankings/2024/trade",
       "date": ""
+    },
+    {
+      "title_en": "Latest Data Updates: Argentina Feb 2026",
+      "title_tr": "Son Veri Güncellemeleri: Arjantin Şubat 2026",
+      "url": "https://oec.world/en/profile/country/arg",
+      "date": "2026-02"
     }
   ]
 }

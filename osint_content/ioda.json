@@ -3,7 +3,7 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
+  "fetched_at": "2026-04-27T12:07:47.786678+00:00",
   "error": "",
   "items": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "title_en": "Amazon Web Services (AS16509) in Bahrain damaged, probing drops to 0%",
-      "title_tr": "Bahreyn'deki Amazon Web Services (AS16509) hasar gördü, aktif yoklama %0'a düştü",
+      "title_tr": "Bahreyn'de Amazon Web Services (AS16509) hasar gördü, aktif yoklama %0'a düştü",
       "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mijpaymwes2r",
       "date": "2026-04-02"
     },
@@ -32,7 +32,7 @@
     },
     {
       "title_en": "Recent Outages dashboard showing last 24 hours",
-      "title_tr": "Son 24 saati gösteren Güncel Kesintiler panosu",
+      "title_tr": "Son 24 saatteki kesintileri gösteren panel",
       "url": "https://ioda.inetintel.cc.gatech.edu/dashboard",
       "date": ""
     }

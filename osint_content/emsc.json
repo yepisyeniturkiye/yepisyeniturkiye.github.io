@@ -3,7 +3,7 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
+  "fetched_at": "2026-04-27T12:07:47.786678+00:00",
   "error": "",
   "items": [
     {
@@ -13,26 +13,26 @@
       "date": "2026-04-27"
     },
     {
-      "title_en": "Mw 6.0 Afghanistan Earthquake on August 31st 2025",
-      "title_tr": "31 Ağustos 2025'te Afganistan'da Mw 6.0 Depremi",
+      "title_en": "Mw 6.0 Afghanistan earthquake on August 31st 2025",
+      "title_tr": "31 Ağustos 2025'te Afganistan'da Mw 6.0 depremi",
       "url": "https://www.emsc-csem.org/Special_reports/?id=387",
       "date": "2025-08-31"
     },
     {
-      "title_en": "Magnitude 5.2 Earthquake in Petropavlovsk-Kamchatsky, Russia",
-      "title_tr": "Rusya, Petropavlovsk-Kamçatski'de 5.2 Büyüklüğünde Deprem",
+      "title_en": "Magnitude 5.1 earthquake in Khorugh, Tajikistan",
+      "title_tr": "Tacikistan, Khorugh'da 5.1 büyüklüğünde deprem",
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1985502",
+      "date": "2026-04-27"
+    },
+    {
+      "title_en": "Magnitude 5.2 earthquake in Petropavlovsk-Kamchatsky, Russia",
+      "title_tr": "Rusya, Petropavlovsk-Kamçatski'de 5.2 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1984592",
       "date": "2026-04-25"
     },
     {
-      "title_en": "Magnitude 5.8 Earthquake in Ierápetra, Greece",
-      "title_tr": "Yunanistan, Ierápetra'da 5.8 Büyüklüğünde Deprem",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1983854",
-      "date": "2026-04-24"
-    },
-    {
-      "title_en": "Magnitude 5.0 Earthquake in Ierápetra, Greece",
-      "title_tr": "Yunanistan, Ierápetra'da 5.0 Büyüklüğünde Deprem",
+      "title_en": "Magnitude 5.0 earthquake in Ierápetra, Greece",
+      "title_tr": "Yunanistan, Ierápetra'da 5.0 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1984005",
       "date": "2026-04-24"
     }
