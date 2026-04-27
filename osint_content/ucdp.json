@@ -3,7 +3,7 @@
   "platform_name": "Uppsala Conflict Data Program",
   "homepage": "https://ucdp.uu.se",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
+  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
   "error": "",
   "items": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "title_en": "Countries in Conflict Encyclopedia",
-      "title_tr": "Çatışma Ansiklopedisi Ülkeleri",
+      "title_tr": "Çatışmadaki Ülkeler Ansiklopedisi",
       "url": "https://ucdp.uu.se/#/encyclopedia",
       "date": ""
     },
@@ -28,6 +28,12 @@
       "title_en": "Fatalities Exploratory View",
       "title_tr": "Ölümler Keşif Görünümü",
       "url": "https://ucdp.uu.se/exploratory",
+      "date": ""
+    },
+    {
+      "title_en": "UCDP API Documentation",
+      "title_tr": "UCDP API Dokümantasyonu",
+      "url": "https://ucdp.uu.se/apidocs/",
       "date": ""
     }
   ]

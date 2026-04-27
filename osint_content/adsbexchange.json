@@ -3,7 +3,7 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
+  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "Feeder Leaderboard",
-      "title_tr": "Besleyici Liderlik Tablosu",
+      "title_tr": "Besleyici Sıralaması",
       "url": "https://globe.adsbexchange.com/leaderboard/",
       "date": ""
     },

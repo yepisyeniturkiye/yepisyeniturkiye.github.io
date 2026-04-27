@@ -3,14 +3,14 @@
   "platform_name": "Observatory of Economic Complexity",
   "homepage": "https://oec.world",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
+  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
   "error": "",
   "items": [
     {
       "title_en": "BotMarket - Data Marketplace for AI Agents",
       "title_tr": "BotMarket - Yapay Zeka Ajanları için Veri Pazarı",
       "url": "https://botmarket.oec.world/",
-      "date": ""
+      "date": "2026-04-17"
     },
     {
       "title_en": "Tariff Simulator Report",
@@ -19,10 +19,10 @@
       "date": ""
     },
     {
-      "title_en": "Latest Data Updates: Argentina, Brazil, Chile, China, India, Norway, Qatar, Singapore, South Africa, South Korea, United States (Feb 2026)",
-      "title_tr": "En Son Veri Güncellemeleri: Arjantin, Brezilya, Şili, Çin, Hindistan, Norveç, Katar, Singapur, Güney Afrika, Güney Kore, ABD (Şubat 2026)",
-      "url": "https://oec.world/en/data-updates",
-      "date": "2026-04-17"
+      "title_en": "Latest Data Updates: Argentina Feb 2026",
+      "title_tr": "Son Veri Güncellemeleri: Arjantin Şubat 2026",
+      "url": "https://oec.world/en/profile/country/arg",
+      "date": "2026-02"
     },
     {
       "title_en": "Country Rankings 2024",

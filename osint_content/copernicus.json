@@ -3,7 +3,7 @@
   "platform_name": "Copernicus Data Space",
   "homepage": "https://dataspace.copernicus.eu",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
+  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "Major upgrade of CDSE networking on 28/04/2026",
-      "title_tr": "28/04/2026'da CDSE ağında büyük yükseltme",
+      "title_tr": "28/04/2026'da CDSE ağ yapısında büyük yükseltme",
       "url": "https://dataspace.copernicus.eu/news/2026-4-20-major-upgrade-cdse-networking-28042026",
       "date": "2026-04-20"
     },

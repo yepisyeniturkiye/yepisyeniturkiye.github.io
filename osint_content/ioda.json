@@ -3,7 +3,7 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-26T09:16:50.910888+00:00",
+  "fetched_at": "2026-04-27T00:27:44.189644+00:00",
   "error": "",
   "items": [
     {
@@ -25,14 +25,14 @@
       "date": "2026-04-02"
     },
     {
-      "title_en": "Longest documented Iran shutdown ongoing since Feb 28, 2026",
-      "title_tr": "28 Şubat 2026'dan beri süren en uzun İran kapatması",
+      "title_en": "Ongoing Iran internet shutdown longest documented by IODA",
+      "title_tr": "Devam eden İran internet kesintisi IODA tarafından belgelenen en uzun kesinti",
       "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mhg2gqvwns2s",
       "date": "2026-03-19"
     },
     {
       "title_en": "Recent Outages dashboard showing last 24 hours",
-      "title_tr": "Son 24 saatteki kesintileri gösteren gösterge paneli",
+      "title_tr": "Son 24 saati gösteren Güncel Kesintiler panosu",
       "url": "https://ioda.inetintel.cc.gatech.edu/dashboard",
       "date": ""
     }
