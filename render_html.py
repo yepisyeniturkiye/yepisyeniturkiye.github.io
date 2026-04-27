@@ -101,6 +101,103 @@ def partition_by_region(clusters: list[dict], src_region: dict[str, str]) -> dic
     return by_region
 
 
+REGION_LABELS_FULL: dict[str, tuple[str, str]] = {
+    "mena": ("Ortadoğu", "MENA"),
+    "latam": ("Latin Amerika", "Latin America"),
+    "africa": ("Afrika", "Africa"),
+    "asia": ("Asya", "Asia"),
+    "eu": ("Avrupa", "Europe"),
+    "uk": ("Birleşik Krallık", "United Kingdom"),
+    "us": ("ABD", "United States"),
+    "global": ("Küresel", "Global"),
+}
+
+
+def carry_over_for_empty_regions(by_region: dict[str, list[dict]],
+                                 today_date: str,
+                                 src_region: dict[str, str]) -> dict[str, str]:
+    """For each region in REGION_ORDER with no clusters today, find the freshest
+    prior enriched/<date>.json that has clusters for that region and merge them
+    into by_region. Returns {region: source_date} for whichever regions were
+    filled by carry-over (caller can use this to render a freshness banner).
+    Empty regions with no prior content anywhere are left empty."""
+    carry_dates: dict[str, str] = {}
+    empty = [r for r in REGION_ORDER if not by_region.get(r)]
+    if not empty or not ENRICHED_ROOT.exists():
+        return carry_dates
+    files = sorted(ENRICHED_ROOT.glob("*.json"), reverse=True)
+    for region in empty:
+        for fp in files:
+            if fp.stem == today_date:
+                continue
+            try:
+                data = json.loads(fp.read_text())
+            except Exception:
+                continue
+            regional: list[dict] = []
+            for c in data.get("clusters", []):
+                regions_seen: set[str] = set()
+                for m in c.get("members", []):
+                    r = m.get("region") or src_region.get(m.get("source_id", ""), "")
+                    if r:
+                        regions_seen.add(r)
+                if region in regions_seen:
+                    regional.append(c)
+            if regional:
+                by_region[region] = regional
+                carry_dates[region] = fp.stem
+                break
+    return carry_dates
+
+
+def _carry_over_banner(region: str, source_date: str) -> str:
+    tr_label, en_label = REGION_LABELS_FULL.get(region, (region, region))
+    return (
+        '<div class="carryover-banner" style="padding:14px 18px;'
+        'border-left:3px solid var(--accent);background:rgba(255,200,80,0.06);'
+        'color:var(--fg-dim);font-size:12.5px;line-height:1.5;margin-bottom:18px;">'
+        f'<p class="t-tr" style="margin:0 0 4px 0;color:var(--fg);"><strong>'
+        f'{esc(tr_label)} · son taze döngüden taşındı</strong></p>'
+        f'<p class="t-en" style="margin:0 0 4px 0;color:var(--fg);"><strong>'
+        f'{esc(en_label)} · carried from last fresh cycle</strong></p>'
+        '<p class="t-tr" style="margin:0;">Bu bölgeden bugünün döngüsünde yeni öğe '
+        f'ulaşmadı. Aşağıda son taze döngünün ({esc(source_date)}) küme çıktısı '
+        'tutulmuştur — kaynak yayınevleri yeni içerik gönderdiğinde otomatik '
+        'olarak değişecektir.</p>'
+        '<p class="t-en" style="margin:0;">No fresh items reached this region in '
+        f'today&#x27;s cycle. The clusters below are carried over from the last '
+        f'cycle that did produce new content ({esc(source_date)}). They will be '
+        'replaced automatically as soon as the source publishers ship new material.</p>'
+        '</div>'
+    )
+
+
+def _empty_state_block(region: str) -> str:
+    other_regions = [r for r in REGION_ORDER if r != region]
+    nav_links = ' · '.join(
+        f'<a href="{r}.html" style="color:var(--link);">{r}</a>' for r in other_regions
+    )
+    return (
+        '<div class="empty-state" style="padding:24px 18px;'
+        'border:1px dashed var(--fg-dimmer);border-radius:6px;color:var(--fg-dim);'
+        'font-size:13px;line-height:1.55;margin-bottom:18px;">'
+        '<p class="t-tr" style="margin:0 0 8px 0;color:var(--fg);font-size:14px;">'
+        '<strong>Bugün bu bölgeden zenginleştirilmiş küme yok ve önceki döngülerde '
+        'de bulunamadı.</strong></p>'
+        '<p class="t-en" style="margin:0 0 8px 0;color:var(--fg);font-size:14px;">'
+        '<strong>No enriched clusters from this region today and none found in '
+        'prior cycles.</strong></p>'
+        '<p class="t-tr" style="margin:0 0 12px 0;">Aşağıdaki OSINT şeritleri her '
+        'bölge için her zaman canlıdır.</p>'
+        '<p class="t-en" style="margin:0 0 12px 0;">The OSINT bands below are '
+        'always live for every region.</p>'
+        f'<p style="margin:0;"><a href="../index.html" style="color:var(--link);">'
+        '← <span class="t-tr">ana sayfa</span><span class="t-en">home</span></a>'
+        f'&nbsp;·&nbsp;{nav_links}</p>'
+        '</div>'
+    )
+
+
 # ---------- HTML fragments ----------
 
 CHROME_HEAD = """<!doctype html>
@@ -275,7 +372,7 @@ def render_index(clusters: list[dict], by_region: dict[str, list[dict]],
 
 def render_region(region: str, region_clusters: list[dict],
                   sources: list[dict], osint_content: dict[str, list[dict]],
-                  date_str: str) -> str:
+                  date_str: str, carry_over_from: str | None = None) -> str:
     parts: list[str] = []
     tr_label, en_label = REGION_LABELS.get(region, (region, region))
     parts.append(CHROME_HEAD.format(
@@ -293,6 +390,10 @@ def render_region(region: str, region_clusters: list[dict],
         f' <span class="count" style="color:var(--fg-dimmer);">· {len(region_clusters)} cluster</span>'
         f'</h2>'
     )
+    if carry_over_from:
+        parts.append(_carry_over_banner(region, carry_over_from))
+    elif not region_clusters:
+        parts.append(_empty_state_block(region))
     for c in sort_by_recency(region_clusters):
         parts.append(render_cluster(c, compact=False))
     parts.append('</section>')
@@ -450,6 +551,10 @@ def main() -> int:
 
     by_region = partition_by_region(clusters, src_region)
 
+    carry_dates = carry_over_for_empty_regions(by_region, date_str, src_region)
+    if carry_dates:
+        print(f"[html] carry-over for empty regions: {carry_dates}")
+
     osint_content = load_osint_content()
     print(f"[html] loaded osint content for {len(osint_content)} platforms")
 
@@ -463,13 +568,14 @@ def main() -> int:
     written = 0
     for r in REGION_ORDER:
         rc = by_region.get(r, [])
-        if not rc:
-            continue
+        carry_from = carry_dates.get(r)
         (REGIONS_HTML_ROOT / f"{r}.html").write_text(
-            render_region(r, rc, sources, osint_content, date_str)
+            render_region(r, rc, sources, osint_content, date_str, carry_from)
         )
         written += 1
-    print(f"[html] wrote {written} region pages")
+    print(f"[html] wrote {written} region pages "
+          f"({len(carry_dates)} carry-over, "
+          f"{sum(1 for r in REGION_ORDER if not by_region.get(r))} still empty)")
 
     (REPO_ROOT / "dashboard.html").write_text(
         render_dashboard(sources, osint_content, date_str)
