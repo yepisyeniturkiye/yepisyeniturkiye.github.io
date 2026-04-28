@@ -3,7 +3,7 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-28T07:10:10.765264+00:00",
+  "fetched_at": "2026-04-28T12:14:03.787677+00:00",
   "error": "",
   "items": [
     {
@@ -19,6 +19,12 @@
       "date": "2025-08-31"
     },
     {
+      "title_en": "Magnitude 4.7 earthquake in Skiáthos, Greece",
+      "title_tr": "Skiáthos, Yunanistan'da 4.7 büyüklüğünde deprem",
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1986124",
+      "date": "2026-04-28"
+    },
+    {
       "title_en": "Magnitude 4.8 earthquake in San José, Costa Rica",
       "title_tr": "San José, Kosta Rika'da 4.8 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1985956",
@@ -26,15 +32,9 @@
     },
     {
       "title_en": "Magnitude 5.1 earthquake in Khorugh, Tajikistan",
-      "title_tr": "Horuğ, Tacikistan'da 5.1 büyüklüğünde deprem",
+      "title_tr": "Khorugh, Tacikistan'da 5.1 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1985502",
       "date": "2026-04-27"
-    },
-    {
-      "title_en": "Magnitude 5.2 earthquake in Petropavlovsk-Kamchatsky, Russia",
-      "title_tr": "Petropavlovsk-Kamçatski, Rusya'da 5.2 büyüklüğünde deprem",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1984592",
-      "date": "2026-04-25"
     }
   ]
 }

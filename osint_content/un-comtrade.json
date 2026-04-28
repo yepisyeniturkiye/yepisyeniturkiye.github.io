@@ -3,36 +3,30 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-28T07:10:10.765264+00:00",
+  "fetched_at": "2026-04-28T12:14:03.787677+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Data Availability Dashboard - Registered vs In Processing",
-      "title_tr": "Veri Kullanılabilirliği Panosu - Kayıtlı ve İşlenmekte Olan",
-      "url": "https://comtradeplus.un.org/Visualization/DADashboard",
-      "date": ""
-    },
-    {
       "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
-      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
+      "title_tr": "İş ve Ticaret İstatistiklerini Entegre Etmeye Giriş e-öğrenme kursu",
       "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
       "date": ""
     },
     {
-      "title_en": "UN Comtrade Database - Quick Search: Annual Exports of TOTAL to World 2025",
-      "title_tr": "UN Comtrade Veritabanı - Hızlı Arama: Dünyaya Toplam Yıllık İhracat 2025",
+      "title_en": "UN Comtrade Database - Quick Search: Annual Exports of TOTAL from All to World 2025",
+      "title_tr": "UN Comtrade Veritabanı - Hızlı Arama: 2025 Tüm Dünyaya Toplam Yıllık İhracat",
       "url": "https://comtradeplus.un.org/TradeFlow",
       "date": ""
     },
     {
-      "title_en": "Data Availability - Registered: 1948, In processing: 214, 7 Days: 145, 30 Days: 557, 90 Days: 1358",
-      "title_tr": "Veri Kullanılabilirliği - Kayıtlı: 1948, İşleniyor: 214, 7 Gün: 145, 30 Gün: 557, 90 Gün: 1358",
-      "url": "https://comtradeplus.un.org/DataAvailability",
+      "title_en": "Data Availability Dashboard - Registered, In processing, In review counts",
+      "title_tr": "Veri Kullanılabilirliği Panosu - Kayıtlı, İşleniyor, İncelemede sayıları",
+      "url": "https://comtradeplus.un.org/Visualization/DADashboard",
       "date": ""
     },
     {
-      "title_en": "Recent Releases - Latest trade data publications",
-      "title_tr": "Son Yayınlar - En son ticaret verisi yayınları",
+      "title_en": "Recent Releases - Data releases in last 7, 30, 90 days",
+      "title_tr": "Son Yayınlar - Son 7, 30, 90 gündeki veri yayınları",
       "url": "https://comtradeplus.un.org/RecentReleases",
       "date": ""
     }

@@ -3,12 +3,12 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-04-28T07:10:10.765264+00:00",
+  "fetched_at": "2026-04-28T12:14:03.787677+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Tracking Map - unfiltered global flight tracking",
-      "title_tr": "İzleme Haritası - filtresiz küresel uçuş takibi",
+      "title_en": "Tracking Map - unfiltered global flight data",
+      "title_tr": "İzleme Haritası - filtresiz küresel uçuş verileri",
       "url": "https://globe.adsbexchange.com/",
       "date": ""
     },
@@ -19,21 +19,15 @@
       "date": ""
     },
     {
-      "title_en": "Enterprise API - commercial-grade flight data API",
-      "title_tr": "Kurumsal API - ticari sınıf uçuş verisi API'si",
-      "url": "https://www.adsbexchange.com/products/enterprise-api/",
+      "title_en": "Fastest Planes - real-time speed tracking",
+      "title_tr": "En Hızlı Uçaklar - gerçek zamanlı hız takibi",
+      "url": "https://www.adsbexchange.com/?page_id=39341",
       "date": ""
     },
     {
-      "title_en": "Historical Data - unfiltered, unblocked flight data",
-      "title_tr": "Geçmiş Veri - filtresiz, engelsiz uçuş verisi",
-      "url": "https://www.adsbexchange.com/products/historical-data/",
-      "date": ""
-    },
-    {
-      "title_en": "API Lite - for hobbyists and enthusiasts",
-      "title_tr": "API Lite - hobiciler ve meraklılar için",
-      "url": "https://www.adsbexchange.com/api-lite/",
+      "title_en": "Close Calls (TCAS Alerts) - near mid-air collisions",
+      "title_tr": "Yakın Çağrılar (TCAS Uyarıları) - yakın hava çarpışmaları",
+      "url": "https://www.adsbexchange.com/?page_id=39350",
       "date": ""
     }
   ]
