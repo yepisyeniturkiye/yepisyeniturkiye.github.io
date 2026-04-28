@@ -86,7 +86,11 @@ jobs:
   infer:
     runs-on: ubuntu-latest
     needs: fetch_render
-    timeout-minutes: 35
+    # 35 was the original budget (Phase 3 sized for ~30 batches). After source
+    # additions the lookback can hold 70+ batches at ~44s each from a CI runner,
+    # so the job got cancelled mid-pass for several days running. 90 covers p99
+    # of the current corpus without leaving a dead branch when DeepSeek slows.
+    timeout-minutes: 90
 
     steps:
       - uses: actions/checkout@v4
