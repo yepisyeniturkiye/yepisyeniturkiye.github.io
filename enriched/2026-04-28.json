@@ -1,0 +1,2068 @@
+{
+  "generated_at": "2026-04-28T07:19:23.904497+00:00",
+  "cluster_count": 111,
+  "source_item_count": 118,
+  "clusters": [
+    {
+      "members": [
+        {
+          "title": "Trump Calls for ABC to Fire Kimmel Over Joke He Made Days Before WHCD Shooting",
+          "url": "https://truthout.org/articles/trump-calls-for-abc-to-fire-kimmel-over-joke-he-made-days-before-whcd-shooting/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T20:24:52+00:00",
+          "obscured": false
+        },
+        {
+          "title": "Donald Trump Survives Third Shooter Assassination Attempt",
+          "url": "https://novaramedia.com/2026/04/27/donald-trump-survives-third-shooter-assassination-attempt/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-27T19:03:08+00:00",
+          "obscured": false
+        },
+        {
+          "title": "Trump Uses Correspondents Dinner Shooting to Push for Ballroom Construction",
+          "url": "https://truthout.org/articles/trump-uses-correspondents-dinner-shooting-to-push-for-ballroom-construction/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T18:44:31+00:00",
+          "obscured": false
+        },
+        {
+          "title": "Trump uses assassination try to justify expanding spying powers",
+          "url": "https://asiatimes.com/2026/04/trump-uses-assassination-try-to-justify-expanding-spying-powers/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-27T18:26:00+00:00",
+          "obscured": false
+        },
+        {
+          "title": "Trump uses Correspondents’ Dinner shooting to justify expanding spying powers as deadline nears",
+          "url": "https://therealnews.com/trump-uses-correspondents-dinner-shooting-to-justify-expanding-spying-powers-as-deadline-nears",
+          "source_name": "The Real News Network",
+          "source_id": "real-news-network",
+          "region": "us",
+          "published": "2026-04-27T17:53:48+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Trump uses WHCD shooting to push surveillance expansion and ballroom construction",
+      "title_tr": "Trump, WHCD saldırısını gözetim genişletmesi ve balo salonu inşası için kullanıyor",
+      "synthesis_en": "After a shooting incident near the White House Correspondents' Dinner, President Trump called for ABC to fire Jimmy Kimmel over a joke, pushed for ballroom construction, and used the event to justify expanding surveillance powers under Section 702 of FISA, which was set to expire. Multiple sources reported on the incident and Trump's responses.",
+      "synthesis_tr": "Beyaz Saray Muhabirleri Yemeği yakınındaki silahlı saldırı olayının ardından Başkan Trump, ABC'den Jimmy Kimmel'ı bir şaka nedeniyle kovmasını istedi, balo salonu inşasını teşvik etti ve olayı, süresi dolmak üzere olan FISA'nın 702. Bölümü kapsamındaki gözetim yetkilerini genişletmek için kullandı. Birden fazla kaynak olayı ve Trump'ın tepkilerini bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Iran continues to push for diplomatic solution after second Islamabad talks fail to materialize",
+          "url": "https://peoplesdispatch.org/2026/04/27/iran-continues-to-push-for-diplomatic-solution-after-second-islamabad-talks-fail-to-materialize/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-27T17:20:28+00:00",
+          "obscured": false
+        },
+        {
+          "title": "As Trump’s Narrative on Negotiations Flails, Iran Is Setting Its Own Terms for Ending the War",
+          "url": "https://www.dropsitenews.com/p/iran-war-trump-negotiations-munitions-markets-midterms",
+          "source_name": "DropSite News",
+          "source_id": "dropsite-news",
+          "region": "us",
+          "published": "2026-04-27T14:57:37+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Iran sets own terms for talks as US narrative flails",
+      "title_tr": "ABD anlatısı sarsılırken İran kendi müzakere şartlarını belirliyor",
+      "synthesis_en": "Iran continues to push for a diplomatic solution but insists on no talks with the US until its naval blockade is lifted. Tehran believes it has advantages in munitions, markets, and the midterms, setting its own terms for ending the conflict.",
+      "synthesis_tr": "İran diplomatik çözüm için çabalamaya devam ediyor ancak ABD ile abluka kaldırılmadan görüşme yapılmayacağını vurguluyor. Tahran, mühimmat, pazarlar ve ara seçimlerde avantajlı olduğunu düşünerek çatışmayı sonlandırmak için kendi şartlarını belirliyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "ASML as the last polite monopolist",
+          "url": "https://asiatimes.com/2026/04/asml-as-the-last-polite-monopolist/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T06:37:58+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "TSMC complains about ASML's pricing of latest EUV machines",
+      "title_tr": "TSMC, ASML'nin en yeni EUV makinelerinin fiyatlandırmasından şikayetçi",
+      "synthesis_en": "TSMC publicly complained about the high cost of ASML's latest extreme ultraviolet lithography machines. The complaint highlights the pricing power of the Dutch semiconductor equipment maker.",
+      "synthesis_tr": "TSMC, ASML'nin en yeni aşırı ultraviyole litografi makinelerinin yüksek maliyeti hakkında kamuoyu önünde şikayette bulundu. Şikayet, Hollandalı yarı iletken ekipman üreticisinin fiyatlandırma gücünü vurguluyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "110: How Andrew Tate Poisoned a Generation of Young Men",
+          "url": "https://novaramedia.com/2026/04/28/110-how-andrew-tate-poisoned-a-generation-of-young-men/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-28T06:30:27+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Podcast revisits Andrew Tate's influence on young men",
+      "title_tr": "Podcast, Andrew Tate'in genç erkekler üzerindeki etkisini yeniden ele alıyor",
+      "synthesis_en": "Novara Media republished a 2024 interview with authors of 'Clown World' about Andrew Tate's cult-like grip on young men. The authors explained how they infiltrated Tate's inner circle.",
+      "synthesis_tr": "Novara Media, Andrew Tate'in genç erkekler üzerindeki tarikat benzeri etkisini konu alan 'Clown World' kitabının yazarlarıyla 2024 yılında yaptığı bir röportajı yeniden yayınladı. Yazarlar, Tate'in iç çevresine nasıl sızdıklarını anlattı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Google signs classified AI deal with Pentagon – report",
+          "url": "https://www.rappler.com/technology/google-signs-classified-ai-deal-pentagon/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T06:16:01+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Google signs classified AI deal with Pentagon",
+      "title_tr": "Google, Pentagon ile gizli yapay zeka anlaşması imzaladı",
+      "synthesis_en": "Google has signed an agreement allowing the Pentagon to use its AI for any lawful government purpose, including classified work. The deal puts Google alongside OpenAI and xAI in supplying AI models for classified use.",
+      "synthesis_tr": "Google, Pentagon'un yapay zekasını gizli çalışmalar da dahil olmak üzere her türlü yasal hükümet amacıyla kullanmasına izin veren bir anlaşma imzaladı. Anlaşma, Google'ı OpenAI ve xAI ile birlikte gizli kullanım için yapay zeka modelleri tedarik eden şirketler arasına koyuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "UNDP report exposes vulnerability of South Asia’s economies to US war against Iran",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/vneu-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T06:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "UNDP report warns South Asia economies vulnerable to US-Iran war",
+      "title_tr": "UNDP raporu, Güney Asya ekonomilerinin ABD-İran savaşına karşı savunmasız olduğu uyarısında bulunuyor",
+      "synthesis_en": "A UNDP report has exposed the vulnerability of South Asian economies to a potential US war against Iran. The report highlights the economic risks for the region.",
+      "synthesis_tr": "Bir UNDP raporu, Güney Asya ekonomilerinin olası bir ABD-İran savaşına karşı kırılganlığını ortaya koydu. Rapor, bölge için ekonomik risklere dikkat çekiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Microsoft, OpenAI change terms of deal so startup can court Amazon, others",
+          "url": "https://www.rappler.com/technology/microsoft-openai-change-deal-terms-court-other-companies-april-2026/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T06:03:13+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Microsoft and OpenAI revise deal terms to allow OpenAI to court other investors",
+      "title_tr": "Microsoft ve OpenAI, OpenAI'ın diğer yatırımcılarla görüşmesine izin vermek için anlaşma şartlarını revize etti",
+      "synthesis_en": "Microsoft and OpenAI have changed the terms of their deal, loosening ties so that OpenAI can seek investment from Amazon and others. The change is seen as advantageous for both companies.",
+      "synthesis_tr": "Microsoft ve OpenAI, OpenAI'ın Amazon ve diğerlerinden yatırım alabilmesi için bağları gevşeterek anlaşma şartlarını değiştirdi. Değişikliğin her iki şirket için de avantajlı olduğu değerlendiriliyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Manganiyar women are stepping onto a stage long closed to them by men",
+          "url": "https://scroll.in/magazine/1092377/manganiyar-women-are-stepping-onto-a-stage-long-closed-to-them-by-men?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T06:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Manganiyar women perform on stage traditionally closed to them",
+      "title_tr": "Manganiyar kadınları, geleneksel olarak kendilerine kapalı olan sahnede performans sergiliyor",
+      "synthesis_en": "Women from the Manganiyar community in India are stepping onto stages that were long closed to them. Previously, only men toured the world while women's music stayed within homes.",
+      "synthesis_tr": "Hindistan'daki Manganiyar topluluğundan kadınlar, uzun süredir kendilerine kapalı olan sahnelere çıkıyor. Daha önce sadece erkekler dünyayı gezerken kadınların müziği evlerde kalıyordu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Shutting Down the War Machine",
+          "url": "https://www.counterpunch.org/2026/04/28/shutting-down-the-war-machine/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:58:36+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Commentary criticizes shift of US resources to military-industrial complex",
+      "title_tr": "Yorum yazısı, ABD kaynaklarının askeri-endüstriyel komplekse kaydırılmasını eleştiriyor",
+      "synthesis_en": "A CounterPunch commentary argues that the US is witnessing an unprecedented shift of resources from domestic investments to the military-industrial complex. It compares the scale to the buildup before World War II.",
+      "synthesis_tr": "CounterPunch'taki bir yorum yazısı, ABD'nin iç yatırımlardan askeri-endüstriyel komplekse benzeri görülmemiş bir kaynak aktarımına tanık olduğunu savunuyor. Ölçeği II. Dünya Savaşı öncesindeki yığınağa benzetiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "What Will Come of This Shooting?",
+          "url": "https://www.counterpunch.org/2026/04/28/what-will-come-of-this-shooting/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:57:44+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Commentary compares Trump assassination attempt to 1981 Reagan shooting",
+      "title_tr": "Yorum yazısı, Trump'a suikast girişimini 1981 Reagan suikast girişimiyle karşılaştırıyor",
+      "synthesis_en": "A CounterPunch commentary draws comparisons between the recent assassination attempt on Trump and the 1981 shooting of Ronald Reagan. It notes that the Reagan shooting led to the Brady Bill and gun-control measures.",
+      "synthesis_tr": "CounterPunch'taki bir yorum yazısı, Trump'a yönelik son suikast girişimi ile 1981'de Ronald Reagan'a yapılan suikast girişimi arasında karşılaştırmalar yapıyor. Reagan suikast girişiminin Brady Yasası ve silah kontrolü önlemlerine yol açtığına dikkat çekiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "“From the River to the Sea:” Words Can Set You Free",
+          "url": "https://www.counterpunch.org/2026/04/28/from-the-river-to-the-sea-words-can-both-inspire-and-ache/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:54:32+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Commentary criticizes Israeli law criminalizing 'from the river to the sea' phrase",
+      "title_tr": "Yorum yazısı, 'nehirden denize' ifadesini suç sayan İsrail yasasını eleştiriyor",
+      "synthesis_en": "A CounterPunch commentary criticizes an Israeli law that criminalizes speech that minimizes the October 7 events or challenges the government's account. It states that Palestinians can be imprisoned for five years for saying 'from the river to the sea'.",
+      "synthesis_tr": "CounterPunch'taki bir yorum yazısı, 7 Ekim olaylarını küçümseyen veya hükümetin anlatımına meydan okuyan konuşmaları suç sayan bir İsrail yasasını eleştiriyor. Filistinlilerin 'nehirden denize' dedikleri için beş yıl hapis cezası alabileceklerini belirtiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "When Society Tolerates Evil",
+          "url": "https://www.counterpunch.org/2026/04/28/when-society-tolerates-evil/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:54:18+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Commentary reflects on societal tolerance of evil under communism",
+      "title_tr": "Yorum yazısı, komünizm altında toplumun kötülüğe toleransını yansıtıyor",
+      "synthesis_en": "A CounterPunch commentary recounts the author's father being arrested and tortured in communist Prague. It reflects on how society tolerates evil through small concessions.",
+      "synthesis_tr": "CounterPunch'taki bir yorum yazısı, yazarın babasının komünist Prag'da tutuklanıp işkence görmesini anlatıyor. Toplumun küçük tavizlerle kötülüğe nasıl tolerans gösterdiğini yansıtıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "From US to Toboso: The bloody journey of Fil-Am activist Lyle Prijoles",
+          "url": "https://www.rappler.com/people/toboso-negros-occidental-bloody-journey-filipino-american-activist-lyle-prijoles/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T05:54:14+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Fil-Am activist Lyle Prijoles killed in Philippines gunbattle",
+      "title_tr": "Fil-Amerikan aktivist Lyle Prijoles, Filipinler'deki silahlı çatışmada öldürüldü",
+      "synthesis_en": "Lyle Prijoles, a Filipino-American activist from San Diego, was among 19 people killed in an April 19 gunbattle in Toboso, Negros Occidental. The incident is disputed.",
+      "synthesis_tr": "San Diego doğumlu Filipinli-Amerikalı aktivist Lyle Prijoles, 19 Nisan'da Toboso, Negros Occidental'da meydana gelen tartışmalı bir silahlı çatışmada öldürülen 19 kişi arasındaydı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Trump’s Ignorance Could Kill Millions",
+          "url": "https://www.counterpunch.org/2026/04/28/trumps-ignorance-could-kill-millions/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:53:50+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Commentary criticizes Trump's ignorance on Iran attack risk",
+      "title_tr": "Yorum yazısı, Trump'ın İran saldırı riski konusundaki cehaletini eleştiriyor",
+      "synthesis_en": "A CounterPunch commentary criticizes Donald Trump for claiming ignorance about whether Iran might attack. It argues that Trump's ignorance could have deadly consequences.",
+      "synthesis_tr": "CounterPunch'taki bir yorum yazısı, Donald Trump'ı İran'ın saldırıp saldırmayacağı konusunda cehalet iddiasında bulunduğu için eleştiriyor. Trump'ın cehaletinin ölümcül sonuçları olabileceğini savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "University of Michigan’s Violence Against Chinese Scholars",
+          "url": "https://www.counterpunch.org/2026/04/28/university-of-michigans-violence-against-chinese-scholars/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:51:40+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Vigil held for Chinese researcher who died at University of Michigan",
+      "title_tr": "Michigan Üniversitesi'nde ölen Çinli araştırmacı için nöbet tutuldu",
+      "synthesis_en": "CODEPINK and the University of Michigan community held a vigil for Dr. Danhao Wan, a researcher who died after jumping from a building. Reports say he was targeted before his death.",
+      "synthesis_tr": "CODEPINK ve Michigan Üniversitesi topluluğu, bir binadan atlayarak ölen araştırmacı Dr. Danhao Wan için nöbet tuttu. Haberlere göre, ölümünden önce hedef alınmıştı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "An Earth Day Victory for the Endangered Species Act",
+          "url": "https://www.counterpunch.org/2026/04/28/an-earth-day-victory-for-the-endangered-species-act/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:50:57+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Republican Rep. Luna bucks GOP to protect Endangered Species Act on Earth Day",
+      "title_tr": "Cumhuriyetçi Temsilci Luna, Dünya Günü'nde Nesli Tehlike Altındaki Türler Yasası'nı korumak için parti liderliğine karşı çıktı",
+      "synthesis_en": "Florida Republican Rep. Anna Paulina Luna bucked GOP leadership on Earth Day to protect the Endangered Species Act. The move was seen as a victory for the act.",
+      "synthesis_tr": "Florida Cumhuriyetçi Temsilcisi Anna Paulina Luna, Dünya Günü'nde Nesli Tehlike Altındaki Türler Yasası'nı korumak için parti liderliğine karşı çıktı. Bu hamle, yasa için bir zafer olarak görüldü.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Thailand’s forever war greets Anutin with a vengeance",
+          "url": "https://asiatimes.com/2026/04/thailands-forever-war-greets-anutin-with-a-vengeance/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T05:50:28+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Thailand's southern insurgency continues as Anutin faces challenges",
+      "title_tr": "Tayland'ın güneyindeki isyan, Anutin'in zorluklarla karşılaşmasıyla devam ediyor",
+      "synthesis_en": "Thailand continues to grapple with a long-running insurgency in its southern border region. The conflict has persisted for over 20 years with no end in sight.",
+      "synthesis_tr": "Tayland, güney sınır bölgesinde uzun süredir devam eden bir isyanla boğuşmaya devam ediyor. Çatışma 20 yılı aşkın süredir devam ediyor ve sonu görünmüyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "China’s Middle East Strategy: Calculated Patience",
+          "url": "https://www.counterpunch.org/2026/04/28/chinas-middle-east-strategy-calculated-patience/",
+          "source_name": "CounterPunch",
+          "source_id": "counterpunch",
+          "region": "us",
+          "published": "2026-04-28T05:50:01+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "China's Middle East strategy described as calculated patience",
+      "title_tr": "Çin'in Orta Doğu stratejisi hesaplanmış sabır olarak tanımlanıyor",
+      "synthesis_en": "A CounterPunch analysis describes China's approach to the Middle East as calculated patience. It notes that shipping through the Strait of Hormuz has nearly stopped due to volatility.",
+      "synthesis_tr": "CounterPunch'taki bir analiz, Çin'in Orta Doğu'ya yaklaşımını hesaplanmış sabır olarak tanımlıyor. Hürmüz Boğazı'ndan geçen gemi trafiğinin istikrarsızlık nedeniyle neredeyse durduğuna dikkat çekiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Signals Before Ratings: Why Africa Needs a New Risk Language",
+          "url": "https://panafricantv.com/signals-before-ratings-why-africa-needs-a-new-risk-language/",
+          "source_name": "Pan African TV",
+          "source_id": "pan-african-tv",
+          "region": "africa",
+          "published": "2026-04-28T05:45:19+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Commentary argues Africa needs new risk language for sovereign risk",
+      "title_tr": "Yorum yazısı, Afrika'nın egemen risk için yeni bir risk diline ihtiyacı olduğunu savunuyor",
+      "synthesis_en": "A commentary argues that Africa needs a new framework for interpreting sovereign risk, as current models are designed for different economies. It says the most expensive mistakes come from failing to interpret signals early.",
+      "synthesis_tr": "Bir yorum yazısı, Afrika'nın egemen riski yorumlamak için yeni bir çerçeveye ihtiyacı olduğunu, mevcut modellerin farklı ekonomiler için tasarlandığını savunuyor. En pahalı hataların sinyalleri erken yorumlayamamaktan kaynaklandığını belirtiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "China’s science surge is not a problem — America’s retreat is",
+          "url": "https://asiatimes.com/2026/04/chinas-science-surge-is-not-a-problem-americas-retreat-is/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T05:16:51+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "China's science surge not a problem, America's retreat is, says Asia Times",
+      "title_tr": "Asia Times'a göre Çin'in bilim atılımı sorun değil, Amerika'nın geri çekilmesi sorun",
+      "synthesis_en": "An Asia Times article argues that China's rapid rise in science, reaching parity with the US in R&D investment, is not a problem. Instead, it says America's retreat from science is the real issue.",
+      "synthesis_tr": "Asia Times'taki bir makale, Çin'in Ar-Ge yatırımında ABD ile eşitliğe ulaşan hızlı bilimsel yükselişinin bir sorun olmadığını savunuyor. Bunun yerine, Amerika'nın bilimden geri çekilmesinin asıl sorun olduğunu belirtiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Gunman charged with attempted assassination of Trump: The political issues",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/fpzs-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T05:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Gunman charged with attempted assassination of Trump",
+      "title_tr": "Trump'a suikast girişiminde bulunan şüpheli hakkında dava açıldı",
+      "synthesis_en": "A gunman has been charged with attempted assassination of former President Donald Trump. The political implications of the incident are being discussed.",
+      "synthesis_tr": "Eski Başkan Donald Trump'a suikast girişiminde bulunan bir şüpheli hakkında dava açıldı. Olayın siyasi yansımaları tartışılıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Australia: Labor’s aged home care cuts continue despite backdown on showers",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/aees-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T05:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Australia's Labor government cuts aged home care despite backdown on showers",
+      "title_tr": "Avustralya İşçi Partisi hükümeti, duş konusunda geri adım atmasına rağmen yaşlı bakımını kesti",
+      "synthesis_en": "The Australian Labor government has implemented cuts to aged home care services. This comes despite a backdown on a specific issue regarding showers.",
+      "synthesis_tr": "Avustralya İşçi Partisi hükümeti, yaşlı evde bakım hizmetlerinde kesintiler uyguladı. Bu, duşla ilgili belirli bir konuda geri adım atılmasına rağmen gerçekleşti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Gettysburg and the New Birth of Freedom—then and now </strong><strong></strong><strong>",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/ypfp-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T05:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Gettysburg and the New Birth of Freedom discussed",
+      "title_tr": "Gettysburg ve Özgürlüğün Yeniden Doğuşu tartışılıyor",
+      "synthesis_en": "An article from The OC Portal discusses the historical significance of Gettysburg and the concept of a new birth of freedom, drawing parallels between past and present.",
+      "synthesis_tr": "The OC Portal'dan bir makale, Gettysburg'un tarihsel önemini ve özgürlüğün yeniden doğuşu kavramını geçmişle günümüz arasında paralellikler kurarak ele alıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Global military spending surges to record $2.887 trillion",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/wzbw-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T05:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Global military spending reaches record $2.887 trillion",
+      "title_tr": "Küresel askeri harcamalar rekor 2,887 trilyon dolara ulaştı",
+      "synthesis_en": "Global military spending has surged to a record $2.887 trillion, according to a report from The OC Portal.",
+      "synthesis_tr": "The OC Portal'ın haberine göre, küresel askeri harcamalar rekor seviyeye ulaşarak 2,887 trilyon dolara yükseldi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Peruvian far-right stages scandal over elections as nominally “left” candidate climbs to second place",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/qgiv-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T05:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Peruvian far-right stages scandal over election as left candidate rises",
+      "title_tr": "Perulu aşırı sağ, sol adayın yükselişi üzerine seçim skandalı çıkarıyor",
+      "synthesis_en": "The OC Portal reports that the Peruvian far-right has staged a scandal over elections as a nominally left candidate climbs to second place.",
+      "synthesis_tr": "The OC Portal, Perulu aşırı sağın, sol bir adayın ikinci sıraya yükselmesi üzerine seçimlerle ilgili bir skandal çıkardığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "FIR against 13, including Hansraj College students suspended for alleged misconduct: Report",
+          "url": "https://scroll.in/latest/1092422/fir-against-13-including-hansraj-college-students-suspended-for-alleged-misconduct-report?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T04:46:12+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "FIR filed against 13 including suspended Hansraj College students",
+      "title_tr": "Hansraj Koleji'nden uzaklaştırılan öğrenciler dahil 13 kişi hakkında dava açıldı",
+      "synthesis_en": "A First Information Report (FIR) has been filed against 13 individuals, including students suspended from Hansraj College for alleged misconduct, according to Scroll.in. The principal stated that police involvement was necessary as the situation was getting out of hand.",
+      "synthesis_tr": "Scroll.in'in haberine göre, Hansraj Koleji'nden iddia edilen suistimal nedeniyle uzaklaştırılan öğrenciler de dahil olmak üzere 13 kişi hakkında dava açıldı. Müdür, durumun kontrolden çıkması üzerine polise başvurulması gerektiğini belirtti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "J&J sees AI halving the time to generate drug development leads",
+          "url": "https://www.rappler.com/technology/johnson-and-johnson-ai-halving-drug-development-lead-generation-time/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T04:16:40+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Johnson & Johnson uses AI to halve drug development lead time",
+      "title_tr": "Johnson & Johnson, ilaç geliştirme süresini yarıya indirmek için yapay zeka kullanıyor",
+      "synthesis_en": "Johnson & Johnson is using artificial intelligence to screen chemical compounds and biologics, aiming to halve the time needed to generate drug development leads, according to Rappler.",
+      "synthesis_tr": "Rappler'a göre Johnson & Johnson, ilaç geliştirme adaylarını oluşturmak için gereken süreyi yarıya indirmek amacıyla kimyasal bileşikleri ve biyolojik ürünleri taramak için yapay zeka kullanıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Interview: RG Kar protester is ‘shocked, shattered’ to see victim’s mother contest on BJP ticket",
+          "url": "https://scroll.in/article/1092417/interview-rg-kar-protestor-is-shocked-shattered-to-see-victims-mother-contest-on-bjp-ticket?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T04:16:23+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "RG Kar protester shocked victim's mother contests on BJP ticket",
+      "title_tr": "RG Kar protestocusu, kurbanın annesinin BJP adayı olmasından şokta",
+      "synthesis_en": "A young feminist who participated in the RG Kar protests expressed shock and dismay that the victim's mother is contesting on a BJP ticket in the West Bengal Assembly elections, as reported by Scroll.in.",
+      "synthesis_tr": "Scroll.in'in haberine göre, RG Kar protestolarına katılan genç bir feminist, kurbanın annesinin Batı Bengal Meclis seçimlerinde BJP adayı olarak yarışması karşısında şok ve üzüntü duyduğunu ifade etti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Legal questions US lawyers can’t answer about the Iran war",
+          "url": "https://asiatimes.com/2026/04/legal-questions-us-lawyers-cant-answer-about-the-iran-war/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T04:13:14+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Legal questions US lawyers cannot answer about Iran war",
+      "title_tr": "ABD'li avukatların İran savaşı hakkında cevaplayamadığı hukuki sorular",
+      "synthesis_en": "An article from Asia Times discusses legal questions surrounding the Iran war that US lawyers cannot answer, arguing that the US acted outside international law in Operation Epic Fury.",
+      "synthesis_tr": "Asia Times'tan bir makale, ABD'li avukatların İran savaşıyla ilgili cevaplayamadığı hukuki soruları ele alıyor ve ABD'nin Epic Fury Operasyonu'nda uluslararası hukukun dışında hareket ettiğini savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Little Lake City teachers continue strike, while UTLA claims LA teachers ratified new contract",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/wnlj-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T04:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Little Lake City teachers strike continues; LA teachers ratify contract",
+      "title_tr": "Little Lake City öğretmen grevi sürüyor; LA öğretmenleri sözleşmeyi onayladı",
+      "synthesis_en": "Teachers in Little Lake City continue their strike, while the United Teachers Los Angeles (UTLA) claims that LA teachers have ratified a new contract, according to The OC Portal.",
+      "synthesis_tr": "The OC Portal'a göre, Little Lake City'de öğretmenler greve devam ederken, Birleşik Los Angeles Öğretmenleri (UTLA) Los Angeles öğretmenlerinin yeni bir sözleşmeyi onayladığını iddia ediyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "US unions’ “May Day Strong” seeks to neuter May Day",
+          "url": "https://www.wsws.org/en/articles/2026/04/28/jvqx-a28.html",
+          "source_name": "The OC Portal",
+          "source_id": "oc-portal",
+          "region": "global",
+          "published": "2026-04-28T04:09:34.584217+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "US unions' May Day Strong seeks to neuter May Day",
+      "title_tr": "ABD sendikalarının May Day Strong girişimi 1 Mayıs'ı etkisizleştirmeye çalışıyor",
+      "synthesis_en": "The OC Portal reports that the US unions' 'May Day Strong' initiative seeks to neuter the traditional May Day protests.",
+      "synthesis_tr": "The OC Portal, ABD sendikalarının 'May Day Strong' girişiminin geleneksel 1 Mayıs protestolarını etkisizleştirmeyi amaçladığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Again To the Grisly Well, With Ballrooms",
+          "url": "https://www.commondreams.org/further/again-to-the-grisly-well-with-ballrooms",
+          "source_name": "Common Dreams",
+          "source_id": "common-dreams",
+          "region": "us",
+          "published": "2026-04-28T04:00:50+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Criticism of regime's response to security breach and demand for funds",
+      "title_tr": "Rejimin güvenlik ihlaline yanıtı ve fon talebine eleştiri",
+      "synthesis_en": "An article from Common Dreams criticizes the regime for exploiting a security breach to blame Democrats and demand $400 million for a gold ballroom, calling the incident a 'Keystone Cops security breach'.",
+      "synthesis_tr": "Common Dreams'ten bir makale, rejimin bir güvenlik ihlalini Demokratları suçlamak ve altın bir balo salonu için 400 milyon dolar talep etmek amacıyla kullanmasını eleştiriyor ve olayı 'Keystone Polisi güvenlik ihlali' olarak nitelendiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The curious case of Bangladesh’s terrorism denial",
+          "url": "https://asiatimes.com/2026/04/the-curious-case-of-bangladeshs-terrorism-denial/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T04:00:07+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Bangladesh's terrorism denial examined after madrasa explosion",
+      "title_tr": "Medrese patlamasının ardından Bangladeş'in terör inkarı inceleniyor",
+      "synthesis_en": "Asia Times reports on the curious case of Bangladesh's terrorism denial following an explosion at the Ummul Qura International Madrasa in Keraniganj, where investigators recovered IEDs and chemical precursors.",
+      "synthesis_tr": "Asia Times, Keraniganj'daki Ummul Qura Uluslararası Medresesi'nde meydana gelen patlamanın ardından Bangladeş'in terörü inkar etmesini inceliyor; araştırmacılar el yapımı patlayıcılar ve kimyasal öncüller buldu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "[Vantage Point] Inside Vibal Group’s P342-M governance crisis",
+          "url": "https://www.rappler.com/voices/newsletters/vantage-point-vibal-group-publishing-regulation/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T04:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Vibal Group's P342-M governance crisis involving DepEd contracts",
+      "title_tr": "Vibal Grubu'nun DepEd sözleşmelerini içeren 342 milyon Pesoluk yönetim krizi",
+      "synthesis_en": "Rappler reports on an internal feud within the Vibal Group involving P342.53 million in contracts with the Department of Education, some approved when Vice President Sara Duterte was education secretary.",
+      "synthesis_tr": "Rappler, Vibal Grubu içindeki, bazıları Başkan Yardımcısı Sara Duterte'nin eğitim bakanı olduğu dönemde onaylanan Eğitim Bakanlığı ile 342,53 milyon Pesoluk sözleşmeleri içeren bir iç anlaşmazlığı bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "What’s behind the ‘subsidy’ charges in your electricity bill?",
+          "url": "https://www.rappler.com/business/meralco-electricity-bill-subsidy-charges/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T03:41:07+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Energy Regulatory Commission clarifies subsidy charges in electricity bills",
+      "title_tr": "Enerji Düzenleme Komisyonu elektrik faturalarındaki sübvansiyon ücretlerini açıklıyor",
+      "synthesis_en": "The Energy Regulatory Commission clarifies that 'subsidy' charges in electricity bills are mandated by law and collected by all power distributors, not just Meralco, according to Rappler.",
+      "synthesis_tr": "Rappler'a göre, Enerji Düzenleme Komisyonu elektrik faturalarındaki 'sübvansiyon' ücretlerinin yasal olarak zorunlu olduğunu ve sadece Meralco değil tüm elektrik dağıtıcıları tarafından tahsil edildiğini açıklıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Bengal polls: Police arrest 1,543, including TMC councillor, ahead of second phase",
+          "url": "https://scroll.in/latest/1092421/bengal-polls-police-arrest-1543-including-tmc-councillor-ahead-of-second-phase?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T03:05:19+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Bengal polls: Police arrest 1,543 including TMC councillor before second phase",
+      "title_tr": "Bengal seçimleri: Polis ikinci tur öncesi TMC meclis üyesi dahil 1.543 kişiyi tutukladı",
+      "synthesis_en": "Ahead of the second phase of West Bengal assembly elections, police have arrested 1,543 people, including a Trinamool Congress councillor, to prevent disturbances, as reported by Scroll.in.",
+      "synthesis_tr": "Scroll.in'in haberine göre, Batı Bengal meclis seçimlerinin ikinci turu öncesinde polis, olayları önlemek amacıyla bir Trinamool Kongre meclis üyesi de dahil olmak üzere 1.543 kişiyi tutukladı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes",
+          "url": "https://www.rappler.com/people/artists/taylor-swift-trademark-voice-likeness-ward-off-ai-deepfakes/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T03:02:37+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Taylor Swift files to trademark voice and likeness against AI deepfakes",
+      "title_tr": "Taylor Swift, yapay zeka deepfake'lerine karşı sesini ve benzerliğini tescillemek için başvurdu",
+      "synthesis_en": "Taylor Swift has filed to trademark her voice and likeness to protect against AI-generated deepfakes, which have been used in false advertising, fake political endorsements, and explicit images, according to Rappler.",
+      "synthesis_tr": "Rappler'a göre Taylor Swift, yapay zeka tarafından üretilen deepfake'lere karşı korunmak için sesini ve benzerliğini tescillemek üzere başvuruda bulundu; bu deepfake'ler sahte reklamlar, sahte siyasi destekler ve müstehcen görüntülerde kullanılmıştı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "This book shows how the all-women journalist team at Khabar Lahariya covers news from the villages",
+          "url": "https://scroll.in/article/1091903/this-book-shows-how-the-all-women-journalist-team-at-khabar-lahariya-covers-news-from-the-villages?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T03:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Book shows how all-women journalist team at Khabar Lahariya covers villages",
+      "title_tr": "Kitap, Khabar Lahariya'daki kadın gazeteci ekibinin köyleri nasıl haber yaptığını gösteriyor",
+      "synthesis_en": "An excerpt from 'The Good Reporter' by Disha Mullick and others, published by Scroll.in, shows how the all-women journalist team at Khabar Lahariya covers news from villages.",
+      "synthesis_tr": "Scroll.in tarafından yayınlanan Disha Mullick ve diğerlerinin 'The Good Reporter' kitabından bir alıntı, Khabar Lahariya'daki kadın gazeteci ekibinin köylerden haberleri nasıl yaptığını gösteriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "[Pinoy Criminology] Fanatics of corruption",
+          "url": "https://www.rappler.com/voices/thought-leaders/pinoy-criminology-fanatics-excuse-defend-corruption/",
+          "source_name": "Rappler",
+          "source_id": "rappler",
+          "region": "asia",
+          "published": "2026-04-28T03:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Corruption in Philippines sustained by selective accountability",
+      "title_tr": "Filipinler'de yolsuzluk seçici hesap verebilirlikle sürdürülüyor",
+      "synthesis_en": "An article from Rappler argues that corruption in the Philippines is sustained by a public that applies accountability selectively, allowing corrupt practices to persist.",
+      "synthesis_tr": "Rappler'dan bir makale, Filipinler'de yolsuzluğun, hesap verebilirliği seçici bir şekilde uygulayan halk tarafından sürdürüldüğünü ve yolsuz uygulamaların devam etmesine izin verdiğini savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "King Charles on Capitol Hill as special relationship frays",
+          "url": "https://asiatimes.com/2026/04/king-charles-on-capitol-hill-as-special-relationship-frays/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T02:45:32+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "King Charles addresses US Congress as special relationship frays",
+      "title_tr": "Kral Charles, özel ilişkiler zayıflarken ABD Kongresi'ne hitap ediyor",
+      "synthesis_en": "King Charles III is set to address a joint meeting of Congress, becoming only the second British monarch to do so, amid a fraying special relationship, according to Asia Times.",
+      "synthesis_tr": "Asia Times'a göre, Kral III. Charles, özel ilişkilerin zayıfladığı bir dönemde Kongre'nin ortak oturumuna hitap edecek ve bunu yapan ikinci İngiliz hükümdar olacak.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The grunge behind the glamour: What photographer Ketaki Sheth saw when she landed on a film set",
+          "url": "https://scroll.in/reel/1092379/the-grunge-behind-the-glamour-what-photographer-ketaki-sheth-saw-when-she-landed-on-a-film-set?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T02:30:02+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Photographer Ketaki Sheth's book shows grunge behind film glamour",
+      "title_tr": "Fotoğrafçı Ketaki Sheth'in kitabı film parıltısının ardındaki grunge'ı gösteriyor",
+      "synthesis_en": "Scroll.in reports on 'Flashback', a collection of 57 photographs by Ketaki Sheth of film shoots in Mumbai and Chennai taken between 1985 and 1993, revealing the grunge behind the glamour.",
+      "synthesis_tr": "Scroll.in, Ketaki Sheth'in 1985-1993 yılları arasında Mumbai ve Chennai'deki film çekimlerinden 57 fotoğraftan oluşan 'Flashback' koleksiyonunu haber yapıyor; parıltının ardındaki grunge'ı ortaya koyuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "How the IMF underplays its own assessment of the real cost of war",
+          "url": "https://scroll.in/article/1092401/how-the-imf-underplays-its-own-assessment-of-the-real-cost-of-war?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T02:00:01+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "IMF underplays its own assessment of war's real cost",
+      "title_tr": "IMF, savaşın gerçek maliyetine ilişkin kendi değerlendirmesini küçümsüyor",
+      "synthesis_en": "Scroll.in reports that the IMF points out economic dangers of increased defence spending and conflicts but suggests solutions aligning with NATO policies, underplaying its own assessment of the real cost of war.",
+      "synthesis_tr": "Scroll.in, IMF'nin artan savunma harcamaları ve çatışmaların ekonomik tehlikelerine dikkat çektiğini ancak NATO politikalarıyla uyumlu çözümler önererek savaşın gerçek maliyetine ilişkin kendi değerlendirmesini küçümsediğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The social roots of Iran’s defiance: a dialogue about “civilization”",
+          "url": "https://peoplesdispatch.org/2026/04/27/the-social-roots-of-irans-defiance-a-dialogue-about-civilization/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-28T01:51:10+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Analysis explores social roots of Iran's defiance against West",
+      "title_tr": "İran'ın Batı'ya meydan okumasının toplumsal kökenleri analizi",
+      "synthesis_en": "An article on Peoples Dispatch examines the social and historical sources of Iran's confidence in standing up to the West, suggesting it has become a source of admiration in the formerly colonized world.",
+      "synthesis_tr": "Peoples Dispatch'teki bir makale, İran'ın Batı'ya karşı duruşundaki özgüvenin toplumsal ve tarihsel kaynaklarını inceliyor; bu durumun eskiden sömürge altında olan dünyada hayranlık uyandırdığını öne sürüyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "‘Homosexual Intifada’: An anthology embodying the resilience of Palestinian queer communities",
+          "url": "https://scroll.in/article/1092230/homosexual-intifada-an-anthology-embodying-the-resilience-of-palestinian-queer-communities?utm_source=rss&utm_medium=public",
+          "source_name": "Scroll.in",
+          "source_id": "scroll-in",
+          "region": "asia",
+          "published": "2026-04-28T01:50:43+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Anthology highlights resilience of Palestinian queer communities",
+      "title_tr": "Antoloji, Filistinli queer topluluklarının direncini vurguluyor",
+      "synthesis_en": "A new anthology titled 'Homosexual Intifada' features essays, stories, poetry, photographs, and art exploring the double precarity of being queer and Palestinian, as reported by Scroll.in.",
+      "synthesis_tr": "Scroll.in'in haberine göre, 'Homoseksüel İntifada' başlıklı yeni bir antoloji, queer ve Filistinli olmanın ikili kırılganlığını inceleyen denemeler, hikayeler, şiirler, fotoğraflar ve sanat eserleri içeriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "A $400 million dance floor: Trump's White House wish hits a wall",
+          "url": "https://www.alternet.org/a-400m/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-28T01:16:04+00:00",
+          "obscured": false
+        },
+        {
+          "title": "WSJ conservative warns GOP to stop attacking the Secret Service",
+          "url": "https://www.alternet.org/conservative-on/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-28T00:30:28+00:00",
+          "obscured": false
+        },
+        {
+          "title": "Even Trump’s own supporters suspect latest assassination attempt was staged",
+          "url": "https://www.alternet.org/people-cant/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-27T21:23:51+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Trump assassination attempt sparks debate on security and conspiracy theories",
+      "title_tr": "Trump'a suikast girişimi güvenlik ve komplo teorileri tartışmalarını alevlendirdi",
+      "synthesis_en": "Following an apparent assassination attempt on President Donald Trump, reports indicate that Senate Majority Leader John Thune was noncommittal about funding a White House ballroom that Trump wanted. Some conservatives criticized the Secret Service, but a Wall Street Journal columnist warned against such attacks. Meanwhile, many Americans, including some Trump supporters, suspect the event was staged, fueling conspiracy theories.",
+      "synthesis_tr": "Başkan Donald Trump'a yönelik bir suikast girişiminin ardından, Senato Çoğunluk Lideri John Thune'un Trump'ın istediği Beyaz Saray balo salonu için fon sağlanması konusunda kararsız olduğu bildirildi. Bazı muhafazakarlar Gizli Servis'i eleştirdi ancak Wall Street Journal yazarı bu saldırılara karşı uyardı. Bu arada, bazı Trump destekçileri de dahil olmak üzere birçok Amerikalı, olayın sahnelendiğinden şüpheleniyor ve komplo teorilerini körüklüyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Sheinbaum critica atuação dos EUA em operação antidrogas no México",
+          "url": "https://www.brasildefato.com.br/2026/04/27/sheinbaum-critica-atuacao-dos-eua-em-operacao-antidrogas-no-mexico/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-28T00:50:36+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Mexico's president criticizes US anti-drug operation in Chihuahua",
+      "title_tr": "Meksika devlet başkanı, Chihuahua'daki ABD uyuşturucu operasyonunu eleştirdi",
+      "synthesis_en": "Mexican President Claudia Sheinbaum sent a diplomatic note stating that US participation in an anti-drug operation in Chihuahua should not be repeated, following the deaths of two US officials, as reported by Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'nun haberine göre, Meksika Devlet Başkanı Claudia Sheinbaum, iki ABD'li yetkilinin ölümünün ardından Chihuahua'daki bir uyuşturucu operasyonuna ABD'nin katılımının tekrarlanmaması gerektiğini belirten bir diplomatik nota gönderdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "MPF denuncia mineração ilegal na Amazônia à CIDH",
+          "url": "https://www.brasildefato.com.br/2026/04/27/mpf-denuncia-mineracao-ilegal-na-amazonia-a-cidh/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-28T00:39:38+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Brazil's federal prosecutors denounce illegal mining in Amazon to IACHR",
+      "title_tr": "Brezilya federal savcıları, Amazon'daki yasadışı madenciliği IACHR'ye şikayet etti",
+      "synthesis_en": "Brazil's Federal Public Ministry presented a study to the Inter-American Commission on Human Rights (IACHR) denouncing health and environmental damage caused by mercury used in illegal gold mining in the Amazon, according to Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'ya göre, Brezilya Federal Kamu Bakanlığı, Amazon'daki yasadışı altın madenciliğinde kullanılan cıvanın neden olduğu sağlık ve çevre zararlarını kınayan bir çalışmayı Amerikalılar Arası İnsan Hakları Komisyonu'na (IACHR) sundu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "China defends firms as US sanctions Hengli over Iran oil",
+          "url": "https://asiatimes.com/2026/04/china-defends-firms-as-us-sanctions-hengli-over-iran-oil/",
+          "source_name": "Asia Times",
+          "source_id": "asia-times",
+          "region": "asia",
+          "published": "2026-04-28T00:39:12+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "China defends firms after US sanctions over Iranian oil trade",
+      "title_tr": "Çin, İran petrol ticareti nedeniyle ABD yaptırımlarına uğrayan şirketleri savundu",
+      "synthesis_en": "China vowed to safeguard domestic enterprises after the US imposed sanctions on a Dalian-based oil refiner and Hong Kong-registered shipping firms for alleged involvement in Iranian oil shipments, as reported by Asia Times.",
+      "synthesis_tr": "Asia Times'ın haberine göre Çin, ABD'nin İran petrol sevkiyatlarına karıştığı iddiasıyla Dalian merkezli bir petrol rafinerisi ve Hong Kong'da kayıtlı nakliye şirketlerine yaptırım uygulamasının ardından yerli işletmeleri koruyacağını belirtti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Do Superpop e kit gay à presidência do Brasil, pesquisa mostra construção política de Jair Bolsonaro",
+          "url": "https://www.brasildefato.com.br/2026/04/27/do-superpop-e-kit-gay-a-presidencia-do-brasil-pesquisa-mostra-construcao-politica-de-jair-bolsonaro/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-28T00:33:49+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Research examines Jair Bolsonaro's political rise in Brazil",
+      "title_tr": "Araştırma, Jair Bolsonaro'nun Brezilya'daki siyasi yükselişini inceliyor",
+      "synthesis_en": "A publication titled 'Com que moral vão me caçar aqui?' analyzes the political trajectory of former Brazilian President Jair Bolsonaro, who was convicted for an attempted coup on January 8, 2023, according to Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'ya göre, 'Com que moral vão me caçar aqui?' başlıklı bir yayın, 8 Ocak 2023'teki darbe girişiminden hüküm giyen eski Brezilya Devlet Başkanı Jair Bolsonaro'nun siyasi yörüngesini analiz ediyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Seminário em Pernambuco debate como a criminalização das drogas impacta a experiência de ser mãe",
+          "url": "https://www.brasildefato.com.br/2026/04/27/seminario-em-pernambuco-debate-como-a-criminalizacao-das-drogas-impacta-a-experiencia-de-ser-mae/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-28T00:32:42+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Seminar in Pernambuco discusses impact of drug criminalization on mothers",
+      "title_tr": "Pernambuco'da düzenlenen seminer, uyuşturucu suçlarının anneler üzerindeki etkisini tartıştı",
+      "synthesis_en": "A seminar in Pernambuco, Brazil, addressed how drug policy criminalization disproportionately affects Black women and contributes to maternal deaths, with 77% of maternal deaths linked to drug policy, as reported by Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'nun haberine göre, Brezilya'nın Pernambuco kentinde düzenlenen bir seminer, uyuşturucu politikası suçlarının siyah kadınları orantısız şekilde etkilediğini ve anne ölümlerine katkıda bulunduğunu, anne ölümlerinin %77'sinin uyuşturucu politikasıyla bağlantılı olduğunu ele aldı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Apoio da Rússia ao Irã marca ‘fim de período de onipresença e medo que EUA impõem ao mundo’, afirma especialista",
+          "url": "https://www.brasildefato.com.br/2026/04/27/apoio-da-russia-ao-ira-marca-fim-de-periodo-de-onipresenca-e-medo-que-eua-impoem-ao-mundo-afirma-especialista/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-27T23:59:25+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Russia's support for Iran marks end of US dominance, expert says",
+      "title_tr": "Uzman, Rusya'nın İran'a desteğinin ABD hakimiyetinin sonunu işaret ettiğini söylüyor",
+      "synthesis_en": "According to Brasil de Fato, an expert stated that Russia's support for Iran marks the end of a period of US omnipresence and fear imposed on the world. The White House confirmed it is evaluating an Iranian proposal to reopen the Strait of Hormuz conditional on ending the US naval blockade.",
+      "synthesis_tr": "Brasil de Fato'ya göre bir uzman, Rusya'nın İran'a desteğinin ABD'nin her yerde bulunma ve dünyaya korku salma döneminin sonunu işaret ettiğini belirtti. Beyaz Saray, ABD deniz ablukasının sona ermesi koşuluyla İran'ın Hürmüz Boğazı'nı yeniden açma önerisini değerlendirdiğini doğruladı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Novo Desenrola permitirá uso do FGTS para renegociação de dívidas",
+          "url": "https://www.brasildefato.com.br/2026/04/27/novo-desenrola-permitira-uso-do-fgts-para-renegociacao-de-dividas/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-27T23:49:28+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Brazil's new Desenrola program allows FGTS use for debt renegotiation",
+      "title_tr": "Brezilya'nın yeni Desenrola programı, borç yeniden yapılandırması için FGTS kullanımına izin veriyor",
+      "synthesis_en": "Brazil's new Desenrola 2.0 program, expected to be announced by President Luiz Inácio Lula da Silva, will allow the use of the FGTS fund for debt renegotiation, as confirmed by the Finance Minister, according to Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'ya göre, Devlet Başkanı Luiz Inácio Lula da Silva tarafından duyurulması beklenen yeni Desenrola 2.0 programı, Maliye Bakanı tarafından onaylandığı üzere, borç yeniden yapılandırması için FGTS fonunun kullanılmasına izin verecek.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Kenyan court recriminalizes abortion",
+          "url": "https://peoplesdispatch.org/2026/04/27/kenyan-court-recriminalizes-abortion/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-27T22:55:12+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Kenyan court recriminalizes abortion, advocates warn of danger",
+      "title_tr": "Kenya mahkemesi kürtajı yeniden suç saydı, savunucular tehlike uyarısı yaptı",
+      "synthesis_en": "A Kenyan court ruling recriminalized abortion, and reproductive rights advocates warn that it poses grave danger for doctors and pregnant women, as thousands die from unsafe abortions annually, according to Peoples Dispatch.",
+      "synthesis_tr": "Peoples Dispatch'e göre, Kenya'daki bir mahkeme kararı kürtajı yeniden suç saydı ve üreme hakları savunucuları, her yıl binlerce kişinin güvenli olmayan kürtaj nedeniyle ölmesi nedeniyle bunun doktorlar ve hamile kadınlar için ciddi tehlike oluşturduğu uyarısında bulundu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Trump is one risky move away from a constitutional crisis: conservative think tank",
+          "url": "https://www.alternet.org/trump-constitutional-crisis-2676820897/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-27T22:47:57+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Conservative think tank warns Trump risks constitutional crisis",
+      "title_tr": "Muhafazakar düşünce kuruluşu, Trump'ın anayasal kriz riskiyle karşı karşıya olduğu uyarısı yaptı",
+      "synthesis_en": "A Libertarian scholar warned that President Donald Trump risks violating the Constitution through his Cabinet picks, though he currently appears to be on the right side of the law, as reported by AlterNet.",
+      "synthesis_tr": "AlterNet'in haberine göre, bir Liberteryen akademisyen, Başkan Donald Trump'ın kabine seçimleriyle Anayasa'yı ihlal etme riskiyle karşı karşıya olduğu, ancak şu anda yasanın doğru tarafında göründüğü uyarısında bulundu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Fiocruz e movimentos populares se unem para montar comitês de luta ambiental nas periferias do Grande Recife",
+          "url": "https://www.brasildefato.com.br/2026/04/27/fiocruz-e-movimentos-populares-se-unem-para-montar-comites-de-luta-ambiental-nas-periferias-do-grande-recife/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-27T22:43:35+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Fiocruz and social movements create environmental committees in Recife peripheries",
+      "title_tr": "Fiocruz ve sosyal hareketler, Recife çevresinde çevre komiteleri oluşturuyor",
+      "synthesis_en": "Fiocruz and popular movements are establishing a network of Popular Environmental Committees to mobilize over 800 agents in the peripheries of Pernambuco and Paraíba, according to Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'ya göre, Fiocruz ve halk hareketleri, Pernambuco ve Paraíba'nın çevre bölgelerinde 800'den fazla temsilciyi harekete geçirmek için bir Halk Çevre Komiteleri ağı kuruyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "PT deve ter nove candidatos disputando os governos estaduais; entenda o cenário nacional",
+          "url": "https://www.brasildefato.com.br/2026/04/27/pt-deve-ter-nove-candidatos-disputando-os-governos-estaduais-entenda-o-cenario-nacional/",
+          "source_name": "Brasil de Fato",
+          "source_id": "brasil-de-fato",
+          "region": "latam",
+          "published": "2026-04-27T22:34:08+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Brazil's Workers' Party to field nine candidates for state governorships",
+      "title_tr": "Brezilya İşçi Partisi, eyalet valilikleri için dokuz aday çıkaracak",
+      "synthesis_en": "Brazil's Workers' Party (PT) is expected to have nine candidates for state governorships, forming alliances with PSB, PDT, and PSD, as reported by Brasil de Fato.",
+      "synthesis_tr": "Brasil de Fato'nun haberine göre, Brezilya İşçi Partisi'nin (PT) eyalet valilikleri için dokuz aday çıkarması ve PSB, PDT ve PSD ile ittifaklar kurması bekleniyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Defense expert says Trump-class battleships prioritize 'the president’s insatiable ego'",
+          "url": "https://www.alternet.org/trump-class-battleship/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-27T22:04:14+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Defense expert says Trump-class battleships prioritize president's ego",
+      "title_tr": "Savunma uzmanı, Trump sınıfı savaş gemilerinin başkanın egosuna öncelik verdiğini söylüyor",
+      "synthesis_en": "A defense expert commented that rumors about Trump-class battleships prioritize President Donald Trump's 'insatiable ego,' and the firing of Naval Secretary John Phelan may be linked to difficulties delivering on Trump's demand for such ships, as reported by AlterNet.",
+      "synthesis_tr": "AlterNet'in haberine göre, bir savunma uzmanı, Trump sınıfı savaş gemileriyle ilgili söylentilerin Başkan Donald Trump'ın 'doymak bilmez egosuna' öncelik verdiğini ve Deniz Kuvvetleri Sekreteri John Phelan'ın görevden alınmasının, Trump'ın bu tür gemilere yönelik talebini yerine getirmedeki zorluklarla bağlantılı olabileceğini belirtti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Republicans only have themselves to blame for Trump’s unhinged reign: conservative scholar",
+          "url": "https://www.alternet.org/trump-destroying/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-27T21:53:15+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Conservative scholar says Republicans blame themselves for Trump's reign",
+      "title_tr": "Muhafazakar akademisyen, Cumhuriyetçilerin Trump'ın yönetimi için kendilerini suçlaması gerektiğini söylüyor",
+      "synthesis_en": "Conservative legal scholar Gregg Nunziata wrote in The Atlantic that Donald Trump's unhinged leadership is the result of a decades-long plot by the right that has backfired, threatening democracy, as reported by AlterNet.",
+      "synthesis_tr": "AlterNet'in haberine göre, muhafazakar hukuk akademisyeni Gregg Nunziata, The Atlantic'te Donald Trump'ın dengesiz liderliğinin, sağın onlarca yıllık planının ters tepmesinin sonucu olduğunu ve demokrasiyi tehdit ettiğini yazdı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Pope accuses West of treating immigrants 'worse than animals'",
+          "url": "https://www.youtube.com/shorts/LYVpx2l2V9Q",
+          "source_name": "BreakThrough News",
+          "source_id": "breakthrough-news",
+          "region": "us",
+          "published": "2026-04-27T21:51:48+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Pope accuses West of treating immigrants worse than animals",
+      "title_tr": "Papa, Batı'yı göçmenlere hayvanlardan beter muamele etmekle suçladı",
+      "synthesis_en": "Pope Leo criticized the West for treating immigrants 'worse than animals' and questioned what the Global North is doing to help the Global South, as reported by BreakThrough News.",
+      "synthesis_tr": "BreakThrough News'in haberine göre, Papa Leo, Batı'yı göçmenlere 'hayvanlardan beter' muamele etmekle eleştirdi ve Küresel Kuzey'in Küresel Güney'e yardım etmek için ne yaptığını sorguladı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Gaza’s Deir Al-Balah Holds First Election Since 2005",
+          "url": "https://www.dropsitenews.com/p/gaza-deir-al-balah-municipal-election-hamas-fatah-west-bank",
+          "source_name": "DropSite News",
+          "source_id": "dropsite-news",
+          "region": "us",
+          "published": "2026-04-27T21:24:16+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Gaza's Deir al-Balah holds first election since 2005",
+      "title_tr": "Gazze'nin Deyr el-Belah kenti 2005'ten bu yana ilk seçimini yaptı",
+      "synthesis_en": "Deir al-Balah in Gaza held its first election since 2005, which was lauded as a step forward but occurred amid ongoing genocide and occupation, and under a recent law limiting candidates, as reported by DropSite News.",
+      "synthesis_tr": "DropSite News'in haberine göre, Gazze'deki Deyr el-Belah, 2005'ten bu yana ilk seçimini yaptı; bu seçim ileriye doğru bir adım olarak övülse de devam eden soykırım ve işgal altında ve adayları sınırlayan yeni bir yasa kapsamında gerçekleşti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Builder of Trump Ballroom Given $17M for Project Biden Admin Said Would Cost $3M",
+          "url": "https://truthout.org/articles/builder-of-trump-ballroom-given-17m-for-project-biden-admin-said-would-cost-3m/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T21:08:02+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Trump ballroom builder received $17M for project Biden admin estimated at $3M",
+      "title_tr": "Trump balo salonu inşaatçısı, Biden yönetiminin 3 milyon dolar olarak tahmin ettiği proje için 17 milyon dolar aldı",
+      "synthesis_en": "The original cost estimator for a ballroom built for Trump said the project's estimate was altered, with the final cost reaching $17 million, far exceeding the $3 million estimate from the Biden administration. The claim was reported by Truthout.",
+      "synthesis_tr": "Trump için inşa edilen bir balo salonunun orijinal maliyet tahmincisi, proje tahmininin değiştirildiğini ve nihai maliyetin Biden yönetiminin 3 milyon dolarlık tahminini çok aşarak 17 milyon dolara ulaştığını söyledi. İddia Truthout tarafından bildirildi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "“The Decision Was Neither Arbitrary Nor Political”; Minerals Commission Defends Revocation Of Mining Leases Of Adamus",
+          "url": "https://panafricantv.com/the-decision-was-neither-arbitrary-nor-political-minerals-commission-defends-revocation-of-mining-leases-of-adamus/",
+          "source_name": "Pan African TV",
+          "source_id": "pan-african-tv",
+          "region": "africa",
+          "published": "2026-04-27T21:03:54+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Ghana Minerals Commission defends revocation of Adamus mining leases",
+      "title_tr": "Gana Maden Komisyonu, Adamus maden ruhsatlarının iptalini savundu",
+      "synthesis_en": "The Minerals Commission of Ghana stated that the revocation of mining leases for Adamus Resources Limited was due to systemic violations of mining laws, not political reasons. The decision was defended as neither arbitrary nor political.",
+      "synthesis_tr": "Gana Maden Komisyonu, Adamus Resources Limited'in maden ruhsatlarının iptalinin siyasi nedenlerle değil, maden yasalarının sistematik ihlali nedeniyle yapıldığını belirtti. Kararın ne keyfi ne de siyasi olduğu savunuldu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "GIS launch a public-private sector initiative, SECOBOR aimed at addressing needs of the service",
+          "url": "https://panafricantv.com/gis-launch-a-public-private-sector-initiative-secobor-aimed-at-addressing-needs-of-the-service/",
+          "source_name": "Pan African TV",
+          "source_id": "pan-african-tv",
+          "region": "africa",
+          "published": "2026-04-27T20:59:29+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Ghana Immigration Service launches SECOBOR public-private initiative",
+      "title_tr": "Gana Göçmenlik Dairesi, SECOBOR kamu-özel sektör girişimini başlattı",
+      "synthesis_en": "The Ghana Immigration Service's Governing Council is pushing for the launch of Operation Secure Our Borders (SECOBOR), a public-private partnership to mobilize resources for the service's needs.",
+      "synthesis_tr": "Gana Göçmenlik Dairesi Yönetim Kurulu, hizmetin ihtiyaçlarını karşılamak için kaynak sağlamayı amaçlayan kamu-özel ortaklığı olan Sınırlarımızı Güvence Altına Alma Operasyonu'nun (SECOBOR) başlatılması için çalışıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Rubio helped whistleblower as a senator — but now is 'MIA'",
+          "url": "https://www.alternet.org/marco-rubio-havana-syndrome/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-27T20:54:29+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Rubio, once a whistleblower ally, now accused of being MIA on Havana Syndrome",
+      "title_tr": "Bir zamanlar muhbirin müttefiki olan Rubio, şimdi Havana Sendromu konusunda kayıp olmakla suçlanıyor",
+      "synthesis_en": "Mark Lenzi, a diplomat affected by Havana Syndrome, said that as a senator, Marco Rubio was a hero to him, but as Secretary of State, Rubio is now 'MIA' on the issue. The story was reported by AlterNet.",
+      "synthesis_tr": "Havana Sendromu'ndan etkilenen diplomat Mark Lenzi, senatörken Marco Rubio'nun kendisi için bir kahraman olduğunu, ancak Dışişleri Bakanı olarak Rubio'nun bu konuda artık 'kayıp' olduğunu söyledi. Hikaye AlterNet tarafından bildirildi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The data center boom is falling apart",
+          "url": "https://www.youtube.com/shorts/DXudhYoZjjk",
+          "source_name": "BreakThrough News",
+          "source_id": "breakthrough-news",
+          "region": "us",
+          "published": "2026-04-27T20:52:03+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Over half of planned US data center projects delayed or cancelled in 2026",
+      "title_tr": "2026'da planlanan ABD veri merkezi projelerinin yarısından fazlası ertelendi veya iptal edildi",
+      "synthesis_en": "More than half of data center projects planned for 2026 have been delayed or cancelled, primarily due to organized community pushback across the US. BreakThrough News reported the trend.",
+      "synthesis_tr": "2026 için planlanan veri merkezi projelerinin yarısından fazlası, başta ABD genelindeki organize topluluk direnişi nedeniyle ertelendi veya iptal edildi. BreakThrough News bu eğilimi bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Trump loyalist could stay in power without Congress thanks to sneaky 'loophole'",
+          "url": "https://www.alternet.org/trump-blanche/",
+          "source_name": "AlterNet",
+          "source_id": "alternet",
+          "region": "us",
+          "published": "2026-04-27T20:39:05+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Trump loyalist Todd Blanche may stay at DOJ without Senate confirmation via loophole",
+      "title_tr": "Trump sadığı Todd Blanche, Senato onayı olmadan boşluk sayesinde Adalet Bakanlığı'nda kalabilir",
+      "synthesis_en": "Todd Blanche, a Trump loyalist and former personal lawyer, could remain as head of the Department of Justice without Senate confirmation due to a legal loophole, according to Politico as reported by AlterNet.",
+      "synthesis_tr": "Trump sadığı ve eski kişisel avukatı Todd Blanche, yasal bir boşluk sayesinde Senato onayı olmadan Adalet Bakanlığı'nın başında kalabilir. Bu, AlterNet'in aktardığına göre Politico tarafından bildirildi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "How Trump’s America Produces Normie Assassins",
+          "url": "https://theintercept.com/2026/04/27/white-house-correspondents-dinner-shooting-trump/",
+          "source_name": "The Intercept",
+          "source_id": "the-intercept",
+          "region": "us",
+          "published": "2026-04-27T20:35:32+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "The Intercept: Trump's politics produce 'normie assassins'",
+      "title_tr": "The Intercept: Trump'ın politikaları 'sıradan suikastçılar' üretiyor",
+      "synthesis_en": "An article in The Intercept argued that the only extremism shared by would-be assassins like suspect Cole Tomas Allen is an extreme response to Trump's deranging politics.",
+      "synthesis_tr": "The Intercept'teki bir makale, Cole Tomas Allen gibi suikast girişiminde bulunan şüphelilerin paylaştığı tek aşırıcılığın Trump'ın çılgın politikalarına aşırı bir tepki olduğunu savundu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Trump Administration Moves to Bring Back Firing Squads in Effort to Ramp Up Executions",
+          "url": "https://truthout.org/video/trump-administration-moves-to-bring-back-firing-squads-in-effort-to-ramp-up-executions/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T20:14:24+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Trump administration moves to bring back firing squads for executions",
+      "title_tr": "Trump yönetimi infazlar için idam mangalarını geri getirmeye çalışıyor",
+      "synthesis_en": "The Trump administration is taking steps to reintroduce firing squads as a method of execution, a move criticized by Sister Helen Prejean as demonizing enemies. Truthout reported the story.",
+      "synthesis_tr": "Trump yönetimi, bir infaz yöntemi olarak idam mangalarını yeniden uygulamaya koymak için adımlar atıyor. Rahibe Helen Prejean bu hamleyi düşmanları şeytanlaştırmak olarak eleştirdi. Truthout haberi bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Top Biden Official: Israel Committed Genocide, But US Must Still Support It",
+          "url": "https://truthout.org/articles/top-biden-official-israel-committed-genocide-but-us-must-still-support-it/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T19:25:08+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Top Biden official admits Israel committed genocide but says US must still support",
+      "title_tr": "Üst düzey Biden yetkilisi İsrail'in soykırım yaptığını kabul etti ancak ABD'nin yine de desteklemesi gerektiğini söyledi",
+      "synthesis_en": "A top Biden administration official acknowledged in an interview that Israel has committed genocide in Gaza, but argued the US must continue to support Israel. Truthout reported the admission.",
+      "synthesis_tr": "Üst düzey bir Biden yönetimi yetkilisi bir röportajda İsrail'in Gazze'de soykırım yaptığını kabul etti, ancak ABD'nin İsrail'i desteklemeye devam etmesi gerektiğini savundu. Truthout bu itirafı bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Supreme Court Upholds Gerrymandered Texas Congressional Map",
+          "url": "https://truthout.org/articles/supreme-court-upholds-gerrymandered-texas-congressional-map/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T19:15:34+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Supreme Court upholds gerrymandered Texas congressional map",
+      "title_tr": "Yüksek Mahkeme, partizan amaçlı Texas kongre haritasını onadı",
+      "synthesis_en": "The US Supreme Court upheld a Texas congressional map that critics say is gerrymandered to give Republicans up to five additional seats. Truthout reported the decision.",
+      "synthesis_tr": "ABD Yüksek Mahkemesi, eleştirmenlere göre Cumhuriyetçilere beşe kadar ek sandalye kazandırmak için partizan amaçlı düzenlenmiş bir Texas kongre haritasını onadı. Truthout kararı bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Boat Strike Death Toll Approaches 200 as Trump Administration Continues Murders at Sea",
+          "url": "https://truthout.org/articles/boat-strike-death-toll-approaches-200-as-trump-administration-continues-murders-at-sea/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T19:15:12+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Boat strike death toll approaches 200; Trump administration accused of murders at sea",
+      "title_tr": "Tekne saldırısı ölü sayısı 200'e yaklaşıyor; Trump yönetimi denizde cinayetle suçlanıyor",
+      "synthesis_en": "The death toll from boat strikes has approached 200, and experts compared the Trump administration's actions to Rodrigo Duterte's killing spree in the Philippines. Truthout reported the story.",
+      "synthesis_tr": "Tekne saldırılarından ölü sayısı 200'e yaklaştı ve uzmanlar Trump yönetiminin eylemlerini Rodrigo Duterte'nin Filipinler'deki ölüm mangalarına benzetti. Truthout haberi bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "US and Israel Claimed to Be Fighting for Iranian Minorities — While Bombing Them",
+          "url": "https://truthout.org/articles/us-and-israel-claim-to-be-fighting-for-iranian-minorities-while-bombing-them/",
+          "source_name": "Truthout",
+          "source_id": "truthout",
+          "region": "us",
+          "published": "2026-04-27T18:37:37+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "US and Israel bombed Iranian minorities while claiming to fight for them",
+      "title_tr": "ABD ve İsrail, İranlı azınlıklar için savaştıklarını iddia ederken onları bombaladı",
+      "synthesis_en": "Iran's religious minority communities have been overlooked victims of the US-Israeli war on Iran, according to a Truthout report. The bombing affected already marginalized groups.",
+      "synthesis_tr": "Truthout raporuna göre, İran'ın dini azınlık toplulukları ABD-İsrail'in İran savaşının göz ardı edilen kurbanları oldu. Bombalamalar zaten marjinalleştirilmiş grupları etkiledi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "New Report Shows That Hardening of US Sanctions on Cuba Since 2017 Fueled a Sharp Increase in Cuba’s Infant Mortality Rate",
+          "url": "https://www.commondreams.org/newswire/new-report-shows-that-hardening-of-us-sanctions-on-cuba-since-2017-fueled-a-sharp-increase-in-cubas-infant-mortality-rate",
+          "source_name": "Common Dreams",
+          "source_id": "common-dreams",
+          "region": "us",
+          "published": "2026-04-27T17:43:10+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Report: US sanctions on Cuba since 2017 fueled rise in infant mortality",
+      "title_tr": "Rapor: 2017'den beri Küba'ya uygulanan ABD yaptırımları bebek ölüm oranındaki artışı körükledi",
+      "synthesis_en": "A report from the Center for Economic and Policy Research found that expanded US sanctions on Cuba since 2017 were likely the primary cause of a sharp increase in Cuba's infant mortality rate. Common Dreams reported the findings.",
+      "synthesis_tr": "Ekonomik ve Politika Araştırmaları Merkezi'nden bir rapor, 2017'den beri Küba'ya uygulanan genişletilmiş ABD yaptırımlarının, Küba'daki bebek ölüm oranındaki keskin artışın birincil nedeni olduğunu ortaya koydu. Common Dreams bulguları bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "‘The General Strike Is Back’: From Minnesota to May Day",
+          "url": "https://www.youtube.com/watch?v=4mZH7fQgoLA",
+          "source_name": "BreakThrough News",
+          "source_id": "breakthrough-news",
+          "region": "us",
+          "published": "2026-04-27T17:35:25+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Millions prepare for May Day general strike across US",
+      "title_tr": "Milyonlar ABD genelinde 1 Mayıs genel grevine hazırlanıyor",
+      "synthesis_en": "Millions across the US are preparing for a national shutdown on May 1, International Workers' Day, with a 'no work, no school, no shopping' action. BreakThrough News reported on the planned strike.",
+      "synthesis_tr": "ABD genelinde milyonlar, 1 Mayıs İşçi Bayramı'nda 'iş yok, okul yok, alışveriş yok' eylemiyle ulusal bir kapanmaya hazırlanıyor. BreakThrough News planlanan grevi bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "New Mexico becomes the latest state to end cooperation with ICE under new law",
+          "url": "https://therealnews.com/new-mexico-becomes-the-latest-state-to-end-cooperation-with-ice-under-new-law",
+          "source_name": "The Real News Network",
+          "source_id": "real-news-network",
+          "region": "us",
+          "published": "2026-04-27T17:34:01+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "New Mexico ends cooperation with ICE under new law",
+      "title_tr": "New Mexico yeni yasayla ICE ile işbirliğini sonlandırdı",
+      "synthesis_en": "New Mexico has become the latest state to end cooperation with Immigration and Customs Enforcement (ICE) under a new law, a move activists say obstructs Trump's mass deportation plans. The Real News Network reported.",
+      "synthesis_tr": "New Mexico, yeni bir yasayla Göçmenlik ve Gümrük Muhafaza (ICE) ile işbirliğini sonlandıran en son eyalet oldu. Aktivistler bu hamlenin Trump'ın kitlesel sınır dışı etme planlarını engellediğini söylüyor. The Real News Network bildirdi.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "‘These are murders’: Trump killing spree hits at least 185",
+          "url": "https://therealnews.com/trump-killing-spree-hits-185",
+          "source_name": "The Real News Network",
+          "source_id": "real-news-network",
+          "region": "us",
+          "published": "2026-04-27T17:17:24+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Trump administration accused of killing at least 185 people",
+      "title_tr": "Trump yönetimi en az 185 kişiyi öldürmekle suçlanıyor",
+      "synthesis_en": "The Real News Network reports that the Trump administration's killing spree has hit at least 185, with comparisons to the International Criminal Court's prosecution of former Philippines President Duterte for similar acts.",
+      "synthesis_tr": "The Real News Network, Trump yönetiminin ölüm saçan eylemlerinin en az 185 kişiye ulaştığını ve Uluslararası Ceza Mahkemesi'nin eski Filipinler Devlet Başkanı Duterte'yi benzer eylemlerden yargılamasına benzetildiğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "What to the slave is the 250th anniversary of the US?",
+          "url": "https://therealnews.com/what-to-the-slave-is-the-250th-anniversary-of-the-us",
+          "source_name": "The Real News Network",
+          "source_id": "real-news-network",
+          "region": "us",
+          "published": "2026-04-27T16:46:02+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Critique of US 250th anniversary celebrations from enslaved perspective",
+      "title_tr": "ABD'nin 250. yıl kutlamalarına köle perspektifinden eleştiri",
+      "synthesis_en": "The Real News Network argues that 'America at 250' celebrations rely on a national mythology that excludes the experience of enslaved people, presenting a different story of the US birth.",
+      "synthesis_tr": "The Real News Network, 'Amerika 250' kutlamalarının kölelerin deneyimini dışlayan ulusal bir mitolojiye dayandığını ve ABD'nin doğuşunun farklı bir hikayesini sunduğunu savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "‘The night guards’: Inside the grassroots network fighting back against Israeli settler attacks",
+          "url": "https://mondoweiss.net/2026/04/the-night-guards-inside-the-grassroots-network-fighting-back-against-israeli-settler-attacks/",
+          "source_name": "Mondoweiss",
+          "source_id": "mondoweiss",
+          "region": "mena",
+          "published": "2026-04-27T16:15:39+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Palestinian volunteers defend West Bank villages from settler attacks",
+      "title_tr": "Filistinli gönüllüler Batı Şeria köylerini yerleşimci saldırılarına karşı savunuyor",
+      "synthesis_en": "Mondoweiss reports on a grassroots network of Palestinian volunteers who spend nights defending their West Bank villages from escalating Israeli settler violence.",
+      "synthesis_tr": "Mondoweiss, gecelerini Batı Şeria köylerini artan İsrail yerleşimci şiddetine karşı savunarak geçiren Filistinli gönüllülerden oluşan bir taban ağını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Africa’s Mobility Giant YANGO Visits Hangzhou, Partners FUTURE CAR to Set Benchmark for NEV Mobility in Africa",
+          "url": "https://panafricantv.com/africas-mobility-giant-yango-visits-hangzhou-partners-future-car-to-set-benchmark-for-nev-mobility-in-africa-2/",
+          "source_name": "Pan African TV",
+          "source_id": "pan-african-tv",
+          "region": "africa",
+          "published": "2026-04-27T16:00:45+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "African ride-hailing platform YANGO partners with FUTURE CAR for NEV mobility",
+      "title_tr": "Afrikalı yolculuk platformu YANGO, NEV mobilitesi için FUTURE CAR ile ortaklık kurdu",
+      "synthesis_en": "YANGO, one of Africa's largest ride-hailing platforms, visited Hangzhou with fleet partners and FUTURE CAR to inspect ecosystem partners, aiming to set a benchmark for new energy vehicle mobility in Africa.",
+      "synthesis_tr": "Afrika'nın en büyük yolculuk platformlarından YANGO, filo ortakları ve FUTURE CAR ile Hangzhou'yu ziyaret ederek ekosistem ortaklarını inceledi ve Afrika'da yeni enerji araç mobilitesi için bir referans noktası belirlemeyi hedefliyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "YAWC NETWORK GLOBAL GOVERNING COUNCIL MEMBER PAYS COURTESY CALL ON ZAMBIA’S PERMANENT SECRETARY FOR GENDER",
+          "url": "https://panafricantv.com/yawc-network-global-governing-council-member-pays-courtesy-call-on-zambias-permanent-secretary-for-gender/",
+          "source_name": "Pan African TV",
+          "source_id": "pan-african-tv",
+          "region": "africa",
+          "published": "2026-04-27T15:57:58+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "YAWC Network council member meets Zambia's gender permanent secretary",
+      "title_tr": "YAWC Ağı konsey üyesi Zambiya'nın cinsiyet daimi sekreteriyle görüştü",
+      "synthesis_en": "A member of the Young African Women Congress Global Governing Council paid a courtesy call on Zambia's Permanent Secretary for Gender in Lusaka to advance bilateral cooperation on women's empowerment ahead of YAWC's 10th anniversary.",
+      "synthesis_tr": "Genç Afrikalı Kadınlar Kongresi Küresel Yönetim Konseyi üyesi, YAWC'nin 10. yıldönümü öncesinde kadınların güçlendirilmesi konusunda ikili işbirliğini ilerletmek için Lusaka'da Zambiya'nın Cinsiyet Daimi Sekreteri'ne nezaket ziyaretinde bulundu.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Deadliest day in Lebanon since “ceasefire”; Militant surge in Mali; SCOTUS weighing Roundup return",
+          "url": "https://www.dropsitenews.com/p/deadliest-day-lebanon-ceasefire-insurgents-mali-scotus-roundup",
+          "source_name": "DropSite News",
+          "source_id": "dropsite-news",
+          "region": "us",
+          "published": "2026-04-27T15:55:06+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Deadliest day in Lebanon since ceasefire; militant surge in Mali; SCOTUS Roundup case",
+      "title_tr": "Lübnan'da ateşkes sonrası en ölümcül gün; Mali'de militan dalgası; Yüksek Mahkeme Roundup davası",
+      "synthesis_en": "Drop Site News reports on the deadliest day in Lebanon since the ceasefire, a militant surge in Mali, and the Supreme Court weighing the return of Roundup cases.",
+      "synthesis_tr": "Drop Site News, Lübnan'da ateşkes sonrası en ölümcül günü, Mali'deki militan dalgasını ve Yüksek Mahkeme'nin Roundup davalarının geri dönüşünü değerlendirdiğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Rival Labour Factions ‘Plotting to Oust Starmer’",
+          "url": "https://novaramedia.com/2026/04/27/rival-labour-factions-plotting-to-oust-starmer/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-27T15:11:49+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Rival Labour factions reportedly plotting to oust Starmer",
+      "title_tr": "Rakip İşçi Partisi grupları Starmer'ı devirmeyi planlıyor",
+      "synthesis_en": "Novara Media reports that multiple factions inside the Labour Party are seeking to oust Keir Starmer as PM and begin an orderly transition to a new leader, citing a Labour MP.",
+      "synthesis_tr": "Novara Media, İşçi Partisi içindeki birden fazla grubun Başbakan Keir Starmer'ı görevden almak ve yeni bir lidere düzenli geçiş başlatmak istediğini, bir İşçi Partisi milletvekiline atıfla bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Truculência e ilegalidade: a PM do Tocantins a serviço do latifúndio na terra da União",
+          "url": "https://mst.org.br/2026/04/27/truculencia-e-ilegalidade-a-pm-do-tocantins-a-servico-do-latifundio-na-terra-da-uniao/",
+          "source_name": "Landless Workers' Movement (MST)",
+          "source_id": "mst",
+          "region": "latam",
+          "published": "2026-04-27T15:00:13+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Tocantins military police evict landless families without court order",
+      "title_tr": "Tocantins askeri polisi mahkeme kararı olmadan topraksız aileleri tahliye ediyor",
+      "synthesis_en": "The Landless Workers' Movement (MST) reports that the Military Police of Tocantins, in flagrant disrespect for federal authority and human rights, evicted landless families from the Irmã Dorothy camp without a judicial order, on land officially designated for agrarian reform.",
+      "synthesis_tr": "Topraksız Köylü Hareketi (MST), Tocantins Askeri Polisi'nin federal otoriteye ve insan haklarına açık saygısızlıkla, adli emir olmaksızın, resmen tarım reformuna ayrılmış arazideki Irmã Dorothy kampından topraksız aileleri tahliye ettiğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Liberation Day in Italy marked in solidarity with Cuba and Palestine",
+          "url": "https://peoplesdispatch.org/2026/04/27/liberation-day-in-italy-marked-in-solidarity-with-cuba-and-palestine/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-27T14:52:12+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Liberation Day in Italy marked with solidarity for Cuba and Palestine",
+      "title_tr": "İtalya'da Kurtuluş Günü Küba ve Filistin'e destekle kutlandı",
+      "synthesis_en": "On Liberation Day in Italy, thousands pledged solidarity with ongoing liberation struggles around the world, including resistance to war and imperialism, with specific support for Cuba and Palestine.",
+      "synthesis_tr": "İtalya'da Kurtuluş Günü'nde binlerce kişi, savaş ve emperyalizme karşı direniş de dahil olmak üzere dünyadaki devam eden kurtuluş mücadeleleriyle dayanışma sözü verdi ve özellikle Küba ve Filistin'e destek ifade etti.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Sally Rooney, Greta Thunberg and 1,000 More Sign Letter in Defiance of Palestine Action Ban",
+          "url": "https://novaramedia.com/2026/04/27/sally-rooney-greta-thunberg-and-1000-more-sign-letter-in-defiance-of-palestine-action-ban/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-27T14:35:01+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Sally Rooney, Greta Thunberg sign letter defying Palestine Action ban",
+      "title_tr": "Sally Rooney ve Greta Thunberg, Filistin Eylemi yasağına karşı mektuba imza attı",
+      "synthesis_en": "More than 1,000 people, including Irish author Sally Rooney and climate activist Greta Thunberg, signed a letter in defiance of the ban on Palestine Action, to be delivered to the Court of Appeal as the government attempts to uphold the proscription.",
+      "synthesis_tr": "İrlandalı yazar Sally Rooney ve iklim aktivisti Greta Thunberg dahil 1.000'den fazla kişi, hükümetin yasağı sürdürmeye çalıştığı sırada Temyiz Mahkemesi'ne sunulmak üzere Filistin Eylemi yasağına karşı bir mektup imzaladı.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The mainstream media is ignoring Israel’s role in the killing of journalist Amal Khalil",
+          "url": "https://mondoweiss.net/2026/04/the-mainstream-media-is-ignoring-israels-role-in-the-killing-of-journalist-amal-khalil/",
+          "source_name": "Mondoweiss",
+          "source_id": "mondoweiss",
+          "region": "mena",
+          "published": "2026-04-27T14:30:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Mainstream media ignoring Israel's role in journalist Amal Khalil's death",
+      "title_tr": "Ana akım medya, gazeteci Amal Halil'in ölümünde İsrail'in rolünü görmezden geliyor",
+      "synthesis_en": "Mondoweiss reports compelling evidence that the Israeli military killed Lebanese reporter Amal Khalil, and questions why US media is ignoring the story.",
+      "synthesis_tr": "Mondoweiss, İsrail ordusunun Lübnanlı muhabir Amal Halil'i öldürdüğüne dair güçlü kanıtlar olduğunu ve ABD medyasının bu haberi neden görmezden geldiğini sorguluyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Israeli authorities pursue another extension to Dr. Hussam Abu Safiya’s imprisonment",
+          "url": "https://peoplesdispatch.org/2026/04/27/israeli-authorities-pursue-another-extension-to-dr-hussam-abu-safiyas-imprisonment/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-27T14:15:02+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Israeli authorities seek extension of Dr. Hussam Abu Safiya's imprisonment",
+      "title_tr": "İsrail makamları Dr. Hüsam Ebu Safiya'nın tutukluluğunun uzatılmasını istiyor",
+      "synthesis_en": "Peoples Dispatch reports that Israeli authorities are reportedly pursuing another extension of the imprisonment of Palestinian pediatrician Dr. Hussam Abu Safiya.",
+      "synthesis_tr": "Peoples Dispatch, İsrail makamlarının Filistinli çocuk doktoru Dr. Hüsam Ebu Safiya'nın tutukluluğunun bir kez daha uzatılmasını istediğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Peter Thiel has private meeting with Argentine President Javier Milei",
+          "url": "https://peoplesdispatch.org/2026/04/27/peter-thiel-has-private-meeting-with-argentine-president-javier-milei/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-27T14:12:07+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Peter Thiel meets Argentine President Javier Milei, buys house in Buenos Aires",
+      "title_tr": "Peter Thiel, Arjantin Devlet Başkanı Javier Milei ile görüştü, Buenos Aires'te ev satın aldı",
+      "synthesis_en": "Peoples Dispatch reports that Peter Thiel had a private meeting with Argentine President Javier Milei during a visit in which Thiel decided to buy a house in Buenos Aires, with speculation about a potential deal between Palantir and the Argentine government.",
+      "synthesis_tr": "Peoples Dispatch, Peter Thiel'in Arjantin Devlet Başkanı Javier Milei ile özel bir görüşme yaptığını ve bu ziyaret sırasında Buenos Aires'te bir ev satın almaya karar verdiğini, Palantir ile Arjantin hükümeti arasında olası bir anlaşma spekülasyonları olduğunu bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Eleven killed in Gaza in deadliest Israeli attack in weeks",
+          "url": "https://peoplesdispatch.org/2026/04/27/eleven-killed-in-gaza-in-deadliest-israeli-attack-in-weeks/",
+          "source_name": "People's Dispatch",
+          "source_id": "peoples-dispatch",
+          "region": "global",
+          "published": "2026-04-27T13:58:57+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Eleven killed in Gaza in deadliest Israeli attack in weeks",
+      "title_tr": "Gazze'de haftaların en ölümcül İsrail saldırısında on bir kişi öldü",
+      "synthesis_en": "Peoples Dispatch reports that eleven people were killed in Gaza in the deadliest Israeli attack in weeks, following Hamas's demand that Israel implement the terms of the US-brokered ceasefire deal's first phase.",
+      "synthesis_tr": "Peoples Dispatch, Hamas'ın ABD'nin arabuluculuğundaki ateşkes anlaşmasının birinci aşamasındaki şartları uygulamasını talep etmesinin ardından Gazze'de haftaların en ölümcül İsrail saldırısında on bir kişinin öldürüldüğünü bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Poets will not let war have the only word",
+          "url": "https://frontline.thehindu.com/arts-and-culture/delhi-poetry-festival-war-voices/article70750425.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T13:47:16+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Poetry festival in Delhi highlights war struggles amid US-Israel strikes on Iran",
+      "title_tr": "Delhi'deki şiir festivali, ABD-İsrail'in İran saldırıları ortasında savaş mücadelelerine dikkat çekiyor",
+      "synthesis_en": "Frontline reports that as the United States and Israel launched strikes on Iran, an international poetry festival in Delhi reminded attendees about daily struggles in conflict zones.",
+      "synthesis_tr": "Frontline, ABD ve İsrail'in İran'a saldırı düzenlediği sırada Delhi'deki uluslararası bir şiir festivalinin katılımcılara çatışma bölgelerindeki günlük mücadeleleri hatırlattığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Ataque ao acampamento Zé Roberto expõe violência contra famílias Sem Terra na Paraíba",
+          "url": "https://mst.org.br/2026/04/27/ataque-ao-acampamento-ze-roberto-expoe-violencia-contra-familias-sem-terra-na-paraiba/",
+          "source_name": "Landless Workers' Movement (MST)",
+          "source_id": "mst",
+          "region": "latam",
+          "published": "2026-04-27T13:03:36+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Attack on Zé Roberto camp exposes violence against landless families in Paraíba",
+      "title_tr": "Zé Roberto kampına saldırı, Paraíba'da topraksız ailelere yönelik şiddeti ortaya koyuyor",
+      "synthesis_en": "The Landless Workers' Movement (MST) reports an attack on the Zé Roberto camp in Paraíba, exposing violence against landless families, and states they will remain organized and in struggle.",
+      "synthesis_tr": "Topraksız Köylü Hareketi (MST), Paraíba'daki Zé Roberto kampına düzenlenen saldırıyı bildirerek topraksız ailelere yönelik şiddeti ortaya koyuyor ve örgütlü ve mücadele halinde kalacaklarını belirtiyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Suspect in White House Correspondents’ Dinner Shooting ‘Was Not on FBI’s Radar’",
+          "url": "https://novaramedia.com/2026/04/27/suspect-in-white-house-correspondents-dinner-shooting-was-not-on-fbis-radar/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-27T13:03:17+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "White House correspondents' dinner shooting suspect not on FBI radar",
+      "title_tr": "Beyaz Saray muhabirleri yemeği saldırganı FBI'ın radarında değildi",
+      "synthesis_en": "Novara Media reports that the suspected White House correspondents' dinner shooter, Cole Tomas Allen, was a highly educated private tutor not on the FBI's radar, and while the Trump administration characterized him as 'anti-Christian', classmates remember him as 'mellow'.",
+      "synthesis_tr": "Novara Media, Beyaz Saray muhabirleri yemeği saldırganı olduğundan şüphelenilen Cole Tomas Allen'ın FBI'ın radarında olmayan yüksek eğitimli bir özel öğretmen olduğunu ve Trump yönetiminin onu 'Hristiyan karşıtı' olarak nitelendirmesine rağmen sınıf arkadaşlarının onu 'sakin' olarak hatırladığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "1ª Feijoada de Ogum do MST em SP reuniu agroecologia, ancestralidade e solidariedade",
+          "url": "https://mst.org.br/2026/04/27/1a-feijoada-de-ogum-do-mst-em-sp-reuniu-agroecologia-ancestralidade-e-solidariedade/",
+          "source_name": "Landless Workers' Movement (MST)",
+          "source_id": "mst",
+          "region": "latam",
+          "published": "2026-04-27T12:48:10+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "MST holds first Ogum feijoada in São Paulo celebrating agroecology and ancestry",
+      "title_tr": "MST, São Paulo'da agroekoloji ve ataları kutlayan ilk Ogum feijoadasını düzenledi",
+      "synthesis_en": "The Landless Workers' Movement (MST) reports that about 2,000 people celebrated the first Ogum feijoada in São Paulo, honoring the African deity with agroecology, ancestry, and solidarity.",
+      "synthesis_tr": "Topraksız Köylü Hareketi (MST), yaklaşık 2.000 kişinin São Paulo'da ilk Ogum feijoadasını kutladığını, Afrika tanrısını agroekoloji, atalar ve dayanışma ile onurlandırdığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The treasures of ODI Art Centre",
+          "url": "https://frontline.thehindu.com/arts-and-culture/odi-art-centre-community-museum-barakul-odisha/article70872448.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T12:19:25+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "ODI Art Centre preserves endangered folk and tribal art",
+      "title_tr": "ODI Sanat Merkezi, yok olma tehlikesi altındaki halk ve kabile sanatını koruyor",
+      "synthesis_en": "The ODI Art Centre, located on the banks of Chilika Lake in Odisha, is a museum dedicated to preserving endangered folk and tribal art and artifacts from Odisha and beyond.",
+      "synthesis_tr": "Chilika Gölü kıyısında bulunan ODI Sanat Merkezi, Odisha ve ötesinden yok olma tehlikesi altındaki halk ve kabile sanatını ve eserlerini korumaya adanmış bir müzedir.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Notes from Noida",
+          "url": "https://frontline.thehindu.com/columns/noida-worker-protests/article70884034.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T12:09:22+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Worker anger in Noida due to authoritarian state apparatus",
+      "title_tr": "Noida'da otoriter devlet aygıtı işçi öfkesine yol açıyor",
+      "synthesis_en": "An article from Frontline argues that an authoritarian state apparatus favoring factory owners and discouraging trade union activity leaves little space for grievance negotiation, leading to spontaneous worker revolts.",
+      "synthesis_tr": "Frontline'dan bir makale, fabrika sahiplerini kayıran ve sendika faaliyetlerini caydıran otoriter bir devlet aygıtının, şikayetlerin rutin müzakeresine çok az yer bırakarak kendiliğinden işçi isyanlarına yol açtığını savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "How Odisha’s 2024 poll data hollows out the Republic",
+          "url": "https://frontline.thehindu.com/columns/odisha-2024-assembly-election-integrity-crisis/article70551753.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T11:49:25+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Odisha 2024 poll data mismatches raise electoral concerns",
+      "title_tr": "Odisha 2024 seçim verilerindeki uyumsuzluklar endişe yaratıyor",
+      "synthesis_en": "Frontline reports that vote tallies from Odisha's 2024 Assembly and Lok Sabha elections do not match, and the Election Commission's silence puts electoral democracy at risk.",
+      "synthesis_tr": "Frontline, Odisha'nın 2024 Meclis ve Lok Sabha seçimlerindeki oy sayımlarının uyuşmadığını ve Seçim Komisyonu'nun sessizliğinin seçim demokrasisini riske attığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Himanta Sarma’s hate speech is more divisive than the UGC regulation. Will the Supreme Court stop him?",
+          "url": "https://frontline.thehindu.com/columns/himanta-sarma-hate-speech-assam/article70573540.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T11:39:37+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Himanta Sarma hate speech case may reach Supreme Court",
+      "title_tr": "Himanta Sarma nefret söylemi davası Yüksek Mahkeme'ye taşınabilir",
+      "synthesis_en": "Frontline reports that Assam Chief Minister Himanta Sarma's hate speech against 'Miyas' may be challenged in the Supreme Court, which had ordered suo motu FIRs against hate preachers.",
+      "synthesis_tr": "Frontline, Assam Başbakanı Himanta Sarma'nın 'Miyalar'a yönelik nefret söyleminin, nefret vaizlerine karşı resen soruşturma emri veren Yüksek Mahkeme'de sorgulanabileceğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "What connects floods, landslides, and minority bashing in Uttarakhand?",
+          "url": "https://frontline.thehindu.com/columns/hindutva-uttarakhand-ecology-crisis/article70606520.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T11:39:36+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Uttarakhand floods linked to highway project and polarisation",
+      "title_tr": "Uttarakhand selleri otoyol projesi ve kutuplaşma ile bağlantılı",
+      "synthesis_en": "Frontline argues that the Char Dham highway project in Uttarakhand exemplifies how the BJP government's disregard for environmental regulations and its politics of religious polarisation degrade both nature and society.",
+      "synthesis_tr": "Frontline, Uttarakhand'daki Char Dham otoyol projesinin, BJP hükümetinin çevre düzenlemelerine aldırış etmemesi ve dini kutuplaştırma siyasetinin hem doğayı hem de toplumu nasıl bozduğunu örneklediğini savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "India’s Supreme Court could learn one thing from SCOTUS",
+          "url": "https://frontline.thehindu.com/columns/supreme-court-india-vs-scotus/article70687787.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T11:39:31+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "India's Supreme Court could learn timing from US Supreme Court",
+      "title_tr": "Hindistan Yüksek Mahkemesi, ABD Yüksek Mahkemesi'nden zamanlama öğrenebilir",
+      "synthesis_en": "Frontline suggests that India's Supreme Court could learn from the US Supreme Court's timing, which struck down Trump's tariffs before they took effect, whereas Indian courts often wait until laws have already been implemented.",
+      "synthesis_tr": "Frontline, Hindistan Yüksek Mahkemesi'nin, Trump'ın tarifelerini yürürlüğe girmeden iptal eden ABD Yüksek Mahkemesi'nin zamanlamasından ders alabileceğini, oysa Hint mahkemelerinin genellikle yasalar uygulanana kadar beklediğini öne sürüyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Surendra Gadling and the justice that must be seen to be denied",
+          "url": "https://frontline.thehindu.com/columns/surendra-gadling-uapa-bail-case/article70631387.ece",
+          "source_name": "Frontline",
+          "source_id": "frontline-thehindu",
+          "region": "asia",
+          "published": "2026-04-27T11:39:30+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Human rights lawyer Surendra Gadling still in jail without charges",
+      "title_tr": "İnsan hakları avukatı Surendra Gadling hakkında dava açılmadan hapiste",
+      "synthesis_en": "Frontline reports that human rights lawyer Surendra Gadling, the only one of the Bhima Koregaon-16 still in jail, has not had charges framed against him even after seven years, based on a surrendered Maoist's statement.",
+      "synthesis_tr": "Frontline, Bhima Koregaon-16 davasında hâlâ hapiste olan tek kişi olan insan hakları avukatı Surendra Gadling hakkında, yedi yıl geçmesine rağmen teslim olan bir Maoist'in ifadesine dayanarak dava açılmadığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "The Fight Against Labour Comes to Starmer’s Back Garden",
+          "url": "https://novaramedia.com/2026/04/27/the-fight-against-labour-comes-to-starmers-back-garden/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-27T11:06:04+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Labour's landslide victory sees Starmer's vote halved in constituency",
+      "title_tr": "İşçi Partisi'nin ezici zaferinde Starmer'ın oyu yarıya indi",
+      "synthesis_en": "Novara Media reports that in the July 2024 UK general election, Labour leader Keir Starmer retained his Holborn & St Pancras seat but his vote share was halved compared to 2019, reflecting a 'loveless landslide'.",
+      "synthesis_tr": "Novara Media, Temmuz 2024 Birleşik Krallık genel seçimlerinde İşçi Partisi lideri Keir Starmer'ın Holborn & St Pancras koltuğunu koruduğunu ancak oy oranının 2019'a göre yarıya düştüğünü ve bunun 'sevgisiz bir heyelan'ı yansıttığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Meet the Mayor of a Tiny Texas Town Who Wants to Limit How Cities Can Govern",
+          "url": "https://www.propublica.org/article/art-martinez-de-vara-dallas-hero-lawsuit",
+          "source_name": "ProPublica",
+          "source_id": "propublica",
+          "region": "us",
+          "published": "2026-04-27T10:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Texas mayor seeks to limit city governance powers",
+      "title_tr": "Teksas belediye başkanı şehir yönetim yetkilerini sınırlamak istiyor",
+      "synthesis_en": "ProPublica reports on a mayor of a small Texas town who is advocating for legislation to limit how cities can govern, potentially affecting local autonomy.",
+      "synthesis_tr": "ProPublica, küçük bir Teksas kasabasının belediye başkanının, şehirlerin yönetim şeklini sınırlayacak bir yasayı savunduğunu ve bunun yerel özerkliği etkileyebileceğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Meet the Four Democrats Who’ll Decide If Trump Gets His Domestic Spying Law",
+          "url": "https://theintercept.com/2026/04/27/four-democrats-fisa-domestic-spying-trump/",
+          "source_name": "The Intercept",
+          "source_id": "the-intercept",
+          "region": "us",
+          "published": "2026-04-27T09:24:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Four Democrats to decide on Trump's domestic spying law",
+      "title_tr": "Dört Demokrat, Trump'ın iç gözetim yasasını belirleyecek",
+      "synthesis_en": "The Intercept reports that four Democratic lawmakers will be key in deciding whether to renew a domestic surveillance law that could be used by President Trump, with advocates warning against handing Trump warrantless surveillance powers.",
+      "synthesis_tr": "The Intercept, dört Demokrat milletvekilinin, Başkan Trump tarafından kullanılabilecek bir iç gözetim yasasının yenilenip yenilenmeyeceğine karar vermede kilit rol oynayacağını ve savunucuların Trump'a izinsiz gözetim yetkisi verilmesine karşı uyardığını bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "It Used to Really Matter When People Fired Guns at Presidents",
+          "url": "https://novaramedia.com/2026/04/27/it-used-to-really-matter-when-people-fired-guns-at-presidents/",
+          "source_name": "Novara Media",
+          "source_id": "novara-media",
+          "region": "uk",
+          "published": "2026-04-27T09:12:10+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Public apathy after attempted assassination of US president",
+      "title_tr": "ABD başkanına suikast girişimi sonrası halkın ilgisizliği",
+      "synthesis_en": "Novara Media comments on the public's lack of emotional reaction to an attempted assassination of the US president, contrasting with past responses to such events.",
+      "synthesis_tr": "Novara Media, ABD başkanına yönelik bir suikast girişimine halkın duygusal tepki göstermemesini, geçmişteki benzer olaylara verilen tepkilerle karşılaştırarak yorumluyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Some Connecticut Towing Companies Are Ignoring New Law Aimed at Helping Low-Income Residents",
+          "url": "https://www.propublica.org/article/connecticut-towing-companies-ignore-new-law",
+          "source_name": "ProPublica",
+          "source_id": "propublica",
+          "region": "us",
+          "published": "2026-04-27T09:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Connecticut towing companies ignore new law for low-income residents",
+      "title_tr": "Connecticut çekici şirketleri düşük gelirlilere yönelik yeni yasayı görmezden geliyor",
+      "synthesis_en": "ProPublica reports that some towing companies in Connecticut are ignoring a new law designed to help low-income residents, potentially violating the legislation.",
+      "synthesis_tr": "ProPublica, Connecticut'taki bazı çekici şirketlerinin, düşük gelirli sakinlere yardım etmeyi amaçlayan yeni bir yasayı görmezden geldiğini ve potansiyel olarak mevzuatı ihlal ettiğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Venezuela : qui sont nos amis, qui sont nos ennemis",
+          "url": "https://investigaction.net/venezuela-qui-sont-nos-amis-qui-sont-nos-ennemis/?utm_source=rss&utm_medium=rss&utm_campaign=venezuela-qui-sont-nos-amis-qui-sont-nos-ennemis",
+          "source_name": "Investig'Action",
+          "source_id": "investigaction",
+          "region": "eu",
+          "published": "2026-04-27T08:22:22+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Venezuela: who are our friends, who are our enemies",
+      "title_tr": "Venezuela: dostlarımız kim, düşmanlarımız kim",
+      "synthesis_en": "Investig'Action publishes an interview with Thomas Posado critiquing positions on Venezuela, as part of a piece in the CGT union's magazine 'Options'.",
+      "synthesis_tr": "Investig'Action, CGT sendikasının 'Options' dergisinde yer alan bir yazı kapsamında Thomas Posado ile Venezuela konusundaki tutumları eleştiren bir röportaj yayınlıyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "La ligne jaune: Comment Israël fait disparaître au Liban les populations d’une zone frontalière riche en gaz",
+          "url": "https://investigaction.net/la-ligne-jaune-comment-israel-fait-disparaitre-au-liban-les-populations-dune-zone-frontaliere-riche-en-gaz/?utm_source=rss&utm_medium=rss&utm_campaign=la-ligne-jaune-comment-israel-fait-disparaitre-au-liban-les-populations-dune-zone-frontaliere-riche-en-gaz",
+          "source_name": "Investig'Action",
+          "source_id": "investigaction",
+          "region": "eu",
+          "published": "2026-04-27T07:47:42+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Israel's 'yellow line' displaces populations in southern Lebanon",
+      "title_tr": "İsrail'in 'sarı çizgisi' Güney Lübnan'da nüfusları yerinden ediyor",
+      "synthesis_en": "Investig'Action reports that Israel's newly proclaimed 'yellow line' in southern Lebanon is causing displacement of populations in a gas-rich border area.",
+      "synthesis_tr": "Investig'Action, İsrail'in Güney Lübnan'da yeni ilan ettiği 'sarı çizgi'nin, gaz zengini bir sınır bölgesinde nüfusların yerinden edilmesine neden olduğunu bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Comment la guerre contre l’Iran et le Hezbollah a brisé le bouclier protecteur américain d’Israël",
+          "url": "https://investigaction.net/comment-la-guerre-contre-liran-et-le-hezbollah-a-brise-le-bouclier-protecteur-americain-disrael/?utm_source=rss&utm_medium=rss&utm_campaign=comment-la-guerre-contre-liran-et-le-hezbollah-a-brise-le-bouclier-protecteur-americain-disrael",
+          "source_name": "Investig'Action",
+          "source_id": "investigaction",
+          "region": "eu",
+          "published": "2026-04-27T07:39:34+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "War with Iran and Hezbollah broke Israel's US protective shield",
+      "title_tr": "İran ve Hizbullah ile savaş, İsrail'in ABD koruyucu kalkanını kırdı",
+      "synthesis_en": "Investig'Action argues that the war against Iran and Hezbollah has structurally transformed the US-Israel relationship, breaking the protective shield the US provided.",
+      "synthesis_tr": "Investig'Action, İran ve Hizbullah'a karşı savaşın ABD-İsrail ilişkisini yapısal olarak dönüştürdüğünü ve ABD'nin sağladığı koruyucu kalkanı kırdığını savunuyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Des négociations qui permettent à Israël de voler des terres",
+          "url": "https://investigaction.net/des-negociations-qui-permettent-a-israel-de-voler-des-terres/?utm_source=rss&utm_medium=rss&utm_campaign=des-negociations-qui-permettent-a-israel-de-voler-des-terres",
+          "source_name": "Investig'Action",
+          "source_id": "investigaction",
+          "region": "eu",
+          "published": "2026-04-27T07:30:21+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Negotiations allow Israel to steal land, says Investig'Action",
+      "title_tr": "Investig'Action: Müzakereler İsrail'in toprak çalmasına izin veriyor",
+      "synthesis_en": "Investig'Action reports that since the Oslo Accords, negotiations have run parallel to illegal settlement expansion, transforming diplomacy into a process that manages occupation rather than ending it.",
+      "synthesis_tr": "Investig'Action, Oslo Anlaşmaları'ndan bu yana müzakerelerin yasadışı yerleşim genişlemesine paralel yürütüldüğünü ve diplomasiyi işgali sona erdirmek yerine yöneten bir sürece dönüştürdüğünü bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Venezuela et FMI : souveraineté et résistance",
+          "url": "https://investigaction.net/venezuela-et-fmi-souverainete-et-resistance/?utm_source=rss&utm_medium=rss&utm_campaign=venezuela-et-fmi-souverainete-et-resistance",
+          "source_name": "Investig'Action",
+          "source_id": "investigaction",
+          "region": "eu",
+          "published": "2026-04-27T07:15:24+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Venezuela and IMF: sovereignty and resistance",
+      "title_tr": "Venezuela ve IMF: egemenlik ve direniş",
+      "synthesis_en": "Investig'Action reports that the announcement of restored relations between Venezuela and the IMF triggered a campaign to weaken the Bolivarian government.",
+      "synthesis_tr": "Investig'Action, Venezuela ile IMF arasındaki ilişkilerin yeniden kurulduğu duyurusunun, Bolivarcı hükümeti zayıflatmaya yönelik bir kampanyayı tetiklediğini bildiriyor.",
+      "all_obscured": false
+    },
+    {
+      "members": [
+        {
+          "title": "Blood in Barcelona as Balkan Crime Clans Kill Each Other in the Streets",
+          "url": "https://www.occrp.org/en/news/blood-in-barcelona-as-balkan-crime-clans-kill-each-other-in-the-streets",
+          "source_name": "OCCRP",
+          "source_id": "occrp",
+          "region": "eu",
+          "published": "2026-04-27T04:00:00+00:00",
+          "obscured": false
+        }
+      ],
+      "title_en": "Balkan crime clans wage war in Barcelona streets",
+      "title_tr": "Balkan suç klanları Barselona sokaklarında savaşıyor",
+      "synthesis_en": "OCCRP reports that Barcelona has become a battleground for Balkan crime clans, with four targeted attacks since July leaving a trail of blood across Europe.",
+      "synthesis_tr": "OCCRP, Barselona'nın Balkan suç klanları için bir savaş alanı haline geldiğini ve Temmuz ayından bu yana dört hedefli saldırının Avrupa'da bir kan izi bıraktığını bildiriyor.",
+      "all_obscured": false
+    }
+  ]
+}

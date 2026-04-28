@@ -3,38 +3,38 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-27T12:07:47.786678+00:00",
+  "fetched_at": "2026-04-28T07:10:10.765264+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Iranian Internet Pro implementation visible in IODA data",
-      "title_tr": "İran İnternet Pro uygulaması IODA verilerinde görünür",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mjwpmuoolk2n",
-      "date": "2026-04-20"
+      "title_en": "Iran Internet Shutdown: Measurement-Based Perspective",
+      "title_tr": "İran İnternet Kesintisi: Ölçüm Tabanlı Perspektif",
+      "url": "https://ioda.inetintel.cc.gatech.edu/reports/from...",
+      "date": "2026-04-27"
     },
     {
-      "title_en": "Sharif University of Technology (AS12660) offline after airstrikes",
-      "title_tr": "Hava saldırıları sonrası Şerif Teknoloji Üniversitesi (AS12660) çevrimdışı",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mitg4sff3k25",
+      "title_en": "Sharif University of Technology (AS12660) Offline After Airstrikes",
+      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) Hava Saldırıları Sonrası Çevrimdışı",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR...",
       "date": "2026-04-06"
     },
     {
-      "title_en": "Amazon Web Services (AS16509) in Bahrain damaged, probing drops to 0%",
-      "title_tr": "Bahreyn'de Amazon Web Services (AS16509) hasar gördü, aktif yoklama %0'a düştü",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mijpaymwes2r",
+      "title_en": "Amazon Web Services (AS16509) in Bahrain Damage Visible",
+      "title_tr": "Bahreyn'de Amazon Web Services (AS16509) Hasarı Görünür",
+      "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH...",
       "date": "2026-04-02"
     },
     {
-      "title_en": "Ongoing Iran internet shutdown longest documented by IODA",
-      "title_tr": "Devam eden İran internet kesintisi IODA tarafından belgelenen en uzun kesinti",
-      "url": "https://bsky.app/profile/did:plc:3xessr3vu336mxean6zvfyjq/post/3mhg2gqvwns2s",
+      "title_en": "Iran Near-Total Internet Shutdown Longest Documented by IODA",
+      "title_tr": "İran'da Neredeyse Tam İnternet Kesintisi IODA'nın Belgelediği En Uzun Kesinti",
+      "url": "https://ioda.inetintel.cc.gatech.edu/country/IR?f...",
       "date": "2026-03-19"
     },
     {
-      "title_en": "Recent Outages dashboard showing last 24 hours",
-      "title_tr": "Son 24 saatteki kesintileri gösteren panel",
-      "url": "https://ioda.inetintel.cc.gatech.edu/dashboard",
-      "date": ""
+      "title_en": "Cuba Power Shortage Visible in Internet Connectivity Signals",
+      "title_tr": "Küba'da Elektrik Kesintisi İnternet Bağlantı Sinyallerinde Görünür",
+      "url": "https://ioda.inetintel.cc.gatech.edu/country/CU?f...",
+      "date": "2026-03-17"
     }
   ]
 }

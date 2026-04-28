@@ -4,121 +4,189 @@ title: Yepisyeni Türkiye — Küresel
 
 # Küresel / Global
 
-**2026-04-27 — 9 küme / cluster**
+**2026-04-28 — 15 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Middle East & North Africa](../regions/mena.md) · [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md)
 
 ---
 
-### 1. Tanzanya, seçim sonrası katliamı örtbas etmekle suçlanıyor
-*Tanzania accused of whitewashing post-election massacre*
+### 1. ABD anlatısı sarsılırken İran kendi müzakere şartlarını belirliyor
+*Iran sets own terms for talks as US narrative flails*
 
-The OC Portal'ın haberine göre Tanzanya, seçimlerin ardından binlerce protestocunun öldürüldüğü katliamı örtbas etmekle suçlanıyor.
+İran diplomatik çözüm için çabalamaya devam ediyor ancak ABD ile abluka kaldırılmadan görüşme yapılmayacağını vurguluyor. Tahran, mühimmat, pazarlar ve ara seçimlerde avantajlı olduğunu düşünerek çatışmayı sonlandırmak için kendi şartlarını belirliyor.
 
-*The OC Portal reports that Tanzania is whitewashing the massacre of thousands of protesters following the elections, according to sources.*
+*Iran continues to push for a diplomatic solution but insists on no talks with the US until its naval blockade is lifted. Tehran believes it has advantages in munitions, markets, and the midterms, setting its own terms for ending the conflict.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/26/dlmp-a26.html)  *2026-04-26 18:21* — Tanzania whitewashes post-election massacre of thousands of protesters
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/iran-continues-to-push-for-diplomatic-solution-after-second-islamabad-talks-fail-to-materialize/)  *2026-04-27 17:20* — Iran continues to push for diplomatic solution after second Islamabad talks fail to materialize
+- [DropSite News](https://www.dropsitenews.com/p/iran-war-trump-negotiations-munitions-markets-midterms)  *2026-04-27 14:57* — As Trump’s Narrative on Negotiations Flails, Iran Is Setting Its Own Terms for Ending the War
 
 ---
 
-### 2. Unite sendikası Reform UK ile gizli görüşmeler yapmakla suçlanıyor
-*Unite union accused of secret talks with Reform UK*
+### 2. UNDP raporu, Güney Asya ekonomilerinin ABD-İran savaşına karşı savunmasız olduğu uyarısında bulunuyor
+*UNDP report warns South Asia economies vulnerable to US-Iran war*
 
-The OC Portal'ın haberine göre Unite sendikası, Reform UK ile gizli görüşmeler yaparak Birmingham çöp grevini izole etti ve aşırı sağa yakınlaştı.
+Bir UNDP raporu, Güney Asya ekonomilerinin olası bir ABD-İran savaşına karşı kırılganlığını ortaya koydu. Rapor, bölge için ekonomik risklere dikkat çekiyor.
 
-*The OC Portal reports that Unite the Union held secret talks with Reform UK, isolating the Birmingham bin strike and embracing the far-right.*
+*A UNDP report has exposed the vulnerability of South Asian economies to a potential US war against Iran. The report highlights the economic risks for the region.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/26/csnp-a26.html)  *2026-04-26 18:21* — Unite’s secret talks with Reform UK: Isolating Birmingham bin strike and embracing the far-right</strong>
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/vneu-a28.html)  *2026-04-28 06:09* — UNDP report exposes vulnerability of South Asia’s economies to US war against Iran
 
 ---
 
-### 3. Pan-African News Wire Afrika meselelerini bildiriyor
-*Pan-African News Wire reports on African affairs*
+### 3. Trump'a suikast girişiminde bulunan şüpheli hakkında dava açıldı
+*Gunman charged with attempted assassination of Trump*
 
-The OC Portal tarafından yayınlanan Pan-African News Wire, Afrika meseleleri hakkında haberler sunuyor. Mevcut özetlerde belirli hikayeler detaylandırılmamıştır.
+Eski Başkan Donald Trump'a suikast girişiminde bulunan bir şüpheli hakkında dava açıldı. Olayın siyasi yansımaları tartışılıyor.
 
-*The Pan-African News Wire, published by The OC Portal, provides news on African affairs. The specific stories are not detailed in the available summaries.*
+*A gunman has been charged with attempted assassination of former President Donald Trump. The political implications of the incident are being discussed.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/armed-groups-launch-coordinated-attacks.html)  *2026-04-26 06:08* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/mali-rebels-attacks-bamako-northern.html)  *2026-04-26 06:08* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/armed-rebels-launch-coordinated-attacks.html)  *2026-04-26 04:08* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/malis-army-claims-situation-under.html)  *2026-04-26 04:08* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/dozens-demonstrate-in-tunisian-capital.html)  *2026-04-26 04:08* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/tunisia-suspends-one-of-africas-oldest.html)  *2026-04-26 04:08* — Pan-African News Wire
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/fpzs-a28.html)  *2026-04-28 05:09* — Gunman charged with attempted assassination of Trump: The political issues
 
 ---
 
-### 4. Pan-Afrika Haber Teli makalesi yayınlandı
-*Pan-African News Wire article published*
+### 4. Avustralya İşçi Partisi hükümeti, duş konusunda geri adım atmasına rağmen yaşlı bakımını kesti
+*Australia's Labor government cuts aged home care despite backdown on showers*
 
-OC Portal, özeti sağlanmayan bir Pan-Afrika Haber Teli makalesi yayınladı.
+Avustralya İşçi Partisi hükümeti, yaşlı evde bakım hizmetlerinde kesintiler uyguladı. Bu, duşla ilgili belirli bir konuda geri adım atılmasına rağmen gerçekleşti.
 
-*The OC Portal published a Pan-African News Wire article with no summary provided.*
+*The Australian Labor government has implemented cuts to aged home care services. This comes despite a backdown on a specific issue regarding showers.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](http://panafricannews.blogspot.com/2026/04/trump-evacuated-from-white-house.html)  *2026-04-26 03:08* — Pan-African News Wire
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/aees-a28.html)  *2026-04-28 05:09* — Australia: Labor’s aged home care cuts continue despite backdown on showers
 
 ---
 
-### 5. Heykeltıraş Kinjo Minoru, Okinawa toplu intihar kurbanlarını onurlandırıyor
-*Sculptor Kinjo Minoru honors Okinawa mass suicide victims*
+### 5. Gettysburg ve Özgürlüğün Yeniden Doğuşu tartışılıyor
+*Gettysburg and the New Birth of Freedom discussed*
 
-Tricontinental: Institute for Social Research, heykeltıraş Kinjo Minoru'nun Nisan 1945'te Chibichiri Mağarası'nda Japon İmparatorluk Ordusu tarafından toplu intihara sürüklenen Okinawalıların hayatlarını onurlandırdığını bildiriyor.
+The OC Portal'dan bir makale, Gettysburg'un tarihsel önemini ve özgürlüğün yeniden doğuşu kavramını geçmişle günümüz arasında paralellikler kurarak ele alıyor.
 
-*Tricontinental: Institute for Social Research reports that sculptor Kinjo Minoru honors the lives of Okinawans driven to mass suicide by the Imperial Japanese Army at Chibichiri Cave in April 1945.*
+*An article from The OC Portal discusses the historical significance of Gettysburg and the concept of a new birth of freedom, drawing parallels between past and present.*
 
 **Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/art-bulletin-okinawas-sculptor-of-resistance/)  *2026-04-26 03:00* — You Cannot Swallow a Needle, However Small: Okinawa’s Sculptor of Resistance
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/ypfp-a28.html)  *2026-04-28 05:09* — Gettysburg and the New Birth of Freedom—then and now </strong><strong></strong><strong>
 
 ---
 
-### 6. Foster'ın 'Kaderin Bağlarını Kırmak' adlı eseri üzerine sempozyum duyuruldu
-*Symposium on Foster's 'Breaking the Bonds of Fate' announced*
+### 6. Küresel askeri harcamalar rekor 2,887 trilyon dolara ulaştı
+*Global military spending reaches record $2.887 trillion*
 
-OC Portal, 26 Mayıs'ta Foster'ın 'Kaderin Bağlarını Kırmak' adlı eseri üzerine bir sempozyum duyurdu, başka ayrıntı verilmedi.
+The OC Portal'ın haberine göre, küresel askeri harcamalar rekor seviyeye ulaşarak 2,887 trilyon dolara yükseldi.
 
-*The OC Portal announced a symposium on May 26 about Foster's 'Breaking the Bonds of Fate' with no further details.*
+*Global military spending has surged to a record $2.887 trillion, according to a report from The OC Portal.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://monthlyreview.org/may-26-symposium-on-fosters-breaking-the-bonds-of-fate/)  *2026-04-25 23:08* — May 26: Symposium on Foster’s “Breaking the Bonds of Fate”
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/wzbw-a28.html)  *2026-04-28 05:09* — Global military spending surges to record $2.887 trillion
 
 ---
 
-### 7. Mali'de koordineli terör saldırıları, ordu karşılık veriyor
-*Coordinated terror attacks strike Mali, military responds*
+### 7. Perulu aşırı sağ, sol adayın yükselişi üzerine seçim skandalı çıkarıyor
+*Peruvian far-right stages scandal over election as left candidate rises*
 
-People's Dispatch, Mali'nin Cumartesi sabahı birden fazla şehri hedef alan koordineli terör saldırılarıyla karşı karşıya kaldığını ve ordunun karşı operasyonlar başlattığını bildiriyor.
+The OC Portal, Perulu aşırı sağın, sol bir adayın ikinci sıraya yükselmesi üzerine seçimlerle ilgili bir skandal çıkardığını bildiriyor.
 
-*People's Dispatch reports that Mali faced coordinated terrorist attacks on Saturday morning targeting multiple cities, with the army launching counter-operations.*
+*The OC Portal reports that the Peruvian far-right has staged a scandal over elections as a nominally left candidate climbs to second place.*
 
 **Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/25/coordinated-terror-attacks-strike-mali-as-military-claims-control/)  *2026-04-25 21:06* — Coordinated terror attacks strike Mali as military claims control
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/qgiv-a28.html)  *2026-04-28 05:09* — Peruvian far-right stages scandal over elections as nominally “left” candidate climbs to second place
 
 ---
 
-### 8. Küba: 'Halkımın Savaştığını Görmekten Daha Büyük Bir İlham Yok'
-*Cuba: 'There Is No Greater Inspiration Than Seeing My People Fighting'*
+### 8. Little Lake City öğretmen grevi sürüyor; LA öğretmenleri sözleşmeyi onayladı
+*Little Lake City teachers strike continues; LA teachers ratify contract*
 
-The OC Portal, 'Küba: Halkımın Savaştığını Görmekten Daha Büyük Bir İlham Yok' başlıklı bir makale yayımladı. Özette başka ayrıntı verilmiyor.
+The OC Portal'a göre, Little Lake City'de öğretmenler greve devam ederken, Birleşik Los Angeles Öğretmenleri (UTLA) Los Angeles öğretmenlerinin yeni bir sözleşmeyi onayladığını iddia ediyor.
 
-*The OC Portal publishes an article with the title 'Cuba: There Is No Greater Inspiration Than Seeing My People Fighting.' No further details are provided in the summary.*
+*Teachers in Little Lake City continue their strike, while the United Teachers Los Angeles (UTLA) claims that LA teachers have ratified a new contract, according to The OC Portal.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://resumen-english.org/2026/04/cuba-there-is-no-greater-inspiration-than-seeing-my-people-fighting/)  *2026-04-25 20:16* — Cuba: “There Is No Greater Inspiration Than Seeing My People Fighting”
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/wnlj-a28.html)  *2026-04-28 04:09* — Little Lake City teachers continue strike, while UTLA claims LA teachers ratified new contract
 
 ---
 
-### 9. Yargı kararı sınır dışı etmeyi engelleyince El Gamal ailesi Colorado'ya dönüyor
-*El Gamal family returning to Colorado after judicial order blocks deportation*
+### 9. ABD sendikalarının May Day Strong girişimi 1 Mayıs'ı etkisizleştirmeye çalışıyor
+*US unions' May Day Strong seeks to neuter May Day*
 
-The OC Portal'ın haberine göre, El Gamal ailesi, sınır dışı edilmelerini engelleyen bir yargı kararının ardından Colorado'ya geri dönüyor.
+The OC Portal, ABD sendikalarının 'May Day Strong' girişiminin geleneksel 1 Mayıs protestolarını etkisizleştirmeyi amaçladığını bildiriyor.
 
-*The OC Portal reports that the El Gamal family is being returned to Colorado following a judicial order that blocked their deportation.*
+*The OC Portal reports that the US unions' 'May Day Strong' initiative seeks to neuter the traditional May Day protests.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/25/cucf-a25.html)  *2026-04-25 19:16* — El Gamal family being returned to Colorado following judicial order blocking deportation
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/jvqx-a28.html)  *2026-04-28 04:09* — US unions’ “May Day Strong” seeks to neuter May Day
+
+---
+
+### 10. İran'ın Batı'ya meydan okumasının toplumsal kökenleri analizi
+*Analysis explores social roots of Iran's defiance against West*
+
+Peoples Dispatch'teki bir makale, İran'ın Batı'ya karşı duruşundaki özgüvenin toplumsal ve tarihsel kaynaklarını inceliyor; bu durumun eskiden sömürge altında olan dünyada hayranlık uyandırdığını öne sürüyor.
+
+*An article on Peoples Dispatch examines the social and historical sources of Iran's confidence in standing up to the West, suggesting it has become a source of admiration in the formerly colonized world.*
+
+**Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/the-social-roots-of-irans-defiance-a-dialogue-about-civilization/)  *2026-04-28 01:51* — The social roots of Iran’s defiance: a dialogue about “civilization”
+
+---
+
+### 11. Kenya mahkemesi kürtajı yeniden suç saydı, savunucular tehlike uyarısı yaptı
+*Kenyan court recriminalizes abortion, advocates warn of danger*
+
+Peoples Dispatch'e göre, Kenya'daki bir mahkeme kararı kürtajı yeniden suç saydı ve üreme hakları savunucuları, her yıl binlerce kişinin güvenli olmayan kürtaj nedeniyle ölmesi nedeniyle bunun doktorlar ve hamile kadınlar için ciddi tehlike oluşturduğu uyarısında bulundu.
+
+*A Kenyan court ruling recriminalized abortion, and reproductive rights advocates warn that it poses grave danger for doctors and pregnant women, as thousands die from unsafe abortions annually, according to Peoples Dispatch.*
+
+**Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/kenyan-court-recriminalizes-abortion/)  *2026-04-27 22:55* — Kenyan court recriminalizes abortion
+
+---
+
+### 12. İtalya'da Kurtuluş Günü Küba ve Filistin'e destekle kutlandı
+*Liberation Day in Italy marked with solidarity for Cuba and Palestine*
+
+İtalya'da Kurtuluş Günü'nde binlerce kişi, savaş ve emperyalizme karşı direniş de dahil olmak üzere dünyadaki devam eden kurtuluş mücadeleleriyle dayanışma sözü verdi ve özellikle Küba ve Filistin'e destek ifade etti.
+
+*On Liberation Day in Italy, thousands pledged solidarity with ongoing liberation struggles around the world, including resistance to war and imperialism, with specific support for Cuba and Palestine.*
+
+**Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/liberation-day-in-italy-marked-in-solidarity-with-cuba-and-palestine/)  *2026-04-27 14:52* — Liberation Day in Italy marked in solidarity with Cuba and Palestine
+
+---
+
+### 13. İsrail makamları Dr. Hüsam Ebu Safiya'nın tutukluluğunun uzatılmasını istiyor
+*Israeli authorities seek extension of Dr. Hussam Abu Safiya's imprisonment*
+
+Peoples Dispatch, İsrail makamlarının Filistinli çocuk doktoru Dr. Hüsam Ebu Safiya'nın tutukluluğunun bir kez daha uzatılmasını istediğini bildiriyor.
+
+*Peoples Dispatch reports that Israeli authorities are reportedly pursuing another extension of the imprisonment of Palestinian pediatrician Dr. Hussam Abu Safiya.*
+
+**Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/israeli-authorities-pursue-another-extension-to-dr-hussam-abu-safiyas-imprisonment/)  *2026-04-27 14:15* — Israeli authorities pursue another extension to Dr. Hussam Abu Safiya’s imprisonment
+
+---
+
+### 14. Peter Thiel, Arjantin Devlet Başkanı Javier Milei ile görüştü, Buenos Aires'te ev satın aldı
+*Peter Thiel meets Argentine President Javier Milei, buys house in Buenos Aires*
+
+Peoples Dispatch, Peter Thiel'in Arjantin Devlet Başkanı Javier Milei ile özel bir görüşme yaptığını ve bu ziyaret sırasında Buenos Aires'te bir ev satın almaya karar verdiğini, Palantir ile Arjantin hükümeti arasında olası bir anlaşma spekülasyonları olduğunu bildiriyor.
+
+*Peoples Dispatch reports that Peter Thiel had a private meeting with Argentine President Javier Milei during a visit in which Thiel decided to buy a house in Buenos Aires, with speculation about a potential deal between Palantir and the Argentine government.*
+
+**Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/peter-thiel-has-private-meeting-with-argentine-president-javier-milei/)  *2026-04-27 14:12* — Peter Thiel has private meeting with Argentine President Javier Milei
+
+---
+
+### 15. Gazze'de haftaların en ölümcül İsrail saldırısında on bir kişi öldü
+*Eleven killed in Gaza in deadliest Israeli attack in weeks*
+
+Peoples Dispatch, Hamas'ın ABD'nin arabuluculuğundaki ateşkes anlaşmasının birinci aşamasındaki şartları uygulamasını talep etmesinin ardından Gazze'de haftaların en ölümcül İsrail saldırısında on bir kişinin öldürüldüğünü bildiriyor.
+
+*Peoples Dispatch reports that eleven people were killed in Gaza in the deadliest Israeli attack in weeks, following Hamas's demand that Israel implement the terms of the US-brokered ceasefire deal's first phase.*
+
+**Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/eleven-killed-in-gaza-in-deadliest-israeli-attack-in-weeks/)  *2026-04-27 13:58* — Eleven killed in Gaza in deadliest Israeli attack in weeks
 
 ---
