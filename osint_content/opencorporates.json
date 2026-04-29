@@ -3,12 +3,12 @@
   "platform_name": "OpenCorporates",
   "homepage": "https://opencorporates.com",
   "category": "osint_monitor_sanctions",
-  "fetched_at": "2026-04-28T12:14:03.787677+00:00",
+  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
   "error": "",
   "items": [
     {
       "title_en": "2024: a pivotal year for legal entity data",
-      "title_tr": "2024: tüzel kişilik verileri için dönüm noktası",
+      "title_tr": "2024: tüzel kişi verileri için dönüm noktası",
       "url": "https://blog.opencorporates.com/2024/03/27/2024-a-pivotal-year-for-legal-entity-data/",
       "date": "2024-03-27"
     },
@@ -20,7 +20,7 @@
     },
     {
       "title_en": "Transparent company data and law enforcement go together like peanut butter and jelly",
-      "title_tr": "Şeffaf şirket verileri ve kolluk kuvvetleri fıstık ezmesi ve jöle gibi birbirine yakışır",
+      "title_tr": "Şeffaf şirket verileri ve kolluk kuvvetleri fıstık ezmesi ve reçel gibi birbirine yakışır",
       "url": "https://blog.opencorporates.com/2024/06/20/transparent-company-data-and-law-enforcement/",
       "date": "2024-06-20"
     }

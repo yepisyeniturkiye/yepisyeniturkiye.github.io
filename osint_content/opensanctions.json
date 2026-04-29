@@ -3,18 +3,18 @@
   "platform_name": "OpenSanctions",
   "homepage": "https://www.opensanctions.org",
   "category": "osint_monitor_sanctions",
-  "fetched_at": "2026-04-28T12:14:03.787677+00:00",
+  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Introducing PoliLoom: crowdsourcing tool for political data",
-      "title_tr": "PoliLoom Tanıtımı: siyasi veri için kitle kaynak aracı",
+      "title_en": "Introducing PoliLoom: crowdsourcing tool for political data gaps",
+      "title_tr": "PoliLoom: siyasi veri boşlukları için kitle kaynak aracı",
       "url": "https://www.opensanctions.org/articles/2026-03-24-poliloom/",
       "date": "2026-03-24"
     },
     {
-      "title_en": "As CIA closes World Factbook, we open global political map",
-      "title_tr": "CIA Dünya Bilgi Kitabı'nı kapatırken, küresel siyasi haritamızı açıyoruz",
+      "title_en": "As CIA closes World Factbook, opening global map of political power",
+      "title_tr": "CIA Dünya Bilgi Kitabı'nı kapatırken, küresel siyasi güç haritası açılıyor",
       "url": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
       "date": "2026-02-18"
     },
@@ -26,7 +26,7 @@
     },
     {
       "title_en": "This was 2025 at OpenSanctions",
-      "title_tr": "OpenSanctions'da 2025 böyle geçti",
+      "title_tr": "OpenSanctions'ta 2025 böyleydi",
       "url": "https://www.opensanctions.org/articles/2025-review/",
       "date": "2025-12-18"
     },

@@ -3,7 +3,7 @@
   "platform_name": "Copernicus Data Space",
   "homepage": "https://dataspace.copernicus.eu",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-04-28T12:14:03.787677+00:00",
+  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
   "error": "",
   "items": [
     {
@@ -20,13 +20,13 @@
     },
     {
       "title_en": "Sentinel-1D User Data Opening from 17/04/2026",
-      "title_tr": "Sentinel-1D Kullanıcı Verileri 17/04/2026'dan itibaren açılıyor",
+      "title_tr": "17/04/2026'dan itibaren Sentinel-1D Kullanıcı Verilerinin Açılması",
       "url": "https://dataspace.copernicus.eu/news/2026-4-16-sentinel-1d-user-data-opening-17042026",
       "date": "2026-04-16"
     },
     {
       "title_en": "Machine Learning for Forest Fire Mapping: Using openEO's Random Forest process",
-      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Orman süreci",
+      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Orman sürecini kullanma",
       "url": "https://dataspace.copernicus.eu/cases/machine-learning-forest-fire-mapping-using-openeos-random-forest-process",
       "date": ""
     },
