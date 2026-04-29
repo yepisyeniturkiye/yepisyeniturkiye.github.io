@@ -2,7 +2,12 @@ name: Ingest
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    # Off-peak minute, earlier base time. Top-of-hour slots (especially 0 6)
+    # routinely run 2-6h late on free-tier scheduling, which has been pushing
+    # the daily publish past 12:00 UTC. Moving to :17 past an earlier hour
+    # gets the run into the queue ahead of the busy slot and leaves enough
+    # lag headroom that publish lands before 09:00 UTC most days.
+    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
