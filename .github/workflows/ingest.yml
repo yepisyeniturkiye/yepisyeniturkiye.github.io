@@ -52,15 +52,21 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-chromium-v1
+          # Hash requirements.txt so playwright version bumps invalidate the
+          # cache. Otherwise an upgraded SDK that expects a newer chromium
+          # revision still hits a stale cache and the missing-binary error
+          # only surfaces at launch time. Keep -v2 manual-bump suffix as an
+          # escape hatch for when the cache itself gets corrupted.
+          key: playwright-${{ runner.os }}-chromium-v2-${{ hashFiles('requirements.txt') }}
+
+      - name: Install Playwright OS deps
+        run: python -m playwright install-deps chromium
 
       - name: Install Playwright Chromium
-        if: steps.pw-cache.outputs.cache-hit != 'true'
-        run: python -m playwright install --with-deps chromium
-
-      - name: Install Playwright OS deps (when cache hit)
-        if: steps.pw-cache.outputs.cache-hit == 'true'
-        run: python -m playwright install-deps chromium
+        # Always run. On cache hit with matching revision this no-ops in
+        # under a second; on revision drift it downloads the missing
+        # binary so the launch step doesn't blow up at runtime.
+        run: python -m playwright install chromium
 
       - name: Run fetcher
         run: python fetch.py
