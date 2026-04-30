@@ -3,7 +3,7 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
+  "fetched_at": "2026-04-30T07:09:39.917646+00:00",
   "error": "",
   "items": [
     {
@@ -13,22 +13,22 @@
       "date": "2025"
     },
     {
-      "title_en": "Data Availability Dashboard showing processing stages",
-      "title_tr": "İşleme aşamalarını gösteren Veri Kullanılabilirliği Panosu",
+      "title_en": "Data Availability Dashboard showing 1946 registered datasets",
+      "title_tr": "1946 kayıtlı veri setini gösteren Veri Kullanılabilirliği Panosu",
       "url": "https://comtradeplus.un.org/Visualization/DADashboard",
       "date": ""
     },
     {
-      "title_en": "Comtrade Trend data availability chart",
-      "title_tr": "Comtrade Trend veri kullanılabilirliği grafiği",
+      "title_en": "Comtrade Trend: 1946 datasets registered, 192 in processing, 70 in review",
+      "title_tr": "Comtrade Trend: 1946 veri seti kayıtlı, 192 işleniyor, 70 inceleniyor",
       "url": "https://comtradeplus.un.org/DataAvailability",
       "date": ""
     },
     {
-      "title_en": "HS Tracker provided by WTO",
-      "title_tr": "DTÖ tarafından sağlanan HS İzleyici",
-      "url": "https://comtradeplus.un.org/Visualization/Labs",
-      "date": ""
+      "title_en": "Quick Search: Annual Exports of TOTAL from All to World in 2025",
+      "title_tr": "Hızlı Arama: 2025'te Dünya'ya TOPLAM Yıllık İhracat",
+      "url": "https://comtradeplus.un.org/TradeFlow",
+      "date": "2025"
     }
   ]
 }

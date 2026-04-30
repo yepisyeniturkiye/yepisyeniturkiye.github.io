@@ -4,535 +4,178 @@ title: Yepisyeni Türkiye — Küresel
 
 # Küresel / Global
 
-**2026-04-29 — 43 küme / cluster**
+**2026-04-30 — 14 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Middle East & North Africa](../regions/mena.md) · [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md)
 
 ---
 
-### 1. Küresel askeri harcamalar rekor kırarak 2,887 trilyon dolara ulaştı
-*Global military spending surges to record $2.887 trillion*
+### 1. İsrail güçleri Gazze, Batı Şeria ve Lübnan'da ölümcül operasyonlara devam ediyor
+*Israeli forces continue deadly operations in Gaza, West Bank, and Lebanon*
 
-Küresel askeri harcamalar rekor seviyeye ulaşarak 2,887 trilyon dolara çıktı; ABD, kaynakları iç yatırımlardan askeri-endüstriyel komplekse kaydırıyor, bu durum II. Dünya Savaşı öncesindeki hazırlıklarla karşılaştırılıyor.
+İsrail, Gazze ve Batı Şeria'da Filistinlilere yönelik saldırılarını yoğunlaştırdı ve Lübnan'da da tırmandırdı. Gazze'de çadır kentlerde fare istilası yaşanıyor. Lübnan'da bir İsrail saldırısı Tayr Debba'da 4 yaşındaki bir kız çocuğu ve hamile annesini öldürdü.
 
-*Global military spending has reached a record $2.887 trillion, with the United States shifting resources from domestic investments to the military-industrial complex, comparable to the buildup to World War II.*
+*Israel has intensified assaults against Palestinians in Gaza and the West Bank, and also escalated in Lebanon. In Gaza, a rat infestation plagues tent cities. In Lebanon, an Israeli strike killed a 4-year-old girl and her pregnant mother in Tayr Debba.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/28/shutting-down-the-war-machine/)  *2026-04-28 05:58* — Shutting Down the War Machine
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/wzbw-a28.html)  *2026-04-28 05:09* — Global military spending surges to record $2.887 trillion
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/29/israeli-forces-continue-killing-sprees-across-gaza-and-the-west-bank/)  *2026-04-29 22:04* — Israeli forces continue killing sprees across Gaza and the West Bank
+- [DropSite News](https://www.dropsitenews.com/p/gaza-rats-rodents-disease-displaced-palestinians-tents)  *2026-04-29 21:06* — A Growing Rat Infestation Plagues Tent Cities in Gaza
+- [BreakThrough News](https://www.youtube.com/shorts/J-XRN5F7XRs)  *2026-04-29 20:29* — 4-year-old and pregnant mother killed in Israeli strike in Lebanon
 
 ---
 
-### 2. Trump'a suikast girişiminde bulunan şüpheli hakkında dava açıldı
-*Gunman charged with attempted assassination of Trump*
+### 2. Amazon İşçi Sendikası'nın dört yıllık bilançosu değerlendirildi
+*Four-year balance sheet of Amazon Labor Union assessed*
 
-Bir silahlı saldırgan, Donald Trump'a suikast girişiminde bulunmakla suçlandı. Olay, 1981'de Ronald Reagan'a yapılan ve Brady Yasası ile geçmiş kontrolü gerekliliklerine yol açan suikast girişimiyle karşılaştırılıyor.
+The OC Portal, Amazon İşçi Sendikası'nın dört yıllık performansını değerlendirerek başarı ve zorluklarının bilançosunu sunuyor.
 
-*A gunman has been charged with attempted assassination of Donald Trump. Comparisons have been drawn to the 1981 assassination attempt on Ronald Reagan, which led to the Brady Bill and background-check requirements.*
+*The OC Portal reports on the four-year performance of the Amazon Labor Union, providing a balance sheet of its achievements and challenges.*
 
 **Kaynaklar / Sources:**
-- [CounterPunch](https://www.counterpunch.org/2026/04/28/what-will-come-of-this-shooting/)  *2026-04-28 05:57* — What Will Come of This Shooting?
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/fpzs-a28.html)  *2026-04-28 05:09* — Gunman charged with attempted assassination of Trump: The political issues
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/lbeo-a30.html)  *2026-04-30 05:09* — Four years of the Amazon Labor Union: A balance sheet
 
 ---
 
-### 3. İran gerilimi: ABD hukuki tartışması, İran meydan okuması, Çin yaptırımları
-*Iran tensions: US legal debate, Iran defiance, China sanctions*
+### 3. New York City toplu taşıma işçilerinin sözleşme mücadelesinde siyasi meseleler
+*Political issues in New York City transit workers' contract struggle*
 
-ABD, İran'a yönelik askeri operasyonuyla ilgili hukuki sorularla karşı karşıya kalırken, İran'ın meydan okuması Küresel Güney'de hayranlık uyandırıyor. ABD ayrıca İran petrol ticareti nedeniyle Çinli şirketlere yaptırım uyguladı ve Çin şirketlerini savundu.
+The OC Portal, New York City toplu taşıma işçilerinin devam eden sözleşme mücadelesinin siyasi boyutlarını inceliyor.
 
-*The United States faces legal questions over its military operation against Iran, while Iran's defiance is admired in the Global South. The US also sanctioned Chinese firms over Iranian oil trade, prompting China to defend its companies.*
+*The OC Portal examines the political dimensions of the ongoing contract struggle involving New York City transit workers.*
 
 **Kaynaklar / Sources:**
-- [Asia Times](https://asiatimes.com/2026/04/legal-questions-us-lawyers-cant-answer-about-the-iran-war/)  *2026-04-28 04:13* — Legal questions US lawyers can’t answer about the Iran war
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/the-social-roots-of-irans-defiance-a-dialogue-about-civilization/)  *2026-04-28 01:51* — The social roots of Iran’s defiance: a dialogue about “civilization”
-- [Asia Times](https://asiatimes.com/2026/04/china-defends-firms-as-us-sanctions-hengli-over-iran-oil/)  *2026-04-28 00:39* — China defends firms as US sanctions Hengli over Iran oil
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/ynom-a30.html)  *2026-04-30 05:09* — The political issues in the New York City transit workers' contract struggle
 
 ---
 
-### 4. Küresel sıralamaların ardındaki yükseköğretim ekonomisi
-*Higher education economics behind global rankings*
+### 4. Hegseth, Beyaz Saray'ın askeri harcamaları %50 artırma planını detaylandırdı
+*Hegseth details White House plan to increase military spending by 50%*
 
-The OC Portal'dan bir makale, küresel yükseköğretim sıralamalarının ardındaki ekonomiyi ele alıyor.
+The OC Portal, ABD Savunma Bakanı Pete Hegseth'in Beyaz Saray'ın askeri harcamaları yüzde 50 artırma planını açıkladığını bildiriyor.
 
-*An article from The OC Portal discusses the economics behind global higher education rankings.*
+*The OC Portal reports that US Defense Secretary Pete Hegseth outlined a White House plan to surge military spending by 50 percent.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.newsclick.in/higher-education-economics-behind-global-rankings)  *2026-04-29 06:47* — Higher Education: Economics Behind Global Rankings
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/xjxc-a30.html)  *2026-04-30 05:09* — Hegseth details White House plan to surge military spending by 50 percent
 
 ---
 
-### 5. İran çatışması Avustralya ekonomisini etkiliyor
-*Iran conflict impacts Australian economy*
+### 5. Microsoft ve Meta'daki işten çıkarmalar işçi hareketi ihtiyacını vurguluyor
+*Tech layoffs at Microsoft and Meta highlight need for worker movement*
 
-The OC Portal, İran ile yaşanan çatışmanın Avustralya ekonomisini etkilediğini bildiriyor.
+The OC Portal, Microsoft ve Meta'daki son işten çıkarmaların işleri savunmak için bir işçi sınıfı hareketine duyulan ihtiyacı vurguladığını bildiriyor.
 
-*The OC Portal reports that the conflict with Iran is having an impact on the Australian economy.*
+*The OC Portal reports that recent layoffs at Microsoft and Meta underscore the need for a working class movement to defend jobs.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/pdfm-a29.html)  *2026-04-29 06:09* — Iran war hits Australian economy
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/syiz-a30.html)  *2026-04-30 05:09* — Latest round of tech layoffs at Microsoft and Meta shows need for a working class movement to defend jobs
 
 ---
 
-### 6. Trump göçmen çocuk sınır dışılarını hızlandırdı; Walz federal baskınları destekliyor
-*Trump accelerates migrant child deportations; Walz backs federal raids*
+### 6. Avustralya NDIS çalışanları ve katılımcıları İşçi Partisi'nin engelli desteği kesintilerine karşı çıkıyor
+*Australian NDIS workers and participants oppose Labor's disability support cuts*
 
-The OC Portal, Trump'ın göçmen çocukların sınır dışı işlemlerini hızlandırdığını, Minnesota Valisi Walz'ın ise federal baskınları desteklediğini bildiriyor.
+The OC Portal, Avustralya NDIS çalışanları ve katılımcılarının İşçi Partisi hükümetinin engelli desteği kesintilerine karşı çıktığını bildiriyor.
 
-*The OC Portal reports that Trump is rushing migrant children through deportation courts, while Minnesota Governor Walz supports federal raids.*
+*The OC Portal reports that Australian NDIS workers and participants are opposing proposed cuts to disability support by the Labor government.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/tdsl-a29.html)  *2026-04-29 06:09* — Trump rushes migrant children through deportation courts, while Walz backs federal raids in Minnesota
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/tbus-a30.html)  *2026-04-30 05:09* — Australian NDIS workers and participants oppose Labor’s cuts to disability support
 
 ---
 
-### 7. Alman hükümeti sağlık, emeklilik ve sosyal yardımlarda kesinti planlıyor
-*German government plans cuts to health, pensions, social benefits*
+### 7. James Comey, '86 47' memesi nedeniyle iddianame sonrası mahkemeye çıktı
+*James Comey appears in court after indictment over '86 47' meme*
 
-The OC Portal, Alman hükümetinin sağlık, emeklilik ve sosyal yardımlarda büyük kesintiler planladığını bildiriyor.
+The OC Portal, eski FBI Direktörü James Comey'in '86 47' yazılı bir sosyal medya memesiyle ilgili iddianame sonrası mahkemeye çıktığını bildiriyor.
 
-*The OC Portal reports that the German government is planning significant cuts to health, pensions, and social benefits.*
+*The OC Portal reports that former FBI Director James Comey appeared in court following an indictment related to a social media meme reading '86 47'.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/tgij-a29.html)  *2026-04-29 06:09* — German government plans massive cuts to health, pensions and social benefits
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/oytg-a30.html)  *2026-04-30 05:09* — James Comey appears in court following indictment for “86 47” social media meme
 
 ---
 
-### 8. Avustralya Eğitim Sendikası öğretmenleri bölmekle eleştiriliyor
-*Australian Education Union criticized for dividing teachers*
+### 8. Rapor: Yüksek Mahkeme demokratik haklara yönelik saldırıları artırıyor
+*Supreme Court escalates attacks on democratic rights, says report*
 
-The OC Portal, Avustralya Eğitim Sendikası'nın Victoria'da bir satışa hazırlanmak için öğretmenleri böldüğünü ve taban komiteleri kurulması çağrısı yapıldığını bildiriyor.
+The OC Portal, ABD Yüksek Mahkemesi'nin demokratik haklara yönelik saldırıları artırdığını bildiriyor.
 
-*The OC Portal reports that the Australian Education Union is dividing teachers to prepare for a sellout in Victoria, and calls for building rank-and-file committees.*
+*The OC Portal reports that the US Supreme Court is stepping up attacks on democratic rights, according to its analysis.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/eout-a29.html)  *2026-04-29 06:09* — Australian Education Union divides teachers to prepare sellout in Victoria—build rank-and-file committees
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/psen-a30.html)  *2026-04-30 05:09* — Supreme Court steps up attacks on democratic rights
 
 ---
 
-### 9. Avustralyalı Sosyalist Alternatif, One Nation seçmenlerini eleştirdiği için kınandı
-*Australian Socialist Alternative denounced for criticizing One Nation voters*
+### 9. Fed faiz oranlarını sabit tuttu; Powell vali olarak kalacağını söyledi
+*Fed holds interest rates steady; Powell says he will remain as governor*
 
-The OC Portal, Avustralyalı sözde sol grup Sosyalist Alternatif'in One Nation partisine oy veren işçileri kınadığını bildiriyor.
+ABD Merkez Bankası faiz oranlarını değiştirmedi. Başkan Jerome Powell, vali olarak görevine devam edeceğini belirtti.
 
-*The OC Portal reports that the Australian pseudo-left group Socialist Alternative denounced workers who voted for the One Nation party.*
+*The US Federal Reserve kept interest rates unchanged. Chair Jerome Powell stated he will continue serving as a governor.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/ngzb-a29.html)  *2026-04-29 06:09* — Australian pseudo-left Socialist Alternative denounces workers who voted for One Nation
+- [The OC Portal](https://www.wsws.org/en/articles/2026/04/30/omdc-a30.html)  *2026-04-30 04:09* — Fed keeps interest rates on hold as Powell declares he will stay on as a governor
 
 ---
 
-### 10. Kanada Liberal hükümeti yedi yıl sonra parlamentoda çoğunluğu kazandı
-*Canada's Liberal government secures parliamentary majority after seven years*
+### 10. Filipin ordusu operasyonunda 19 kişi öldürüldü, aralarında iki ABD vatandaşı da var
+*19 killed by Philippine army in operation, including two US citizens*
 
-The OC Portal, Kanada Liberal hükümetinin yedi yıllık azınlık yönetiminin ardından parlamentoda çoğunluğu elde ettiğini bildiriyor.
+Filipinler Silahlı Kuvvetleri, Negros Occidental eyaletinde Yeni Halk Ordusu'nun sözde üyelerine karşı bir operasyon başlattığında en az 19 kişi öldü ve yüzlerce kişi yerinden edildi. Ölenlerden ikisi ABD vatandaşıydı.
 
-*The OC Portal reports that Canada's Liberal government has secured a parliamentary majority after seven years of minority rule.*
+*At least 19 people were killed and hundreds displaced when the Armed Forces of the Philippines launched an operation against alleged members of the New People's Army in Negros Occidental province. Two of the dead were US citizens.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/vfvg-a29.html)  *2026-04-29 05:09* — Canada’s Liberal government secures parliamentary majority after seven years of minority rule
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/29/19-killed-by-army-in-philippines-including-two-us-citizens/)  *2026-04-30 02:36* — 19 killed by Philippine army, including two US citizens
 
 ---
 
-### 11. ABD Tarım Bakanlığı, İran savaşı, tarifeler ve kuraklık nedeniyle gıda fiyat artışları bildirdi
-*US Agriculture Department reports food price increases from Iran war, tariffs, drought*
+### 11. Meksika, iki gizli CIA ajanının trafik kazasında ölmesinin ardından ABD operasyonlarını soruşturuyor
+*Mexico investigates US operations after two covert CIA agents die in traffic accident*
 
-The OC Portal, ABD Tarım Bakanlığı'nın İran savaşı, tarifeler ve kuraklık nedeniyle gıda fiyatlarında artış bildirdiğini aktarıyor.
+Meksika, iki gizli CIA ajanının trafik kazasında ölmesinin ardından ABD operasyonlarını soruşturuyor. Ölümleri, Meksika federal hükümetinin bilgisi olmadan Meksika topraklarında yabancı ajanların bulunmasına ilişkin eleştirilere yol açtı.
 
-*The OC Portal reports that the US Agriculture Department has reported food price increases attributed to the Iran war, tariffs, and drought.*
+*Mexico is investigating US operations after two covert CIA agents died in a traffic accident. Their deaths have sparked criticism regarding the presence of foreign agents on Mexican soil without the knowledge of the Mexican federal government.*
 
 **Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/29/vmga-a29.html)  *2026-04-29 05:09* — US Agriculture Department reports food price increases from Iran war, tariffs and drought
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/29/mexico-investigates-us-operations-after-two-covert-cia-agents-die-in-traffic-accident/)  *2026-04-30 01:06* — Mexico investigates US operations after two covert CIA agents die in traffic accident
 
 ---
 
-### 12. Ateşkes uzatmasının ardından İsrail, Lübnan'a yönelik saldırılarını artırdı
-*Israel escalates aggression on Lebanon after ceasefire extension*
+### 12. ABD'nin Gana'daki askeri ayak izi genişlemesi raporlandı
+*Report details US military footprint expansion in Ghana*
 
-Hizbullah, ateşkes müzakerelerine güvenmediğini yineleyerek İsrail güçlerine karşı direnişe devam edeceğini belirtti. Tırmanış, ateşkesin uzatılmasının ardından geldi.
+Peoples Dispatch'in bir raporu, ABD'nin Afrika'daki askeri varlığını tek bir üsten ziyade hızlı konuşlanma için bir erişim noktaları ağı olarak tanımlıyor. Makale, ABD'nin Gana'daki askeri ayak izine odaklanıyor.
 
-*Hezbollah reaffirmed its distrust of ceasefire negotiations and vowed to continue resistance against Israeli forces. The escalation follows an extension of the ceasefire.*
+*A report by Peoples Dispatch details the US military presence in Africa, describing it as a network of access points for rapid deployment rather than a single base. The article focuses on the US military footprint in Ghana.*
 
 **Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/28/israel-escalates-its-aggression-on-lebanon-after-ceasefire-extension/)  *2026-04-28 21:32* — Israel escalates its aggression on Lebanon after ceasefire extension
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/29/the-making-of-the-us-military-footprint-in-ghana/)  *2026-04-29 20:28* — The making of the US military footprint in Ghana
 
 ---
 
-### 13. Kolombiya'da Pan-Amerikan Otoyolu'na düzenlenen saldırıda 20 kişi öldü
-*20 killed in attack on Pan-American Highway in Colombia*
+### 13. Ekvador, yerel seçimler öncesinde iki muhalefet partisini daha yasakladı
+*Ecuador bans two more opposition parties before local elections*
 
-25 Nisan'da Pan-Amerikan Otoyolu'na düzenlenen saldırıda 20 kişi hayatını kaybetti. Kolombiya Devlet Başkanı Gustavo Petro ve diğer siyasetçiler, saldırının 31 Mayıs'taki başkanlık seçimlerini etkilemeyi amaçlayabileceğini belirtti.
+Ekvador seçim otoritesi, yerel seçimlerden aylar önce iki muhalefet partisini yasaklayarak en büyük muhalefet partisinin askıya alınmasına ekledi. Peoples Dispatch'in haberine göre eleştirmenler bunun Başkan Daniel Noboa hükümetine yaradığını söylüyor.
 
-*An attack on the Pan-American Highway on April 25 killed 20 people. Colombian President Gustavo Petro and other politicians suggest the attack may be intended to influence the upcoming presidential election on May 31.*
+*Ecuador's electoral authority banned two opposition parties months before local elections, adding to the suspension of the largest opposition party. Critics say this benefits President Daniel Noboa's government, as reported by Peoples Dispatch.*
 
 **Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/28/20-killed-in-attack-on-pan-american-highway-in-colombia/)  *2026-04-28 21:21* — 20 killed in attack on Pan-American Highway in Colombia
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/29/a-setback-for-democracy-two-more-opposition-parties-banned-in-ecuador/)  *2026-04-29 18:46* — “A setback for democracy”: Two more opposition parties banned in Ecuador
 
 ---
 
-### 14. Güney Koreli milletvekilleri, ABD'nin yargı egemenliğini baltalama girişimlerini kınadı
-*South Korean lawmakers condemn US attempts to undermine judicial sovereignty*
+### 14. Holokost kurtulanlarının torunları Nazi karşıtı direnişi Filistin kurtuluşuna bağlıyor
+*Holocaust survivors' descendants link anti-Nazi resistance to Palestinian liberation*
 
-ABD, bir veri ihlali nedeniyle ABD merkezli Güney Koreli bir e-ticaret devine karşı yasal işlemleri engellemeye çalışarak savunma işbirliğini kısıtlama ve ticaret engelleri koyma tehdidinde bulundu. Güney Koreli milletvekilleri bu girişimleri kınadı.
+Holokost'tan kurtulanların torunları, Almanya'nın İsrail yanlısı revizyonist tarihine meydan okuyarak Buchenwald'daki Nazi karşıtı direnişi bugünkü Filistin kurtuluşuna bağlıyor. Makale Peoples Dispatch'te yayımlandı.
 
-*The US has pushed to prevent legal proceedings against a US-based South Korean e-commerce giant over a data breach, threatening to restrict defense cooperation and impose trade barriers. South Korean lawmakers condemned these attempts.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/28/south-korean-lawmakers-condemn-us-attempts-to-undermine-judicial-sovereignty/)  *2026-04-28 18:54* — South Korean lawmakers condemn US attempts to undermine judicial sovereignty
-
----
-
-### 15. Küresel filo, Gazze ablukasını kırmak için yeniden yola çıktı
-*Global flotilla sails again to break blockade of Gaza*
-
-Düzinelerce sivil gemi, İsrail işgalinin yasadışı ablukasını kırmak ve bir insani koridor oluşturmak amacıyla Gazze'ye doğru yola çıktı.
-
-*Dozens of civilian vessels are en route to Gaza aiming to break the Israeli occupation's illegal blockade and establish a humanitarian corridor.*
+*Descendants of Holocaust survivors are challenging Germany's pro-Israel revisionist history, linking the anti-Nazi resistance at Buchenwald to Palestinian liberation today. The article appears on Peoples Dispatch.*
 
 **Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/28/global-flotilla-sails-again-to-break-illegal-blockade-of-gaza/)  *2026-04-28 18:50* — Global flotilla sails again to break illegal blockade of Gaza
-
----
-
-### 16. NATO ülkeleri Mali'deki ölümcül terör saldırılarını kınamadı
-*NATO countries fail to condemn deadly terror attacks in Mali*
-
-People's Dispatch, Afrika bölgesel blokları ve BM'nin Mali'deki terör saldırılarını kınadığını ancak NATO ülkelerinin bir kınama yayınlamadığını bildiriyor.
-
-*People's Dispatch reports that African regional blocs and the UN condemned terrorist attacks in Mali, but NATO countries did not issue a condemnation.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/28/nato-countries-fail-to-condemn-deadly-terror-attacks-in-mali/)  *2026-04-28 16:28* — NATO countries fail to condemn deadly terror attacks in Mali
-
----
-
-### 17. Pan-Afrika Haber Hattı Raporları
-*Pan-African News Wire Reports*
-
-The OC Portal'dan üç öğe 'Pan-Afrika Haber Hattı' başlığını taşıyor ancak özet veya ayrıntı içermiyor.
-
-*Three items from The OC Portal are titled 'Pan-African News Wire' but contain no summaries or details.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/iran-ready-to-share-defeating-us.html)  *2026-04-28 11:22* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/araghchi-says-russia-proposed-mediation.html)  *2026-04-28 11:22* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/uk-appeals-high-court-ruling-that.html)  *2026-04-28 11:22* — Pan-African News Wire
-
----
-
-### 18. Pan-African News Wire ve The OC Portal'dan diğer makaleler
-*Pan-African News Wire and other articles from The OC Portal*
-
-The OC Portal'dan 'Pan-African News Wire', 'There’s No Need to Reschedule the Correspondents’ Dinner' ve 'These AI-Powered Surveillance Cameras Are Everywhere—and People Have Had Enough' başlıklı birden fazla makale yayımlandı. Bu öğeler için herhangi bir özet sağlanmadı.
-
-*Multiple articles from The OC Portal were published with titles such as 'Pan-African News Wire', 'There’s No Need to Reschedule the Correspondents’ Dinner', and 'These AI-Powered Surveillance Cameras Are Everywhere—and People Have Had Enough'. No summaries were provided for these items.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/moscow-tehran-to-support-each-other.html)  *2026-04-28 11:22* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/iran-says-eus-insistence-on-sanctions.html)  *2026-04-28 11:22* — Pan-African News Wire
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/us-can-no-longer-dictate-its-policies.html)  *2026-04-28 11:22* — Pan-African News Wire
-- [The OC Portal](https://www.thenation.com/article/politics/white-house-correspondents-dinner/)  *2026-04-28 10:13* — There’s No Need to Reschedule the Correspondents’ Dinner
-- [The OC Portal](https://www.thenation.com/article/activism/flock-camera-surveillance-activism/)  *2026-04-28 10:13* — These AI-Powered Surveillance Cameras Are Everywhere—and People Have Had Enough
-
----
-
-### 19. UNDP raporu, Güney Asya'nın ABD-İran savaşına karşı savunmasız olduğu uyarısı yapıyor
-*UNDP report warns South Asia vulnerable to US-Iran war*
-
-Bir UNDP raporu, Güney Asya ekonomilerinin olası bir ABD-İran savaşına karşı savunmasızlığını ortaya koyuyor. Rapor, bölge için ekonomik riskleri vurguluyor.
-
-*A UNDP report exposes the vulnerability of South Asian economies to a potential US war against Iran. The report highlights the economic risks for the region.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/vneu-a28.html)  *2026-04-28 06:09* — UNDP report exposes vulnerability of South Asia’s economies to US war against Iran
-
----
-
-### 20. Avustralya İşçi Partisi'nin yaşlı bakımı kesintileri geri adıma rağmen sürüyor
-*Australia Labor's aged home care cuts continue despite backdown*
-
-Raporlara göre, Avustralya İşçi Partisi hükümeti, duş hizmetlerinde geri adım atmasına rağmen yaşlı bakımı kesintilerine devam ediyor.
-
-*Australia's Labor government continues cuts to aged home care despite a backdown on shower services, according to reports.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/aees-a28.html)  *2026-04-28 05:09* — Australia: Labor’s aged home care cuts continue despite backdown on showers
-
----
-
-### 21. Gettysburg ve özgürlüğün yeniden doğuşu tartışılıyor
-*Gettysburg and the new birth of freedom discussed*
-
-Bir makale, Gettysburg Konuşması ve 'özgürlüğün yeniden doğuşu' kavramını tarihsel ve güncel bağlamlarda ele alıyor.
-
-*An article reflects on the Gettysburg Address and the concept of a 'new birth of freedom' in historical and contemporary contexts.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/ypfp-a28.html)  *2026-04-28 05:09* — Gettysburg and the New Birth of Freedom—then and now </strong><strong></strong><strong>
-
----
-
-### 22. Peru'da aşırı sağ, sol adayın yükselişi üzerine seçim skandalı çıkarıyor
-*Peruvian far-right stages scandal over elections as left candidate rises*
-
-Peru'da aşırı sağ, görünüşte solcu bir adayın anketlerde ikinci sıraya yükselmesi üzerine seçimlerle ilgili bir skandal çıkardı.
-
-*Peru's far-right has staged a scandal over elections as a nominally left candidate climbs to second place in polls.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/qgiv-a28.html)  *2026-04-28 05:09* — Peruvian far-right stages scandal over elections as nominally “left” candidate climbs to second place
-
----
-
-### 23. ABD'de öğretmen grevleri ve 1 Mayıs eylemleri
-*US teacher strikes and May Day labor actions*
-
-Little Lake City'de öğretmenler greve devam ederken, UTLA Los Angeles'taki öğretmenlerin yeni sözleşmeyi onayladığını iddia ediyor. Bu arada, ABD sendikalarının 'May Day Strong' girişimi 1 Mayıs kutlamalarını yeniden şekillendirmeyi hedefliyor.
-
-*Teachers in Little Lake City continue their strike, while UTLA claims LA teachers ratified a new contract. Meanwhile, US unions' 'May Day Strong' initiative seeks to reshape May Day observances.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/wnlj-a28.html)  *2026-04-28 04:09* — Little Lake City teachers continue strike, while UTLA claims LA teachers ratified new contract
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/28/jvqx-a28.html)  *2026-04-28 04:09* — US unions’ “May Day Strong” seeks to neuter May Day
-
----
-
-### 24. Kenya mahkemesi kürtajı yeniden suç saydı, üreme hakları endişelerini artırdı
-*Kenyan court recriminalizes abortion, sparking reproductive rights concerns*
-
-Kenya'da bir mahkeme kürtajı yeniden suç saydı; üreme hakları savunucuları bu kararın hem doktorları hem de hamile kadınları tehlikeye atacağı uyarısında bulundu. Kenya'da her yıl binlerce kadın güvenli olmayan kürtaj nedeniyle hayatını kaybediyor.
-
-*A Kenyan court has recriminalized abortion, a decision that reproductive rights advocates warn will endanger both doctors and pregnant women. Thousands of women die annually from unsafe abortions in Kenya.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/kenyan-court-recriminalizes-abortion/)  *2026-04-27 22:55* — Kenyan court recriminalizes abortion
-
----
-
-### 25. İran, İslamabad görüşmelerinin başarısız olmasının ardından diplomatik çözüm için bastırıyor
-*Iran pushes for diplomatic solution after Islamabad talks fail*
-
-İran, İslamabad'da ikinci tur görüşmelerin gerçekleşmemesinin ardından diplomatik çözüm için bastırmaya devam ediyor. Ancak İran, 13 Nisan'dan bu yana uygulanan yasadışı deniz ablukasını kaldırmadığı sürece ABD ile hiçbir görüşme yapılmayacağını belirtiyor.
-
-*Iran continues to push for a diplomatic solution after a second round of talks in Islamabad failed to materialize. However, Iran maintains that no talks will be held with the US until it lifts its illegal naval blockade imposed since April 13.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/iran-continues-to-push-for-diplomatic-solution-after-second-islamabad-talks-fail-to-materialize/)  *2026-04-27 17:20* — Iran continues to push for diplomatic solution after second Islamabad talks fail to materialize
-
----
-
-### 26. İtalya'da Kurtuluş Günü Küba ve Filistin'e dayanışmayla kutlandı
-*Liberation Day in Italy marked with solidarity for Cuba and Palestine*
-
-People's Dispatch, İtalya'da Kurtuluş Günü'nde binlerce kişinin Küba ve Filistin de dahil olmak üzere dünyadaki kurtuluş mücadeleleriyle dayanışma sözü verdiğini ve savaş ile emperyalizme direniş gösterdiğini bildiriyor.
-
-*People's Dispatch reports that on Liberation Day in Italy, thousands pledged solidarity with ongoing liberation struggles around the world, including Cuba and Palestine, and resistance to war and imperialism.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/liberation-day-in-italy-marked-in-solidarity-with-cuba-and-palestine/)  *2026-04-27 14:52* — Liberation Day in Italy marked in solidarity with Cuba and Palestine
-
----
-
-### 27. İsrail makamları Dr. Hüsam Ebu Safiya'nın hapis cezasının uzatılmasını istiyor
-*Israeli authorities seek extension of Dr. Hussam Abu Safiya's imprisonment*
-
-People's Dispatch, İsrail makamlarının Filistinli çocuk doktoru Dr. Hüsam Ebu Safiya'nın hapis cezasının bir kez daha uzatılması için girişimde bulunduğunu bildiriyor.
-
-*People's Dispatch reports that Israeli authorities are reportedly pursuing another extension of the imprisonment of Palestinian pediatrician Dr. Hussam Abu Safiya.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/israeli-authorities-pursue-another-extension-to-dr-hussam-abu-safiyas-imprisonment/)  *2026-04-27 14:15* — Israeli authorities pursue another extension to Dr. Hussam Abu Safiya’s imprisonment
-
----
-
-### 28. Peter Thiel, Arjantin Devlet Başkanı Javier Milei ile özel görüşme yaptı
-*Peter Thiel meets Argentine President Javier Milei privately*
-
-People's Dispatch, Peter Thiel'in Arjantin Devlet Başkanı Javier Milei ile özel bir görüşme yaptığını ve bu ziyaret sırasında Buenos Aires'te bir ev satın almaya karar verdiğini bildiriyor. Bazı medya kuruluşları görüşmenin Palantir ile Arjantin hükümeti arasında büyük bir anlaşmanın habercisi olabileceğini öne sürüyor.
-
-*People's Dispatch reports that Peter Thiel had a private meeting with Argentine President Javier Milei during a visit in which Thiel decided to buy a house in Buenos Aires. Some media outlets suggest the meeting could precede a major deal between Palantir and the Argentine government.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/peter-thiel-has-private-meeting-with-argentine-president-javier-milei/)  *2026-04-27 14:12* — Peter Thiel has private meeting with Argentine President Javier Milei
-
----
-
-### 29. Gazze'de haftaların en ölümcül İsrail saldırısında on bir kişi öldü
-*Eleven killed in Gaza in deadliest Israeli attack in weeks*
-
-People's Dispatch, Gazze'de haftaların en ölümcül İsrail saldırısında on bir kişinin öldüğünü bildiriyor. Tırmanış, Hamas'ın İsrail'den ABD'nin arabuluculuğundaki ateşkes anlaşmasının birinci aşamasının şartlarını uygulamasını talep etmesinden birkaç gün sonra gerçekleşti.
-
-*People's Dispatch reports that eleven people were killed in Gaza in the deadliest Israeli attack in weeks. The escalation came a few days after Hamas demanded that Israel implement the terms of phase one of the US-brokered ceasefire deal.*
-
-**Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/27/eleven-killed-in-gaza-in-deadliest-israeli-attack-in-weeks/)  *2026-04-27 13:58* — Eleven killed in Gaza in deadliest Israeli attack in weeks
-
----
-
-### 30. Etkili bir iklim konferansı potansiyeli tartışılıyor
-*Potential for effective climate conference discussed*
-
-The OC Portal, bir iklim konferansının gerçekten işe yarayıp yaramayacağını tartışıyor.
-
-*The OC Portal discusses whether a climate conference could actually work.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.thenation.com/article/environment/transitioning-away-fossil-fuels-conference-colombia/)  *2026-04-27 10:07* — Wait, Could This Be a Climate Conference That Actually Works?
-
----
-
-### 31. Üniversiteli kızlar kamerada yemek yiyerek harçlarını ödüyor
-*College girls pay tuition through eating on camera*
-
-The OC Portal, üniversiteli kızların kamerada yemek yiyerek harçlarını nasıl ödediğini aktarıyor.
-
-*The OC Portal reports on how college girls are paying tuition by eating on camera.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.thenation.com/article/society/mukbangs-college-girls-tuition-internet-trends-influencing/)  *2026-04-27 10:07* — How Eating on Camera is Helping College Girls Pay Tuition
-
----
-
-### 32. TCS Nashik davası soruşturması komünal anlatıya dönüştürüldü
-*TCS Nashik case probe turned into communal narrative*
-
-The OC Portal, TCS Nashik davası soruşturmasının nasıl komünal bir anlatıya dönüştürüldüğünü aktarıyor.
-
-*The OC Portal reports on how the TCS Nashik case probe was turned into a communal narrative.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.newsclick.in/how-tcs-nashik-case-was-turned-probe-communal-narrative)  *2026-04-27 09:07* — How TCS Nashik Case Was Turned From Probe Into Communal Narrative
-
----
-
-### 33. Nefret söyleminin yayılmasıyla ilgili endişe
-*Concern over spreading hate speech*
-
-The OC Portal, nefret yaymanın nerede sona ereceğini sorguluyor.
-
-*The OC Portal questions where hate spreading will end.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.newsclick.in/where-will-hate-spreading-end)  *2026-04-27 09:07* — Where Will This Hate Spreading End?
-
----
-
-### 34. Neo-faşizm, ulus kavramı ve SIR tartışıldı
-*Neo-fascism, concept of nation and SIR discussed*
-
-OC Portal, neo-faşizm, ulus kavramı ve SIR hakkındaki tartışmaları bildiriyor. Daha fazla ayrıntı verilmiyor.
-
-*The OC Portal reports on discussions about neo-fascism, the concept of nation, and SIR. No further details are provided.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.newsclick.in/neo-fascism-concept-nation-sir)  *2026-04-27 08:07* — Neo-Fascism, Concept of Nation & SIR
-
----
-
-### 35. Avustralya'nın Anzak Günü küresel savaş patlaması ortasında kutlandı
-*Australia's Anzac Day held amid global war eruption*
-
-OC Portal, Avustralya'nın militarist Anzak Günü'nün küresel bir savaş patlaması ortasında kutlandığını bildiriyor. Daha fazla ayrıntı verilmiyor.
-
-*The OC Portal reports that Australia's militarist Anzac Day was held amid a global eruption of war. No further details are provided.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/27/avxx-a27.html)  *2026-04-27 06:07* — Australia’s militarist Anzac Day held amid global eruption of war
-
----
-
-### 36. Harvard akademik işçileri-UAW liderleri fakülte grevini sabote ediyor
-*Harvard academic workers-UAW leaders sabotage faculty strike*
-
-OC Portal, Harvard Akademik İşçileri-UAW liderlerinin, kadrosuz öğretim üyelerinin grevini sabote ettiğini bildiriyor. Daha fazla ayrıntı verilmiyor.
-
-*The OC Portal reports that Harvard Academic Workers-UAW leaders sabotaged a strike of non-tenure-track faculty. No further details are provided.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://www.wsws.org/en/articles/2026/04/27/zxdt-a27.html)  *2026-04-27 05:07* — Harvard Academic Workers-UAW leaders sabotage strike of non-tenure-track faculty
-
----
-
-### 37. Pan-Afrika Haber Hattı raporu
-*Pan-African News Wire report*
-
-OC Portal, bir Pan-Afrika Haber Hattı raporu sunuyor. Daha fazla ayrıntı mevcut değil.
-
-*The OC Portal provides a Pan-African News Wire report. No further details are available.*
-
-**Kaynaklar / Sources:**
-- [The OC Portal](https://panafricannews.blogspot.com/2026/04/neighbors-are-our-priority-araghchi.html)  *2026-04-27 05:07* — Pan-African News Wire
-
----
-
-### 38. Açık kaynak yapay zeka ajan projesi OpenClaw popülerlik kazanıyor
-*Open-source AI agent project OpenClaw gains popularity*
-
-Tricontinental'e göre, 2025 sonlarında açık kaynak yapay zeka ajan projesi OpenClaw, bir haftada milyonlarca ziyaretçi ve 100.000'den fazla GitHub yıldızı topladı; sloganı 'Asistanın, makinen, kuralların'.
-
-*Tricontinental reports that in late 2025, open-source AI agent project OpenClaw attracted millions of visitors and over 100,000 GitHub stars within a week, with the slogan 'Your assistant, your machine, your rules'.*
-
-**Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/declarative-multi-agent-systems-from-using-ai-to-building-ai/)  *2026-04-10 09:01* — Declarative Multi-Agent Systems: From Using AI to Building AI
-
----
-
-### 39. Çin'in yatırım odaklı kalkınma modeli Washington mutabakatına meydan okuyor
-*China's investment-led development model challenges Washington consensus*
-
-Tricontinental'e göre, Çin'in yatırım odaklı kalkınma modeli, Washington'un Küresel Güney'e onlarca yıldır verdiği devlet yatırımını azaltma ve piyasa liberalleşmesi tavsiyeleriyle çelişiyor.
-
-*Tricontinental reports that China's investment-led development model contradicts decades of Washington's policy advice to the Global South, which emphasized reduced state investment and market liberalization.*
-
-**Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/the-research-nobody-dreamed-possible/)  *2026-04-10 09:00* — The Research Nobody Dreamed Possible
-
----
-
-### 40. Visual Studio Code'a Claude Code kurulum rehberi
-*Guide to installing Claude Code in Visual Studio Code*
-
-Tricontinental, Visual Studio Code'a Claude Code kurulumu ve yapılandırması için bir rehber yayımladı; bu, bir ekonomistin Küresel Güney için büyük veri platformuyla buluşması olarak çerçeveleniyor.
-
-*Tricontinental publishes a guide on how to install and set up Claude Code in Visual Studio Code, framed as an economist meeting a big data platform for the Global South.*
-
-**Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/how-to-install-and-set-up-claude-code-in-visual-studio-code/)  *2026-04-10 09:00* — How to Install and Set Up Claude Code in Visual Studio Code
-
----
-
-### 41. Bilgi mühendisliği: yapay zeka çağı için altı kritik soru
-*Knowledge engineering: six critical questions for AI age*
-
-Tricontinental, bilgi mühendisliğini tartışıyor; büyük dil modelleriyle etkileşimlerin genellikle yavan yanıtlar vermesinin nedeninin istem mühendisliği değil, zayıf bilgi mühendisliği olduğunu savunuyor.
-
-*Tricontinental discusses knowledge engineering, arguing that interactions with large language models often yield bland responses due to poor knowledge engineering, not prompt engineering.*
-
-**Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/knowledge-engineering-six-critical-questions-for-knowledge-production-in-the-age-of-artificial-intelligence/)  *2026-04-10 09:00* — Knowledge Engineering: Six Critical Questions for Knowledge Production in the Age of Artificial Intelligence
-
----
-
-### 42. Dağınık kanıtlarla restorasyonist tarih araştırması
-*Restorationist history research using scattered evidence*
-
-Tricontinental, bir olayın restorasyonist tarihini yazmayı amaçlayan bir araştırma projesini anlatıyor; mevcut çerçeveler bu tür çalışmaları engellemek için tasarlandığından analitik çerçeveler sıfırdan oluşturuluyor.
-
-*Tricontinental describes a research project aiming to write a restorationist history of an event, building analytical frameworks from scratch due to existing ones being designed to prevent such work.*
-
-**Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/the-research-that-wasnt-supposed-to-be-possible/)  *2026-04-10 08:59* — The Research that Wasn’t Supposed to Be Possible
-
----
-
-### 43. Yapay zeka destekli nitel araştırma silinmiş tarihi geri getiriyor
-*AI-assisted qualitative research restores erased history*
-
-Tricontinental'e göre, yapay zeka destekli nitel araştırma seksen yıllık silinmiş tarihi geri getirdi; bu, bir yapay zeka iş yeri kurma rehberinin parçası.
-
-*Tricontinental reports that AI-assisted qualitative research restored eighty years of erased history, as part of a guide on setting up an AI workplace.*
-
-**Kaynaklar / Sources:**
-- [Tricontinental: Institute for Social Research](https://thetricontinental.org/how-to-set-up-your-ai-workspace/)  *2026-04-10 08:59* — How to Set Up Your AI Workplace
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/29/from-buchenwald-to-gaza-holocaust-survivors-defend-the-legacy-of-anti-fascist-resistance/)  *2026-04-29 14:07* — From Buchenwald to Gaza: Holocaust survivors defend the legacy of anti-fascist resistance
 
 ---

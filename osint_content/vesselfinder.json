@@ -3,7 +3,14 @@
   "platform_name": "VesselFinder",
   "homepage": "https://www.vesselfinder.com",
   "category": "osint_monitor_maritime",
-  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
+  "fetched_at": "2026-04-30T07:09:39.917646+00:00",
   "error": "",
-  "items": []
+  "items": [
+    {
+      "title_en": "FORTUNA Pollution Control Vessel Tracked",
+      "title_tr": "FORTUNA Kirlilik Kontrol Gemisi Takip Ediliyor",
+      "url": "https://www.vesselfinder.com/vessels/details/7349455",
+      "date": "2026-04-30"
+    }
+  ]
 }

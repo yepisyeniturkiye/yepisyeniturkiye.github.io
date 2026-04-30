@@ -3,36 +3,36 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
+  "fetched_at": "2026-04-30T07:09:39.917646+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Tracking Map",
-      "title_tr": "Takip Haritası",
+      "title_en": "Tracking Map - unfiltered global flight data",
+      "title_tr": "İzleme Haritası - filtresiz küresel uçuş verileri",
       "url": "https://globe.adsbexchange.com/",
       "date": ""
     },
     {
-      "title_en": "Feeder Leaderboard",
-      "title_tr": "Besleyici Liderlik Tablosu",
+      "title_en": "Feeder Leaderboard - top contributors",
+      "title_tr": "Besleyici Liderlik Tablosu - en iyi katkıda bulunanlar",
       "url": "https://globe.adsbexchange.com/leaderboard/",
       "date": ""
     },
     {
-      "title_en": "Enterprise API",
-      "title_tr": "Kurumsal API",
+      "title_en": "Enterprise API - commercial-grade unfiltered data",
+      "title_tr": "Kurumsal API - ticari sınıf filtresiz veri",
       "url": "https://www.adsbexchange.com/products/enterprise-api/",
       "date": ""
     },
     {
-      "title_en": "Historical Data",
-      "title_tr": "Geçmiş Veri",
+      "title_en": "Historical Data API - unfiltered archived flight data",
+      "title_tr": "Geçmiş Veri API'si - filtresiz arşivlenmiş uçuş verileri",
       "url": "https://www.adsbexchange.com/products/historical-data/",
       "date": ""
     },
     {
-      "title_en": "API Lite",
-      "title_tr": "API Lite",
+      "title_en": "API Lite - for hobbyists and enthusiasts",
+      "title_tr": "API Lite - hobiciler ve meraklılar için",
       "url": "https://www.adsbexchange.com/api-lite/",
       "date": ""
     }

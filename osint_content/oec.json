@@ -3,7 +3,38 @@
   "platform_name": "Observatory of Economic Complexity",
   "homepage": "https://oec.world",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
-  "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://oec.world/\", waiting until \"domcontentloaded\"\n",
-  "items": []
+  "fetched_at": "2026-04-30T07:09:39.917646+00:00",
+  "error": "",
+  "items": [
+    {
+      "title_en": "BotMarket - Data Marketplace for AI Agents",
+      "title_tr": "BotMarket - Yapay Zeka Ajanları için Veri Pazarı",
+      "url": "https://botmarket.oec.world/",
+      "date": "2026-04-29"
+    },
+    {
+      "title_en": "Tariff Simulator Report",
+      "title_tr": "Tarife Simülatörü Raporu",
+      "url": "https://oec.world/en/tariff-simulator-report",
+      "date": ""
+    },
+    {
+      "title_en": "Country Rankings 2024 Trade",
+      "title_tr": "2024 Ticaret Ülke Sıralamaları",
+      "url": "https://oec.world/en/country-rankings/2024/trade",
+      "date": ""
+    },
+    {
+      "title_en": "Product Rankings 2024 Trade",
+      "title_tr": "2024 Ticaret Ürün Sıralamaları",
+      "url": "https://oec.world/en/product-rankings/2024/trade",
+      "date": ""
+    },
+    {
+      "title_en": "Data Updates: Argentina, Brazil, Chile Feb 2026",
+      "title_tr": "Veri Güncellemeleri: Arjantin, Brezilya, Şubat 2026",
+      "url": "https://oec.world/data-updates",
+      "date": "2026-04-28"
+    }
+  ]
 }

@@ -4,212 +4,188 @@ title: Yepisyeni Türkiye — Ortadoğu ve Kuzey Afrika
 
 # Ortadoğu ve Kuzey Afrika / Middle East & North Africa
 
-**2026-04-29 — 17 küme / cluster**
+**2026-04-30 — 15 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Almanya'da silah şirketine girme eylemiyle ilgili Filistin Eylemi davası başladı
-*Palestine Action trial begins in Germany over break-in at weapons firm*
+### 1. Montreal öğrenci aktivizmi modeli üniversiteleri yatırımlarını açıklamaya zorluyor
+*Montreal student activism model forces university investment disclosure*
 
-'Ulm 5' olarak bilinen beş kişi, bir İsrail silah şirketine girme eyleminden dolayı hapis cezasıyla karşı karşıya. Uzmanlar, davanın doğrudan eylemi suç sayma konusunda emsal teşkil edebileceği uyarısında bulunuyor.
+Montreal'deki öğrenci aktivizmi, üniversitelerin yatırımlarını açıklamaya zorlanmasına yol açtı. Bu model, benzer hareketler için örnek teşkil ediyor.
 
-*The 'Ulm 5' face prison time for a break-in at an Israeli weapons firm. Experts warn the case could set a precedent for criminalizing direct action.*
+*Student activism in Montreal has led to universities being compelled to disclose their investments. The model is seen as an example for similar movements elsewhere.*
 
 **Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/palestine-action-trial-germany-ulm-5-elbit/)  *2026-04-28 21:18* — ‘Extraordinarily far-reaching’ Palestine Action trial gets underway in Germany
+- [Electronic Intifada](https://electronicintifada.net/content/montreal-provides-model-student-activism/51374)  *2026-04-30 06:39* — Montreal provides a model for student activism
 
 ---
 
-### 2. Analist, Trump'ın gösterişine rağmen İran'la anlaşma için çaresiz olduğunu söylüyor
-*Analyst says Trump is desperate for a deal with Iran despite bravado*
+### 2. Gazze silahsızlanma tuzağı: İsrail çekilmeyi Hamas'ın silah bırakmasına bağlıyor
+*Gaza disarmament trap: Israel conditions withdrawal on Hamas giving up weapons*
 
-Mondoweiss, analist Sina Toossi'nin Trump'ın kamuoyundaki iddialarına rağmen ABD'nin savaş sırasında güç kazanan İran'la anlaşma için çaresiz olduğunu söylediğini aktarıyor.
++972 Magazine, İsrail'in devam eden saldırıları ve yardım kısıtlamalarının ateşkesi baltaladığını ve şimdi İsrail'in çekilmeyi Hamas'ın tamamen silahsızlanmasına bağladığını bildiriyor.
 
-*Mondoweiss quotes analyst Sina Toossi saying that despite Trump's public claims, the U.S. is desperate for a deal with Iran, which has gained strength during the war.*
+*+972 Magazine reports that Israel's continued attacks and aid restrictions undermined the ceasefire, and now Israel conditions withdrawal on Hamas disarming completely.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/despite-his-public-bravado-trump-is-desperate-for-a-deal-with-iran/)  *2026-04-28 14:40* — Despite his public bravado, Trump is desperate for a deal with Iran
+- [+972 Magazine](https://www.972mag.com/gaza-disarmament-trap-israel-ceasefire/)  *2026-04-29 14:26* — Gaza’s disarmament trap
 
 ---
 
-### 3. İsrail Dönüş Yürüyüşü'nü engelledi; Filistinliler yine de Nakba'yı andı
-*Israel blocks March of Return; Palestinians mark Nakba anyway*
+### 3. Filistin, Pensilvanya Demokrat ön seçiminde kilit mesele haline geliyor
+*Palestine emerges as key issue in Pennsylvania Democratic primary*
 
-+972 Magazine, İsrail polisinin ana Dönüş Yürüyüşü alayını engellediğini ancak Filistinlilerin ülke genelinde nüfussuz kalmış köylere dönerek Nakba'yı andığını bildiriyor.
+Chris Rabb'ın Filistin konusundaki tutarlı duruşu, Pensilvanya'nın en mavi bölgesindeki seçmenlerde yankı buldu; bu seçmenler Demokrat Parti'nin İsrail ve dış politika yaklaşımı tarafından ihanete uğradıklarını hissediyor. Mondoweiss bildiriyor.
 
-*+972 Magazine reports that Israeli police prevented the main March of Return procession, but Palestinians commemorated the Nakba by returning to depopulated villages across the country.*
+*Chris Rabb's consistent stance on Palestine has resonated with voters in Pennsylvania's bluest district, who feel betrayed by the Democratic Party's approach to Israel and foreign policy. Mondoweiss reports.*
 
 **Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/march-of-return-nakba-2026/)  *2026-04-28 14:30* — Israel blocked the March of Return. Palestinians marked the Nakba anyway
+- [Mondoweiss](https://mondoweiss.net/2026/04/palestine-emerges-as-central-issue-in-a-key-pennsylvania-democratic-primary/)  *2026-04-29 13:32* — Palestine emerges as central issue in a key Pennsylvania Democratic primary
 
 ---
 
-### 4. Peter Mandelson'ın İsrail bağlantıları ortaya çıktı
-*Peter Mandelson's Israel connections revealed*
+### 4. İsrailli yerleşimci şiddeti Batı Şeria'da Filistinli çiftçilerin geçim kaynaklarını yok ediyor
+*Israeli settler violence destroys Palestinian farmers' livelihoods in West Bank*
 
-Electronic Intifada, kendisini Jeffrey Epstein'ın 'en iyi arkadaşı' olarak tanımlayan eski İngiltere büyükelçisi Peter Mandelson'ın İsrail ve destekçileriyle önemli bağları olduğunu bildiriyor.
+Ekim 2023'ten bu yana İsrailli yerleşimci şiddeti, Batı Şeria'da tarım arazilerini sistematik olarak erişilemez hale getirdi. Mondoweiss'e göre devlet destekli bu politika hasatları yok ediyor, ürün fiyatlarını yükseltiyor ve bir yaşam biçimini ortadan kaldırıyor.
 
-*Electronic Intifada reports that former UK ambassador Peter Mandelson, who called himself Jeffrey Epstein's 'best pal', has significant ties with Israel and its supporters.*
+*Since October 2023, Israeli settler violence has systematically rendered farmland inaccessible across the West Bank. The state-backed policy is destroying harvests, driving up produce prices, and dismantling a way of life, according to Mondoweiss.*
 
 **Kaynaklar / Sources:**
-- [Electronic Intifada](https://electronicintifada.net/content/peter-mandelson-untold-israel-connection/51369)  *2026-04-28 13:23* — Peter Mandelson: the untold Israel connection
+- [Mondoweiss](https://mondoweiss.net/2026/04/the-palestinian-farmers-whose-livelihoods-have-been-destroyed-by-israeli-settlers/)  *2026-04-29 12:59* — The Palestinian farmers whose livelihoods have been destroyed by Israeli settlers
 
 ---
 
-### 5. Filistinli gönüllüler Batı Şeria köylerini İsrailli yerleşimci saldırılarına karşı savunuyor
-*Palestinian volunteers defend West Bank villages from Israeli settler attacks*
+### 5. Ana akım medya, İsrail eylemlerine yönelik Amerikan öfkesini yansıtmaya başlıyor
+*Mainstream media begins echoing American outrage at Israeli actions*
 
-Filistinli gönüllülerden oluşan bir taban ağı, gecelerini Batı Şeria köylerini artan İsrailli yerleşimci şiddetine karşı savunarak geçiriyor. 'Gece bekçileri' olarak bilinen grup, toplulukları korumak için faaliyet gösteriyor.
+Mondoweiss, son iki yılda İsrail'in Amerikan kamuoyunun desteğini kaybettiğini ve şimdi de ana akım medyadaki önemli sesleri kaybettiğini bildiriyor. Makale medya kapsamındaki değişime dikkat çekiyor.
 
-*A grassroots network of Palestinian volunteers spends their nights defending their West Bank villages from escalating Israeli settler violence. The group, known as 'the night guards,' operates to protect communities.*
+*Mondoweiss reports that over the past two years, Israel has lost support of the American public and is now losing prominent voices in mainstream media. The article notes a shift in media coverage.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/the-night-guards-inside-the-grassroots-network-fighting-back-against-israeli-settler-attacks/)  *2026-04-27 16:15* — ‘The night guards’: Inside the grassroots network fighting back against Israeli settler attacks
+- [Mondoweiss](https://mondoweiss.net/2026/04/the-mainstream-media-is-finally-beginning-to-echo-americans-outrage-at-israeli-slaughter/)  *2026-04-29 11:00* — The mainstream media is finally beginning to echo Americans’ outrage at Israeli slaughter
 
 ---
 
-### 6. Ana akım medya gazeteci Amal Khalil'in öldürülmesinde İsrail'in rolünü görmezden geliyor
-*Mainstream media ignoring Israel's role in killing journalist Amal Khalil*
+### 6. Filistinliler ve İsrailliler ortak yas töreni düzenledi
+*Palestinians and Israelis hold joint mourning ceremony*
 
-Mondoweiss, İsrail ordusunun Lübnanlı muhabir Amal Khalil'i öldürdüğüne dair güçlü kanıtlar bulunduğunu ve ABD medyasının bu haberi büyük ölçüde görmezden geldiğini bildiriyor.
++972 Magazine'in haberine göre, sağcı saldırılar nedeniyle gizli bir yerde düzenlenen törende, kayıp yakını Filistinli ve İsrailli aileler birbirlerinin acısını tanıdı ve ortak bir gelecek çağrısı yaptı.
 
-*Mondoweiss reports that there is compelling evidence that the Israeli military killed Lebanese reporter Amal Khalil, and that US media is largely ignoring the story.*
+*Bereaved Palestinian and Israeli families held a joint ceremony at a secret location due to right-wing attacks, recognizing each other's grief and calling for a shared future, reported +972 Magazine.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/the-mainstream-media-is-ignoring-israels-role-in-the-killing-of-journalist-amal-khalil/)  *2026-04-27 14:30* — The mainstream media is ignoring Israel’s role in the killing of journalist Amal Khalil
+- [+972 Magazine](https://www.972mag.com/joint-israeli-palestinian-memorial-day-2026/)  *2026-04-21 15:43* — ‘Here is where hope lies’: Palestinians and Israelis mourn losses in joint ceremony
 
 ---
 
-### 7. Analiz: Lübnan ateşkesi İsrail'in genişlemesini durdurmayabilir
-*Lebanon ceasefire unlikely to halt Israeli expansion, analysis says*
+### 7. Electronic Intifada: İngiltere bakanlığı ile silah üreticisi Leonardo arasında döner kapı
+*Revolving door between UK ministry and arms maker Leonardo, Electronic Intifada reports*
 
-+972 Magazine, İsrail'in tampon bölgeler ve 'doğal sınırlar' arayışının, Lübnan'da sağlanan ateşkesin güneydeki etnik temizliği durdurmasının pek mümkün olmadığını gösterdiğini bildiriyor.
+Electronic Intifada, İngiltere Savunma Bakanlığı ile Gazze'de kullanılan silahların üreticisi Leonardo arasındaki döner kapıyı haber yaparak basının neden soruşturmadığını sorguladı.
 
-*+972 Magazine reports that Israel's push for buffer zones and 'natural borders' suggests the emerging ceasefire in Lebanon is unlikely to halt its ongoing ethnic cleansing in southern Lebanon.*
+*Electronic Intifada reported on the revolving door between the UK Ministry of Defence and Leonardo, a manufacturer of weapons used in Gaza, questioning why the press has not investigated.*
 
 **Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/israel-lebanon-ceasefire/)  *2026-04-16 21:10* — Why the ceasefire in Lebanon won’t stop Israel’s expansionist ambitions
+- [Electronic Intifada](https://electronicintifada.net/content/revolving-door-between-uk-ministry-and-maker-genocide-weapons/51363)  *2026-04-21 06:59* — Revolving door between UK ministry and maker of genocide weapons
 
 ---
 
-### 8. Podcast: Gazze'de kaybolanlar
-*Podcast investigates the disappeared of Gaza*
+### 8. Gazze Un Katliamı'ndan tanıklıklar: İsrail güçleri 100'den fazla kişiyi öldürdü
+*Testimonies from Gaza Flour Massacre: Israeli forces killed over 100*
 
-+972 Magazine, Gazeli gazeteci Mahmud Muştaha'nın binlerce kişinin Gazze'de nasıl kaybolduğunu ve bunun aileleri için ne anlama geldiğini araştıran yeni bir soruşturmasını duyuruyor.
+Electronic Intifada, 29 Şubat 2024'te Gazze'de İsrail güçlerinin yardım arayan 100'den fazla Filistinliyi öldürdüğü ve 750'den fazla kişiyi yaraladığı olaydan tanıklıklar yayınladı.
 
-*+972 Magazine reports on a new investigation by Gazan journalist Mahmoud Mushtaha that traces how thousands of people disappeared in Gaza and what that means for their families.*
+*Electronic Intifada published testimonies from the February 29, 2024 incident in Gaza where Israeli forces killed over 100 Palestinians seeking aid and injured more than 750.*
 
 **Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/podcast-disappeared-of-gaza/)  *2026-04-16 13:00* — PODCAST: The disappeared of Gaza
+- [Electronic Intifada](https://electronicintifada.net/content/shooting-was-not-air-testimonies-flour-massacre/51362)  *2026-04-20 19:22* — “The shooting was not in the air”: Testimonies from the Flour Massacre
 
 ---
 
-### 9. İsrail ordusu Batı Şeriatı'ndaki Filistinlileri korkutmak için kısa süreli kaçırmalar kullanıyor
-*Israeli army uses brief abductions to intimidate West Bank Palestinians*
+### 9. İsrail, Açlık Kampanyası Sırasında Gazze'de Bir Yürümeye Başlayan Çocuğu Öldürdü
+*Israel Kills Toddler in Gaza Amid Starvation Campaign*
 
-+972 Magazine, son aylarda İsrail askerlerinin Batı Şeria'daki düzinelerce Filistinliyi tutukladığını, birçoğunun gözleri bağlanıp dövüldükten sonra hiçbir açıklama yapılmadan serbest bırakıldığını ve bunun Masafer Yatta'da yeni bir korkutma yöntemi olduğunu bildiriyor.
+Electronic Intifada, İsrail güçlerinin Gazze'de bir yürümeye başlayan çocuğu, sistematik bir açlık kampanyasının parçası olarak öldürdüğünü bildiriyor. Haber, İsrail'in Gazze'yi planlı bir açlığa maruz bıraktığını iddia ediyor.
 
-*+972 Magazine reports that in recent months, Israeli soldiers have arrested dozens of West Bank Palestinians, many blindfolded, beaten, and then released without explanation, as a new tool of intimidation in Masafer Yatta.*
+*Electronic Intifada reports that Israeli forces killed a toddler in Gaza as part of what it describes as a systematic starvation campaign. The report alleges that Israel is subjecting Gaza to engineered starvation.*
 
 **Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/abductions-in-masafer-yatta/)  *2026-04-15 19:02* — Brief, arbitrary abductions: A new tool of Israeli intimidation in Masafer Yatta
+- [Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/israel-kills-toddler-gaza)  *2026-04-17 14:47* — Israel kills toddler in Gaza
 
 ---
 
-### 10. Iraklı şarkıcı Kadim el-Sahir, Londra'da kapalı gişe konser verdi
-*Iraqi singer Kadim el-Sahir performs to sold-out London crowd*
+### 10. İsrail'in Hamas'ı Yarattığı İddiası Çürütülüyor
+*Debunking the Claim That Israel Created Hamas*
 
-Middle East Eye, Iraklı şarkıcı Kadim el-Sahir'in 18 Ocak 2019'da Londra'da yaklaşık 4.000 hayranına umut, birlik ve neşe mesajı veren bir konser verdiğini bildiriyor.
+Electronic Intifada, İsrail'in Hamas'ı yarattığı efsanesinin İsrail istihbaratı tarafından ima edildiğini ve direniş grubunun rakipleri tarafından pekiştirildiğini savunuyor. Makale bu iddiayı çürütmeyi amaçlıyor.
 
-*Middle East Eye reports that Iraqi singer Kadim el-Sahir performed to nearly 4,000 fans in London on January 18, 2019, delivering a message of hope, unity, and joy.*
+*Electronic Intifada argues that the myth that Israel created Hamas was insinuated by Israeli intelligence and cemented by the resistance faction's rivals. The article aims to debunk this claim.*
 
 **Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/news/kadim-el-sahir-how-caesar-arabic-song-wowed-london)  *2019-01-21 13:46* — Kadim el-Sahir: How the Caesar of Arabic song wowed London
+- [Electronic Intifada](https://electronicintifada.net/content/debunking-lie-israel-created-hamas/51350)  *2026-04-16 19:16* — Debunking the lie that “Israel created Hamas”
 
 ---
 
-### 11. İskenderiye'nin tarihi binalarını kalem ve kağıtla korumak
-*Preserving Alexandria's historic buildings through pencil and paper*
+### 11. İsrail, Nakba'dan Bu Yana En Büyük Batı Şeria Toprak Gasbını Onayladı
+*Israel Approves Largest West Bank Land Grab Since Nakba*
 
-Middle East Eye, İskenderiye'nin tarihi binalarının endişe verici bir hızla yıkıldığını, ancak bazı kişilerin çizimlerle onların anısını korumaya çalıştığını bildiriyor.
+Electronic Intifada, İsrail'in Batı Şeria'da özel mülkiyete ait Filistin topraklarında yeni yerleşimler onayladığını ve bunu Nakba'dan bu yana en büyük toprak gasbı olarak nitelendirdiğini bildiriyor.
 
-*Middle East Eye reports that Alexandria's historic buildings are being demolished at an alarming rate, but some individuals are using drawings to preserve their memory.*
+*Electronic Intifada reports that Israel has approved new settlements on privately owned Palestinian land in the West Bank, calling it the largest land grab since the Nakba.*
 
 **Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/crumbling-bride-med-using-pencil-and-paper-preserve-alexandria)  *2019-01-20 14:46* — The crumbling ‘bride of the Med’: Using pencil and paper to preserve Alexandria
+- [Electronic Intifada](https://electronicintifada.net/blogs/tamara-nassar/israels-largest-land-grab-nakba)  *2026-04-16 07:03* — Israel’s largest land grab since the Nakba
 
 ---
 
-### 12. Film dahileri Jocelyne Saab ve Oussama Fawzi'nin profilleri
-*Profiles of film mavericks Jocelyne Saab and Oussama Fawzi*
+### 12. Elbit Systems, Avrupa Savaş Sanayisi Fonlarından Yararlanıyor
+*Elbit Systems Benefits From European War Industry Funds*
 
-Middle East Eye, Lübnanlı yönetmen Jocelyne Saab ve Mısırlı yönetmen Oussama Fawzi'nin profillerini çiziyor, ilham verici çalışmalarına ve uyarıcı hikayelerine dikkat çekiyor.
+Electronic Intifada, İsrail savunma şirketi Elbit Systems'e ait bir firmanın Avrupa'nın savaş sanayisi için ayrılan fonlardan yararlandığını bildiriyor. Firma aya gitmekle övünüyor.
 
-*Middle East Eye profiles Lebanese director Jocelyne Saab and Egyptian director Oussama Fawzi, noting their inspiring work and cautionary tales.*
+*Electronic Intifada reports that a firm owned by Elbit Systems, an Israeli defense company, benefits from funds earmarked for Europe's war industry. The firm boasts of going to the moon.*
 
 **Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/tale-two-film-mavericks-jocelyne-saab-and-oussama-fawzi)  *2019-01-16 09:55* — A tale of two film mavericks: Jocelyne Saab and Oussama Fawzi
+- [Electronic Intifada](https://electronicintifada.net/blogs/david-cronin/how-israel-benefits-funds-earmarked-europes-war-industry)  *2026-04-16 06:31* — How Israel benefits from funds earmarked for Europe's war industry
 
 ---
 
-### 13. Sanat, Türkiye'nin Suriyeli mültecilere muamelesiyle yüzleşiyor
-*Arts confront Turkey's treatment of Syrian refugees*
+### 13. Canlı Yayında İran, Hizbullah İHA'ları ve İsrail'in Yenilgisi Tartışılıyor
+*Livestream Discusses Iran, Hezbollah Drones, and Israeli Defeat*
 
-Middle East Eye, bir Türk yazar ve bir film yönetmeninin Suriyeli mültecileri anlatılmaya değer hikayeleri olan insanlar olarak betimleyen eserler yarattığını ve Türkiye'deki muameleleriyle yüzleştiğini bildiriyor.
+Electronic Intifada, İran, Hizbullah'ın etkili insansız hava araçları ve İsrail liderlerinin yenilgiyi kabul etmesiyle ilgili haberlerin yer aldığı bir canlı yayın düzenledi. Programda birden fazla yorumcu yer aldı.
 
-*Middle East Eye reports that a Turkish author and a film director have created works depicting Syrian refugees as human beings with stories worth telling, confronting their treatment in Turkey.*
+*Electronic Intifada hosted a livestream featuring reports on Iran, Hezbollah's efficient drones, and Israeli leaders admitting defeat. The program included multiple commentators.*
 
 **Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/unwanted-guests-arts-confront-turkeys-treatment-syrian-refugees)  *2019-01-14 13:09* — Unwanted guests: The arts confront Turkey's treatment of Syrian refugees
+- [Electronic Intifada](https://electronicintifada.net/blogs/eli-gerzon/livestream-iran-calls-shots)  *2026-04-15 15:18* — Livestream: Iran calls the shots
 
 ---
 
-### 14. Antik Arap kufi hattatlığı yeniden canlanıyor
-*Ancient Arabic kufic calligraphy experiences revival*
+### 14. Libyalı sanatçı Hasan Dhaimish hiciv karikatürleri ve caz tutkusuyla tanınıyor
+*Libyan artist Hasan Dhaimish known for satirical cartoons and jazz passion*
 
-Middle East Eye, kufi hattatlığının 21. yüzyılda bir rönesans yaşadığını, meraklılarının Arap Britanya Merkezi gibi kurumlarda antik yazıyı öğrendiğini bildiriyor.
+Hasan Dhaimish, 'The Cleaver' olarak bilinen, Muammer Kaddafi'yi hicveden karikatürleriyle ünlü Libyalı bir sanatçıydı ve caz müziğine tutkusu vardı.
 
-*Middle East Eye reports that kufic calligraphy is undergoing a 21st-century renaissance, with devotees learning the ancient script at institutions like the Arab British Centre.*
+*Hasan Dhaimish, known as 'The Cleaver', was a Libyan artist famous for satirical cartoons of Muammar Gaddafi and had a passion for jazz music.*
 
 **Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/write-stuff-how-ancient-arabic-scripts-are-coming-back-life)  *2018-12-30 20:00* — The write stuff: How ancient Arabic scripts are coming back to life
+- [Middle East Eye](https://www.middleeasteye.net/features/breezin-through-burnley-libyan-artists-love-blues)  *2018-04-04 16:38* — Breezin’ through Burnley: A Libyan artist’s love for the blues
 
 ---
 
-### 15. 2018, Orta Doğu sineması için dönüm noktası yılı
-*2018 a milestone year for Middle Eastern film*
+### 15. Yemenli yerinden edilmiş kadınlar köylüleri cinsel tacizle suçluyor
+*Displaced Yemeni women accuse villagers of sexual harassment*
 
-Middle East Eye, 2018'in Orta Doğu sineması için bir dönüm noktası olduğunu, Lübnan'ın ilk Oscar yabancı dil adaylığını ve Venedik'te ilk büyük ödülünü aldığını bildiriyor.
+Yemen'in Taiz kentinden yerinden edilmiş kadınlar, muhafazakar kırsal bölgelerde cinsel tacize maruz kaldıklarını bildiriyor. Kadınlar, kırsalda yaşamı taciz nedeniyle hapishane gibi hissettiklerini ifade ediyor.
 
-*Middle East Eye reports that 2018 was a milestone year for Middle Eastern cinema, with Lebanon scoring its first Oscar foreign-language nomination and first major award at Venice.*
-
-**Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/middle-eastern-film-2018-why-it-was-milestone-year)  *2018-12-25 13:32* — Middle Eastern film in 2018: Why it was a milestone year
-
----
-
-### 16. Doktor Nagham Nawzat, Ezidi kadınlara hayat kurtaran bakım sağlıyor
-*Doctor Nagham Nawzat provides life-saving care to Yazidi women*
-
-Middle East Eye, kadın doğum uzmanı Dr. Nagham Nawzat'ın, kendi hayatına yönelik tehditlere rağmen, IŞİD esaretinden kurtulan 1.000'den fazla Ezidi kadına temel destek sağladığını bildiriyor.
-
-*Middle East Eye reports that gynecologist Dr. Nagham Nawzat has provided essential support to over 1,000 Yazidi women who survived Islamic State captivity, despite threats to her own life.*
+*Displaced women from Taiz City in Yemen report experiencing sexual harassment in conservative rural areas. They describe life in the countryside as feeling like a prison due to the abuse.*
 
 **Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/doctor-giving-life-back-female-yazidi-victims-islamic-state)  *2018-10-18 10:00* — This doctor is giving life back to female Yazidi victims of Islamic State
-
----
-
-### 17. Lübnan'da yasadışı kürtaj: kadınlar acı verici prosedürlerle karşı karşıya
-*Illegal abortion in Lebanon: women face painful procedures*
-
-Middle East Eye, yasağa rağmen Lübnan'da her yıl binlerce kadının yasadışı kürtaj yaptırdığını, genellikle acı verici ve riskli prosedürlerle karşı karşıya kaldığını bildiriyor.
-
-*Middle East Eye reports that despite the ban, thousands of women in Lebanon undergo illegal abortions every year, often with painful and risky procedures.*
-
-**Kaynaklar / Sources:**
-- [Middle East Eye](https://www.middleeasteye.net/features/illegal-abortion-lebanon-i-couldnt-comprehend-how-painful-it-was)  *2018-09-20 16:45* — Illegal abortion in Lebanon: 'I couldn't comprehend how painful it was'
+- [Middle East Eye](https://www.middleeasteye.net/features/sexual-harassment-displaced-yemeni-women-accuse-villagers-abuse)  *2016-08-18 18:16* — Sexual harassment: Displaced Yemeni women accuse villagers of abuse
 
 ---

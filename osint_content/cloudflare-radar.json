@@ -3,7 +3,7 @@
   "platform_name": "Cloudflare Radar",
   "homepage": "https://radar.cloudflare.com",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-29T07:10:18.538580+00:00",
+  "fetched_at": "2026-04-30T07:09:39.917646+00:00",
   "error": "",
   "items": [
     {
@@ -13,26 +13,26 @@
       "date": ""
     },
     {
-      "title_en": "Q1 2026 Internet disruptions review",
-      "title_tr": "2026 Q1 İnternet kesintileri incelemesi",
-      "url": "https://radar.cloudflare.com/outage-center",
+      "title_en": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+      "title_tr": "Kapatmalar, elektrik kesintileri ve çatışma: 2026 Q1 İnternet kesintileri incelemesi",
+      "url": "https://radar.cloudflare.com/reports",
       "date": "2026-04"
     },
     {
-      "title_en": "Sudan nationwide internet outage",
-      "title_tr": "Sudan genelinde internet kesintisi",
-      "url": "https://radar.cloudflare.com/sd",
+      "title_en": "Sudan nationwide internet outage on April 23, 2026",
+      "title_tr": "23 Nisan 2026'da Sudan genelinde internet kesintisi",
+      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
       "date": "2026-04-23"
     },
     {
-      "title_en": "Network Quality Test (new)",
-      "title_tr": "Ağ Kalite Testi (yeni)",
+      "title_en": "Network Quality Test new feature",
+      "title_tr": "Ağ Kalite Testi yeni özellik",
       "url": "https://radar.cloudflare.com/speedtest",
       "date": ""
     },
     {
-      "title_en": "URL Scanner (updated)",
-      "title_tr": "URL Tarayıcı (güncellendi)",
+      "title_en": "URL Scanner updated tool",
+      "title_tr": "URL Tarayıcı güncellenmiş araç",
       "url": "https://radar.cloudflare.com/scan",
       "date": ""
     }
