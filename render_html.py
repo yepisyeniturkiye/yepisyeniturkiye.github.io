@@ -113,40 +113,68 @@ REGION_LABELS_FULL: dict[str, tuple[str, str]] = {
 }
 
 
+THIN_REGION_THRESHOLD = 4
+
+
 def carry_over_for_empty_regions(by_region: dict[str, list[dict]],
                                  today_date: str,
                                  src_region: dict[str, str]) -> dict[str, str]:
-    """For each region in REGION_ORDER with no clusters today, find the freshest
-    prior enriched/<date>.json that has clusters for that region and merge them
-    into by_region. Returns {region: source_date} for whichever regions were
-    filled by carry-over (caller can use this to render a freshness banner).
-    Empty regions with no prior content anywhere are left empty."""
+    """For each region in REGION_ORDER with no or too few clusters today, walk
+    back through prior enriched/<date>.json files and pull additional clusters
+    until the region either reaches THIN_REGION_THRESHOLD or runs out of prior
+    content. Returns {region: source_date} for regions that were FULLY empty
+    today (banner rendered), and the value is the freshest prior date that
+    contributed. Regions that just topped up are filled silently."""
     carry_dates: dict[str, str] = {}
-    empty = [r for r in REGION_ORDER if not by_region.get(r)]
-    if not empty or not ENRICHED_ROOT.exists():
+    thin = [r for r in REGION_ORDER
+            if len(by_region.get(r, [])) < THIN_REGION_THRESHOLD]
+    if not thin or not ENRICHED_ROOT.exists():
         return carry_dates
     files = sorted(ENRICHED_ROOT.glob("*.json"), reverse=True)
-    for region in empty:
+    for region in thin:
+        existing = list(by_region.get(region, []))
+        was_empty = not existing
+        seen_urls: set[str] = set()
+        for c in existing:
+            for m in c.get("members", []):
+                u = m.get("url", "")
+                if u:
+                    seen_urls.add(u)
+        accumulated = list(existing)
+        first_carry_date: str | None = None
         for fp in files:
             if fp.stem == today_date:
                 continue
+            if len(accumulated) >= THIN_REGION_THRESHOLD:
+                break
             try:
                 data = json.loads(fp.read_text())
             except Exception:
                 continue
-            regional: list[dict] = []
+            added_from_this_file = False
             for c in data.get("clusters", []):
                 regions_seen: set[str] = set()
                 for m in c.get("members", []):
                     r = m.get("region") or src_region.get(m.get("source_id", ""), "")
                     if r:
                         regions_seen.add(r)
-                if region in regions_seen:
-                    regional.append(c)
-            if regional:
-                by_region[region] = regional
-                carry_dates[region] = fp.stem
-                break
+                if region not in regions_seen:
+                    continue
+                cluster_urls = {m.get("url", "") for m in c.get("members", [])}
+                cluster_urls.discard("")
+                if cluster_urls & seen_urls:
+                    continue
+                accumulated.append(c)
+                seen_urls |= cluster_urls
+                added_from_this_file = True
+                if len(accumulated) >= THIN_REGION_THRESHOLD:
+                    break
+            if added_from_this_file and first_carry_date is None:
+                first_carry_date = fp.stem
+        if len(accumulated) > len(existing):
+            by_region[region] = accumulated
+            if was_empty and first_carry_date is not None:
+                carry_dates[region] = first_carry_date
     return carry_dates
 
 
