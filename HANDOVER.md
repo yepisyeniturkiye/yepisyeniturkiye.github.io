@@ -70,24 +70,29 @@ gh auth switch --user <your-default>
 
 ### Problem 1: GitHub scheduled cron fires unreliably
 
-**Symptom:** `cron: "0 6 * * *"` in `.github/workflows/ingest.yml`
+**Symptom:** A single `cron:` slot in `.github/workflows/ingest.yml`
 either runs 4+ hours late, or doesn't run at all some days. Workflow
 shows `state=active` in `gh workflow list` — GitHub just doesn't
-dispatch it.
+dispatch it. 2026-04-29 had no scheduled run at all; 2026-04-30 also
+skipped its 04:17 UTC slot, requiring manual local publish.
 
 **Cause:** documented limitation of GitHub's scheduled event system.
 Under platform load, crons get delayed or dropped. Not our code.
 
-**Current mitigation:** none. Run locally when CI skips.
+**Current mitigation (applied 2026-04-30):** three cron expressions in
+`ingest.yml` — `17 4`, `17 7`, `17 10` UTC — give us multiple firing
+chances per day. The `concurrency: ingest` group with
+`cancel-in-progress: false` ensures only one runs at a time; later
+firings queue or get auto-dropped while an earlier run is active.
+Idempotent: re-runs produce a few extra commits per day but never
+break the site, and they align with the project's stated trihourly
+aggregation intent.
 
-**Untried fixes, in order of effort:**
-1. Add multiple cron expressions (`"0 6 * * *"`, `"0 7 * * *"`,
-   `"0 8 * * *"`). Concurrency group dedupes so only the first that
-   fires actually runs. Cheap hack.
-2. External cron service (cron-job.org, easycron.com, Cloudflare Cron
+**Untried fallback fixes if multi-cron still proves insufficient:**
+1. External cron service (cron-job.org, easycron.com, Cloudflare Cron
    Triggers) pings `POST /repos/:owner/:repo/actions/workflows/ingest.yml/dispatches`
-   at 06:00 UTC. Needs a fine-grained PAT stored in the external service.
-3. Self-hosted runner with its own `launchd`/systemd schedule.
+   at the desired time. Needs a fine-grained PAT stored in the external service.
+2. Self-hosted runner with its own `launchd`/systemd schedule.
 
 ### Problem 2: infer.py step consistently times out in CI
 

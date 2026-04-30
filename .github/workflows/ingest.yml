@@ -2,12 +2,19 @@ name: Ingest
 
 on:
   schedule:
-    # Off-peak minute, earlier base time. Top-of-hour slots (especially 0 6)
-    # routinely run 2-6h late on free-tier scheduling, which has been pushing
-    # the daily publish past 12:00 UTC. Moving to :17 past an earlier hour
-    # gets the run into the queue ahead of the busy slot and leaves enough
-    # lag headroom that publish lands before 09:00 UTC most days.
+    # Three off-peak slots, 3h apart. Two reasons to fire multiple times a day:
+    # (1) Free-tier GH scheduled cron is unreliable — single slots run 4-6h
+    #     late or skip entirely (2026-04-29 had no scheduled run at all). Three
+    #     attempts give us multiple firing chances per day.
+    # (2) The project intent is trihourly aggregation (per README), not daily.
+    #     Successive runs pick up news that broke since the prior cycle.
+    # The `concurrency: ingest` group with `cancel-in-progress: false` ensures
+    # only one workflow runs at a time; later firings either queue or get
+    # auto-dropped when an earlier run is still active. Idempotent re-runs
+    # produce a few extra commits per day but never break the site.
     - cron: "17 4 * * *"
+    - cron: "17 7 * * *"
+    - cron: "17 10 * * *"
   workflow_dispatch:
 
 permissions:
