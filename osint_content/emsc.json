@@ -3,38 +3,38 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-30T07:09:39.917646+00:00",
+  "fetched_at": "2026-04-30T08:32:43.749232+00:00",
   "error": "",
   "items": [
     {
       "title_en": "EMSC 2025 Activity Report",
       "title_tr": "EMSC 2025 Faaliyet Raporu",
       "url": "https://www.emsc-csem.org/Doc/EMSC_DOCS/EMSC_RT_activities_2025.pdf",
-      "date": "2025"
+      "date": "2026-04-30"
     },
     {
-      "title_en": "Mw 6.0 Afghanistan Earthquake on August 31st 2025",
-      "title_tr": "31 Ağustos 2025'te Afganistan'da Mw 6.0 Depremi",
-      "url": "https://www.emsc-csem.org/Special_reports/?id=387",
-      "date": "2025-08-31"
-    },
-    {
-      "title_en": "Magnitude 4.8 Earthquake in Skiáthos, Greece",
-      "title_tr": "Skiáthos, Yunanistan'da 4.8 Büyüklüğünde Deprem",
+      "title_en": "Magnitude 4.8 earthquake in Skiáthos, Greece",
+      "title_tr": "Skiáthos, Yunanistan'da 4.8 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1986160",
       "date": "2026-04-28"
     },
     {
-      "title_en": "Magnitude 4.7 Earthquake in Skiáthos, Greece",
-      "title_tr": "Skiáthos, Yunanistan'da 4.7 Büyüklüğünde Deprem",
+      "title_en": "Magnitude 4.7 earthquake in Skiáthos, Greece",
+      "title_tr": "Skiáthos, Yunanistan'da 4.7 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1986124",
       "date": "2026-04-28"
     },
     {
-      "title_en": "Magnitude 4.8 Earthquake in San José, Costa Rica",
-      "title_tr": "San José, Kosta Rika'da 4.8 Büyüklüğünde Deprem",
+      "title_en": "Magnitude 4.8 earthquake in San José, Costa Rica",
+      "title_tr": "San José, Kosta Rika'da 4.8 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1985956",
       "date": "2026-04-28"
+    },
+    {
+      "title_en": "LastQuake Messenger Bot",
+      "title_tr": "LastQuake Messenger Bot",
+      "url": "https://m.me/LastQuakeBot",
+      "date": ""
     }
   ]
 }
