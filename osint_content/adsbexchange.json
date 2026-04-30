@@ -3,7 +3,7 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-04-30T10:32:16.914302+00:00",
+  "fetched_at": "2026-04-30T16:04:05.531869+00:00",
   "error": "",
   "items": [
     {
@@ -19,20 +19,20 @@
       "date": ""
     },
     {
-      "title_en": "Enterprise API: commercial-grade flight data",
-      "title_tr": "Kurumsal API: ticari sınıf uçuş verileri",
+      "title_en": "Enterprise API: commercial-grade flight data API",
+      "title_tr": "Kurumsal API: ticari sınıf uçuş verisi API'si",
       "url": "https://www.adsbexchange.com/products/enterprise-api/",
       "date": ""
     },
     {
-      "title_en": "Historical Data: unfiltered, unblocked archives",
-      "title_tr": "Geçmiş Veriler: filtresiz, engelsiz arşivler",
+      "title_en": "Historical Data: unfiltered, unblocked archive",
+      "title_tr": "Geçmiş Veri: filtresiz, engelsiz arşiv",
       "url": "https://www.adsbexchange.com/products/historical-data/",
       "date": ""
     },
     {
       "title_en": "API Lite: for hobbyists and enthusiasts",
-      "title_tr": "API Lite: hobiciler ve meraklılar için",
+      "title_tr": "API Lite: hobi ve meraklılar için",
       "url": "https://www.adsbexchange.com/api-lite/",
       "date": ""
     }
