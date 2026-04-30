@@ -4,32 +4,31 @@ title: Yepisyeni Türkiye — Latin Amerika
 
 # Latin Amerika / Latin America
 
-**2026-04-30 — 155 küme / cluster**
+**2026-04-30 — 163 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Middle East & North Africa](../regions/mena.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Beyaz Saray Muhabirleri Yemeği yakınında ateş açıldı, Trump tahliye edildi
-*Shots fired near White House Correspondents' Dinner, Trump evacuated*
+### 1. MST, Lula ve Alckmin'in katılımıyla süt tozu fabrikası inşaatını başlatıyor
+*MST launches powdered milk factory construction with Lula and Alckmin*
 
-Cumartesi gecesi Beyaz Saray Muhabirleri Yemeği yakınında ateş açılması üzerine Başkan Donald Trump ve diğer yetkililer tahliye edildi. Şüpheli, Gizli Servis tarafından tutuklandı. Trump daha sonra olayı yönetiminin Venezuela ve İran'a yönelik eylemlerine bağladı.
+Topraksız Köylü Hareketi (MST), 27 Nisan Pazartesi günü São Paulo eyaletinin Andradina kentinde bir süt tozu fabrikasının inşaatını başlatacak. Açılışa Başkan Yardımcısı Geraldo Alckmin ve Tarım Bakanı katılacak. Etkinlik COAPAR kooperatifinde gerçekleşecek.
 
-*Shots were fired near the White House Correspondents' Dinner on Saturday night, prompting the evacuation of President Donald Trump and other officials. A suspect was arrested by the Secret Service. Trump later linked the incident to his administration's actions against Venezuela and Iran.*
+*The Landless Workers' Movement (MST) will launch the construction of a powdered milk factory in Andradina, São Paulo state, on Monday, April 27, with Vice President Geraldo Alckmin and Agriculture Minister attending. The event will take place at the COAPAR cooperative.*
 
 **Kaynaklar / Sources:**
-- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/suspeito-de-ataque-a-tiros-em-evento-com-trump-e-preso-pelo-servico-secreto-dos-eua/)  *2026-04-26 13:25* — Suspeito de ataque a tiros em evento com Donald Trump é preso pelo Serviço Secreto dos EUA
-- [AlterNet](https://www.alternet.org/trump-ballroom-shooting/)  *2026-04-26 13:09* — Trump uses shooting to boost corrupt project
-- [Rappler](https://www.rappler.com/world/us-canada/donald-trump-portrays-shooting-proof-presidency-power/)  *2026-04-26 23:50* — Trump portrays shooting as proof of his presidency’s power
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/mst-lanca-construcao-de-fabrica-de-leite-em-po-no-interior-de-sp-com-participacao-de-lula-e-alckmin-nesta-segunda-27/)  *2026-04-25 20:38* — MST lança construção de fábrica de leite em pó no interior de SP com participação de Lula e Alckmin nesta segunda (27)
+- [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/25/ato-com-o-presidente-lula-no-interior-de-sp-em-andradina-sera-em-cooperativa-do-mst-nessa-segunda-feira-27-04/)  *2026-04-25 17:28* — Ato com o presidente Lula no interior de SP, em Andradina, será em Cooperativa do MST nessa segunda-feira 27/04.
 
 ---
 
-### 2. İranlı diplomat Pakistan'dan ayrıldı; Trump ABD heyeti gezisini iptal etti
-*Iran diplomat leaves Pakistan; Trump cancels US delegation trip*
+### 2. Trump, İranlı diplomat İslamabad'dan ayrılınca müzakerecilerin Pakistan ziyaretini iptal etti
+*Trump cancels negotiators' trip to Pakistan after Iranian diplomat leaves Islamabad*
 
-Asia Times ve Brasil de Fato, ABD Başkanı Donald Trump'ın, İran Dışişleri Bakanı Abbas Araghchi'nin İslamabad'dan ayrılmasının ardından Pakistan'a gidecek ABD müzakerecilerinin planlanan ziyaretini iptal ettiğini bildiriyor. Trump, gezinin 'çok fazla iş' olacağından şikayet etti.
+ABD Başkanı Donald Trump, İran Dışişleri Bakanı Abbas Araghçi'nin İslamabad'dan ayrılmasının ardından, İran'la savaşı sona erdirme görüşmeleri için müzakerecilerinin Pakistan'a planladığı ziyareti iptal etti. Trump, seyahatin 'çok fazla iş' olacağını söyledi.
 
-*Asia Times and Brasil de Fato report that US President Donald Trump canceled a planned visit of US negotiators to Pakistan for talks with Iran after Iranian Foreign Minister Abbas Araghchi left Islamabad. Trump complained the trip would be 'too much work.'*
+*US President Donald Trump canceled a planned visit by his negotiators to Pakistan for talks on ending the war with Iran, after Iranian Foreign Minister Abbas Araghchi left Islamabad. Trump complained the trip would be 'too much work.'*
 
 **Kaynaklar / Sources:**
 - [Asia Times](https://asiatimes.com/2026/04/iran-diplomat-leaves-islamabad-trump-cancels-us-delegation-trip/)  *2026-04-25 20:28* — Iran diplomat leaves Islamabad, Trump cancels US delegation trip
@@ -37,25 +36,36 @@ Asia Times ve Brasil de Fato, ABD Başkanı Donald Trump'ın, İran Dışişleri
 
 ---
 
-### 3. Küba'nın Domuzlar Körfezi zaferi ve Castro mirası dayanışma çağrılarını canlandırdı
-*Cuba's Bay of Pigs victory and Castro legacy inspire solidarity calls*
+### 3. Mayıs Meydanı Anneleri, hafıza ve adalet mücadelesinin 49. yılını kutluyor
+*Mothers of Plaza de Mayo mark 49 years of struggle for memory and justice*
 
-Güney Afrika ve Brezilya'da düzenlenen etkinliklerde Küba'nın Playa Girón (Domuzlar Körfezi) zaferi ve Fidel Castro'nun yüzüncü yılı anıldı, anti-emperyalist dayanışma ve Küba'ya maddi yardım çağrıları yapıldı. Analistler, Küba'nın sadece deklarasyonlara değil, müttefik ülkelerden sübvansiyonlara ihtiyacı olduğunu vurguladı.
+Mayıs Meydanı Anneleri, küresel bir direniş sembolü olarak, 30 Nisan 2026'da hafıza, hakikat ve adalet için süregelen mücadelelerinin 49. yılını andı.
 
-*Events in South Africa and Brazil commemorated Cuba's victory at Playa Girón (Bay of Pigs) and Fidel Castro's centenary, with calls for anti-imperialist solidarity and material aid to Cuba. Analysts emphasized that Cuba needs subsidies from allied countries, not just declarations.*
+*The Mothers of Plaza de Mayo, a global symbol of resistance, commemorated 49 years of persistent struggle for memory, truth and justice on April 30, 2026.*
 
 **Kaynaklar / Sources:**
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/22/cubas-victory-at-playa-giron-and-castros-legacy-inspire-renewed-calls-for-global-anti-imperialist-solidarity/)  *2026-04-23 00:46* — Cuba’s victory at Playa Girón and Castro’s legacy inspire renewed calls for global anti-imperialist solidarity
-- [Brasil de Fato](https://www.brasildefato.com.br/podcast/o-estrangeiro/2026/04/22/cuba-precisa-de-subsidios-de-paises-aliados-nao-so-de-declaracoes-de-solidariedade-diz-analista/)  *2026-04-22 23:10* — Cuba precisa de subsídios de países aliados, não só de declarações de solidariedade, diz analista
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/30/maes-da-praca-de-maio-completam-49-anos-de-luta-persistente-por-memoria-verdade-e-justica/)  *2026-04-30 09:00* — Mães da Praça de Maio completam 49 anos de luta persistente por memória, verdade e justiça
 
 ---
 
-### 4. Brezilya Senatosu, Jorge Messias'ın Yüksek Mahkeme adaylığını reddetti
+### 4. Brezilya Kongresi, Lula'nın ceza yasasına ilişkin vetosunu analiz edecek
+*Brazilian Congress to analyze Lula's veto on sentencing bill*
+
+Brezilya Ulusal Kongresi, Başkan Lula'nın ceza sisteminde cezaların belirlenmesine ilişkin kriterleri değiştiren dosimetri yasa tasarısına (PL 2.162/2023) koyduğu vetoyu analiz etmeye hazırlanıyor. Tasarı daha önce Yüksek Mahkeme tarafından reddedilmişti.
+
+*The Brazilian National Congress is set to analyze President Lula's veto of the sentencing bill (PL 2.162/2023), which alters criteria for defining penalties in the criminal system. The bill had been rejected by the Supreme Court.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/30/apos-rejeitar-messias-no-stf-congresso-analisa-veto-de-lula-ao-pl-da-dosimetria/)  *2026-04-30 09:00* — Após rejeitar Messias no STF, Congresso analisa veto de Lula ao PL da dosimetria
+
+---
+
+### 5. Brezilya Senatosu, Jorge Messias'ın Yüksek Mahkeme adaylığını reddetti
 *Brazil Senate rejects Jorge Messias nomination to Supreme Court*
 
-Brezilya Senatosu, Başkan Lula'nın Başsavcı Jorge Messias'ı Yüksek Federal Mahkeme'ye aday göstermesini reddetti; bu, 1894'ten bu yana ilk kez gerçekleşti. Eleştirmenler, bu hamlenin hükümet dalları arasındaki çatışmayı genişlettiğini ve STF'yi zayıflattığını söyledi. Messias, kendisine oy veren senatörlere teşekkür ederek sonucu kabul etti.
+Brezilya Senatosu, Devlet Başkanı Lula'nın Yüksek Mahkeme adayı Jorge Messias'ı reddetti; bu, 1894'ten beri ilk kez gerçekleşti. Eleştirmenler, kararın Kongre ile Mahkeme arasındaki çatışmayı derinleştirdiğini söylüyor. Messias sonucu kabul ederek kendisine oy veren senatörlere teşekkür etti.
 
-*The Brazilian Senate rejected President Lula's nomination of Attorney General Jorge Messias to the Supreme Federal Court, the first such rejection since 1894. Critics said the move widens the conflict between branches of government and weakens the STF. Messias accepted the result, thanking senators who voted for him.*
+*The Brazilian Senate rejected President Lula's nominee Jorge Messias for a Supreme Court vacancy, the first such rejection since 1894. Critics say the move deepens conflict between Congress and the Court. Messias accepted the result, thanking senators who voted for him.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/derrota-da-democracia-e-aposta-no-caos-e-confronto-deputados-criticam-rejeicao-do-senado-a-messias-no-stf/)  *2026-04-30 01:00* — ‘Derrota da democracia’ e ‘aposta no caos e confronto’: deputados criticam rejeição do Senado a Messias no STF
@@ -64,291 +74,385 @@ Brezilya Senatosu, Başkan Lula'nın Başsavcı Jorge Messias'ı Yüksek Federal
 
 ---
 
-### 5. Sosyolog, Brezilya'da sağlık ve eğitimde özelleştirme risklerine dikkat çekiyor
+### 6. Sosyolog, Brezilya'da sağlık ve eğitimde özelleştirme risklerine dikkat çekiyor
 *Sociologist warns of privatization risks in Brazil's health and education*
 
-Dieese'den sosyolog Rodrigo Linhares, grevlerin fazla yer bulamasa da net bir mesaj taşıdığına dikkat çekti. Sağlık ve eğitim hizmetlerinde taşeronlaşmayı en endişe verici konular olarak belirledi.
+Dieese'den sosyolog Rodrigo Linhares, grevlerin daha az sıklıkta olmasına rağmen net bir mesaj verdiğini söyledi. Sağlık ve eğitim hizmetlerinde taşeronlaşmayı en endişe verici eğilim olarak tanımladı.
 
-*Sociologist Rodrigo Linhares from Dieese pointed out that strikes, though not gaining much space, carry a clear message. He identified outsourcing of health and education services as the most concerning issues.*
+*Sociologist Rodrigo Linhares from Dieese said strikes, though less frequent, send a clear message. He identified outsourcing of health and education services as the most concerning trend.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/greves-nao-tem-ganhado-tanto-espaco-mas-trazem-mensagem-clara-diz-sociologo-do-dieese/)  *2026-04-30 00:18* — Greves não têm ganhado tanto espaço, mas trazem mensagem clara, diz sociólogo do Dieese
 
 ---
 
-### 6. Brezilya Gerçeği: Kolombiya seçimleri ABD müdahalesinin gölgesinde
-*Colombia elections face shadow of US interference, says Brasil de Fato*
+### 7. Kolombiya seçimleri ABD müdahalesinin gölgesinde
+*Colombia elections face shadow of US interference*
 
-Brasil de Fato, Gustavo Petro'nun halefini seçmek için yapılacak Kolombiya cumhurbaşkanlığı seçimlerinin Donald Trump hükümeti altındaki ABD müdahalesinden etkileneceğini bildiriyor. Sol görüşlü aday Iván Cepeda seçilen halef.
+Kolombiyalılar bir ay içinde Gustavo Petro'nun halefini seçmek için oy kullanacak. Sol aday Iván Cepeda, Donald Trump yönetiminin müdahalesiyle zorluklarla karşı karşıya.
 
-*Brasil de Fato reports that Colombia's upcoming presidential election to choose Gustavo Petro's successor will be impacted by US interference under Donald Trump's government. Left-wing candidate Iván Cepeda is the chosen successor.*
+*Colombians will vote in a month to elect Gustavo Petro's successor. Left-wing candidate Iván Cepeda faces challenges amid US interference under Donald Trump's administration.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/o-estrangeiro/2026/04/29/eleicoes-na-colombia-enfrentam-sombra-de-interferencia-dos-eua/)  *2026-04-29 23:31* — Eleições na Colômbia enfrentam sombra de interferência dos EUA
 
 ---
 
-### 7. Ukrayna'nın Rus petrol limanlarına düzenlediği insansız hava aracı saldırıları küresel arzı tehdit ediyor
-*Ukrainian drone attacks on Russian oil ports threaten global supply*
+### 8. Ukrayna'nın Rus limanlarına düzenlediği insansız hava aracı saldırıları petrol arzını tehdit ediyor
+*Ukrainian drone attacks on Russian ports threaten oil supply*
 
-Analist Igor Ushkov, Ukrayna'nın Rus petrol ihracat terminallerine düzenlediği insansız hava aracı saldırılarının üretimi azaltabileceği ve küresel fiyatları baskılayabileceği uyarısında bulundu. Rusya tam olarak ihracat yapamazsa, üretimi azaltmak zorunda kalabilir ve bu da küresel arzı etkileyebilir.
+Analist Igor Ushkov, Ukrayna'nın Rus petrol ihracat terminallerine düzenlediği insansız hava aracı saldırılarının üretimi azaltabileceğini ve küresel fiyatları baskılayabileceğini söyledi. Rusya tam olarak ihracat yapamazsa üretimi kesmek zorunda kalabilir.
 
-*Analyst Igor Ushkov warns that Ukrainian drone attacks on Russian oil export terminals could reduce production and pressure global prices. If Russia cannot export fully, it may have to reduce production, affecting global supply.*
+*Analyst Igor Ushkov said Ukrainian drone attacks on Russian oil export terminals could reduce production and pressure global prices. If Russia cannot export fully, it may have to cut output.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/ofensiva-contra-portos-russos-ameaca-abastecimento-global-de-petroleo-diz-analista/)  *2026-04-29 23:18* — Ofensiva contra portos russos ameaça abastecimento global de petróleo, diz analista
 
 ---
 
-### 8. Brezilya çizgi romanı anayasayı ırkçılık karşıtı feminist bakışla anlatıyor
-*Brazilian comic book explains constitution from anti-racist feminist view*
+### 9. Brezilya çizgi romanı anayasayı ırkçılık karşıtı feminist perspektiften anlatıyor
+*Brazilian comic book explains constitution from anti-racist feminist perspective*
 
-'Gira Jurídica' adlı çizgi roman, Brezilya anayasasını feminist ve ırkçılık karşıtı bir perspektiften anlamayı demokratikleştirmeyi amaçlıyor. Yedi anayasal belgenin tarihini 1988 versiyonuna kadar ele alıyor.
+'Gira Jurídica: mulheres refletem sobre a Constituição' adlı çizgi roman, Brezilya anayasasına feminist ve ırkçılık karşıtı bir perspektiften erişimi demokratikleştirmeyi amaçlıyor. 1988 anayasasına giden yedi belgenin tarihini kapsıyor.
 
-*A comic book titled 'Gira Jurídica' aims to democratize understanding of Brazil's constitution from a feminist and anti-racist perspective. It covers the history of seven constitutional documents up to the 1988 version.*
+*A comic book titled 'Gira Jurídica: mulheres refletem sobre a Constituição' aims to democratize access to the Brazilian constitution from a feminist and anti-racist perspective. It covers the history of seven documents leading to the 1988 constitution.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/cartilha-usa-quadrinhos-para-falar-da-constituicao-sob-uma-perspectiva-antirracista-e-feminista/)  *2026-04-29 22:51* — Cartilha usa quadrinhos para falar da Constituição sob uma perspectiva antirracista e feminista
 
 ---
 
-### 9. Brezilya Senatosu, 1894'ten beri ilk kez cumhurbaşkanlığı adayını Yüksek Mahkeme'ye reddetti
-*Brazil Senate rejects presidential nominee to Supreme Court for first time since 1894*
+### 10. Brezilya Senatosu, Jorge Messias'ın Yüksek Mahkeme adaylığını 1894'ten bu yana ilk kez reddetti
+*Brazilian Senate rejects Jorge Messias nomination to Supreme Court for first time since 1894*
 
-Brezilya Senatosu, Başkan Lula'nın Yüksek Mahkeme adayı Jorge Messias'ı 42'ye 34 oyla reddetti; bu, 1894'ten beri ilk kez gerçekleşti. Messias, Başsavcı idi.
+Brezilya Senatosu, Başsavcı Jorge Messias'ın Yüksek Federal Mahkeme adaylığını 42'ye 34 oyla reddetti. Bu, 1894'ten bu yana Senato'nun mahkemeye bir cumhurbaşkanlığı adaylığını ilk kez geri çevirmesi oldu.
 
-*The Brazilian Senate rejected President Lula's nominee Jorge Messias for the Supreme Court by 42-34 vote, the first such rejection since 1894. Messias was the Attorney General.*
+*The Brazilian Senate voted 42-34 to reject President's nomination of Jorge Messias, the Attorney General, to the Supreme Federal Court. This marks the first time since 1894 that the Senate has overturned a presidential nomination to the court.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/ccj-aprova-nome-de-jorge-messias-para-o-stf-decisao-final-sera-votada-no-plenario-do-senado/)  *2026-04-29 21:54* — Senado rejeita Messias e derruba indicação ao STF pela 1ª vez desde 1894
 
 ---
 
-### 10. Rio Grande do Sul'da sel felaketinin iki yıl ardından mağdurlar konut ve hak talep ediyor
-*Two years after floods, victims demand housing and rights in Rio Grande do Sul*
+### 11. Rio Grande do Sul'da sel mağdurları felaketten iki yıl sonra yanıt bekliyor
+*Flood victims in Rio Grande do Sul demand answers two years after disaster*
 
-Rio Grande do Sul'daki hareketler, yıkıcı sellerin iki yıl ardından konut eksikliği, kayıt hataları ve yeniden yapılanmaya katılım talebinde bulunuyor. Brasil de Fato kaynağı, aktivistlerin hâlâ evsiz ve haklarından yoksun olduklarını aktarıyor.
+Brasil de Fato, Rio Grande do Sul'daki hareketlerin iki yıl önceki sellerin ardından yanıt beklediğini, konut eksikliği, kayıt hataları ve yeniden yapılanmaya katılım talebinde bulunduğunu bildiriyor.
 
-*Movements in Rio Grande do Sul report lack of housing, failures in registration, and demand participation in reconstruction two years after devastating floods. The Brasil de Fato source quotes activists saying they remain without homes and rights.*
+*Brasil de Fato reports that movements in Rio Grande do Sul are demanding answers two years after floods, citing lack of housing, registration failures, and demanding participation in reconstruction.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/seguimos-sem-casa-e-sem-direitos-atingidos-cobram-respostas-dois-anos-apos-enchentes-no-rs/)  *2026-04-29 21:23* — ‘Seguimos sem casa e sem direitos’: atingidos cobram respostas dois anos após enchentes no RS
 
 ---
 
-### 11. Putin, Trump'a Zafer Günü'nde ateşkes ilan etme niyetini bildirdi
-*Putin tells Trump he intends to declare ceasefire on Victory Day*
+### 12. Putin, Trump'a Zafer Günü'nde ateşkes ilan etmeyi planladığını söyledi
+*Putin tells Trump he plans ceasefire on Victory Day*
 
-Rusya Devlet Başkanı Vladimir Putin, 29 Nisan'da ABD Başkanı Donald Trump'a, Ukrayna ile çatışmada 9 Mayıs Zafer Günü'nde ateşkes ilan etme niyetini bildirdi. Bilgi, Putin'in danışmanı tarafından açıklandı.
+Brasil de Fato, Rusya Devlet Başkanı Vladimir Putin'in ABD Başkanı Donald Trump'a, 9 Mayıs Zafer Günü'nde Ukrayna ile çatışmada ateşkes ilan etme niyetini bildirdiğini aktarıyor.
 
-*Russian President Vladimir Putin informed US President Donald Trump on April 29 of his willingness to adopt a ceasefire in the conflict with Ukraine on Victory Day, May 9, which marks the Soviet triumph in World War II. The information was released by Putin's adviser.*
+*Brasil de Fato reports that Russian President Vladimir Putin informed US President Donald Trump of his intention to declare a ceasefire in the conflict with Ukraine on Victory Day, May 9.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/putin-diz-a-trump-que-pretende-declarar-um-cessar-fogo-no-dia-da-vitoria/)  *2026-04-29 20:59* — Putin diz a Trump que pretende declarar um cessar-fogo no Dia da Vitória
 
 ---
 
-### 12. Kadın kolektifi koordinatörü: İlerlemeye rağmen şiddet sürüyor
-*Women's collective coordinator says violence persists despite progress*
+### 13. Brezilyalı kadın kolektifi kadın cinayetleri üzerine ulusal seminer düzenliyor
+*Brazilian women's collective holds national seminar on feminicide*
 
-Halk Hareketleri Merkezi (CMP) Kadın Kolektifi, 1-3 Mayıs tarihlerinde Brasília'da kadın cinayetleri ve kadın ruh sağlığı üzerine ulusal bir seminer düzenliyor. Koordinatör, kadınların korunmasında önemli ilerlemeler kaydedildiğini ancak şiddetin devam ettiğini belirtti.
+Halk Hareketleri Merkezi (CMP) Kadın Kolektifi, 1-3 Mayıs tarihleri arasında Brasília'da Kadın Cinayetleriyle Mücadele ve Periferilerde Kadın Ruh Sağlığı Ulusal Semineri düzenleyecek; bu, yaklaşık otuz yıl sonra ulusal koordinasyonun yeniden başlamasını simgeliyor.
 
-*The Women's Collective of the Central of Popular Movements (CMP) is holding a national seminar on feminicide and women's mental health in Brasília from May 1-3. The coordinator noted important advances in protecting women but said violence remains present.*
+*The Women's Collective of the Central of Popular Movements (CMP) will hold a National Seminar on Confronting Feminicide and Women's Mental Health in the Peripheries from May 1-3 in Brasília, marking the resumption of national articulation after nearly three decades.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/houve-avancos-importantes-na-protecao-as-mulheres-mas-a-violencia-segue-presente-diz-coordenadora-do-coletivo-de-mulheres-da-central-de-movimentos-populares/)  *2026-04-29 20:33* — Houve avanços importantes na proteção às mulheres, mas a violência segue presente, diz coordenadora do Coletivo de Mulheres da Central de Movimentos Populares
 
 ---
 
-### 13. Brezilya Umut Federasyonu, DF'de Leandro Grass ve Erika Kokay'ın ön adaylıklarını açıkladı
-*Brazil Hope Federation launches pre-candidacies of Leandro Grass and Erika Kokay in DF*
+### 14. Brezilya koalisyonu DF valiliği ve Senato için aday adaylarını tanıttı
+*Brazilian coalition launches pre-candidacies for DF governor and Senate*
 
-İşçi Partisi (PT-DF), Yeşil Parti (PV-DF) ve Brezilya Komünist Partisi (PCdoB-DF) Federasyonu, 19 Mayıs'ta Leandro Grass'ın Federal Bölge valiliği ve Erika Kokay'ın Senato için ön adaylıklarını resmen açıklayacak.
+İşçi Partisi, Yeşil Parti ve Brezilya Komünist Partisi Federasyonu, 19 Mayıs'ta Brasília Kongre Merkezi'nde Leandro Grass'ın valilik ve Erika Kokay'ın Senato aday adaylıklarını resmen başlatacak.
 
-*The Federation of the Workers' Party (PT-DF), Green Party (PV-DF) and Communist Party of Brazil (PCdoB-DF) will officially launch the pre-candidacy of Leandro Grass for governor of the Federal District and Erika Kokay for the Senate on May 19.*
+*The Federation of the Workers' Party, Green Party, and Communist Party of Brazil in the Federal District will officially launch the pre-candidacy of Leandro Grass for governor and Erika Kokay for the Senate on May 19 at the Convention Center in Brasília.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/federacao-brasil-da-esperanca-lanca-pre-candidaturas-de-leandro-grass-e-erika-kokay-no-df/)  *2026-04-29 20:17* — Federação Brasil da Esperança lança pré-candidaturas de Leandro Grass e Erika Kokay no DF
 
 ---
 
-### 14. Tesbih Rotası: Devletin tanıması gereken inanç yolu
-*Rosary Route: faith path that state should recognize, says article*
+### 15. Brezilya eyaleti Tespih Rotası'nı miras olarak tanımayı değerlendiriyor
+*Brazilian state considers recognizing Rosary Route as heritage*
 
-Minas Gerais, siyah halkın inanç, direniş ve kolektif örgütlenmesiyle inşa edilen Tesbih Rotası'nı tanıyan bir yasa tasarısını (PL 2991/24) değerlendiriyor. Tasarı, eyalet yasama meclisinde ilk oylamayı geçti.
+Minas Gerais, siyah topluluk tarafından inanç ve direnişle inşa edilen Tespih Rotası'nı eyalet mirası olarak tanımayı öngören bir yasa tasarısını (PL 2991/24) değerlendiriyor.
 
-*Minas Gerais is considering a bill (PL 2991/24) to recognize the Rosary Route, a path built with faith, resistance and collective organization of the black people of Minas Gerais. The bill passed its first vote in the state legislative assembly.*
+*Minas Gerais is considering a bill (PL 2991/24) to recognize the Rosary Route, a path built by the Black community through faith and resistance, as a state heritage site.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/colunista/andreia-de-jesus/2026/04/29/rota-do-rosario-o-caminho-da-fe-que-o-estado-precisa-reconhecer/)  *2026-04-29 20:00* — Rota do Rosário: o caminho da fé que o Estado precisa reconhecer
 
 ---
 
-### 15. Eski siyasi tutuklu, Cyro Etchegoyen tarafından gizlenen diktatörlük suçlarını ifşa etti
-*Crimes of dictatorship hidden by Cyro Etchegoyen revealed by former political prisoner*
+### 16. Cyro Etchegoyen tarafından gizlenen Brezilya diktatörlüğü suçları ortaya çıktı
+*Brazilian dictatorship crimes hidden by Cyro Etchegoyen revealed*
 
-Eski siyasi tutuklu Inês Etienne Romeu, Petrópolis'teki 'Ölüm Evi'nde 91 gün boyunca kendisine tecavüz eden adamlardan birini tanımladı. Onu 'Dr. Bruno' olarak tanımladı, daha sonra bunun Albay Cyro Etchegoyen olduğu ortaya çıktı.
+Brasil de Fato, eski siyasi tutuklu Inês Etienne Romeu'nun, kendisine 'Ölüm Evi'nde 91 gün boyunca tecavüz eden gruptaki işkencecilerinden birini, Albay Cyro Etchegoyen olarak tanımladığını bildiriyor.
 
-*Former political prisoner Inês Etienne Romeu described one of the men who raped her for 91 days at the 'House of Death' in Petrópolis. She identified him as 'Dr. Bruno', later revealed to be Colonel Cyro Etchegoyen, who hid crimes of the dictatorship.*
+*Brasil de Fato reports that former political prisoner Inês Etienne Romeu described one of her torturers, identified as a colonel named Cyro Etchegoyen, who was part of the group that raped her for 91 days at the 'House of Death'.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/estupro-roubos-assassinatos-os-crimes-da-ditadura-escondidos-por-cyro-etchegoyen/)  *2026-04-29 19:50* — Estupro, roubos, assassinatos: Os crimes da ditadura escondidos por Cyro Etchegoyen
 
 ---
 
-### 16. Siyaset bilimci: STF siyasi değerlendirme nesnesi haline geldi
-*Political scientist says STF has become object of political evaluation*
+### 17. Siyaset bilimci: STF siyasi değerlendirme nesnesi haline geldi
+*Political scientist says STF becomes political evaluation object*
 
-Siyaset bilimci Rafael Cortez, onaylanan atamaya rağmen Jorge Messias'ın aşırı sağdan sürekli eleştiri alacağını öngörüyor. Yüksek Federal Mahkeme'nin (STF) siyasi değerlendirme nesnesi haline geldiğini söyledi.
+Siyaset bilimci Rafael Cortez, Jorge Messias'ın Yüksek Federal Mahkeme'ye (STF) atanması onaylansa bile aşırı sağdan sürekli eleştiri alacağını öngörüyor.
 
-*Political scientist Rafael Cortez predicts that even with approved nomination, Jorge Messias will face constant criticism from the far right. He said the Supreme Federal Court (STF) has become an object of political evaluation.*
+*Political scientist Rafael Cortez predicts that even if Jorge Messias's nomination to the Supreme Federal Court (STF) is approved, he will face constant criticism from the far right.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/stf-virou-objeto-de-avaliacao-politica-e-com-messias-nao-sera-diferente-diz-cientista-politico/)  *2026-04-29 19:40* — ‘STF virou objeto de avaliação política’ e com Messias não será diferente, diz cientista político
 
 ---
 
-### 17. Siyaset bilimci Juarez Guimarães neoliberalizmi ve onunla nasıl mücadele edileceğini anlatıyor
-*Political scientist Juarez Guimarães explains neoliberalism and how to fight it*
+### 18. Siyaset bilimci neoliberalizmi ve onunla nasıl mücadele edileceğini açıklıyor
+*Political scientist explains neoliberalism and how to fight it*
 
-Juarez Guimarães, neoliberalizmin bir egemenlik krizi yaşadığını çünkü ABD devletinin dünya üzerindeki kontrolünü etkileyen bir iç krizle karşı karşıya olduğunu söyledi. Çin'in yükselişi ve direniş mücadeleleriyle alternatifler için olanaklar ortaya çıkıyor.
+Siyaset bilimci Juarez Guimarães, ABD devletinin iç krizi ve Çin'in yükselişi nedeniyle neoliberalizmin bir egemenlik krizi yaşadığını ve alternatif inşalar için olanaklar yarattığını açıklıyor.
 
-*Juarez Guimarães said neoliberalism is experiencing a crisis of domination because the US state is facing an internal crisis impacting its control of the world. With the rise of China and resistance struggles, possibilities for alternatives are emerging.*
+*Political scientist Juarez Guimarães explains that neoliberalism is in a crisis of domination due to the internal crisis of the US state and the rise of China, creating possibilities for alternative constructions.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/visoespopulares/2026/04/29/cientista-politico-juarez-guimaraes-explica-o-que-e-o-neoliberalismo-e-como-combate-lo/)  *2026-04-29 19:21* — Cientista político Juarez Guimarães explica o que é o neoliberalismo e como combatê-lo
 
 ---
 
-### 18. MST, bütünleştirici uygulamalar kitapçığı yayımladı ve peynir ödül aldı
-*MST launches booklet on integrative practices and cheese wins award*
+### 19. Uzman, Zema'nın Petrobras ve Banco do Brasil'i özelleştirme önerisini eleştirdi
+*Expert criticizes Zema's proposal to privatize Petrobras and Banco do Brasil*
 
-Topraksız Köylü Hareketi (MST), tarım reformu yerleşimlerinde bütünleştirici sağlık uygulamaları üzerine bir kitapçık yayımladı. Ayrıca, Rio Grande do Sul'daki bir MST yerleşiminde üretilen bir peynir dünyanın en iyileri arasında gösterildi. Plaza de Mayo Anneleri, kayıplar için adalet talebini sürdürüyor.
+Cumhurbaşkanı adayı Romeu Zema, 'acımasız bir plan' kapsamında Petrobras ve Banco do Brasil'in özelleştirilmesini önerdi. Bir uzman, teklifin sorunlarına dikkat çekerek tartışma başlattı.
 
-*The Landless Workers' Movement (MST) released a booklet on integrative health practices in agrarian reform settlements. Additionally, a cheese produced in an MST settlement in Rio Grande do Sul was ranked among the best in the world. The Mothers of Plaza de Mayo continue to demand justice for the disappeared.*
+*Presidential candidate Romeu Zema proposed privatizing Petrobras and Banco do Brasil as part of a 'relentless plan'. An expert highlighted problems with the proposal, sparking debate.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/privatizar-petrobras-e-banco-do-brasil-especialista-explica-problemas-da-proposta-de-zema/)  *2026-04-29 19:16* — Privatizar Petrobras e Banco do Brasil? Especialista explica problemas da proposta de Zema
+
+---
+
+### 20. Master davası: Bankacı Vorcaro'nun dolandırıcılığı sürdürmek için elitleri ve politikacıları baştan çıkardığı iddiası
+*Master case: Banker Vorcaro allegedly seduced elite and politicians to perpetuate fraud*
+
+Master skandalıyla ilgili bir belgeselin senaristi ekonomist Débora Magagna, bankacı Vorcaro'nun dolandırıcılığı sürdürmek için ekonomik elitleri ve politikacıları baştan çıkardığını belirtti.
+
+*Economist Débora Magagna, scriptwriter of a documentary on the Master scandal, stated that banker Vorcaro seduced the economic elite and politicians to perpetuate the fraud.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/29/caso-master-vorcaro-seduziu-elite-economica-e-politicos-para-perpetuar-fraude/)  *2026-04-29 19:10* — Caso Master: Vorcaro ‘seduziu elite econômica e políticos’ para perpetuar fraude
+
+---
+
+### 21. Brezilya'da program, ücretsiz elektrik ve indirimlerle tarife adaletini teşvik ediyor
+*Brazil program promotes tariff justice with free electricity and discounts*
+
+Brasil de Fato, Luz do Povo adlı programın ücretsiz elektrik ve indirimler sunarak tarife adaleti ve sosyal içermeyi teşvik ettiğini bildiriyor. Makale, Brezilya'da büyük tüketicilerin serbest piyasaya erişerek daha ucuz enerji alabildiğini, sıradan vatandaşların ise daha fazla ödediğini vurguluyor.
+
+*Brasil de Fato reports on a program called Luz do Povo that aims to promote tariff justice and social inclusion by offering free electricity and discounts. The article highlights that large consumers in Brazil can access the free market and buy cheaper energy, while ordinary citizens pay more.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/luz-do-povo-promove-justica-tarifaria-e-inclusao-social-com-gratuidade-e-desconto-na-luz/)  *2026-04-29 19:02* — Luz do Povo promove justiça tarifária e inclusão social com gratuidade e desconto na luz
+
+---
+
+### 22. Deneme, hayatla zaman kaybetme hakkını savunuyor
+*Essay argues for the right to waste time with life*
+
+Brasil de Fato, Marcelo Gomes da Silva'nın hayatla 'zaman kaybetme' hakkını savunan bir denemesini yayımladı. Yazı, çalışma dünyasındaki tarihsel dönüşümleri ve üretken görevlere harcanan zaman üzerindeki anlaşmazlıkları ele alıyor.
+
+*Brasil de Fato published an essay by Marcelo Gomes da Silva arguing for the right to 'waste time' with life. The piece discusses historical transformations in the world of work and disputes over time spent on productive tasks.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/colunista/cidade-das-letras-literatura-e-educacao/2026/04/29/pelo-direito-a-perder-tempo-com-a-vida/)  *2026-04-29 18:58* — Pelo direito a ‘perder tempo’ com a vida
+
+---
+
+### 23. Minas Gerais'teki seminerler nadir toprak madenciliği yarışının risklerini ortaya koyuyor
+*Seminars in Minas Gerais expose risks of rare earth mining rush*
+
+Brasil de Fato, Madencilikte Halk Egemenliği Hareketi (MAM) ve diğerleri tarafından düzenlenen Poços de Caldas ve Belo Horizonte'deki seminerlerin, Minas Gerais'teki nadir toprak minerali arayışıyla ilgili riskleri ortaya çıkardığını bildiriyor. Bu mineraller küresel enerji ve teknoloji dönüşümü için hayati kabul ediliyor.
+
+*Brasil de Fato reports that seminars in Poços de Caldas and Belo Horizonte, organized by the Movement for Popular Sovereignty in Mining (MAM) and others, have exposed risks associated with the rush for rare earth minerals in Minas Gerais. The minerals are considered crucial for global energy and technological transition.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/29/seminarios-em-mg-expoem-riscos-da-corrida-por-terras-raras-no-estado/)  *2026-04-29 18:51* — Seminários em MG expõem riscos da corrida por terras raras no estado
+
+---
+
+### 24. Minas Gerais'te 2025'te yaklaşık 50 bin kadın saldırıya uğradı, rekor kriz
+*Nearly 50,000 women assaulted in 2025 in Minas Gerais, record crisis*
+
+Brasil de Fato, Minas Gerais'te 2025'te 48.846 toplumsal cinsiyet temelli şiddet vakası kaydedildiğini, bunun günde 133 kadına saldırı anlamına geldiğini bildiriyor. Makale, rakamları yıkıcı olarak nitelendiriyor ve eyaletteki krizi vurguluyor.
+
+*Brasil de Fato reports that Minas Gerais recorded 48,846 cases of gender-based violence in 2025, translating to 133 women assaulted per day. The article describes the numbers as devastating and highlights a crisis in the state.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/colunista/gleide-andrade/2026/04/29/quase-50-mil-mulheres-violentadas-em-2025-mg-bate-recorde-e-expoe-crise-no-estado/)  *2026-04-29 18:47* — Quase 50 mil mulheres violentadas em 2025: MG bate recorde e expõe crise no estado
+
+---
+
+### 25. Topraksız Köylü Hareketi, tarım reformunda bütünleştirici uygulamalar üzerine kitapçık yayımladı
+*Landless Workers Movement launches booklet on integrative practices in agrarian reform*
+
+Topraksız Köylü Hareketi (MST), 'Bem Viver' projesinin tarım reformunda bütünleştirici sağlık uygulamaları üzerine bir kitapçık yayımladığını bildirdi. Kitapçık, Paraná'daki yerleşim ve kamplarda 50 çarpanı fitoterapi ve geleneksel bakım konusunda eğiten bir kursa dayanıyor.
+
+*The Landless Workers Movement (MST) reports that the 'Bem Viver' project launched a booklet on integrative health practices in agrarian reform, based on a course that trained 50 multipliers in phytotherapy and traditional care in settlements and camps in Paraná.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/29/projeto-bem-viver-lanca-cartilha-sobre-praticas-integrativas-na-reforma-agraria/)  *2026-04-29 18:46* — Projeto Bem Viver lança cartilha sobre práticas integrativas na Reforma Agrária
+
+---
+
+### 26. Brezilya'da MST yerleşiminde üretilen peynir dünyanın en iyileri arasında
+*MST settlement cheese in Brazil ranked among world's best*
+
+Brezilya'nın Rio Grande do Sul eyaletindeki Jóia'da Topraksız İşçi Hareketi (MST) yerleşiminde üretilen 'Sete Povos' peyniri, dünyanın en iyi peynirleri arasında gösterildi. Peynir, hafıza, kimlik ve bölgeyi somutlaştırıyor.
+
+*The cheese 'Sete Povos', produced in a Landless Workers' Movement (MST) settlement in Jóia, Rio Grande do Sul, Brazil, has been recognized as one of the best cheeses in the world. The cheese embodies memory, identity, and territory.*
+
+**Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/29/queijo-produzido-em-assentamento-gaucho-do-mst-esta-entre-os-melhores-do-mundo/)  *2026-04-29 17:22* — Queijo produzido em assentamento gaúcho do MST está entre os melhores do mundo
+
+---
+
+### 27. Plaza de Mayo Anneleri kayıplar için adalet talep etmeye devam ediyor
+*Mothers of Plaza de Mayo continue demanding justice for disappeared*
+
+Arjantin askeri diktatörlüğünün acısından doğan Plaza de Mayo Anneleri, 30 bin kayıp için adalet talep etmeye devam ediyor. Grup, mücadelelerinde tüm halkları kucakladı.
+
+*The Mothers of Plaza de Mayo, born from the pain of Argentina's military dictatorship, continue to demand justice for the 30,000 disappeared. The group has embraced all peoples in their struggle.*
+
+**Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/29/las-madres-que-abrazaron-a-todos-los-pueblos/)  *2026-04-29 14:30* — Las Madres que abrazaron a todos los pueblos
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/29/as-maes-que-abracaram-todos-os-povos/)  *2026-04-29 14:25* — As Mães que abraçaram todos os povos
 
 ---
 
-### 19. Brezilya polisi, siyasetçilerin bulunduğu uçuşta kaçakçılık soruşturması başlattı
-*Brazilian police investigate smuggling on flight with politicians*
+### 28. Federal polis, Brezilyalı siyasetçilerin bulunduğu uçuşta kaçakçılık soruşturması başlattı
+*Federal police investigate smuggling on flight with Brazilian politicians*
 
-Brezilya Federal Polisi, Nisan 2025'te Meclis Başkanı Hugo Motta ve Senatör Ciro Nogueira'yı taşıyan özel bir uçuşta kaçakçılık iddialarını soruşturuyor. Varışta beş bavul röntgen çekilmedi.
+Brezilya Federal Polisi, Nisan 2025'te Meclis Başkanı Hugo Motta ve Senatör Ciro Nogueira'yı taşıyan özel bir uçuşta iddia edilen kaçakçılığı soruşturuyor. São Roque havalimanına varışta beş bavul röntgenden geçirilmedi.
 
-*Brazil's Federal Police are investigating alleged smuggling on a private flight carrying Chamber President Hugo Motta and Senator Ciro Nogueira in April 2025. Five suitcases were not X-rayed upon arrival.*
+*Brazil's Federal Police are investigating alleged smuggling on a private flight carrying Chamber President Hugo Motta and Senator Ciro Nogueira in April 2025. Five suitcases were not X-rayed upon arrival at São Roque airport.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/pf-investiga-contrabando-em-aviao-de-empresario-que-transportava-hugo-motta-e-ciro-nogueira/)  *2026-04-29 00:47* — PF investiga contrabando em avião de empresário que transportava Hugo Motta e Ciro Nogueira
 
 ---
 
-### 20. Brezilya, mutfak tüpü ithalatını sübvanse etmek için 330 milyon dolar ayırdı
-*Brazil releases $330 million to subsidize cooking gas imports*
+### 29. Brezilya hükümeti mutfak tüpü ithalatını sübvanse etmek için 330 milyon dolar ayırdı
+*Brazil government releases $330 million to subsidize cooking gas imports*
 
-Salı günü yayımlanan bir geçici önlem, uluslararası durumun tetiklediği fiyat artışları ortasında mutfak tüpü ithalatını sübvanse etmek için 330 milyon real ayırdı.
+Salı günü yayımlanan bir geçici tedbir, uluslararası gelişmelerin tetiklediği fiyat artışları ortamında mutfak tüpü ithalatını sübvanse etmek için 330 milyon reallik olağanüstü kredi tahsis ediyor. Fonlar, ithal LPG'nin Brezilya'da kontrollü fiyatlarla satılmasını sağlamayı hedefliyor.
 
-*A provisional measure published on Tuesday allocates 330 million reais to subsidize cooking gas imports, amid price increases driven by the international situation.*
+*A provisional measure published on Tuesday allocates 330 million reais in extraordinary credit to subsidize cooking gas imports, amid price increases driven by the international scenario. The funds aim to ensure imported LPG is sold in Brazil at controlled prices.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/governo-libera-r-330-milhoes-para-segurar-preco-do-gas-de-cozinha/)  *2026-04-29 00:46* — Governo libera R$ 330 milhões para segurar preço do gás de cozinha
 
 ---
 
-### 21. Brezilya 2026 seçimleri: taşıyıcı işçiler ve işçi oyu tartışılıyor
-*Brazil's 2026 elections: gig workers and labor vote debated*
+### 30. 2026 seçimleri: kuryeler, 6x1 çalışma düzeni ve işçi oyu mücadelesi
+*2026 elections: delivery workers, six-by-one scale, and fight for worker vote*
 
-Analistler, 2026 seçimleri yaklaşırken ilerici kampın iş dünyasının yeni dinamiklerine siyasi olarak uyum sağlayamadığını söylüyor.
+Brasil de Fato'ya göre analistler, ilerici kesimin iş dünyasının yeni dinamiklerine siyasi olarak uyum sağlayamadığını belirtiyor. Makale, kuryeler ve 6x1 çalışma düzeni gibi konuların 2026 seçimleri üzerindeki etkisini tartışıyor.
 
-*Analysts say the progressive camp has failed to politically update itself to the new dynamics of the labor world, as the 2026 elections approach.*
+*Analysts say the progressive camp has failed to politically update itself to the new dynamics of the world of work, according to Brasil de Fato. The article discusses the impact of issues like delivery workers and the six-by-one work schedule on the 2026 elections.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/tres-por-quatro/2026/04/28/eleicoes-2026-entregadores-escala-6x1-e-a-disputa-pelo-voto-do-trabalhador/)  *2026-04-29 00:40* — Eleições 2026: entregadores, escala 6×1 e a disputa pelo voto do trabalhador
 
 ---
 
-### 22. Siyaset bilimci Brezilya Yüksek Mahkemesi boşluğu hakkında yorum yaptı
-*Political scientist comments on Brazil's Supreme Court vacancy*
+### 31. Siyaset bilimci Brezilya'nın Yüksek Mahkeme koltuğu için nitelikli hukukçu kazanacağını söylüyor
+*Political scientist says Brazil will gain qualified jurist for Supreme Court seat*
 
-Siyaset bilimci Jorge Folena, yaklaşan boşlukla ilgili olarak, cumhurbaşkanının Yüksek Mahkeme yargıçlarını seçtiğini ve Senato'nun yalnızca adaylığı onayladığını belirtti.
+Siyaset bilimci Jorge Folena, Brasil de Fato'ya göre 'Yüksek Mahkeme üyesini seçen cumhurbaşkanıdır, Senato sadece ismi onaylar' dedi. Yorum, STF'deki bir boşlukla ilgili tartışmalar sırasında geldi.
 
-*Political scientist Jorge Folena stated that the president chooses Supreme Court justices, and the Senate only ratifies the nomination, regarding the upcoming vacancy.*
+*Political scientist Jorge Folena stated that 'who chooses a Supreme Court minister is the president, the Senate only ratifies the name,' according to Brasil de Fato. The comment comes amid discussions about a vacancy on the STF.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/brasil-vai-ganhar-um-jurista-capacitado-e-qualificado-para-ocupar-vaga-no-stf-diz-cientista-politico/)  *2026-04-29 00:21* — ‘Brasil vai ganhar um jurista capacitado e qualificado para ocupar vaga no STF’, diz cientista político
 
 ---
 
-### 23. Muhalefet, skandallar ortasında DF yasama oturumundaki boş koltukları eleştirdi
-*Opposition criticizes empty seats at DF legislative session amid scandals*
+### 32. Muhalefet, skandallar ortamında DF yasama meclisindeki boş koltukları eleştiriyor
+*Opposition criticizes empty seats in DF legislative chamber amid scandals*
 
-Muhalefet, DF hükümetindeki skandallar ve DF Üniversitesi'ndeki grev nedeniyle kriz sırasında hükümet tabanının genel kurulu boşaltmasını eleştirdi.
+Federal Bölge Yasama Meclisi'ndeki muhalefet, Celina Leão ve Ibaneis Rocha hükümetini, skandallar ve UnDF'deki grev nedeniyle kriz ortamında hükümet tabanının genel kurulu boşaltması nedeniyle eleştirdi.
 
-*The opposition criticized the emptying of the plenary by the government base during a crisis involving scandals in the DF government and a strike at the University of DF.*
+*The opposition in the Federal District Legislative Chamber criticized the government of Celina Leão and Ibaneis Rocha for the emptying of the plenary by the government base during a crisis involving scandals and a strike at UnDF.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/oposicao-critica-esvaziamento-da-cldf-em-meio-a-escandalos-no-governo-e-greve-na-undf/)  *2026-04-29 00:20* — Oposição critica esvaziamento da CLDF em meio a escândalos no governo e greve na UnDF
 
 ---
 
-### 24. 'Entre Muros' sergisi UFPR galerisinde sokak sanatıyla açılıyor
-*Exhibition 'Entre Muros' opens at UFPR gallery featuring street art*
+### 33. Grafiti ve pixo sergisi 'Entre Muros' UFPR galerisinde açılıyor
+*Graffiti and pixo exhibition 'Entre Muros' opens at UFPR gallery*
 
-Parana Federal Üniversitesi'ndeki DeArtes Galerisi, grafiti, pixo, muralizm ve diğer kentsel sanat formlarını içeren 'Entre Muros' sergisine ev sahipliği yapıyor.
+Parana Federal Üniversitesi'ndeki DeArtes Galerisi, grafiti, pixo, muralizm ve diğer kentsel sanat formlarını içeren 'Entre Muros' adlı bir sergiye ev sahipliği yapacak. Sergi 29 Nisan Çarşamba günü açılıyor.
 
-*The DeArtes Gallery at the Federal University of Paraná hosts 'Entre Muros', an exhibition featuring graffiti, pixo, muralism, and other urban art forms.*
+*The DeArtes Gallery at the Federal University of Paraná will host an exhibition called 'Entre Muros' featuring graffiti, pixo, muralism and other urban art forms. The show opens on Wednesday, April 29.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/grafite-e-pixo-exposicao-entre-muros-ocupa-galeria-da-ufpr-com-arte-das-ruas/)  *2026-04-28 23:23* — Grafite e pixo, exposição Entre Muros ocupa galeria da UFPR com arte das ruas
 
 ---
 
-### 25. Venezuelalı yetkili, Maduro'nun hukuki savaşa maruz kaldığını söyledi
-*Venezuelan official says Maduro subjected to lawfare*
+### 34. Venezuelalı yetkili Maduro'nun kaçırıldığını ve hukuki savaşa maruz kaldığını söylüyor
+*Venezuelan official says Maduro is kidnapped and subjected to lawfare*
 
-Venezuelalı yetkili William Castillo, askeri saldırı sonrası devrim stratejisi üzerine bir seminerde, Başkan Maduro'nun kaçırıldığını ve hukuki savaşa maruz kaldığını belirtti.
+Brasil de Fato'ya göre William Castillo, askeri saldırganlık sonrası devrim stratejisinin kilit noktalarını tartışan bir seminere katıldı. Maduro'nun kaçırıldığını ve adli hukuk savaşına maruz kaldığını belirtti.
 
-*William Castillo, a Venezuelan official, stated that President Maduro is kidnapped and subjected to lawfare, during a seminar on revolutionary strategy after military aggression.*
+*William Castillo participated in a seminar discussing key points of revolutionary strategy after military aggression, according to Brasil de Fato. He stated that Maduro is kidnapped and subjected to judicial lawfare.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/maduro-esta-sequestrado-e-submetido-a-um-lawfare-juridico-diz-funcionario-venezuelano/)  *2026-04-28 23:09* — ‘Maduro está sequestrado e submetido a um lawfare jurídico’, diz funcionário venezuelano
 
 ---
 
-### 26. USP profesörü eğitimin 'ruhun gıdası' ve bir hak olduğunu söyledi
-*USP professor says education is 'food for the soul' and a right*
+### 35. USP profesörü eğitimin ruhun gıdası olduğunu ve bir hak olarak görülmesi gerektiğini söylüyor
+*USP professor says education is food for the soul, must be a right*
 
-Dünya Eğitim Günü'nde, São Paulo Üniversitesi'nden bir profesör eğitimin temel bir hak ve bilgi ve özgürlük için bir araç olduğunu vurgulayarak Paulo Freire'ye atıfta bulundu.
+Dünya Eğitim Günü'nde bir USP profesörü, Paulo Freire'ye atıfta bulunarak eğitimin temel bir hak ve bilgi, özgürlük ve referans için bir araç olduğunu vurguladı. Gün, alandaki zorluklar üzerinde düşünmek için bir an.
 
-*On World Education Day, a University of São Paulo professor emphasized education as a fundamental right and a tool for knowledge and freedom, citing Paulo Freire.*
+*On World Education Day, a USP professor emphasized education as a fundamental right and a tool for knowledge, freedom and reference, citing Paulo Freire. The day is a moment to reflect on challenges in the field.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/educacao-e-alimento-para-a-alma-e-deve-ser-encarada-como-direito-diz-professor-da-usp/)  *2026-04-28 23:04* — Educação é ‘alimento para a alma’ e deve ser encarada como direito, diz professor da USP
 
 ---
 
-### 27. MST ve Inimigos do Batente, Moacyr Luz ile İşçi Bayramı'nı kutluyor
+### 36. MST ve Inimigos do Batente, Moacyr Luz ile İşçi Bayramı'nı kutluyor
 *MST and Inimigos do Batente celebrate Labor Day with Moacyr Luz*
 
-Topraksız Köylü Hareketi (MST) ve Inimigos do Batente, müzisyen Moacyr Luz ile İşçi Bayramı'nı kutlayarak ona Beth Carvalho Madalyası verdi. Etkinlikte müzik, yemek ve aktivizm bir araya geldi.
+2 Mayıs'ta Topraksız Köylü Hareketi (MST) ve Inimigos do Batente, müzisyen Moacyr Luz ile İşçi Bayramı'nı kutladı. Etkinlikte müzik, yemek ve aktivizm yer aldı ve Luz'a Beth Carvalho Madalyası verildi.
 
-*The Landless Workers' Movement (MST) and Inimigos do Batente celebrated Labor Day with musician Moacyr Luz, awarding him the Beth Carvalho Medal in an event featuring music, cuisine, and activism.*
+*On May 2, the Landless Workers' Movement (MST) and Inimigos do Batente celebrated Labor Day with musician Moacyr Luz. The event included music, cuisine, and activism, awarding Luz the Beth Carvalho Medal.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/28/2-de-maio-mst-e-inimigos-do-batente-celebram-o-dia-do-trabalhador/)  *2026-04-28 19:54* — 2 de maio | MST e Inimigos do Batente celebram o Dia do Trabalhador com Moacyr Luz
 
 ---
 
-### 28. MST, Brezilya'da artan kırsal cinayetleri rapor ediyor ve yeni girişimler başlatıyor
-*MST reports increased rural killings and launches new initiatives in Brazil*
+### 37. Brezi̇lya Topraksız Köylü Hareketi kırsal şiddette artış ve yeni girişimler bildiriyor
+*Brazil's Landless Workers Movement reports rising rural violence and new initiatives*
 
-Topraksız Köylü Hareketi (MST), Brezilya'da kırsal cinayetlerin 2025'te ikiye katlandığını ve 26 ölüm kaydedildiğini bildirdi. MST ayrıca São Paulo'da ilk süt tozu fabrikasını açtı, Ogum için Feijoada etkinliği düzenledi ve Paraná'da bir tarım ekolojisi kooperatifinde Fransız senatörleri ağırladı. Bahia'da bir yürüyüş de rapor edildi.
+Topraksız Köylü Hareketi (MST), Brezilya'da kırsal cinayetlerin 2025'te ikiye katlanarak Pastoral Toprak Komisyonu tarafından kaydedilen 26 ölüme ulaştığını bildirdi. MST ayrıca São Paulo eyaletinde ilk süt tozu fabrikasını açtı ve São Paulo'da kültürel bir etkinlik düzenlerken, Fransız senatörler Paraná'da bir MST agroekolojik kooperatifini ziyaret etti.
 
-*The Landless Workers' Movement (MST) reported that rural killings in Brazil doubled in 2025, with 26 deaths recorded. MST also launched its first powdered milk factory in São Paulo, held a Feijoada for Ogum event, and hosted French senators at an agroecological cooperative in Paraná. A march in Bahia was also reported.*
+*The Landless Workers Movement (MST) reported that rural murders in Brazil doubled in 2025, with 26 deaths recorded by the Pastoral Land Commission. MST also launched its first powdered milk factory in São Paulo state and held a cultural event in São Paulo, while French senators visited an MST agroecological cooperative in Paraná.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/28/assassinatos-no-campo-dobram-em-2025-e-sem-terra-seguem-na-linha-de-frente-da-resistencia/)  *2026-04-28 17:09* — Assassinatos no campo dobram em 2025 e Sem Terra seguem na linha de frente da resistência
@@ -359,551 +463,550 @@ Topraksız Köylü Hareketi (MST), Brezilya'da kırsal cinayetlerin 2025'te ikiy
 
 ---
 
-### 29. AtlasIntel anketi: Lula ilk turda önde, ikinci turda Flávio Bolsonaro ile başabaş
-*Lula leads in first round, ties with Flávio Bolsonaro in second: AtlasIntel poll*
+### 38. AtlasIntel anketi: Lula ilk turda önde, ikinci turda Flavio Bolsonaro ile baş başa
+*Lula leads in first round, ties with Flavio Bolsonaro in second: AtlasIntel poll*
 
-AtlasIntel'in anketine göre Lula tüm ilk tur senaryolarında önde ve ikinci turda Flávio Bolsonaro ile teknik olarak başa baş durumda.
+AtlasIntel tarafından yapılan bir anket, Lula'nın ilk turda önde olduğunu ve ikinci turda Flavio Bolsonaro ile istatistiksel olarak başa baş olduğunu gösteriyor.
 
-*A poll by AtlasIntel shows Lula leading in all first-round scenarios and in a technical tie with Flávio Bolsonaro in the second round.*
+*A poll by AtlasIntel shows Lula leading in the first round and in a statistical tie with Flavio Bolsonaro in the second round of Brazil's presidential election.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/lula-segue-a-frente-no-primeiro-turno-e-tem-empate-tecnico-com-flavio-bolsonaro-no-segundo-aponta-atlasintel/)  *2026-04-28 11:33* — Lula segue à frente no primeiro turno e tem empate técnico com Flávio Bolsonaro no segundo, aponta AtlasIntel
 
 ---
 
-### 30. İsrail saldırısı Lübnan'da Brezilyalı anne ve çocuğu öldürdü, Itamaraty doğruladı
-*Israeli strike kills Brazilian mother and child in Lebanon, Itamaraty confirms*
+### 39. İsrail saldırısı Lübnan'da Brezilyalı anne ve çocuğu öldürdü
+*Israeli attack kills Brazilian mother and child in Lebanon*
 
-Brasil de Fato, Brezilya Dışişleri Bakanlığı'nın Pazar günü Lübnan'ın güneyindeki Bint Jeil'de düzenlenen bir İsrail saldırısında bir kadın ve 11 yaşındaki kızı olmak üzere iki Brezilya vatandaşının ölümünü doğruladığını bildirdi. Çocuğun Lübnanlı babası da hayatını kaybetti.
+Brezilya Dışişleri Bakanlığı, Pazar günü güney Lübnan'daki Bint Jbeil'de düzenlenen bir İsrail saldırısında bir kadın ve 11 yaşındaki kızının öldüğünü doğruladı. Çocuğun Lübnanlı babası da hayatını kaybetti.
 
-*Brasil de Fato reported that the Brazilian Foreign Ministry confirmed the deaths of two Brazilian nationals, a woman and her 11-year-old daughter, in an Israeli attack in Bint Jeil, southern Lebanon on Sunday. The child's Lebanese father also died.*
+*Brazil's Foreign Ministry confirmed the deaths of two Brazilian nationals, a woman and her 11-year-old daughter, in an Israeli attack in Bint Jbeil, southern Lebanon on Sunday. The child's Lebanese father also died.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/ataque-israelense-mata-mae-e-crianca-brasileiras-no-libano-confirma-itamaraty/)  *2026-04-28 11:02* — Ataque israelense mata mãe e criança brasileiras no Líbano, confirma Itamaraty
 
 ---
 
-### 31. Brezilya 2026 seçimleri: ihtiyacın aciliyeti, değişimin gücü
-*Brazil 2026 elections: urgency of need, power of change*
+### 40. Brezilya 2026 seçimleri: ilerici değişim için aciliyet
+*Brazil 2026 elections: urgency for progressive change*
 
-Brasil de Fato, ilerici aday Juliana Brizola'nın 'ihtiyaç farklılıklarımızdan daha büyüktür' sözünün Brezilya'daki mevcut demokratik gerileme aşamasını yansıttığını savunan bir görüş yazısı yayımladı.
+Bir görüş yazısı, 2026 Brezilya seçimlerinin ilerici değişim için acil olduğunu, farklılıkların aşılması ve demokrasideki gerilemelerin ele alınması gerektiğini savunuyor.
 
-*Brasil de Fato published an opinion piece arguing that the progressive candidate Juliana Brizola's statement that 'necessity is greater than our differences' reflects the current stage of democratic setbacks in Brazil.*
+*An opinion piece argues that the 2026 Brazilian elections are urgent for progressive change, citing the need to overcome differences and address setbacks in democracy.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/colunista/mauri-cruz/2026/04/28/eleicoes-2026-da-urgencia-da-necessidade-a-potencia-da-mudanca/)  *2026-04-28 10:35* — Eleições 2026: da urgência da necessidade, a potência da mudança
 
 ---
 
-### 32. Yeni iş güvencesizliğinin görünmez kurbanları: yılda 2,78 milyon ölüm
-*Invisible victims of new labor precarization: 2.78 million deaths yearly*
+### 41. Güvencesiz çalışmanın görünmez kurbanları: Brezilya'da 32.000 ölüm
+*Invisible victims of precarious work: 32,000 deaths in Brazil*
 
-Brasil de Fato, ILO'nun dünya genelinde her yıl 2,78 milyon işçinin iş kazaları veya hastalıkları nedeniyle öldüğünü tahmin ettiğini bildirdi. Brezilya'da 2012-2024 arasında 8,8 milyon kaza ve 32 bin ölüm kaydedildi.
+Uluslararası Çalışma Örgütü, dünya çapında yılda 2,78 milyon işle ilgili ölüm olduğunu tahmin ediyor. Brezilya'da 2012-2024 arasında 8,8 milyon kaza ve 32.000 ölüm kaydedildi.
 
-*Brasil de Fato reported that the ILO estimates 2.78 million workers die annually from work-related accidents or diseases globally. In Brazil, 8.8 million accidents and 32,000 deaths were recorded between 2012 and 2024.*
+*The International Labour Organization estimates 2.78 million work-related deaths annually worldwide. In Brazil, 8.8 million accidents and 32,000 deaths were recorded between 2012 and 2024.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/colunista/gildazio-moura/2026/04/28/as-vitimas-invisiveis-da-nova-precarizacao-do-trabalho/)  *2026-04-28 10:34* — As vítimas invisíveis da nova precarização do trabalho
 
 ---
 
-### 33. Brasília, Divas do Samba festivalinin 5. edisyonuna ev sahipliği yapıyor
-*Brasília hosts 5th edition of Divas do Samba festival*
+### 42. Festival, Brezilya'da kadın samba sanatçılarını bir araya getiriyor
+*Festival brings together female samba artists in Brasília*
 
-Brezilya sambasında kadınların varlığını öne çıkaran ücretsiz Divas do Samba festivalinin 5. edisyonu bu hafta sonu Brasília'da Caixa Econômica Cultural'da gerçekleşiyor. Programda Coletivo das Yás, Sambadona, Marina Iris ve diğer sanatçılar yer alıyor.
+Sambada kadınları öne çıkaran ücretsiz bir festival olan Divas do Samba'nın 5. edisyonu bu hafta sonu Brasília'da çeşitli sanatçıların performanslarıyla gerçekleşiyor.
 
-*The 5th edition of Divas do Samba, a free festival highlighting women in Brazilian samba, takes place this weekend in Brasília at Caixa Econômica Cultural. Performances include Coletivo das Yás, Sambadona, Marina Iris, and others.*
+*The 5th edition of Divas do Samba, a free festival highlighting women in samba, takes place in Brasília this weekend with performances by various artists.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/28/festival-reune-nomes-do-samba-feminino-em-brasilia-neste-fim-de-semana/)  *2026-04-28 10:00* — Festival reúne nomes do samba feminino em Brasília neste fim de semana
 
 ---
 
-### 34. Uzman, Trump 2 döneminde büyük teknolojinin savaşlara ve baskıya karıştığını söylüyor
-*Expert says big tech involved in wars and repression under Trump 2*
+### 43. Uzman: Trump 2 döneminde büyük teknoloji şirketleri savaşlara ve baskı politikalarına dahil olmayı benimsiyor
+*Big techs embrace involvement in wars and repression policies under Trump 2, expert says*
 
-Brasil de Fato, bir uzmanın Palantir gibi büyük teknoloji şirketlerinin ikinci Trump yönetimi altında savaşlara ve baskıcı politikalara giderek daha fazla karıştığını söylediğini ve Palantir kurucu ortağı Alex Karp'ın kitabına atıfta bulunduğunu bildiriyor.
+Brasil de Fato, bir uzmanın Trump'ın ikinci döneminde büyük teknoloji şirketlerinin savaşlara ve baskı politikalarına dahil olmayı benimsediğini söylediğini bildiriyor. Makale, Palantir'in 'Teknolojik Cumhuriyet' kitabının özetini örnek olarak gösteriyor.
 
-*Brasil de Fato reports that an expert says big tech companies like Palantir are increasingly involved in wars and repressive policies under the second Trump administration, citing a book by Palantir co-founder Alex Karp.*
+*Brasil de Fato reports that an expert says big tech companies are embracing involvement in wars and repression policies under the second Trump administration. The article cites Palantir's summary of the book 'Technological Republic' as an example.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/28/com-trump-2-big-techs-assumem-envolvimento-com-as-guerras-e-as-politicas-de-repressao-aponta-especialista/)  *2026-04-28 09:00* — Com Trump 2, big techs assumem envolvimento com as guerras e as políticas de repressão, aponta especialista
 
 ---
 
-### 35. Meksika Devlet Başkanı Sheinbaum, Chihuahua'daki uyuşturucu operasyonunda ABD'nin rolünü eleştirdi
-*Mexico's Sheinbaum criticizes US role in anti-drug operation in Chihuahua*
+### 44. Sheinbaum, ABD'nin Meksika'daki uyuşturucu operasyonundaki rolünü eleştirdi
+*Sheinbaum criticizes US role in anti-drug operation in Mexico*
 
-Brasil de Fato'nun haberine göre, Meksika Devlet Başkanı Claudia Sheinbaum, ABD'li yetkililerin Chihuahua'daki bir uyuşturucu operasyonuna katılımının tekrarlanmaması gerektiğini belirten bir diplomatik nota gönderdi. Olay, iki ABD'li yetkilinin ölümünün ardından dikkat çekti.
+Meksika Devlet Başkanı Claudia Sheinbaum, Chihuahua'da iki ABD'li yetkilinin ölümüyle sonuçlanan bir uyuşturucu operasyonunda ABD'li yetkililerin katılımının tekrarlanmaması gerektiğini belirten bir diplomatik nota gönderdi.
 
-*Brasil de Fato reports that Mexican President Claudia Sheinbaum sent a diplomatic note stating that US authorities' participation in an anti-drug operation in Chihuahua should not be repeated. The incident gained attention after two US officials died.*
+*Mexican President Claudia Sheinbaum sent a diplomatic note stating that US authorities' participation in an anti-drug operation in Chihuahua should not be repeated, after two US officials died, as reported by Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/sheinbaum-critica-atuacao-dos-eua-em-operacao-antidrogas-no-mexico/)  *2026-04-28 00:50* — Sheinbaum critica atuação dos EUA em operação antidrogas no México
 
 ---
 
-### 36. Brezilya Federal Savcılığı, yasadışı Amazon madenciliğini IACHR'ye şikayet etti
-*Brazil's Federal Prosecutor denounces illegal Amazon mining to IACHR*
+### 45. Brezilyalı savcılar yasadışı Amazon madenciliğini IACHR'ye şikayet etti
+*Brazilian prosecutors denounce illegal Amazon mining to IACHR*
 
-Brasil de Fato'nun haberine göre, Brezilya Federal Kamu Bakanlığı (MPF), Amazon'daki yasadışı altın madenciliğinde kullanılan cıvanın neden olduğu sağlık ve çevre zararlarını kınayan bir çalışmayı Amerikalılar Arası İnsan Hakları Komisyonu'na (IACHR) sundu.
+Brezilya Federal Kamu Bakanlığı, Amazon'daki yasadışı madencilikte kullanılan cıvanın sağlık ve çevreye verdiği zararları kınayan bir çalışmayı Amerikalılar Arası İnsan Hakları Komisyonu'na sundu.
 
-*Brasil de Fato reports that Brazil's Federal Public Ministry (MPF) presented a study to the Inter-American Commission on Human Rights (IACHR) denouncing health and environmental damage caused by mercury used in illegal gold mining in the Amazon.*
+*Brazil's Federal Public Ministry presented a study to the Inter-American Commission on Human Rights denouncing health and environmental damage from mercury used in illegal mining in the Amazon, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/mpf-denuncia-mineracao-ilegal-na-amazonia-a-cidh/)  *2026-04-28 00:39* — MPF denuncia mineração ilegal na Amazônia à CIDH
 
 ---
 
-### 37. Araştırma, Jair Bolsonaro'nun Superpop'tan cumhurbaşkanlığına siyasi inşasını izliyor
-*Research traces Jair Bolsonaro's political construction from Superpop to presidency*
+### 46. Kitap, Jair Bolsonaro'nun siyasi inşasını Superpop'tan başkanlığa kadar izliyor
+*Book traces Jair Bolsonaro's political construction from Superpop to presidency*
 
-Brasil de Fato, eski Devlet Başkanı Jair Bolsonaro'nun erken kariyerinden 8 Ocak 2023 darbe girişimi nedeniyle mahkumiyetine kadar siyasi yörüngesini analiz eden 'Com que moral vão me caçar aqui?' başlıklı bir yayını haberleştiriyor.
+'Com que moral vão me caçar aqui?' başlıklı bir yayın, 8 Ocak 2023 darbe girişiminden hüküm giyen eski Brezilya Devlet Başkanı Jair Bolsonaro'nun yörüngesini ve siyasi yükselişini analiz ediyor.
 
-*Brasil de Fato reports on a publication titled 'Com que moral vão me caçar aqui?' that analyzes the political trajectory of former President Jair Bolsonaro, from his early career to his conviction for the January 8, 2023 coup attempt.*
+*A publication titled 'Com que moral vão me caçar aqui?' analyzes the trajectory of former Brazilian President Jair Bolsonaro, convicted for the January 8, 2023 coup attempt, and his political rise, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/do-superpop-e-kit-gay-a-presidencia-do-brasil-pesquisa-mostra-construcao-politica-de-jair-bolsonaro/)  *2026-04-28 00:33* — Do Superpop e kit gay à presidência do Brasil, pesquisa mostra construção política de Jair Bolsonaro
 
 ---
 
-### 38. Pernambuco'da düzenlenen seminer, uyuşturucu suçlarının anneliği nasıl etkilediğini tartışıyor
-*Seminar in Pernambuco discusses how drug criminalization impacts motherhood*
+### 47. Pernambuco'da düzenlenen seminer, uyuşturucu suçlulaştırmasının annelik üzerindeki etkisini tartışıyor
+*Seminar in Pernambuco debates impact of drug criminalization on motherhood*
 
-Brasil de Fato'nun haberine göre, Pernambuco'da düzenlenen bir seminerde Brezilya'nın uyuşturucu politikasının siyah kadınların hapsedilmesine nasıl yol açtığı tartışıldı; bu kadınlar aynı zamanda anne ölümlerinin %77'sini oluşturuyor. Etkinlik, uyuşturucu suçları ve annelik arasındaki kesişime dikkat çekti.
+Pernambuco'da düzenlenen bir seminer, Brezilya'nın uyuşturucu politikasının siyah kadınların hapsedilmesine yol açtığını ve anne ölümlerinin %77'sine katkıda bulunduğunu tartıştı.
 
-*Brasil de Fato reports that a seminar in Pernambuco debated how Brazil's drug policy leads to the incarceration of Black women, who also account for 77% of maternal deaths. The event highlighted the intersection of drug criminalization and motherhood.*
+*A seminar in Pernambuco discussed how Brazil's drug policy leads to the incarceration of Black women and contributes to 77% of maternal deaths, as reported by Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/seminario-em-pernambuco-debate-como-a-criminalizacao-das-drogas-impacta-a-experiencia-de-ser-mae/)  *2026-04-28 00:32* — Seminário em Pernambuco debate como a criminalização das drogas impacta a experiência de ser mãe
 
 ---
 
-### 39. Uzman: Rusya'nın İran'a desteği ABD hegemonyasının sonunu işaret ediyor
-*Russia's support for Iran marks end of US dominance, expert says*
+### 48. Uzman: Rusya'nın İran'a desteği, ABD'nin her yerde bulunma ve korku döneminin sonunu işaret ediyor
+*Russia's support for Iran marks end of US omnipresence, expert says*
 
-Beyaz Saray, ABD deniz ablukasının sona ermesi koşuluyla İran'ın Hürmüz Boğazı'nı yeniden açma önerisini değerlendirdiğini doğruladı. Bir uzman, Rusya'nın İran'a desteğinin ABD'nin her yerde bulunmasının ve dünyaya dayattığı korkunun sonunu işaret ettiğini söyledi.
+Bir uzman Brasil de Fato'ya, Rusya'nın İran'a desteğinin ABD'nin her yerde bulunma ve korku döneminin sonunu işaret ettiğini söyledi; Beyaz Saray, İran'ın Hürmüz Boğazı'nı ABD deniz ablukasının sona ermesi koşuluyla yeniden açma teklifini değerlendiriyor.
 
-*The White House confirmed it is evaluating an Iranian proposal to reopen the Strait of Hormuz, conditional on an end to the US naval blockade. An expert said Russia's support for Iran signals the end of US omnipresence and fear imposed on the world.*
+*An expert told Brasil de Fato that Russia's support for Iran signals the end of an era of US omnipresence and fear, as the White House considers Iran's proposal to reopen the Strait of Hormuz conditional on ending the US naval blockade.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/apoio-da-russia-ao-ira-marca-fim-de-periodo-de-onipresenca-e-medo-que-eua-impoem-ao-mundo-afirma-especialista/)  *2026-04-27 23:59* — Apoio da Rússia ao Irã marca ‘fim de período de onipresença e medo que EUA impõem ao mundo’, afirma especialista
 
 ---
 
-### 40. Brezilya'nın yeni Desenrola programı, borç yeniden yapılandırması için FGTS kullanımına izin veriyor
-*Brazil's new Desenrola program allows FGTS use for debt renegotiation*
+### 49. Yeni Desenrola programı, borç yeniden yapılandırması için FGTS kullanımına izin veriyor
+*New Desenrola program allows FGTS use for debt renegotiation*
 
-Brezilya Devlet Başkanı Lula'nın, işçilerin borç yeniden yapılandırması için FGTS fonlarını kullanmalarına olanak tanıyan yeni Desenrola programını duyurması bekleniyor. Duyuru Maliye Bakanı tarafından doğrulandı.
+Brezilya'nın yeni Desenrola 2.0 programı, Başkan Lula tarafından duyurulacak ve borç yeniden yapılandırması için FGTS fonunun kullanılmasına izin verecek.
 
-*Brazil's President Lula is expected to announce the new Desenrola program, which will allow workers to use their FGTS fund for debt renegotiation. The announcement was confirmed by the Finance Minister.*
+*Brazil's new Desenrola 2.0 program, to be announced by President Lula, will allow the use of the FGTS fund for debt renegotiation, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/novo-desenrola-permitira-uso-do-fgts-para-renegociacao-de-dividas/)  *2026-04-27 23:49* — Novo Desenrola permitirá uso do FGTS para renegociação de dívidas
 
 ---
 
-### 41. Fiocruz ve sosyal hareketler Recife çevresinde çevre komiteleri oluşturuyor
-*Fiocruz and social movements create environmental committees in Recife peripheries*
+### 50. Fiocruz ve toplumsal hareketler Recife'de çevre komiteleri kuruyor
+*Fiocruz and social movements form environmental committees in Recife*
 
-Fiocruz ve halk hareketleri, Büyük Recife'nin çevre bölgelerinde 800'den fazla taban temsilcisini harekete geçirerek Halk Çevre Komiteleri kurmak için güç birliği yapıyor.
+Fiocruz ve halk hareketleri, Büyük Recife'nin çevre bölgelerinde Halk Çevre Komiteleri oluşturmak için güç birliği yapıyor. Ağ, Pernambuco ve Paraíba'da 800'den fazla topluluk gönüllüsünü harekete geçirecek.
 
-*Fiocruz and popular movements are joining forces to set up Popular Environmental Committees in the peripheries of Greater Recife, mobilizing over 800 grassroots agents.*
+*Fiocruz and popular movements are joining forces to create Popular Environmental Committees in the peripheries of Greater Recife. The network will mobilize over 800 community agents in Pernambuco and Paraíba.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/fiocruz-e-movimentos-populares-se-unem-para-montar-comites-de-luta-ambiental-nas-periferias-do-grande-recife/)  *2026-04-27 22:43* — Fiocruz e movimentos populares se unem para montar comitês de luta ambiental nas periferias do Grande Recife
 
 ---
 
-### 42. Brezilya PT'si eyalet valilikleri için dokuz aday çıkarabilir
+### 51. Brezilya PT'si eyalet valilikleri için dokuz aday çıkarabilir
 *Brazil's PT may field nine candidates for state governorships*
 
-Brezilya İşçi Partisi'nin (PT) eyalet valilikleri için dokuz aday çıkarması bekleniyor; seçim pragmatizmi izleyerek PSB, PDT ve PSD ile ulusal ittifaklar kuruyor.
+Brezilya İşçi Partisi'nin (PT) eyalet valilikleri için dokuz aday çıkarması bekleniyor. Parti, ittifakları belirlemek için seçim pragmatizmine başvuruyor ve PSB, PDT ve hatta PSD ile ulusal koalisyonlar için müzakereler yürütüyor.
 
-*Brazil's Workers' Party (PT) is expected to have nine candidates running for state governorships, employing electoral pragmatism and forging national alliances with PSB, PDT, and PSD.*
+*Brazil's Workers' Party (PT) is expected to have nine candidates running for state governorships. The party is using electoral pragmatism to define alliances and is negotiating national coalitions with PSB, PDT, and even PSD.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/pt-deve-ter-nove-candidatos-disputando-os-governos-estaduais-entenda-o-cenario-nacional/)  *2026-04-27 22:34* — PT deve ter nove candidatos disputando os governos estaduais; entenda o cenário nacional
 
 ---
 
-### 43. São Paulo eyalet ve belediye öğretmenleri Salı günü grevde
-*São Paulo state and municipal teachers strike on Tuesday*
+### 52. São Paulo eyalet ve belediye öğretmenleri Salı günü (28) greve gidiyor
+*São Paulo state and municipal teachers go on strike on Tuesday (28)*
 
-Brasil de Fato, São Paulo eyalet ve belediye okullarındaki öğretmenlerin 28 Nisan Salı günü maaş zammı talebiyle greve gideceğini, Alesp'te ve Belediye Binası önünde toplantılar planlandığını bildiriyor.
+Brasil de Fato, São Paulo'daki öğretmenlerin Tarcísio ve Nunes'in politikalarına karşı 28 Nisan Salı günü greve gittiğini bildiriyor. Maaş ayarlaması talep ediyorlar ve toplantılar yapacaklar.
 
-*Brasil de Fato reports that teachers in São Paulo state and municipal schools will strike on Tuesday, April 28, demanding salary adjustments, with assemblies planned at Alesp and in front of City Hall.*
+*Brasil de Fato reports that teachers in São Paulo are striking on Tuesday, April 28, against the policies of Tarcísio and Nunes. They demand salary adjustments and will hold assemblies.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/contra-politicas-de-tarcisio-e-nunes-professores-estaduais-e-municipais-de-sao-paulo-fazem-greve-na-terca-feira-28/)  *2026-04-27 22:07* — Contra políticas de Tarcísio e Nunes, professores estaduais e municipais de São Paulo fazem greve na terça-feira (28)
 
 ---
 
-### 44. Brezilya bakanlığı, terreiro yıkımının ardından dini ırkçılık şikayetini kabul etti
-*Brazil ministry accepts complaint of religious racism after terreiro demolition*
+### 53. Bakanlık, Rio Grande'de (RS) terreiro'nun yıkılmasının ardından dini ırkçılık şikayetini kabul etti
+*Ministry accepts complaint of religious racism after demolition of terreiro in Rio Grande (RS)*
 
-Brasil de Fato, Irk Eşitliği Bakanlığı'nın Rio Grande'deki geleneksel bir terreiro topluluğunun işgali ve yıkımıyla ilgili şikayeti kabul ettiğini ve bunu dini ırkçılık vakası olarak tanıdığını bildiriyor.
+Brasil de Fato, Irk Eşitliği Bakanlığı'nın Rio Grande'de geleneksel bir terreiro topluluğunun işgali ve yıkımıyla ilgili şikayeti kabul ettiğini ve bunu dini ırkçılık olarak tanıdığını bildiriyor.
 
-*Brasil de Fato reports that the Ministry of Racial Equality accepted a complaint about the invasion and demolition of a traditional terreiro community in Rio Grande, recognizing it as a case of religious racism.*
+*Brasil de Fato reports that the Ministry of Racial Equality accepted a complaint about the invasion and demolition of a traditional terreiro community in Rio Grande, recognizing it as religious racism.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/ministerio-acolhe-denuncia-de-racismo-religioso-apos-demolicao-de-terreiro-em-rio-grande-rs/)  *2026-04-27 21:41* — Ministério acolhe denúncia de racismo religioso após demolição de terreiro em Rio Grande (RS)
 
 ---
 
-### 45. Brezilya'da polis iki eyalette topraksız aileleri tahliye ediyor
-*Brazilian police evict landless families in two states*
+### 54. Tocantins askeri polisi, toprak sahipleri için yasadışı tahliyelerle suçlanıyor
+*Tocantins military police accused of illegal evictions for landowners*
 
-Brezilya'nın Tocantins ve Paraíba eyaletlerinde askeri polis, topraksız aileleri kamplardan tahliye etti. Topraksız Köylü Hareketi (MST), Tocantins'te polisin adli emir olmaksızın tarım reformu için ayrılmış federal arazideki Irmã Dorothy kampından aileleri tahliye ettiğini bildirdi. Paraíba'da Zé Roberto kampına düzenlenen saldırı MST ailelerine yönelik şiddeti ortaya çıkardı.
+Topraksız Köylü Hareketi (MST), Brezilya'nın Tocantins eyaletinde Askeri Polisin, büyük toprak sahiplerinin yararına, mahkeme kararı olmaksızın topraksız aileleri tahliye ettiğini, federal otoriteyi ve insan haklarını ihlal ettiğini bildirdi.
 
-*In Tocantins and Paraíba, Brazil, military police have carried out evictions of landless families from camps. The Landless Workers' Movement (MST) reports that in Tocantins, police acted without a court order to evict families from the Irmã Dorothy camp on federal land designated for agrarian reform. In Paraíba, an attack on the Zé Roberto camp exposed violence against MST families.*
+*Landless Workers' Movement (MST) reported that the Military Police of Tocantins, Brazil, carried out evictions of landless families without a court order, in violation of federal authority and human rights, to benefit large landowners.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/27/truculencia-e-ilegalidade-a-pm-do-tocantins-a-servico-do-latifundio-na-terra-da-uniao/)  *2026-04-27 15:00* — Truculência e ilegalidade: a PM do Tocantins a serviço do latifúndio na terra da União
+
+---
+
+### 55. MST kampına saldırı Paraíba'daki topraksız ailelere yönelik şiddeti ortaya koydu
+*Attack on MST camp exposes violence against landless families in Paraíba*
+
+Brezilya'nın Paraíba kentindeki Topraksız Köylü Hareketi'ne (MST) ait Zé Roberto kampına düzenlenen saldırı, topraksız ailelere yönelik şiddeti gözler önüne serdi. MST, örgütlü ve direniş halinde kalmaya devam edeceklerini belirtti.
+
+*An attack on the Zé Roberto camp of the Landless Workers' Movement (MST) in Paraíba, Brazil, exposed violence against landless families. The MST stated they will remain organized and in resistance.*
+
+**Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/27/ataque-ao-acampamento-ze-roberto-expoe-violencia-contra-familias-sem-terra-na-paraiba/)  *2026-04-27 13:03* — Ataque ao acampamento Zé Roberto expõe violência contra famílias Sem Terra na Paraíba
 
 ---
 
-### 46. MST São Paulo'da agroekolojiyle ilk Ogum feijoadasını düzenledi
-*MST holds first Ogum feijoada in São Paulo with agroecology*
+### 56. MST, São Paulo'da tarımsal ekoloji ve atalara saygıyı kutlayan ilk Ogum feijoadasını düzenledi
+*MST holds first Ogum feijoada in São Paulo celebrating agroecology and ancestry*
 
-Topraksız Köylü Hareketi'ne (MST) göre, São Paulo'da MST tarafından düzenlenen ilk Ogum Feijoada'sında yaklaşık 2.000 kişi Afrika tanrısı Ogum'u agroekoloji, atalara bağlılık ve dayanışma ile birleştirerek kutladı.
+Yaklaşık 2.000 kişi, Brezilya'nın São Paulo kentinde Topraksız Köylü Hareketi (MST) tarafından düzenlenen ilk Ogum feijoadasında tarımsal ekoloji, atalara saygı ve dayanışmayı kutladı.
 
-*About 2,000 people celebrated the African deity Ogum at the first Ogum Feijoada organized by the MST in São Paulo, combining agroecology, ancestry, and solidarity, according to the Landless Workers' Movement.*
+*Around 2,000 people celebrated the first Ogum feijoada organized by the Landless Workers' Movement (MST) in São Paulo, Brazil, highlighting agroecology, ancestry, and solidarity.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/27/1a-feijoada-de-ogum-do-mst-em-sp-reuniu-agroecologia-ancestralidade-e-solidariedade/)  *2026-04-27 12:48* — 1ª Feijoada de Ogum do MST em SP reuniu agroecologia, ancestralidade e solidariedade
 
 ---
 
-### 47. İran Dışişleri Bakanı Putin ile görüşmek üzere Rusya'ya geldi
+### 57. İran Dışişleri Bakanı Putin ile görüşmek üzere Rusya'ya geldi
 *Iranian foreign minister arrives in Russia for talks with Putin*
 
-İran Dışişleri Bakanı Abbas Araghchi, Rusya Devlet Başkanı Vladimir Putin ile görüşmek üzere Pazartesi günü Rusya'ya geldi. Bakan, ziyaretin amacının Tahran ve Moskova arasında bölgesel konularda yakın istişareleri sürdürmek olduğunu belirtti.
+Brasil de Fato, İran Dışişleri Bakanı Abbas Araghchi'nin Rusya Devlet Başkanı Vladimir Putin ile görüşmek üzere Rusya'ya geldiğini ve ziyaretin bölgesel konularda yakın istişareleri sürdürmeyi amaçladığını bildiriyor.
 
-*Iranian Foreign Minister Abbas Araghchi arrived in Russia on Monday to meet with President Vladimir Putin. He stated that the visit aims to continue close consultations between Tehran and Moscow on regional issues.*
+*Brasil de Fato reports that Iranian Foreign Minister Abbas Araghchi arrived in Russia to meet President Vladimir Putin, stating the visit aims to continue close consultations on regional issues.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/chanceler-iraniano-chega-a-russia-para-encontro-com-putin/)  *2026-04-27 11:04* — Chanceler iraniano chega à Rússia para encontro com Putin
 
 ---
 
-### 48. Brezilyalı şarkıcı Anderson Neiff kurşun parçası ameliyatının ardından taburcu oldu
-*Brazilian singer Anderson Neiff discharged after bullet fragment surgery*
+### 58. Brezilyalı şarkıcı Anderson Neiff kurşun parçalarını çıkarma ameliyatının ardından taburcu edildi
+*Brazilian singer Anderson Neiff discharged after surgery to remove bullet fragments*
 
-Brezilyalı brega-funk şarkıcısı Anderson Neiff, kurşun parçalarını çıkarmak için geçirdiği ameliyatın ardından hastaneden taburcu oldu. São Paulo'da bir konser sonrası uğradığı silahlı saldırıda yaralanmıştı.
+Brezilyalı brega-funk sanatçısı Anderson Neiff, kurşun parçalarını çıkarma ameliyatının ardından hastaneden taburcu edildi. São Paulo'da bir konser sonrası uğradığı silahlı saldırıda yaralanmıştı.
 
-*Brazilian brega-funk singer Anderson Neiff was discharged from the hospital after surgery to remove bullet fragments. He was shot in an attempted homicide after a show in São Paulo.*
+*Brazilian brega-funk artist Anderson Neiff was discharged from hospital after surgery to remove bullet fragments. He was shot in an attempted homicide after a show in São Paulo.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/cantor-anderson-neiff-recebe-alta-apos-cirurgia-para-remover-estilhacos-de-bala-mais-uma-oportunidade-de-vida/)  *2026-04-27 10:49* — Cantor Anderson Neiff recebe alta após cirurgia para remover estilhaços de bala: “Mais uma oportunidade de vida”
 
 ---
 
-### 49. Brasília'da ev işçiliği artıyor ancak kayıt dışılık ve düşük ücretler sürüyor
+### 59. Brasília'da ev işçiliği artıyor ancak kayıt dışılık ve düşük ücretler devam ediyor
 *Domestic work grows in Brasília but informality and low wages persist*
 
-Brasil de Fato, ev işçiliğinin Brezilya'da kadınlar için önemli bir istihdam seçeneği olmaya devam ettiğini bildiriyor. Tamamlayıcı Kanun 150/2015'in onaylanmasından on yıl sonra, ev işçileri için eşit haklar Brasília Metropol Bölgesi'nde hala engellerle karşılaşıyor.
+Brasil de Fato, Brasília'da ev işçiliğinin artmaya devam ettiğini, ancak ev işçilerinin haklarını düzenleyen Tamamlayıcı Kanun 150/2015'in onaylanmasından on yıl sonra kayıt dışılık ve düşük ücretlerin devam ettiğini bildiriyor.
 
-*Brasil de Fato reports that domestic work continues to be a major employment option for women in Brazil. Ten years after the approval of Complementary Law 150/2015, equal rights for domestic workers still face obstacles in the Metropolitan Area of Brasília.*
+*Brasil de Fato reports that domestic work continues to grow in Brasília, but ten years after the approval of the Complementary Law 150/2015, which regulates domestic workers' rights, informality and low wages persist.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/trabalho-domestico-cresce-em-brasilia-mas-informalidade-e-baixos-salarios-persistem/)  *2026-04-27 09:00* — Trabalho doméstico cresce em Brasília, mas informalidade e baixos salários persistem
 
 ---
 
-### 50. Brezilya Kongresi 6x1 çalışma düzeni ve kadın düşmanlığı karşıtı yasa tasarısını tartışıyor
-*Brazil Congress debates 6x1 work schedule and anti-misogyny bill*
+### 60. Brezilya Kongresi 6x1 çalışma programı ve kadın düşmanlığı karşıtı yasayı tartışıyor; STF polis şiddeti davasını görüyor
+*Brazil Congress debates 6x1 work schedule and anti-misogyny bill; STF hears police violence case*
 
-Brasil de Fato, bu hafta Brasília'da 6x1 çalışma düzeninin Kongre'de özel bir komisyonda görüşüleceğini ve kadın düşmanlığını ırkçılıkla eşitleyen bir yasa tasarısının da ele alınacağını bildiriyor. Yüksek Mahkeme ayrıca polis şiddeti vakalarında devletin sorumluluğunu inceleyecek.
+Brasil de Fato, bu hafta Brasília'da Ulusal Kongre'nin 6x1 çalışma programını ve kadın düşmanlığını ırkçılıkla eşitleyen bir yasa tasarısını tartışacağını bildiriyor. Yüksek Federal Mahkeme, polis tarafından kör edilen bir fotoğrafçı da dahil olmak üzere polis şiddetinde devlet sorumluluğuna ilişkin bir davayı görecek.
 
-*Brasil de Fato reports that this week in Brasília, the 6x1 work schedule will be discussed in a special commission in Congress, as well as a bill that equates misogyny with racism. The Supreme Court will also examine state responsibility in cases of police violence.*
+*Brasil de Fato reports that this week in Brasília, the National Congress will discuss the 6x1 work schedule and a bill equating misogyny with racism. The Supreme Federal Court will hear a case on state responsibility for police violence, including a photographer blinded by police.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/27/fim-da-escala-6x1-e-pl-antimisoginia-marcam-a-semana-no-congresso-stf-analisa-indenizacao-de-fotografo-que-ficou-cego-atingido-pela-pm/)  *2026-04-27 09:00* — Fim da escala 6×1 e PL Antimisoginia marcam a semana no Congresso; STF analisa indenização de fotógrafo que ficou cego atingido pela PM
 
 ---
 
-### 51. Pernambuco halk hareketlerinin görsel-işitsel anıları korunuyor
+### 61. Pernambuco halk hareketlerinin görsel-işitsel anıları korunuyor
 *Audiovisual memories of Pernambuco popular movements preserved*
 
-Pernambuco'da bir kolektif, MST, SOS Corpo ve TV Viva gibi halk hareketlerinin görsel-işitsel arşivlerini kurtarıyor, koruyor ve yayıyor.
+Brasil de Fato'ya göre, Acervo do Vídeo Popular adlı bir kolektif, Pernambuco'da MST, SOS Corpo ve TV Viva gibi hareketlerin görsel-işitsel arşivlerini kurtarıyor, koruyor ve yayıyor.
 
-*A collective in Pernambuco is rescuing, preserving, and disseminating audiovisual archives from popular movements such as the MST, SOS Corpo, and TV Viva.*
+*A collective called Acervo do Vídeo Popular is rescuing, preserving, and disseminating audiovisual archives of movements such as MST, SOS Corpo, and TV Viva in Pernambuco, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/memorias-audiovisuais-das-lutas-dos-movimentos-populares-de-pernambuco-sao-resgatadas-e-preservadas-pelo-acervo-do-video-popular/)  *2026-04-26 22:52* — Memórias audiovisuais das lutas dos movimentos populares de Pernambuco são resgatadas e preservadas pelo Acervo do Vídeo Popular
 
 ---
 
-### 52. Bilim insanları küresel enerji dönüşümüne rehberlik edecek panel oluşturdu
+### 62. Bilim insanları küresel enerji dönüşümüne rehberlik edecek panel oluşturdu
 *Scientists create panel to guide global energy transition*
 
-İklim, ekonomi ve teknoloji alanlarından bir grup bilim insanı, Kolombiya'nın Santa Marta kentinde düzenlenen bir konferansta Küresel Enerji Dönüşümü için Bilimsel Panel'in (SPGET) kurulduğunu duyurdu.
+Brasil de Fato'ya göre, bir grup bilim insanı Kolombiya'nın Santa Marta kentinde düzenlenen bir konferansta Küresel Enerji Dönüşümü için Bilimsel Panel'in (SPGET) kurulduğunu duyurdu.
 
-*A group of scientists from climate, economics, and technology fields announced the creation of the Scientific Panel for the Global Energy Transition (SPGET) during a conference in Santa Marta, Colombia.*
+*A group of scientists announced the creation of the Scientific Panel for Global Energy Transition (SPGET) during a conference in Santa Marta, Colombia, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/cientistas-criam-painel-para-orientar-transicao-energetica-global/)  *2026-04-26 19:20* — Cientistas criam painel para orientar transição energética global
 
 ---
 
-### 53. Banco Genial finansmanıyla Quaest birçok eyalette seçim anketleri yayınlıyor
-*Quaest releases election polls in several states funded by Banco Genial*
+### 63. Quaest, Genial Bank finansmanıyla çeşitli eyaletlerde seçim anketleri yayınlayacak
+*Quaest to release election polls in several states with Genial Bank funding*
 
-Bu hafta, Banco Genial finansmanıyla Quaest, çeşitli eyaletler için seçim anketleri yayınlayacak. Anketlerin kamuoyu tartışmasını ve siyasi stratejileri etkilemesi bekleniyor.
+Brasil de Fato'ya göre, Banco Genial tarafından finanse edilen Quaest, bu hafta Brezilya'nın çeşitli eyaletlerinde cumhurbaşkanlığı ve eyalet yarışları için seçim anketleri yayınlayacak.
 
-*This week, Quaest will release election polls for various states, funded by Banco Genial. The surveys are expected to influence public debate and political strategies.*
+*Quaest, funded by Banco Genial, will release election polls for presidential and state races in several Brazilian states this week, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/com-financiamento-do-banco-genial-quaest-divulga-pesquisa-para-governo-e-senado-em-diversos-estados-confira-agenda/)  *2026-04-26 19:08* — Com financiamento do Banco Genial, Quaest divulga pesquisa para governo e senado em diversos estados; confira agenda
 
 ---
 
-### 54. Kolombiya'da bombalı saldırıda 14 ölü, düzinelerce yaralı
-*Colombia bomb attack kills 14, dozens wounded*
+### 64. Kolombiya'da bombalı saldırıda 14 kişi öldü, onlarca kişi yaralandı
+*Bomb attack in Colombia kills 14, wounds dozens*
 
-Güneybatı Kolombiya'da cumartesi günü düzenlenen bombalı saldırıda en az 14 kişi öldü, 38'den fazla kişi yaralandı. Saldırı, seçimlere bir aydan fazla süre kala, silahlı gruplar ve yasa dışı faaliyetlerin geçmişte yaşandığı Cauca bölgesinde meydana geldi.
+Brasil de Fato'ya göre, Kolombiya'nın Cauca bölgesinde Cumartesi günü düzenlenen bombalı saldırıda en az 14 kişi öldü, 38'den fazla kişi yaralandı; saldırı seçim öncesi artan şiddet olayları arasında gerçekleşti.
 
-*A bomb attack in southwestern Colombia killed at least 14 people and wounded over 38 on Saturday, amid rising violence. The attack occurred in Cauca department, a region with a history of armed groups and illegal activities, just over a month before elections.*
+*A bomb attack in Cauca department, Colombia, killed at least 14 people and wounded over 38 on Saturday, amid escalating violence ahead of elections, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/numero-de-mortos-por-ataque-a-bomba-na-colombia-chega-a-14-com-dezenas-de-feridos/)  *2026-04-26 18:35* — Número de mortos por ataque a bomba na Colômbia chega a 14, com dezenas de feridos
 
 ---
 
-### 55. Brezilya PT'sinin seçim öncesi manifestosu neoliberalizmi eleştiriyor
-*Brazil's PT pre-election manifesto criticizes neoliberalism*
+### 65. Brezilya İşçi Partisi seçim öncesi manifestosunu yayınladı
+*Brazil's Workers' Party releases pre-election manifesto*
 
-Brezilya İşçi Partisi (PT), ekonomik egemenlik, yeniden sanayileşme ve sosyal haklara odaklanan yeni bir ulusal kalkınma projesi çağrısında bulunan seçim öncesi bir manifesto yayınladı. 6x1 çalışma programının sona erdirilmesini öneriyor.
+Brezilya İşçi Partisi (PT) seçimler öncesinde neoliberalizmi eleştiren ve yeni bir ulusal kalkınma modelini savunan stratejik bir manifesto yayınladı. Belge, 6x1 çalışma düzeninin sona erdirilmesini ve sosyal hakların genişletilmesini öneriyor.
 
-*Brazil's Workers' Party (PT) released a pre-election manifesto calling for a new national development project focused on economic sovereignty, reindustrialization, and social rights. It proposes ending the 6x1 work schedule.*
+*Brazil's Workers' Party (PT) released a strategic manifesto ahead of elections, criticizing neoliberalism and advocating for a new national development model. The document proposes ending the 6x1 work schedule and expanding social rights.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/manifesto-do-pt-pre-eleicao-traz-criticas-ao-neoliberalismo-e-defesa-de-novo-modelo-de-estado/)  *2026-04-26 18:07* — Manifesto do PT pré-eleição traz críticas ao neoliberalismo e defesa de novo modelo de Estado
 
 ---
 
-### 56. Multipar, Banco Master hesaplarında 1 milyar R$ hareket ettirdi, rapor bildiriyor
+### 66. Multipar, Banco Master hesaplarında 1 milyar R$ hareket ettirdi
 *Multipar moved R$1 billion in Banco Master accounts, report says*
 
-Folha de S. Paulo, Vorcaro ailesine ait gayrimenkul şirketi Multipar'ın, Coaf raporlarına göre Banco Master sahibine bağlı hesaplarda beş yılda 1 milyar R$'dan fazla para hareket ettirdiğini bildiriyor.
+Folha de S. Paulo, Vorcaro ailesine ait gayrimenkul şirketi Multipar'ın, Coaf raporlarına göre 2020-2025 arasında Banco Master sahibine bağlı hesaplarda 1 milyar R$'dan fazla para hareketi yaptığını bildiriyor.
 
-*Folha de S. Paulo reports that Multipar, a real estate company of the Vorcaro family, moved over R$1 billion in five years in accounts linked to the owner of Banco Master, according to Coaf reports.*
+*Folha de S. Paulo reports that Multipar, a real estate company owned by the Vorcaro family, moved over R$1 billion in accounts linked to Banco Master's owner between 2020 and 2025, according to Coaf reports.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/multipar-da-familia-vorcaro-movimentou-r-1-bi-em-contas-no-banco-master-revela-jornal/)  *2026-04-26 16:26* — Multipar, da família Vorcaro, movimentou R$ 1 bi em contas no Banco Master, revela jornal
 
 ---
 
-### 57. Milton Raulino, Recife'de Chorinho no Mangue ile Albümünü Tanıtacak
-*Milton Raulino to Launch Album with Chorinho no Mangue in Recife*
+### 67. Milton Raulino ve Chorinho no Mangue albüm lansmanı Recife'de
+*Milton Raulino and Chorinho no Mangue album launch in Recife*
 
-Milton Raulino, yerel bar ve restoranlardaki başarısının ardından 26 Nisan Pazar günü Recife Antigo'da Chorinho no Mangue ile EP'sini tanıtacak.
+Pazar günü (26) Recife Antigo'daki gösteri, Milton Raulino'nun Chorinho no Mangue ile albümünün lansmanına hazırlanıyor. Barlarda ve restoranlardaki başarının ardından ortaklık, Mayıs başında yayınlanacak bir EP'ye dönüştü.
 
-*Milton Raulino will launch his EP with Chorinho no Mangue at a show in Recife Antigo on Sunday, April 26, following success in local bars and restaurants.*
+*The show at Recife Antigo on Sunday (26) prepares the launch of Milton Raulino's album with Chorinho no Mangue. After success in bars and restaurants, the partnership became an EP to be released in early May.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/show-no-recife-antigo-neste-domingo-26-prepara-lancamento-de-disco-de-milton-raulino-com-o-chorinho-no-mangue/)  *2026-04-26 13:55* — Show no Recife Antigo, neste domingo (26), prepara lançamento de disco de Milton Raulino com o Chorinho no Mangue
 
 ---
 
-### 58. Afoxé Alafin Oyó Filmi São Luiz Sineması'nda Ücretsiz Gösterilecek
-*Film About Afoxé Alafin Oyó Screened Free at Cinema São Luiz*
+### 68. Afoxé Alafin Oyó filmi Cinema São Luiz'de ücretsiz gösteriliyor
+*Film about Afoxé Alafin Oyó screened free at Cinema São Luiz*
 
-Afoxé Alafin Oyó hakkındaki uzun metrajlı film, 26 Nisan Pazar günü saat 16:30'da São Luiz Sineması'nda ücretsiz olarak gösterilecek.
+80 dakikalık uzun metrajlı film Pazar günü (26) saat 16:30'da gösterilecek, biletler saat 15:30'dan itibaren gişede mevcut. Gösterim ücretsiz.
 
-*A feature-length film about the Afoxé Alafin Oyó will be screened for free at Cinema São Luiz on Sunday, April 26, at 4:30 PM.*
+*The 80-minute feature film will be shown on Sunday (26) at 4:30 PM, with tickets available at the box office from 3:30 PM. The screening is free.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/filme-sobre-o-afoxe-alafin-oyo-tem-exibicao-gratuita-no-cinema-sao-luiz-neste-domingo-26/)  *2026-04-26 13:51* — Filme sobre o afoxé Alafin Oyó tem exibição gratuita no cinema São Luiz, neste domingo (26)
 
 ---
 
-### 59. Papa'nın ilk Afrika misyonu sırasında Papa ve Trump karşı karşıya geldi
-*Pope and Trump clash during Pope's first Africa mission*
+### 69. Washington'da Trump etkinliği yakınında ateş açılması sonrası şüpheli tutuklandı
+*Suspect arrested after shots fired near Trump event in Washington*
 
-Papa Leo XIV, üç Afrika ülkesine yaptığı ilk misyonerlik gezisini tamamladı. Medya, Papa'nın Afrika topluluklarına verdiği mesajlardan çok, Papa ile ABD Başkanı Donald Trump arasındaki çatışmaya odaklandı.
+Brasil de Fato'nun haberine göre, Washington'da gazeteciler ve Başkan Donald Trump'ın katıldığı yıllık yemek sırasında etkinlik yakınında silah sesleri duyuldu. Şüpheli ABD Gizli Servisi tarafından tutuklandı. Trump, Melania Trump ve Başkan Yardımcısı JD Vance güvenli bir şekilde tahliye edildi.
 
-*Pope Leo XIV concluded his first missionary trip to three African countries. Media coverage focused on a confrontation between the Pope and US President Donald Trump, rather than the Pope's messages to African communities.*
+*Brasil de Fato reports that during an annual dinner with journalists and President Donald Trump in Washington, shots were heard near the event. The suspect was arrested by the US Secret Service. Trump, Melania Trump, and Vice President JD Vance were safely evacuated.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/suspeito-de-ataque-a-tiros-em-evento-com-trump-e-preso-pelo-servico-secreto-dos-eua/)  *2026-04-26 13:25* — Suspeito de ataque a tiros em evento com Donald Trump é preso pelo Serviço Secreto dos EUA
+
+---
+
+### 70. Papa ve ABD başkanı Afrika ziyareti sırasında karşı karşıya geldi
+*Pope and US president clash during papal Africa trip*
+
+Brasil de Fato'ya göre, Papa Leo XIV'in Afrika'ya yaptığı ilk misyonerlik gezisi, medyanın papa ile ABD Başkanı Donald Trump arasındaki bir çatışmaya odaklanmasıyla gölgelendi.
+
+*Pope Leo XIV's first missionary trip to Africa was overshadowed by media focus on a confrontation between the pope and US President Donald Trump, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/o-imperador-e-o-papa-leitura-do-que-esta-por-tras-das-palavras/)  *2026-04-26 13:00* — O imperador e o papa (Leitura do que está por trás das palavras)
 
 ---
 
-### 60. São Paulo'da tarihsel tazminat tasarısı kamuoyu duruşmasında tartışıldı
-*Public hearing in São Paulo debates historical reparation bill*
+### 71. São Paulo'da tarihsel tazminat tasarısı kamuoyunda tartışıldı
+*Public hearing in São Paulo debates historical reparations bill*
 
-Cumartesi günü São Paulo'da, Milletvekili Damião Feliciano tarafından hazırlanan ve Tazminat PEC'si olarak bilinen PL 27/2024 sayılı yasa tasarısını tartışmak üzere bir kamuoyu duruşması düzenlendi. Çoğunluğu siyah hareket örgütlerinden yaklaşık 200 katılımcı hazır bulundu.
+Brasil de Fato'ya göre, PL 27/2024 sayılı Tazminat PEC'si olarak bilinen yasa tasarısı için São Paulo'da Cumartesi günü yaklaşık 200 siyahi hareket örgütü üyesinin katılımıyla bir kamuoyu dinlemesi yapıldı.
 
-*A public hearing was held in São Paulo on Saturday to discuss Bill PL 27/2024, known as the Reparation PEC, authored by Deputy Damião Feliciano. About 200 participants, mostly from Black movement organizations, attended.*
+*A public hearing on Bill PL 27/2024, known as the Reparation PEC, was held in São Paulo on Saturday, with about 200 participants from Black movement organizations, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/26/audiencia-publica-debate-pl-de-reparacao-historica-em-sao-paulo/)  *2026-04-26 12:48* — Audiência pública debate PL de reparação histórica em São Paulo
 
 ---
 
-### 61. Cine Sapatão, Brezilya'da LGBT+ ve Filistin Sinemasını Tanıtıyor
-*Cine Sapatão Promotes LGBT+ and Palestinian Cinema in Brazil*
+### 72. Cine Sapatão Brezilya'da LGBT+ ve Filistin sinemasını tanıtıyor
+*Cine Sapatão promotes LGBT+ and Palestinian cinema in Brazil*
 
-2017'de başlatılan bir girişim olan Cine Sapatão, lezbiyen yönetmenlerin görsel-işitsel çalışmalarını tanıtıyor ve Filistin sinemasına dikkat çekiyor. Organizatör Nayla Guerra, projeyi bir röportajda anlattı.
+2017 sonunda başlayan Cine Sapatão girişimi, lezbiyen yönetmenlerin görsel-işitsel yapımlarını tanıtıyor ve Filistin dahil Küresel Güney'den yazarlara görünürlük kazandırıyor. Yönetmen Nayla Guerra, BdF Entrevista'ya konuştu.
 
-*Cine Sapatão, an initiative started in 2017, promotes audiovisual works by lesbian filmmakers and highlights Palestinian cinema. Organizer Nayla Guerra discussed the project in an interview.*
+*Cine Sapatão, an initiative that started in late 2017, promotes audiovisual productions by lesbian filmmakers and gives visibility to authors from the Global South, including Palestine. Filmmaker Nayla Guerra spoke to BdF Entrevista.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/26/conheca-o-cine-sapatao-iniciativa-que-promove-cinema-lgbt-e-palestino/)  *2026-04-26 09:00* — Conheça o ‘Cine Sapatão’, iniciativa que promove cinema LGBT+ e palestino
 
 ---
 
-### 62. Kadınlar São Paulo'da Paulista Caddesi'ni işgal ederek kadın düşmanlığı yasa tasarısı için baskı yapıyor
-*Women occupy Paulista Avenue in São Paulo for misogyny bill*
+### 73. Kadınlar São Paulo'da Paulista Caddesi'ni işgal ederek Motta'ya kadın düşmanlığı yasa tasarısı için baskı yapıyor
+*Women occupy Paulista Avenue in São Paulo, pressure Motta on misogyny bill*
 
-Brasil de Fato, kadınların São Paulo'da Paulista Caddesi'ni ve diğer başkentleri işgal ederek kadın düşmanlığını suç sayan bir yasa tasarısı için baskı yaptığını bildiriyor.
+Brasil de Fato'nun haberine göre, kadın grupları São Paulo'da Paulista Caddesi'ni ve diğer başkentleri işgal ederek kadın düşmanlığını suç sayan yasa tasarısının oylanmasını talep etti.
 
-*Brasil de Fato reports that women occupied Paulista Avenue in São Paulo and other capitals to pressure for a bill criminalizing misogyny.*
+*Women's groups occupied Paulista Avenue in São Paulo and other capitals to demand a vote on a bill that criminalizes misogyny, as reported by Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/mulheres-ocupam-a-avenida-paulista-em-sp-e-pressionam-motta-por-votacao-de-projeto-de-lei-que-criminaliza-a-misoginia/)  *2026-04-25 21:18* — Mulheres ocupam a avenida Paulista, em SP, e pressionam Motta por votação de projeto de lei que criminaliza a misoginia
 
 ---
 
-### 63. Feijoada de Ogum, São Paulo'da atalarla ve agroekolojiyi buluşturuyor
-*Feijoada de Ogum connects ancestry and agroecology in São Paulo*
+### 74. Feijoada de Ogum, São Paulo merkezindeki MST alanında atalarla bağlantı ve agroekolojiyi bir araya getiriyor
+*Feijoada de Ogum connects ancestry and agroecology at MST space in São Paulo*
 
-Brasil de Fato, Feijoada de Ogum adlı etkinliğin MST üyelerini ve terreiro topluluklarını kültürel direniş ve gıda güvenliğini tartışmak üzere bir araya getirdiğini bildiriyor.
+Brasil de Fato'nun haberine göre, Feijoada de Ogum adlı etkinlik MST üyelerini ve terreiro topluluklarını kültürel direniş ve gıda güvenliğini tartışmak üzere bir araya getirdi.
 
-*Brasil de Fato reports that an event called Feijoada de Ogum brought together MST members and terreiro communities to discuss cultural resistance and food security.*
+*An event called Feijoada de Ogum brought together MST members and terreiro communities to discuss cultural resistance and food security, as reported by Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/feijoada-de-ogum-conecta-ancestralidade-e-agroecologia-em-espaco-do-mst-no-centro-de-sp/)  *2026-04-25 21:04* — Feijoada de Ogum conecta ancestralidade e agroecologia em espaço do MST no centro de SP
 
 ---
 
-### 64. MST, Lula ve Alckmin'in katılımıyla süt tozu fabrikası inşaatını başlatıyor
-*MST launches milk powder factory construction with Lula and Alckmin*
-
-Brasil de Fato, MST'nin Andradina, São Paulo'da bir süt tozu fabrikasının inşaatına başlayacağını ve etkinliğe Başkan Yardımcısı Geraldo Alckmin ile Tarımsal Kalkınma Bakanı'nın katılacağını bildiriyor.
-
-*Brasil de Fato reports that the MST will launch the construction of a milk powder factory in Andradina, São Paulo, with Vice President Geraldo Alckmin and Minister of Agrarian Development attending.*
-
-**Kaynaklar / Sources:**
-- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/mst-lanca-construcao-de-fabrica-de-leite-em-po-no-interior-de-sp-com-participacao-de-lula-e-alckmin-nesta-segunda-27/)  *2026-04-25 20:38* — MST lança construção de fábrica de leite em pó no interior de SP com participação de Lula e Alckmin nesta segunda (27)
-
----
-
-### 65. Kolombiya'da bombalı saldırıda yedi kişi öldü, 20'den fazla kişi yaralandı
+### 75. Kolombiya'da bombalı saldırı: yedi ölü, 20'den fazla yaralı
 *Bomb attack kills seven, wounds over 20 in Colombia*
 
-Brasil de Fato, Kolombiya'nın Cauca kentindeki Cajibío'da düzenlenen bombalı saldırıda en az yedi kişinin öldüğünü ve 20'den fazla kişinin yaralandığını bildiriyor. Bir silindir bomba, Pan-Amerikan Karayolu'nda bir otobüse isabet etti.
+Brasil de Fato'nun haberine göre, Kolombiya'nın Cauca bölgesindeki Cajibío'da Cumartesi günü düzenlenen bombalı saldırıda en az yedi kişi öldü, 20'den fazla kişi yaralandı. Panamerikan Otoyolu'nda bir silindir bomba bir otobüse isabet etti.
 
-*Brasil de Fato reports that a bomb attack in Cajibío, Cauca, Colombia killed at least seven people and wounded over 20. A cylinder bomb hit a bus on the Pan-American Highway.*
+*At least seven people were killed and more than 20 wounded in a bomb attack on Saturday in Cajibío, Cauca department, Colombia. A cylinder bomb hit a bus on the Pan-American Highway, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/atentado-com-bomba-deixa-sete-mortos-e-mais-de-20-feridos-na-colombia/)  *2026-04-25 19:59* — Atentado com bomba deixa sete mortos e mais de 20 feridos na Colômbia
 
 ---
 
-### 66. São Paulo'da Favela do Moinho sergisi ve konut mücadelesi üzerine tartışma
+### 76. Favela do Moinho sergisi ve São Paulo'da konut mücadelesi üzerine tartışma
 *Favela do Moinho exhibition and debate on housing struggle in São Paulo*
 
-Brasil de Fato, Favela do Moinho'nun tahliye sürecinin birinci yılı dolayısıyla düzenlenen etkinliğin Bixiga'daki Al Janiah'da bir belgesel gösterimi, dijital arşiv ve fotoğraf sergisi içerdiğini bildiriyor.
+Brasil de Fato'nun haberine göre, Favela do Moinho'nun tahliye sürecinin birinci yılı dolayısıyla düzenlenecek etkinlikte São Paulo Bixiga'daki Al Janiah'da bir belgesel gösterimi, dijital arşiv ve fotoğraf sergisi yer alacak.
 
-*Brasil de Fato reports that an event marking one year since the eviction process of Favela do Moinho includes a documentary launch, digital archive, and photo exhibition at Al Janiah in Bixiga.*
+*An event marking one year since the eviction process of Favela do Moinho will feature a documentary launch, digital archive, and photo exhibition at Al Janiah in Bixiga, São Paulo, as reported by Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/favela-do-moinho-e-tema-de-exposicao-e-debate-sobre-luta-por-moradia-neste-sabado-no-al-janiah-em-sp/)  *2026-04-25 19:03* — Favela do Moinho é tema de exposição e debate sobre luta por moradia neste sábado no Al Janiah, em SP
 
 ---
 
-### 67. Açıklayıcı: Nadir toprak elementleri, stratejik ve kritik mineraller arasındaki farklar
-*Explainer: Differences between rare earths, strategic and critical minerals*
+### 77. Nadir toprak elementleri, stratejik ve kritik mineraller: farklar açıklandı
+*Rare earths, strategic and critical minerals: differences explained*
 
-Brasil de Fato, nadir toprak elementleri, stratejik mineraller ve kritik mineraller arasındaki farkları, jeopolitik ve küresel ekonomideki farklı rollerine dikkat çekerek açıklayan bir yazı yayımladı.
+Brasil de Fato, nadir toprak elementleri, stratejik mineraller ve kritik mineraller arasındaki farkları açıklıyor; bunların jeopolitik ve küresel ekonomide, özellikle enerji dönüşümünde farklı roller oynadığını belirtiyor.
 
-*Brasil de Fato published an explainer on the differences between rare earths, strategic minerals, and critical minerals, noting their distinct roles in geopolitics and the global economy.*
+*Brasil de Fato explains the differences between rare earths, strategic minerals, and critical minerals, noting their distinct roles in geopolitics and the global economy, particularly for energy transition.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/terras-raras-minerais-estrategicos-e-criticos-entenda-as-diferencas/)  *2026-04-25 18:45* — Terras raras, minerais estratégicos e críticos: entenda as diferenças
 
 ---
 
-### 68. Lula, São Paulo'nun Andradina kentinde MST kooperatifinde etkinliğe katılacak
-*Lula to attend MST cooperative event in Andradina, São Paulo*
-
-Brezilya Devlet Başkanı Luiz Inácio Lula da Silva, 27 Nisan Pazartesi günü São Paulo'nun Andradina kentinde Topraksız İşçi Hareketi'ne (MST) bağlı COAPAR kooperatifinde bir etkinliğe katılacak. Etkinlikte, Brezilya genelinde aile çiftçiliğini güçlendirmeye yönelik bir dizi eylem paketi açıklanacak.
-
-*Brazilian President Luiz Inácio Lula da Silva will attend an event at the COAPAR cooperative, linked to the Landless Workers' Movement (MST), in Andradina, São Paulo, on Monday, April 27. The event will announce a package of actions to strengthen family farming across Brazil.*
-
-**Kaynaklar / Sources:**
-- [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/25/ato-com-o-presidente-lula-no-interior-de-sp-em-andradina-sera-em-cooperativa-do-mst-nessa-segunda-feira-27-04/)  *2026-04-25 17:28* — Ato com o presidente Lula no interior de SP, em Andradina, será em Cooperativa do MST nessa segunda-feira 27/04.
-
----
-
-### 69. Sendika, São Paulo polisinin Paulista'da 1 Mayıs mitingini yasaklamasını eleştirdi
+### 78. Sendika, São Paulo polisinin 1 Mayıs mitingini Paulista'da yasaklamasını eleştirdi
 *Union criticizes São Paulo police for banning May Day rally on Paulista*
 
-Conlutas sendika merkezi, São Paulo Askeri Polisi'nin 1 Mayıs mitinglerini Avenida Paulista'da yasaklarken Bolsonaro yanlısı grupların bölgeyi kullanmasına izin vermesini eleştirdi. Sendika, kararı keyfi ve işçi haklarının ihlali olarak nitelendirdi.
+Brasil de Fato'nun haberine göre, Conlutas sendikası São Paulo Askeri Polisi'nin 1 Mayıs mitinglerini Paulista Caddesi'nde yasaklayıp Bolsonaro destekçilerinin orada toplanmasına izin vermesini eleştirerek kararı keyfi ve işçi haklarının ihlali olarak nitelendirdi.
 
-*The Conlutas union central criticized the São Paulo Military Police for banning May Day rallies on Avenida Paulista while allowing Bolsonaro-supporting groups to use the location. The union called the decision arbitrary and a violation of workers' rights.*
+*The Conlutas union criticized São Paulo's Military Police for banning May Day rallies on Paulista Avenue while allowing Bolsonaro supporters to gather there, calling the decision arbitrary and a violation of workers' rights, as reported by Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/desrespeito-ao-trabalhador-diz-dirigente-sindical-sobre-veto-da-pm-ao-1o-de-maio-na-paulista-e-liberacao-para-grupos-bolsonaristas/)  *2026-04-25 17:11* — ‘Desrespeito ao trabalhador’, diz dirigente sindical sobre veto da PM ao 1º de Maio na Paulista e liberação para grupos bolsonaristas
 
 ---
 
-### 70. Çin'deki toplum kantinleri, yaşlılara uygun fiyatlı yemek sağlamayı hedefliyor
-*China's community canteens aim to provide affordable meals for elderly*
+### 79. Çin'deki toplum kantinleri yaşlılara uygun fiyatlı yemek sağlıyor
+*China's community canteens provide affordable meals for elderly*
 
-Çin'de 60 yaş ve üzeri 320 milyondan fazla insan var, bu nüfusun %23'üne denk geliyor. Hükümet, hızlı yaşlanmayı ele almak için kantinler de dahil olmak üzere bir toplum hizmetleri ağı kuruyor.
+Çin'de 60 yaş ve üzeri 320 milyondan fazla insan var, bu nüfusun %23'üne denk geliyor. Hükümet, yaşlılar için uygun fiyatlı kantinler de dahil olmak üzere bir toplum hizmetleri ağı inşa ediyor.
 
-*China has over 320 million people aged 60 or older, 23% of the population. The government is building a network of community services, including canteens, to address rapid aging.*
+*China has over 320 million people aged 60 or older, 23% of the population. The government is building a network of community services including affordable canteens for the elderly.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/cantinas-comunitarias-na-china-como-o-pais-busca-garantir-refeicoes-acessiveis-para-a-terceira-idade/)  *2026-04-25 16:00* — Cantinas comunitárias na China: como o país busca garantir refeições acessíveis para a terceira idade
 
 ---
 
-### 71. Brezilya PT partisi, yapay zeka ile oluşturulan profil hakkında erken kampanya ve dezenformasyon nedeniyle dava açtı
-*Brazil's PT party sues AI-generated profile for early campaign and disinformation*
+### 80. Brezilya PT partisi, yapay zeka ile oluşturulan profil nedeniyle erken seçim propagandası için dava açtı
+*Brazil's PT party sues over AI-generated profile for early campaign propaganda*
 
-PT parti federasyonu, federal hükümeti eleştiren içerik yaymak için kullanılan yapay zeka ile oluşturulmuş 'Dona Maria' adlı sanal karaktere karşı Yüksek Seçim Mahkemesi'ne yasal başvuruda bulundu.
+PT federasyonu, federal hükümeti eleştiren içerikler yaymak için kullanılan yapay zeka ile oluşturulmuş 'Dona Maria' adlı sanal karaktere karşı Yüksek Seçim Mahkemesi'ne dava açtı.
 
-*The PT party federation has taken legal action to the Superior Electoral Court against a virtual character named 'Dona Maria', created with AI, used to spread content critical of the federal government.*
+*The PT federation filed a lawsuit with the Superior Electoral Court against a virtual character named 'Dona Maria' created with AI, used to disseminate content critical of the federal government.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/pt-pv-e-pcdob-pedem-suspensao-de-perfil-de-ia-dona-maria-por-propaganda-antecipada-e-desinformacao/)  *2026-04-25 15:47* — PT vai à Justiça contra perfil ‘Dona Maria’, criado com IA, por propaganda eleitoral antecipada e desinformação
 
 ---
 
-### 72. Venezuela, Maduro ve Cilia Flores'in savunması için devlet fonlarını kullanma yetkisi aldı
-*Venezuela authorized to use state funds for Maduro and Cilia Flores defense*
+### 81. Venezuela, ABD davasında Maduro ve Cilia Flores'in hukuki savunmasını finanse etme yetkisi aldı
+*Venezuela authorized to fund Maduro and Cilia Flores' legal defense in US case*
 
-Venezuela, yaptırımların gevşetilmesinin ardından New York'taki bir davada Başkan Nicolás Maduro ve First Lady Cilia Flores'in savunmasını finanse etmek için devlet kaynaklarını kullanabilir.
+Venezuela, yaptırımların gevşetilmesinin ardından New York'taki bir yargı sürecinde Başkan Nicolás Maduro ve first lady Cilia Flores'in savunmasını finanse etmek için devlet kaynaklarını kullanabilecek.
 
-*Venezuela may use state resources to finance the defense of President Nicolás Maduro and First Lady Cilia Flores in a New York court case, following the relaxation of sanctions.*
+*Venezuela may use state resources to finance the defense of President Nicolás Maduro and first lady Cilia Flores in a judicial process in New York, following the relaxation of sanctions.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/venezuela-obtem-autorizacao-para-custear-defesa-de-maduro-e-cilia-flores/)  *2026-04-25 15:24* — Venezuela obtém autorização para custear defesa de Maduro e Cilia Flores
 
 ---
 
-### 73. Brezilya, tahmin platformlarında finansal olmayan bahisleri yasakladı
+### 82. Brezilya, tahmin platformlarında finansal olmayan bahisleri yasakladı
 *Brazil bans non-financial bets on prediction platforms*
 
-Mayıs ayından itibaren Brezilya'da tahmin piyasası platformlarında spor, siyaset ve eğlence gibi konularda bahisler yasaklanıyor. Ulusal Para Konseyi tarafından onaylanan önlem, düzenleyici bir boşluğu kapatmayı amaçlıyor.
+Mayıs ayından itibaren Brezilya'da tahmin piyasası platformlarında spor, siyaset ve eğlence gibi konularda bahisler yasaklanıyor. Önlem, düzenleyici bir boşluğu kapatmayı amaçlıyor.
 
-*Starting in May, bets on topics like sports, politics and entertainment are prohibited on prediction market platforms in Brazil. The measure, approved by the National Monetary Council, aims to close a regulatory loophole.*
+*Starting in May, bets on topics like sports, politics and entertainment are prohibited on prediction market platforms in Brazil. The measure aims to close a regulatory loophole.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/apostas-nao-financeiras-em-plataformas-de-previsoes-sao-proibidas/)  *2026-04-25 14:20* — Apostas não financeiras em plataformas de previsões são proibidas
 
 ---
 
-### 74. Grupo João Teimoso, Recife'de özel Sarau das Artes ile 25. yılını kutluyor
+### 83. Grupo João Teimoso, Recife'de özel Sarau das Artes ile 25. yılını kutluyor
 *Grupo João Teimoso celebrates 25 years with special Sarau das Artes in Recife*
 
-Etkinlik, müzik, tiyatro, sirk, dans, performans ve şiir dahil olmak üzere yaklaşık 30 gösteri içeriyor.
+Etkinlikte müzik, tiyatro, sirk, dans, performans ve şiir dahil yaklaşık 30 gösteri yer alıyor.
 
 *The event features around 30 attractions including music, theater, circus, dance, performance and poetry.*
 
@@ -912,7 +1015,7 @@ Etkinlik, müzik, tiyatro, sirk, dans, performans ve şiir dahil olmak üzere ya
 
 ---
 
-### 75. Nisan 1974 Devrimi: Avrupa'nın en ileri anayasasında direniş ve mücadele
+### 84. Nisan 1974 Devrimi: Avrupa'nın en ileri anayasasında direniş ve mücadele
 *April 1974 Revolution: resistance and struggle in Europe's most advanced constitution*
 
 25 Nisan 1974 Devrimi, 48 yıllık bir diktatörlüğün çöküşünü işaret etti ve ileri bir anayasaya yol açan dekolonizasyon, demokratikleşme ve sosyal kalkınmayı tetikledi.
@@ -924,235 +1027,202 @@ Etkinlik, müzik, tiyatro, sirk, dans, performans ve şiir dahil olmak üzere ya
 
 ---
 
-### 76. Çin küresel enerji dönüşümüne liderlik ediyor, dünya elektrik kapasitesinin %30'una sahip
+### 85. Çin küresel enerji dönüşümünde lider, dünya elektrik kapasitesinin %30'una sahip
 *China leads global energy transition, holds 30% of world's electric capacity*
 
-Çin'in elektrik kapasitesi 4 milyar kW'a ulaştı ve dışişleri bakanı Güneydoğu Asya'yı ziyaret ediyor. CATL, 6 dakikalık hızlı şarj sunuyor. Sanyuesan çok etnikli festivali de kaydedildi.
+Çin'in elektrik kapasitesi 4 milyar kW'a ulaştı. Dışişleri bakanı Güneydoğu Asya'yı ziyaret ediyor; CATL 6 dakikalık hızlı şarj tanıtıyor; Sanyuesan çok etnikli festival düzenleniyor.
 
-*China's electric capacity reaches 4 billion kW, and the foreign minister visits Southeast Asia. CATL introduces 6-minute fast charging. The Sanyuesan multi-ethnic festival is also noted.*
+*China's electric capacity reaches 4 billion kW. The foreign minister visits Southeast Asia; CATL introduces 6-minute fast charging; Sanyuesan multi-ethnic festival held.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/colunista/noticias-da-china/2026/04/25/china-lidera-transicao-energetica-global-e-concentra-30-da-capacidade-eletrica-mundial/)  *2026-04-25 14:00* — China lidera transição energética global e concentra 30% da capacidade elétrica mundial
 
 ---
 
-### 77. İran Dışişleri Bakanı ABD ile ateşkes için taleplerini iletti
-*Iran's foreign minister delivers demands for ceasefire with US*
+### 86. İran Dışişleri Bakanı ABD ile ateşkes taleplerini iletti
+*Iranian foreign minister delivers demands for ceasefire with US*
 
-İran Dışişleri Bakanı, Pakistan'da diplomatik bir tura başlayarak ABD ile ateşkes taleplerini sundu. Tahran, görüşmelerin yeniden başlaması için liman kısıtlamalarının kaldırılmasında ısrar ediyor.
+Brasil de Fato'ya göre, İran Dışişleri Bakanı İslamabad'da bir ziyarete başladı ve ABD ile görüşmelerin yeniden başlaması için liman kısıtlamalarının kaldırılmasını talep etti.
 
-*Iran's foreign minister began a diplomatic tour in Pakistan, presenting demands for a ceasefire with the United States. Tehran insists on the lifting of port restrictions to resume talks.*
+*Iran's foreign minister began a trip in Islamabad, demanding the lifting of port restrictions to resume talks with the US, according to Brasil de Fato.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/25/com-delegacao-no-paquistao-ira-reafirma-que-rompimento-do-bloqueio-naval-e-condicao-para-retomar-negociacoes-com-os-eua/)  *2026-04-25 13:37* — Chanceler do Irã entrega exigências para acordo de cessar-fogo com os EUA e deixa o Paquistão
 
 ---
 
-### 78. Breziya İşçi Partisi mali reform, egemenlik ve katılım öneriyor
-*Brazil's Workers' Party proposes fiscal reform, sovereignty, participation*
+### 87. Brezilya İşçi Partisi 8. Kongresi'ni düzenliyor, demokrasi ve taban seferberliğine odaklanıyor
+*Brazil's Workers' Party holds 8th Congress, focuses on democracy and base mobilization*
 
-Breziya İşçi Partisi'nin (PT) 8. Kongresi'nde koordinatör Cristiano Silveira, iç istişarelerle oluşturulan ve mali reform, egemenlik ve halk katılımına odaklanan bir siyasi program önerisi sundu.
+Brezilya İşçi Partisi (PT), 8. Ulusal Kongresi'ni düzenleyerek mali reform, egemenlik ve halk katılımına odaklanan bir siyasi program sundu. Parti, tarihi militanlar Sônia Braga ve Clara Charf'ı onurlandırdı ve 2026 seçimleri öncesinde partiyi güçlendirmek için taban çekirdekleri oluşturmak üzere bir platform başlattı.
 
-*At the 8th Congress of Brazil's Workers' Party (PT), coordinator Cristiano Silveira presented a political program proposal focusing on fiscal reform, sovereignty, and popular participation, built through internal consultations.*
+*Brazil's Workers' Party (PT) held its 8th National Congress, presenting a political program focused on fiscal reform, sovereignty, and popular participation. The party honored historical militants Sônia Braga and Clara Charf, and launched a platform to form grassroots nuclei to strengthen the party ahead of the 2026 elections.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/proposta-de-programa-do-pt-foca-em-reforma-fiscal-soberania-e-participacao-popular/)  *2026-04-25 00:39* — Proposta de programa do PT foca em reforma fiscal, soberania e participação popular
-
----
-
-### 79. PT, kongrede tarihi militanlar Sônia Braga ve Clara Charf'ı onurlandırdı
-*PT honors historical militants Sônia Braga and Clara Charf at congress*
-
-Breziya İşçi Partisi'nin 8. Kongresi'nin açılışında, tarihi isimler Sônia Braga ve Clara Charf partiye katkılarından dolayı onurlandırıldı.
-
-*During the opening of the 8th Congress of Brazil's Workers' Party, historical figures Sônia Braga and Clara Charf were honored for their contributions to the party.*
-
-**Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/militantes-historicas-sonia-braga-e-clara-charf-sao-homenageadas-no-8o-congresso-do-pt/)  *2026-04-25 00:35* — Militantes históricas, Sônia Braga e Clara Charf são homenageadas no 8º Congresso do PT
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/pt-aposta-na-atuacao-de-base-para-fortalecer-partido-e-lanca-plataforma-para-formar-nucleos/)  *2026-04-24 22:39* — PT aposta na atuação de base para fortalecer partido e lança plataforma para formar núcleos
+- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/pt-destaca-defesa-da-democracia-e-reconstrucao-do-pais-como-metas-centrais/)  *2026-04-24 22:25* — PT destaca defesa da democracia e reconstrução do país como metas centrais
 
 ---
 
-### 80. Venezuela ve Kolombiya enerji, turizm ve suçla mücadele gündemini ilerletiyor
-*Venezuela and Colombia advance binational agenda on energy, tourism, crime*
+### 88. Venezuela ve Kolombiya ikili entegrasyon gündemini ilerletiyor
+*Venezuela and Colombia advance binational integration agenda*
 
-ABD saldırısından bu yana ilk devlet ziyaretinde Kolombiya Devlet Başkanı Gustavo Petro, Venezuela Başkan Yardımcısı Delcy Rodríguez ile bir araya gelerek enerji entegrasyonu, turizm ve suçla mücadele konularında ikili işbirliğini ilerletti.
+Venezuela ve Kolombiya, Kolombiya Devlet Başkanı Gustavo Petro'nun Venezuela Başkan Yardımcısı Delcy Rodríguez ile görüşmek üzere yaptığı devlet ziyareti sırasında enerji entegrasyonu, turizm ve suçla mücadeleyi kapsayan ikili bir gündemi ilerletti.
 
-*During his first state visit since the US attack, Colombian President Gustavo Petro met with Venezuelan Vice President Delcy Rodríguez to advance binational cooperation on energy integration, tourism, and crime fighting.*
+*Venezuela and Colombia advanced a binational agenda covering energy integration, tourism, and crime fighting during a state visit by Colombian President Gustavo Petro to meet Venezuelan Vice President Delcy Rodríguez.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/venezuela-e-colombia-avancam-em-agenda-binacional-de-integracao-energetica-turismo-e-combate-ao-crime/)  *2026-04-25 00:11* — Venezuela e Colômbia avançam em agenda binacional de integração energética, turismo e combate ao crime
 
 ---
 
-### 81. Breziyalı rapçi Hiran, homofobi albümü sonrası ölüm tehditleri alıyor
-*Brazilian rapper Hiran receives death threats after album on homophobia*
+### 89. Brezilyalı rapçi Hiran, homofobiyi ifşa eden albümünün ardından ölüm tehditleri alıyor
+*Brazilian rapper Hiran receives death threats after album exposing homophobia*
 
-Bahialı rapçi Hiran, homofobi, yabancı düşmanlığı ve Brezilya rapinde LGBT+ sanatçıların karşılaştığı zorlukları ele alan 'Imundo' albümünün yayınlanmasının ardından homofobik saldırılar ve ölüm tehditleri aldığını bildirdi.
+Brezilyalı rapçi Hiran, Brezilya rapinde homofobi, yabancı düşmanlığı ve LGBT+ sanatçıların karşılaştığı zorlukları ele alan 'Imundo' albümünü yayınladıktan sonra homofobik saldırılar ve ölüm tehditleri aldığını bildirdi.
 
-*Bahia-based rapper Hiran reported homophobic attacks and death threats after releasing his album 'Imundo', which addresses homophobia, xenophobia, and challenges faced by LGBT+ artists in Brazilian rap.*
+*Brazilian rapper Hiran reported homophobic attacks and death threats after releasing the album 'Imundo', which addresses homophobia, xenophobia, and difficulties faced by LGBT+ artists in Brazilian rap.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/rapper-hiran-sofre-ameacas-apos-lancar-disco-que-expoe-homofobia-no-rap/)  *2026-04-24 23:27* — Rapper Hiran sofre ameaças após lançar disco que expõe homofobia no rap
 
 ---
 
-### 82. Ermeni soykırımı 111. yılında Türk inkârıyla anılıyor
-*Armenian genocide marks 111 years amid Turkish denial, researcher says*
+### 90. Ermeni soykırımı, Türkiye'nin inkâr çabaları ortamında anıldı
+*Armenian genocide commemorated amid Turkish denial efforts*
 
-Bir milyondan fazla kişinin ölümüne yol açan Ermeni soykırımı 111. yılını doldurdu. Araştırmacı Mariana Boujikian, Türkiye'nin süregelen inkârı karşısında uluslararası tanınmanın önemini vurguladı.
+Ermeni soykırımının 111. yıldönümü anıldı; araştırmacı Mariana Boujikian, Türkiye'nin devam eden inkârı karşısında uluslararası tanınmanın önemini vurguladı.
 
-*The Armenian genocide, which killed over one million people, marks 111 years. Researcher Mariana Boujikian emphasized the importance of international recognition amid ongoing denial by Turkey.*
+*The 111th anniversary of the Armenian genocide was commemorated, with researcher Mariana Boujikian emphasizing the importance of international recognition amid ongoing denial by Turkey.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/com-mais-de-1-milhao-de-mortos-genocidio-armenio-completa-111-anos-em-meio-a-tentativa-de-apagamento-por-parte-da-turquia/)  *2026-04-24 22:53* — Com mais de 1 milhão de mortos, genocídio Armênio completa 111 anos em meio a tentativa de apagamento por parte da Turquia
 
 ---
 
-### 83. Breziya PT'si taban örgütlenmesini güçlendirmek için platform başlattı
-*Brazil's PT launches platform to strengthen grassroots organization*
-
-Breziya İşçi Partisi (PT), yerel çekirdekler oluşturarak taban varlığını genişletme, militanlığı entegre etme ve 2026 seçimlerine hazırlanma stratejisi başlattı.
-
-*Brazil's Workers' Party (PT) launched a strategy to expand grassroots presence, integrate militancy, and prepare for the 2026 elections by forming local nuclei.*
-
-**Kaynaklar / Sources:**
-- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/pt-aposta-na-atuacao-de-base-para-fortalecer-partido-e-lanca-plataforma-para-formar-nucleos/)  *2026-04-24 22:39* — PT aposta na atuação de base para fortalecer partido e lança plataforma para formar núcleos
-
----
-
-### 84. Analist, Trump'ın finans piyasalarını etkilemek için savaş anlatısı kullandığını söylüyor
+### 91. Analist, Trump'ın finans piyasalarını etkilemek için savaş anlatısı kullandığını söylüyor
 *Analyst says Trump uses war narrative to impact financial markets*
 
-Bir analist, ABD-İran savaşı sona erdirme müzakerelerinin yakında sonuçlanmasının beklenmediğini ve Başkan Trump'ın finans piyasalarını etkilemek için savaş anlatısı kullandığını belirtti. Pakistan diyalogda kilit rol oynuyor.
+Bir analist, ABD Başkanı Donald Trump'ın finans piyasalarını etkilemek için savaş anlatısı kullandığını belirtti; ABD ve İran arasındaki müzakereler kısa vadeli bir çözüm olmaksızın devam ediyor. Pakistan diyalogda önemli bir aktör olarak ortaya çıktı.
 
-*An analyst stated that US-Iran negotiations for ending the war are unlikely to conclude soon, and that President Trump uses war narrative to influence financial markets. Pakistan is playing a key role in dialogue.*
+*An analyst stated that US President Donald Trump uses a war narrative to impact financial markets, as negotiations between the US and Iran continue without a short-term resolution. Pakistan has emerged as an important actor in the dialogue.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/trump-usa-narrativa-da-guerra-para-impactar-o-mercado-financeiro-diz-analista/)  *2026-04-24 22:28* — Trump usa narrativa da guerra para impactar o mercado financeiro, diz analista
 
 ---
 
-### 85. PT, demokrasi savunması ve ülkenin yeniden inşasını hedef olarak vurguluyor
-*PT highlights defense of democracy and national reconstruction as goals*
-
-Breziya İşçi Partisi'nin 8. Kongresi'nde üyeler, mevcut siyasi anı tartışarak demokrasi savunması ve ulusal egemenliği merkezi hedefler olarak vurguladı.
-
-*At the 8th Congress of Brazil's Workers' Party, members discussed the current political moment, emphasizing defense of democracy and national sovereignty as central goals.*
-
-**Kaynaklar / Sources:**
-- [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/pt-destaca-defesa-da-democracia-e-reconstrucao-do-pais-como-metas-centrais/)  *2026-04-24 22:25* — PT destaca defesa da democracia e reconstrução do país como metas centrais
-
----
-
-### 86. MAM São Paulo ve MAMAM Recife kültürel arabuluculuk üzerine toplantı düzenliyor
+### 92. MAM São Paulo ve MAMAM Recife kültürel arabuluculuk toplantısı düzenliyor
 *MAM São Paulo and MAMAM Recife hold meeting on cultural mediation*
 
-São Paulo Modern Sanat Müzesi ve Recife'deki Aloísio Magalhães Modern Sanat Müzesi, sanat, eğitim ve küratörlük alanlarından profesyonelleri bir araya getirerek kültürel arabuluculuk ve bilgi üretimini tartışmak üzere bir etkinlik düzenliyor.
+São Paulo Modern Sanat Müzesi ve Recife'deki Aloísio Magalhães Modern Sanat Müzesi, kültürel arabuluculuk ve bilgi üretimi üzerine bir toplantı düzenliyor. Etkinlik, sanat, eğitim ve küratörlük alanlarında deneyimli profesyonelleri bir araya getiriyor.
 
-*The Museum of Modern Art of São Paulo and the Museum of Modern Art Aloísio Magalhães in Recife are promoting an event bringing together professionals in art, education, and curation to discuss cultural mediation and knowledge production.*
+*The Museum of Modern Art of São Paulo and the Museum of Modern Art Aloísio Magalhães in Recife are organizing a meeting on cultural mediation and knowledge production. The event brings together professionals with backgrounds in art, education, and curation.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/mam-sao-paulo-e-mamam-recife-promovem-encontro-sobre-mediacao-cultural-e-producao-de-conhecimento/)  *2026-04-24 22:01* — MAM São Paulo e MAMAM Recife promovem encontro sobre mediação cultural e produção de conhecimento
 
 ---
 
-### 87. Sábados Resistentes projesi hafıza, demokrasi ve insan haklarını tartışıyor
-*Sábados Resistentes project debates memory, democracy and human rights*
+### 93. Sábados Resistentes projesi bellek, demokrasi ve insan haklarını tartışıyor
+*Sábados Resistentes project debates memory, democracy, and human rights*
 
-15 yılı aşkın süredir São Paulo'daki Memorial da Resistência'da düzenlenen 'Sábados Resistentes' projesi, hafıza, demokrasi ve insan haklarını tartışmak üzere ücretsiz girişli toplantılar sunuyor.
+15 yılı aşkın süredir São Paulo merkezindeki Memorial da Resistência'da düzenlenen 'Sábados Resistentes' projesi, bellek, demokrasi ve insan haklarını tartışmak için ücretsiz toplantılar sunuyor.
 
-*The 'Sábados Resistentes' project, held for over 15 years at the Memorial da Resistência in São Paulo, offers free-entry meetings to debate memory, democracy, and human rights.*
+*The 'Sábados Resistentes' project, held for over 15 years at the Memorial da Resistência in central São Paulo, offers free-entry meetings to debate memory, democracy, and human rights.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/projeto-sabados-resistentes-e-espaco-para-debater-memoria-democracia-e-direitos-humanos/)  *2026-04-24 21:47* — Projeto ‘Sábados Resistentes’ é espaço para debater memória, democracia e direitos humanos
 
 ---
 
-### 88. Brezilya Temsilciler Meclisi, 6x1 çalışma düzenini azaltan PEC'i analiz etmek için komisyon kurdu
-*Brazilian Chamber creates commission to analyze PEC reducing 6x1 work schedule*
+### 94. Motta, 6x1 çalışma düzenini azaltan PEC'i incelemek üzere komisyon kurdu
+*Motta creates commission to analyze PEC reducing 6x1 work schedule*
 
-Brezilya Temsilciler Meclisi Başkanı Hugo Motta, mevcut 6x1 çalışma düzenini azaltmayı amaçlayan Anayasa Değişikliği Teklifi 221/19'u analiz etmek üzere özel bir komisyon kurdu. Teklifin kabul edilebilirliği daha önce Anayasa ve Adalet Komisyonu tarafından onaylanmıştı.
+Brezilya Temsilciler Meclisi Başkanı Hugo Motta, Cuma günü (24) haftalık çalışma süresinin azaltılmasını düzenleyen Anayasa Değişikliği Teklifi (PEC) 221/19'u incelemek üzere özel bir komisyon kuran bir kararname yayımladı. Teklifin kabul edilebilirliği daha önce Anayasa ve Adalet Komisyonu'nda onaylanmıştı.
 
-*Brazil's Chamber of Deputies President Hugo Motta established a special commission to analyze Constitutional Amendment Proposal 221/19, which aims to reduce the workweek from the current 6x1 schedule. The proposal's admissibility was previously approved by the Constitution and Justice Committee.*
+*Brazilian Chamber of Deputies President Hugo Motta issued an act on Friday (24) creating a special commission to analyze Constitutional Amendment Proposal (PEC) 221/19, which addresses reducing the workweek. The proposal's admissibility had been approved in the Constitution and Justice Committee.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/motta-cria-comissao-para-analisar-pec-da-reducao-da-escala-6x1/)  *2026-04-24 21:40* — Motta cria comissão para analisar PEC da redução da escala 6X1
 
 ---
 
-### 89. Kadınlar, kadın düşmanlığını suç sayan yasa tasarısının oylaması için Brasília'da baskı yapıyor
+### 95. Brasília'da kadınlar, kadın düşmanlığını suç sayan yasa tasarısının oylaması için baskı yapmak üzere harekete geçti
 *Women mobilize in Brasília to pressure vote on misogyny criminalization bill*
 
-Kadınlar, Meclis Başkanı Hugo Motta'yı kadın düşmanlığını suç sayan yasa tasarısını oylamaya çağırmak için Brasília'da TV Kulesi'nde toplanıyor. Bu hareket, onlarca şehirdeki ulusal bir çabanın parçası.
+Kadınlar, Cumartesi günü (25) saat 10'da Brasília'daki Torre de TV'de, onlarca şehirde eş zamanlı gerçekleşecek bir eylem için bir araya geliyor. Ulusal hareket, Meclis Başkanı Hugo Motta'ya kadın düşmanlığını suç sayan yasa tasarısını oylamaya sunması için baskı yapmayı hedefliyor.
 
-*Women are gathering in Brasília on Saturday at the TV Tower to pressure Chamber President Hugo Motta to schedule a vote on a bill that criminalizes misogyny. The mobilization is part of a national effort across dozens of cities.*
+*Women are gathering on Saturday (25) at 10 a.m. at the Torre de TV in Brasília for an act that will occur simultaneously in dozens of cities. The national mobilization aims to pressure Chamber President Hugo Motta to schedule a vote on the bill that criminalizes misogyny.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/mobilizacao-de-mulheres-no-df-pressiona-votacao-de-projeto-que-criminaliza-misoginia/)  *2026-04-24 21:23* — Mobilização de mulheres no DF pressiona votação de projeto que criminaliza misoginia
 
 ---
 
-### 90. Rio Grande do Sul'da 1 Mayıs etkinlikleri mücadele, fuar ve festivali birleştiriyor
-*May Day events in Rio Grande do Sul combine struggle, fair and festival*
+### 96. Rio Grande do Sul'da 1 Mayıs mitingleri mücadele, fuar ve kutlamayı birleştiriyor
+*May Day rallies in Rio Grande do Sul combine struggle, fair, and celebration*
 
-Rio Grande do Sul'daki beş büyük şehir, 6x1 çalışma düzeninin sona erdirilmesi, çalışma saatlerinin azaltılması, kamu hizmetlerinin savunulması ve kadın cinayetlerinin sona erdirilmesi gibi işçi taleplerinin yanı sıra fuar ve festival içeren 1 Mayıs etkinlikleri düzenleyecek.
+Rio Grande do Sul'daki beş büyük şehir—Porto Alegre, Pelotas, Caxias do Sul, Santa Maria ve Passo Fundo—farklı bir 1 Mayıs etkinliği düzenleyecek. 6x1 çalışma düzeninin sona erdirilmesi, çalışma saatlerinin azaltılması, kamu hizmetlerinin savunulması ve kadın cinayetlerinin sona erdirilmesi gibi işçi taleplerinin yanı sıra etkinlikte fuar ve kutlama da yer alacak.
 
-*Five major cities in Rio Grande do Sul will hold May Day events featuring workers' demands such as ending the 6x1 work schedule, reducing work hours, defending public services, and ending femicides, along with a fair and festival.*
+*Five major cities in Rio Grande do Sul—Porto Alegre, Pelotas, Caxias do Sul, Santa Maria, and Passo Fundo—will hold a different May Day event. In addition to workers' demands such as ending the 6x1 schedule, reducing work hours, defending public services, and ending femicides, the event will also feature a fair and celebration.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/1o-de-maio-reune-luta-feira-e-festa-pelo-rio-grande-do-sul/)  *2026-04-24 21:19* — 1º de Maio reúne luta, feira e festa pelo Rio Grande do Sul
 
 ---
 
-### 91. Casa Luiz Gama, kölelik karşıtını onurlandırıyor, São Paulo'da siyah kültürünü destekliyor
-*Casa Luiz Gama honors abolitionist, promotes Black culture in São Paulo*
+### 97. Casa Luiz Gama, kölelik karşıtını onurlandırıyor, São Paulo merkezinde Siyah kültürünü destekliyor
+*Casa Luiz Gama honors abolitionist, promotes Black culture in central São Paulo*
 
-São Paulo, Campos Elíseos'taki Casa Luiz Gama kültürel ve politik alanı, kölelik karşıtı Luiz Gama'nın mirasını onurlandırarak siyah kültürünü, eğitimi ve halk örgütlenmesini teşvik ediyor.
+Campos Elíseos'taki kültürel ve politik alan Casa Luiz Gama, kültür, eğitim ve halk örgütlenmesini teşvik ederek kölelik karşıtı Luiz Gama'nın mirasını onurlandırıyor.
 
-*The Casa Luiz Gama cultural and political space in Campos Elíseos, São Paulo, promotes Black culture, education, and popular organization, honoring the legacy of abolitionist Luiz Gama.*
+*The cultural and political space Casa Luiz Gama in Campos Elíseos promotes culture, education, and popular organization, honoring the legacy of abolitionist Luiz Gama.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/casa-luiz-gama-homenageia-abolicionista-e-promove-atividades-de-valorizacao-da-cultura-negra-no-centro-de-sp/)  *2026-04-24 21:05* — Casa Luiz Gama homenageia abolicionista e promove atividades de valorização da cultura negra no centro de SP
 
 ---
 
-### 92. Kadın cinayeti kurbanının kızı kimlik, sanat ve toplumsal cinsiyet şiddetiyle yüzleşme üzerine düşünüyor
-*Daughter of femicide victim reflects on identity, art and facing gender violence*
+### 98. Kadın cinayeti: 'Yetim için bu, ömür boyu sürecek uzun bir yolculuğun başlangıcıdır'
+*Femicide: 'For the orphan, it is the beginning of a long journey that lasts a lifetime'*
 
-Kadın cinayeti kurbanı Eliane de Grammont'un kızı Lili, deneyimini kimlik, sanat ve toplumsal cinsiyete dayalı şiddetle yüzleşme yolları üzerine bir düşünceye dönüştürüyor.
+Eliane de Grammont'un kızı Lili, kadın cinayeti deneyimini kimlik, sanat ve toplumsal cinsiyete dayalı şiddetle mücadele yolları üzerine bir düşünceye dönüştürüyor.
 
-*Lili, daughter of Eliane de Grammont who was a victim of femicide, transforms her experience into a reflection on identity, art, and ways to confront gender-based violence.*
+*Lili, daughter of Eliane de Grammont, transforms the experience of femicide into a reflection on identity, art, and ways to confront gender-based violence.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/feminicidio-para-o-orfao-e-o-comeco-de-uma-longa-travessia-que-dura-a-vida-toda/)  *2026-04-24 20:46* — Feminicídio: ‘Para o órfão, é o começo de uma longa travessia que dura a vida toda’
 
 ---
 
-### 93. Sol Nascente'den tahliye edilen aileler protesto sonrası kalıcı konut elde etti
-*Evicted families from Sol Nascente secure permanent housing after protest*
+### 99. Sol Nascente'de tahliye edilen aileler aylarca süren gecikmenin ardından kalıcı konutlara kavuştu
+*Evicted families in Sol Nascente secure permanent housing after months of delay*
 
-Brasília'da Sol Nascente'den şiddetle tahliye edilen aileler, binanın lobisinde 10 gün süren bir işgalin ardından Codhab'dan kalıcı konut aldı. Teslimat, tahliyeden bir yıl sonra gerçekleşti.
+Sol Nascente'deki şiddetli tahliyeden bir yıl sonra, Federal Bölge Konut Geliştirme Şirketi (Codhab) aileleri barındıracak bir siteyi teslim etti. Bu başarı, anahtarlar ve bir taahhütname teslim edilene kadar binanın lobisinde 10 gün süren bir işgalin ardından geldi.
 
-*Families violently evicted from Sol Nascente in Brasília received permanent housing from Codhab after a 10-day occupation of the building's lobby. The delivery came a year after the eviction.*
+*One year after a violent eviction in Sol Nascente, the Housing Development Company of the Federal District (Codhab) delivered a condominium to house the families. The achievement came after a 10-day occupation of the building's lobby until keys and a term of commitment were handed over.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/familias-despejadas-do-sol-nascente-df-conquistam-moradia-definitiva-com-meses-de-atraso-pela-codhab/)  *2026-04-24 20:18* — Famílias despejadas do Sol Nascente (DF) conquistam moradia definitiva com meses de atraso pela Codhab
 
 ---
 
-### 94. Glifosat güvenliği üzerine referans çalışma 25 yıl sonra geri çekildi
+### 100. Glifosat güvenliği üzerine referans çalışma 25 yıl sonra geri çekildi
 *Landmark glyphosate safety study retracted after 25 years*
 
-Glifosat herbisitinin güvenliğini doğrulayan referans bir çalışma, yayınlanmasından 25 yıl sonra geri çekildi. Geri çekme, kimyasalın güvenliği hakkında soru işaretleri yaratıyor.
+Topraksız Köylü Hareketi (MST), glifosat herbisitinin güvenliğini doğrulayan referans bir çalışmanın yayınlanmasından 25 yıl sonra geri çekildiğini ve güven kaybına yol açtığını bildiriyor.
 
-*A landmark study attesting to the safety of the herbicide glyphosate has been retracted 25 years after publication. The retraction raises questions about the chemical's safety.*
+*The Landless Workers' Movement (MST) reports that a landmark study attesting to the safety of the herbicide glyphosate has been retracted 25 years after publication, leading to a loss of confidence.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/24/perda-de-confianca/)  *2026-04-24 14:29* — Perda de confiança
 
 ---
 
-### 95. MST, São Paulo'da Feijoada de Ogum etkinliği düzenledi
+### 101. MST, São Paulo'da Feijoada de Ogum etkinliği düzenledi
 *MST organizes Feijoada de Ogum event in São Paulo*
 
 Topraksız Köylü Hareketi (MST), São Paulo'da Feijoada de Ogum etkinliği düzenleyerek, terreiro geleneklerinden kutsal yiyeceklerle dini ve kültürel çeşitliliği vurguladı.
@@ -1164,231 +1234,220 @@ Topraksız Köylü Hareketi (MST), São Paulo'da Feijoada de Ogum etkinliği dü
 
 ---
 
-### 96. Ülkeler Kolombiya konferansında fosil yakıtların aşamalı olarak kaldırılmasını tartışıyor
+### 102. Ülkeler Kolombiya konferansında fosil yakıtların sonlandırılmasını tartışıyor
 *Countries discuss fossil fuel phase-out at Colombia conference*
 
-Kolombiya'daki 1. Fosil Yakıtlardan Uzaklaşma Konferansı'nda ülkeler, fosil yakıt kullanımını sona erdirmenin yollarını tartışıyor. Brezilya, COP30'da bu iddialı hedefi önermişti.
+Brasil de Fato, ülkelerin Kolombiya'daki 1. Fosil Yakıtlardan Uzaklaşma Konferansı'nda, Brezilya'nın COP30'daki önerisinin ardından fosil yakıt kullanımını sona erdirme yolunu tartıştığını bildiriyor.
 
-*At the 1st Conference on Transition Away from Fossil Fuels in Colombia, countries are discussing pathways to end fossil fuel use. Brazil proposed the ambitious goal during COP30.*
+*Brasil de Fato reports that countries are discussing a path to end fossil fuel use at the 1st Conference on the Transition Away from Fossil Fuels in Colombia, following Brazil's proposal at COP30.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/24/em-meio-a-crise-do-petroleo-paises-discutem-na-colombia-caminho-para-o-fim-do-uso-de-combustiveis-fosseis/)  *2026-04-24 09:00* — Em meio à crise do petróleo, países discutem, na Colômbia, caminhos para o fim do uso de combustíveis fósseis
 
 ---
 
-### 97. Belém'deki Kakao Festivali, aile çiftçilerinin sürdürülebilir üretimini vurguluyor
-*Cocoa Festival in Belém highlights sustainable production by family farmers*
+### 103. Kakao Festivali Brezilya'da sürdürülebilir aile çiftçiliğini sergiliyor
+*Cocoa Festival showcases sustainable family farming in Brazil*
 
-Belém'deki 'Festival do Cacau' (Kakao Festivali), 'Chocolat Amazônia' etkinliğinin bir parçası olarak 26 Nisan'a kadar Hangar Kongre Merkezi'nde devam ediyor. Festival, sürdürülebilir üretimin mümkün olduğunu göstermek için aile çiftçilerini bir araya getiriyor.
+Chocolat Amazônia'nın bir parçası olan Kakao Festivali, 26 Nisan'a kadar Belém'deki Hangar Centro de Convenções'de düzenleniyor. Etkinlik, sürdürülebilir kakao üretiminin mümkün olduğunu göstermek için aile çiftçilerini bir araya getiriyor.
 
-*The 'Festival do Cacau' (Cocoa Festival) in Belém, part of the 'Chocolat Amazônia' event, runs until April 26 at the Hangar Convention Center. It brings together family farmers to showcase that sustainable production is possible.*
+*The Festival do Cacau, part of Chocolat Amazônia, is being held until April 26 at the Hangar Centro de Convenções in Belém. The event brings together family farmers to demonstrate that sustainable cocoa production is possible.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/festival-do-cacau-reune-produtores-familiares-e-mostra-que-producao-sustentavel-e-possivel/)  *2026-04-24 01:01* — Festival do Cacau reúne produtores familiares e mostra que produção sustentável é possível
 
 ---
 
-### 98. Brezilya Federal Polisi, Vorcaro müttefikinin ölümüyle ilgili soruşturmayı tamamladı
-*Brazilian Federal Police conclude investigation into death of Vorcaro ally*
+### 104. Brezilya Federal Polisi, Sicário'nun ölümüyle ilgili soruşturmayı tamamladı
+*Brazilian Federal Police conclude investigation into death of Sicário*
 
-Brezilya Federal Polisi, bankacı Daniel Vorcaro'nun ortağı 'Sicário' olarak bilinen Luiz Phillipi Mourão'nun ölümüyle ilgili soruşturmayı tamamladı. Rapor, Mourão'nun 4 Mart'ta intihar ettiğini doğruladı.
+Brezilya Federal Polisi, bankacı Daniel Vorcaro'nun ortağı olarak bilinen Luiz Phillipi Mourão'nun (Sicário) ölümüyle ilgili soruşturmayı tamamladı. Rapor, Sicário'nun 4 Mart'ta intihar ettiğini doğruladı.
 
-*The Brazilian Federal Police concluded an inquiry into the death of Luiz Phillipi Mourão, known as 'Sicário', an associate of banker Daniel Vorcaro. The report confirmed that Mourão took his own life on March 4.*
+*The Brazilian Federal Police concluded an inquiry into the death of Luiz Phillipi Mourão, known as Sicário, an associate of banker Daniel Vorcaro. The report confirmed that Sicário died by suicide on March 4.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/pf-conclui-inquerito-que-apurou-morte-de-sicario-aliado-de-vorcaro/)  *2026-04-24 00:41* — PF conclui inquérito que apurou morte de Sicário, aliado de Vorcaro
 
 ---
 
-### 99. Arjantin, gazetecilerin Casa Rosada'ya girişini casusluk iddiasıyla yasakladı
+### 105. Arjantin, gazetecilerin Casa Rosada'ya girişini yasakladı
 *Argentina bars journalists from Casa Rosada over alleged espionage*
 
-Arjantin hükümeti Perşembe günü, bir televizyon kanalının 'yasadışı casusluk' şüphesi nedeniyle tüm akredite gazetecilerin Casa Rosada'ya erişimini askıya aldı. Tedbir, sözcü Javier Lanari tarafından sosyal medyada duyuruldu.
+Arjantin hükümeti, 23 Nisan'da tüm akredite gazetecilerin Casa Rosada'ya erişimini askıya aldı ve bir televizyon yayıncısının yasadışı casusluk yaptığı şüphesini gerekçe gösterdi. Tedbir, sözcü Javier Lanari tarafından sosyal medyada duyuruldu.
 
-*The Argentine government suspended all accredited journalists' access to the Casa Rosada on Thursday, citing suspected 'illegal espionage' by a television station. The measure was announced by spokesman Javier Lanari on social media.*
+*The Argentine government suspended access for all accredited journalists to the Casa Rosada on April 23, citing suspicions of illegal espionage by a television broadcaster. The measure was announced by spokesman Javier Lanari on social media.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/javier-milei-barra-jornalistas-na-casa-rosada-por-suposta-espionagem/)  *2026-04-24 00:41* — Javier Milei barra jornalistas na Casa Rosada por suposta espionagem
 
 ---
 
-### 100. Latin Amerika egemenliği ve ABD etkisi PT Kongresi tartışmalarına damga vurdu
-*Latin American sovereignty and US influence dominate PT Congress debates*
+### 106. PT Kongresi'nde Latin Amerika egemenliği ve ABD etkisi tartışıldı
+*Latin American sovereignty and US influence debated at PT Congress*
 
-Latin Amerika egemenliği üzerine tartışmalar, Brezilya İşçi Partisi'nin (PT) Brasília'daki 8. Kongresi'nin ilk gününe damgasını vurdu; ABD'nin bölgedeki eylemleri eleştirildi ve seçim süreçleri üzerindeki olası etkiler konusunda uyarılar yapıldı.
+Brezilya İşçi Partisi'nin (PT) Brasília'daki 8. Kongresi'nin ilk gününde Latin Amerika egemenliği tartışıldı, ABD'nin bölgedeki eylemleri eleştirildi ve seçim süreçlerine olası etkiler konusunda uyarılar yapıldı. Uluslararası panel Monica Valente tarafından koordine edildi.
 
-*Debates on Latin American sovereignty marked the first day of the 8th Congress of Brazil's Workers' Party (PT) in Brasília, with criticism of US actions in the region and warnings about potential impacts on electoral processes.*
+*The first day of the 8th Congress of Brazil's Workers' Party (PT) in Brasília featured debates on Latin American sovereignty, with criticism of US actions in the region and warnings about potential impacts on electoral processes. The international panel was coordinated by Monica Valente.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/soberania-latino-americana-e-influencia-dos-eua-marcam-debates-no-1o-dia-do-congresso-do-pt/)  *2026-04-24 00:27* — Soberania latino-americana e influência dos EUA marcam debates no 1º dia do Congresso do PT
 
 ---
 
-### 101. Lübnan-İsrail ateşkesi üç hafta uzatıldı
+### 107. Lübnan-İsrail ateşkesi üç hafta uzatıldı
 *Lebanon-Israel ceasefire extended by three weeks*
 
-Lübnan ve İsrail temsilcileri Perşembe günü Amerika Birleşik Devletleri'nde bir araya gelerek iki ülke arasındaki ateşkesin üç hafta uzatılması konusunda anlaştı.
+Lübnan ve İsrail temsilcileri 23 Nisan'da Amerika Birleşik Devletleri'nde bir araya geldi ve iki ülke arasındaki ateşkesin üç hafta uzatılmasında anlaştı.
 
-*Representatives from Lebanon and Israel met in the United States on Thursday to agree on a three-week extension of the ceasefire between the two countries.*
+*Representatives of Lebanon and Israel met in the United States on April 23 and agreed to extend the ceasefire between the two countries by three weeks.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/cessar-fogo-entre-libano-e-israel-sera-prorrogado-por-tres-semanas/)  *2026-04-24 00:15* — Cessar-fogo entre Líbano e Israel será prorrogado por três semanas
 
 ---
 
-### 102. Recife, ücretsiz evcil hayvan kısırlaştırma ve mikroçip takma için mobil hizmet başlattı
-*Recife launches mobile service for free pet sterilization and microchipping*
+### 108. Recife, evcil hayvanlar için mobil kısırlaştırma ve mikroçip hizmeti başlattı
+*Recife launches mobile spay/neuter and microchipping service for pets*
 
-Recife belediyesi, köpek ve kediler için ücretsiz kısırlaştırma ve mikroçip takma hizmeti sağlayacak 'Castramóvel' mobil hizmetini başlattı. Randevuların Conecta Recife sistemi üzerinden önceden alınması gerekiyor.
+Recife şehri, köpek ve kediler için ücretsiz kısırlaştırma ve mikroçip takma hizmeti sağlayan bir 'Castramóvel' hizmeti başlattı. Randevuların Conecta Recife sistemi üzerinden önceden alınması gerekiyor.
 
-*The Recife city government has launched a 'Castramóvel' mobile service that will provide free sterilization and microchipping for dogs and cats. Appointments must be scheduled in advance through the Conecta Recife system.*
+*The city of Recife has launched a 'Castramóvel' service that provides free spaying/neutering and microchipping for dogs and cats. Appointments must be scheduled in advance through the Conecta Recife system.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/castramovel-comeca-a-circular-pelo-recife-com-agendamento-antecipado-para-microchipagem-e-castracao-gratuita-de-caes-e-gatos/)  *2026-04-23 23:46* — ‘Castramóvel’ começa a circular pelo Recife, com agendamento antecipado para microchipagem e castração gratuita de cães e gatos
 
 ---
 
-### 103. São Paulo'da kadını öldüren Brezilyalı polis memuru görevden uzaklaştırıldı
-*Brazilian police officer suspended for killing woman in São Paulo*
+### 109. Brezilyalı polis memuru bir kadını vurarak öldürmesinin ardından görevden uzaklaştırıldı
+*Brazilian police officer suspended after fatally shooting woman*
 
-Askeri polis memuru Yasmin Ferreira, 3 Nisan'da Thawanna Salmázio'yu vurarak öldürmesinin ardından mahkeme kararıyla görevinden uzaklaştırıldı. Ateşli silah taşıması, tanıklar veya kurbanın ailesiyle iletişim kurması ve izinsiz bölgeyi terk etmesi yasaklandı.
+Askeri polis memuru Yasmin Ferreira, 3 Nisan'da Thawanna Salmázio'yu vurarak öldürmesinin ardından mahkeme kararıyla görevden uzaklaştırıldı. Ateşli silah taşıması, tanıklar ve kurbanın ailesiyle iletişim kurması ve adli izin olmadan bölgeyi terk etmesi yasaklandı.
 
-*Military police officer Yasmin Ferreira was suspended from her duties by court order after shooting and killing Thawanna Salmázio on April 3. She is prohibited from carrying a firearm, contacting witnesses or the victim's family, and leaving the district without authorization.*
+*Military police officer Yasmin Ferreira was suspended from duty by court order after shooting and killing Thawanna Salmázio on April 3. She is prohibited from carrying a firearm, contacting witnesses or the victim's family, and leaving the district without judicial authorization.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/pm-que-atirou-e-matou-mulher-em-sp-e-suspensa-da-funcao/)  *2026-04-23 23:14* — PM que atirou e matou mulher em SP é suspensa da função
 
 ---
 
-### 104. İngiltere'nin ergenlere sigara yasağı tarihi ve ilham verici olarak nitelendirildi
-*UK ban on cigarettes for adolescents called historic and inspiring*
+### 110. Doktor, İngiltere'nin ergenlere sigara satışı yasağını tarihi olarak nitelendirdi
+*UK ban on cigarette sales to adolescents called historic by doctor*
 
-Doktor Margareth Dalcolmo, İngiltere'nin ergenlere sigara yasağını tarihi ve ilham verici bir önlem olarak övdü. Gençlerin beş gün içinde bağımlı hale gelebileceğini açıkladı.
+Doktor Margareth Dalcolmo, İngiltere'nin ergenlere sigara satışı yasağını tarihi ve ilham verici bir önlem olarak övdü. 17 yaşındakilerin beş gün içinde bağımlı hale gelebileceğini açıkladı.
 
-*Doctor Margareth Dalcolmo praised the UK's ban on cigarettes for adolescents as a historic and inspiring measure. She explained that teenagers can become addicted within five days.*
+*Doctor Margareth Dalcolmo praised the UK's ban on cigarette sales to adolescents as a historic and inspiring measure. She explained that 17-year-olds can become addicted within five days.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/medida-historica-e-inspiradora-diz-medica-sobre-proibicao-de-cigarros-para-adolescentes-no-reino-unido/)  *2026-04-23 23:09* — ‘Medida histórica e inspiradora’, diz médica sobre proibição de cigarros para adolescentes no Reino Unido
 
 ---
 
-### 105. Brezilya'da muhalefet 6x1 çalışma düzeninin sona ermesini geciktirecek
-*Opposition to delay end of 6x1 work schedule in Brazil*
+### 111. Brezilya Muhalefeti 6x1 Çalışma Düzeninin Sona Ermesini Geciktirecek, Konuyu Seçimlerde Kullanacak
+*Brazilian Opposition to Delay End of 6x1 Work Schedule, Use Issue for Elections*
 
-Brasil de Fato, siyaset bilimci Paulo Niccoli Ramirez'in muhalefetin 6x1 çalışma düzeninin sona ermesini geciktireceğini ancak konuyu seçim malzemesi yapmaya çalışacağını söylediğini bildiriyor. Hızlı onay için tek şansın yürütmeden gelecek bir proje olduğunu savunuyor.
+Siyaset bilimci Paulo Niccoli Ramirez, muhalefetin 6x1 çalışma düzeninin sona ermesini geciktireceğini ancak konuyu seçimlerde kullanacağını söylüyor. Hızlı onay için tek şansın tasarının yürütmeden gelmesi olduğunu savunuyor.
 
-*Brasil de Fato reports that political scientist Paulo Niccoli Ramirez says the opposition will delay approval of ending the 6x1 work schedule but will seek electoral gain from the issue. He argues the only chance for quick approval is if the bill comes from the executive branch.*
+*Political scientist Paulo Niccoli Ramirez says the opposition will delay approval of ending the 6x1 work schedule, but will use the issue for electoral gain. He argues the only chance for quick approval is if the bill comes from the executive branch.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/oposicao-vai-atrasar-aprovacao-de-fim-da-escala-6x1-mas-vai-querer-fazer-uso-eleitoral-analisa-cientista-politico/)  *2026-04-23 22:52* — Oposição vai atrasar aprovação de fim da escala 6×1, mas vai querer fazer uso eleitoral, analisa cientista político
 
 ---
 
-### 106. Analist: Lübnan İsrail karşısında zayıflıyor, ABD-İran anlaşmasını zayıflatıyor
-*Lebanon weakened by Israel, undermining US-Iran deal, analyst says*
+### 112. Analist: Lübnan İsrail Karşısında Zayıflıyor, ABD-İran Anlaşmasını Zayıflatıyor
+*Lebanon Weakens Before Israel, Undermines US-Iran Deal, Analyst Says*
 
-Brasil de Fato, uluslararası ilişkiler uzmanının Lübnan'ın İsrail karşısında zayıfladığını ve bunun ABD-İran anlaşmasını zayıflattığını söylediğini bildiriyor. İsrail ve Lübnan arasındaki görüşmeler Washington'da devam ediyor ve olası bir anlaşma sinyali var.
+Uluslararası ilişkiler uzmanı, Lübnan'ın İsrail karşısındaki kırılganlığının ABD-İran anlaşmasını zayıflattığını söylüyor. İsrail ve Lübnan arasındaki görüşmeler Washington'da sürerken, İran-ABD müzakereleri Hürmüz Boğazı nedeniyle tıkanmış durumda.
 
-*Brasil de Fato reports that an international relations analyst says Lebanon is being weakened by Israel, which undermines the US-Iran agreement. Talks between Israel and Lebanon are ongoing in Washington, with a possible deal signaled.*
+*An international relations analyst says Lebanon's fragility before Israel undermines the US-Iran agreement. Talks between Israel and Lebanon continue in Washington, while Iran-US negotiations remain stalled over the Strait of Hormuz.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/libano-se-fragiliza-diante-de-israel-e-enfraquece-acordo-entre-eua-e-ira-avalia-internacionalista/)  *2026-04-23 22:27* — Líbano se fragiliza diante de Israel e enfraquece acordo entre EUA e Irã, avalia internacionalista
 
 ---
 
-### 107. Kitap, kredi ve taksitli alışverişin sosyal hareketlilik yanılsaması yarattığını inceliyor
-*Book examines how credit and installment buying create illusion of social mobility*
+### 113. Kitap, Kredi ve Taksitli Alışverişin Sosyal Hareketlilik Yanılsaması Yarattığını İnceliyor
+*Book Examines How Credit and Installment Buying Created Illusion of Social Mobility*
 
-Brasil de Fato, tüketim odaklı bir toplumda kredi ve taksitli alışverişin, sahip olunanların sosyal statüyü belirlediği bir ortamda nasıl sosyal hareketlilik yanılsaması yarattığını tartışan bir kitabı haber veriyor.
+Bir kitap, artan kredi ve taksitli alışverişin çevre nüfusun tüketim mallarına erişmesini sağlayarak tüketim odaklı bir toplumda sosyal yükseliş yanılsaması yarattığını analiz ediyor.
 
-*Brasil de Fato reports on a book that discusses how credit and installment buying have created an illusion of social mobility in a consumption-driven society, where possessions often determine social status.*
+*A book analyzes how increased credit and installment purchasing allowed peripheral populations to access consumer goods, creating an illusion of social ascent in a consumption-driven society.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/23/pobre-de-iphone-livro-fala-como-credito-e-compra-parcelada-criaram-ilusao-de-ascensao-social/)  *2026-04-23 22:05* — Pobre de iPhone? Livro fala como crédito e compra parcelada criaram ilusão de ascensão social
 
 ---
 
-### 108. Porto Alegre Belediye Meclisi protestolar eşliğinde Kentsel ve Sürdürülebilir İmar Planı'nı onayladı
-*Porto Alegre City Council approves Urban and Sustainable Master Plan amid protests*
+### 114. Porto Alegre Belediye Meclisi Protestolar Eşliğinde Kentsel ve Sürdürülebilir İmar Planını Onayladı
+*Porto Alegre City Council Approves Urban and Sustainable Master Plan Amid Protests*
 
-Brasil de Fato, Porto Alegre Belediye Meclisi'nin protestolar eşliğinde 22 kabul ve 12 ret oyuyla Kentsel ve Sürdürülebilir İmar Planı'nı (PDUS) onayladığını bildiriyor. Plan mevcut imar planını yürürlükten kaldırıyor.
+Porto Alegre Belediye Meclisi, Kentsel ve Sürdürülebilir İmar Planı'nı (PDUS) hükümet koalisyonunun 22 oyuna karşı muhalefetin 12 oyuyla onayladı. Plan mevcut imar planını yürürlükten kaldırıyor.
 
-*Brasil de Fato reports that the Porto Alegre City Council approved the Urban and Sustainable Master Plan (PDUS) on Thursday with 22 votes in favor and 12 against, amid protests. The plan revokes the current master plan.*
+*Porto Alegre's City Council approved the Urban and Sustainable Master Plan (PDUS) with 22 votes from the government coalition against 12 opposition votes. The plan revokes the current master plan.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/sob-protestos-camara-municipal-aprovou-o-plano-diretor-urbano-e-sustentavel-de-porto-alegre/)  *2026-04-23 21:51* — Sob protestos, Câmara Municipal aprovou o Plano Diretor Urbano e Sustentável de Porto Alegre
 
 ---
 
-### 109. Brezilya Yüksek Mahkemesi, polis müdahalesi sonucu kör olan fotoğrafçıya tazminat ödenmesine hükmetti
-*Brazil's Supreme Court rules on state duty to compensate blinded photographer*
+### 115. Brezilya Yüksek Mahkemesi Polis Ateşiyle Kör Olan Fotoğrafçı İçin Devletin Sorumluluğuna Karar Veriyor
+*Brazil Supreme Court Rules on State Liability for Photographer Blinded by Police*
 
-Brasil de Fato, Brezilya Yüksek Federal Mahkemesi'nin (STF) bir protesto sırasında polis ateşi sonucu görme yetisini kaybeden bir fotoğrafçının tazminatına ilişkin devletin hukuki sorumluluğunu yargıladığını bildiriyor.
+Brezilya Yüksek Mahkemesi, bir fotoğrafçının protesto sırasında polis ateşi sonucu görme yetisini kaybettiği davada devletin hukuki sorumluluğunu değerlendiriyor.
 
-*Brasil de Fato reports that Brazil's Supreme Federal Court (STF) is judging the state's civil liability in a case where a photographer lost his vision due to a police shooting during a protest.*
+*Brazil's Supreme Court is judging the state's civil liability in a case where a photographer lost his vision due to a police shooting during a protest.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/stf-julga-dever-do-estado-em-indenizar-fotografo-que-ficou-cego-por-acao-da-pm/)  *2026-04-23 21:40* — STF julga dever do Estado em indenizar fotógrafo que ficou cego por ação da PM
 
 ---
 
-### 110. Petrolina'da özel imtiyaz sonrası açık kanalizasyon için kamuoyu dinlemesi
-*Public hearing in Petrolina on open sewage after private concession*
+### 116. Petrolina'da Özel Şirkete Devredilen Kanalizasyon İçin Açık Kanalizasyon Üzerine Kamuoyu Toplantısı Yapıldı
+*Petrolina Holds Public Hearing on Open Sewage After Concession to Private Company*
 
-Brasil de Fato, kanalizasyon sisteminin özel bir şirkete devredilmesinin ardından Petrolina, Pernambuco'da açık kanalizasyon sorunlarıyla ilgili bir kamuoyu dinlemesi yapılacağını bildiriyor. Dinleme, meclis üyesi Gilmar Santos tarafından çağrıldı.
+Pernambuco'daki Petrolina'da, kanalizasyon sisteminin özel bir şirkete devredilmesinin ardından açık kanalizasyon sorunuyla ilgili bir kamuoyu toplantısı yapıldı. Toplantı meclis üyesi Gilmar Santos tarafından düzenlendi.
 
-*Brasil de Fato reports that a public hearing will be held in Petrolina, Pernambuco, regarding open sewage issues after the sewage system was concessioned to a private company. The hearing was called by councilman Gilmar Santos.*
+*A public hearing was held in Petrolina, Pernambuco, regarding open sewage after the sewage system was conceded to a private company. The meeting was convened by councilman Gilmar Santos.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/com-esgoto-concedido-a-empresa-privada-petrolina-pe-tem-audiencia-publica-nesta-quinta-feira-sobre-rejeitos-a-ceu-aberto/)  *2026-04-23 21:24* — Com esgoto concedido a empresa privada, Petrolina (PE) tem audiência pública nesta quinta-feira sobre rejeitos a céu aberto
 
 ---
 
-### 111. Brezilya İnternet Sivil Hakları Çerçevesi'nin 12 yılı bize bugün ne söylüyor?
-*What 12 years of Brazil's Internet Civil Rights Framework tells us today*
+### 117. Brezilya İnternet Medeni Haklar Çerçevesi'nin 12 Yılı Bize Bugünün İnterneti Hakkında Ne Söylüyor?
+*What 12 Years of Brazil's Internet Civil Rights Framework Tells Us About the Internet Today*
 
-Brasil de Fato, Brezilya İnternet Sivil Hakları Çerçevesi'nin (Marco Civil da Internet) onaylanmasından bu yana geçen 12 yılın, internet yönetimindeki değişiklikler ve toplumsal dönüşüme hizmet eden bir ağ mücadelesi üzerine bir analiz yayınlıyor.
+Brezilya İnternet Medeni Haklar Çerçevesi'nin onaylanmasının üzerinden 12 yıl geçtikten sonra, internet yönetişimindeki değişiklikler ve dönüştürücü hedeflere hizmet eden bir ağ mücadelesi üzerine bir analiz yapılıyor.
 
-*Brasil de Fato publishes an analysis of the 12 years since Brazil's Internet Civil Rights Framework (Marco Civil da Internet) was approved, discussing changes in internet governance and struggles for a network serving social transformation.*
+*An analysis reflects on 12 years since Brazil's Marco Civil da Internet was approved, examining changes in internet governance and the struggles for a network serving transformative goals.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/colunista/diracom-comunicacao-e-democracia/2026/04/23/o-que-12-anos-do-marco-civil-da-internet-nos-diz-sobre-a-internet-hoje/)  *2026-04-23 20:47* — O que 12 anos do Marco Civil da Internet nos diz sobre a internet hoje?
 
 ---
 
-### 112. MST etkinlikler düzenliyor, ödül alıyor ve kitaplar yayımlıyor
-*MST holds events, receives award, and launches books*
+### 118. Brezilya Topraksız İşçi Hareketi etkinlikler düzenliyor ve ödül alıyor
+*Brazil's Landless Workers Movement holds events and receives award*
 
-Brezilya'daki Topraksız Köylü Hareketi (MST), 30 Nisan - 3 Mayıs tarihleri arasında São Paulo'da bir dayanışma kampanyası deneyimi düzenliyor. MST, İspanya'da Uluslararası Köylü Mücadelesi Günü'nde Berta Cáceres Ödülü'nü aldı. Militanlar, Salvador Kitap Bienali'nde iki kitap tanıttı. Bir makale, ilk MST işgalinin 30. yılında toprak haklarını ve yaşamı ele alıyor.
+Brezilya'daki Topraksız İşçi Hareketi (MST), São Paulo'da bir dayanışma kampanyası deneyimi duyurdu, İspanya'da Berta Cáceres Ödülü'nü aldı ve Salvador Kitap Bienali'nde kitap lansmanları düzenledi. Makaleler ayrıca toprak mülkiyeti ve şiddet üzerine düşünceler sundu ve Nisan mücadele ayında örgütlenme çağrısı yaptı.
 
-*The Landless Workers' Movement (MST) in Brazil is holding a solidarity campaign experience in São Paulo from April 30 to May 3. MST received the Berta Cáceres Prize in Spain on the International Day of Peasant Struggle. Militants launched two books at the Salvador Book Biennial. An article reflects on land rights and life 30 years after the first MST occupation.*
+*The Landless Workers' Movement (MST) in Brazil announced a solidarity campaign experience in São Paulo, received the Berta Cáceres Prize in Spain, and held book launches at the Salvador Book Biennial. Articles also reflected on land ownership and violence, and called for organizing during the April struggle month.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/23/maos-solidarias-campanha-do-mst-abre-as-portas-para-sua-primeira-vivencia-em-sao-paulo/)  *2026-04-23 17:10* — Mãos Solidárias, campanha do MST, abre as portas para sua primeira vivência em São Paulo
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/23/mst-recebe-premio-berta-caceres-no-dia-internacional-da-luta-camponesa/)  *2026-04-23 15:12* — MST recebe Prêmio Berta Cáceres no Dia Internacional da Luta Camponesa
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/23/o-latifundio-e-a-vida/)  *2026-04-23 14:13* — O latifúndio e a vida
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/23/militantes-do-mst-fazem-lancamento-na-bienal-do-livro-em-salvador/)  *2026-04-23 14:05* — Militantes do MST fazem lançamento na Bienal do Livro em Salvador
-
----
-
-### 113. Brezilya Topraksız İşçi Hareketi şiddete karşı eylem çağrısı yapıyor
-*Brazil's Landless Workers Movement calls for action against violence*
-
-Topraksız İşçi Hareketi (MST), 'Aromas de Março no Abril de Lutas' serisi kapsamında 'Enfrentar as violências, ocupar e organizar!' başlıklı bir köşe yazısı yayımladı. Yazı, şiddetle yüzleşme ve örgütlenme çağrısı yapıyor.
-
-*The Landless Workers' Movement (MST) published a column titled 'Enfrentar as violências, ocupar e organizar!' as part of its 'Aromas de Março no Abril de Lutas' series. The piece calls for confronting violence and organizing.*
-
-**Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/23/enfrentar-as-violencias-ocupar-e-organizar/)  *2026-04-23 13:51* — Enfrentar as violências, ocupar e organizar!
 
 ---
 
-### 114. Brezilya'dan siyaset, tarih ve İran'a bakış
-*Brazilian perspectives on politics, history, and Iran*
+### 119. Brezilya siyaseti, tarihi ve kültürü makalelerde ele alınıyor
+*Brazilian politics, history, and culture discussed in articles*
 
-Brasil de Fato, Brezilya'nın 2026 seçimleri, İran'ı bal porsuğuna benzeten bir metafor ve 400 yıllık Guarani Cizvit misyonları üzerine bir dizi hakkında makaleler yayınlıyor.
+Brasil de Fato, Brezilya'nın 2026 seçimlerini demokrasi için belirleyici olarak ele alan, İran'ı bal porsuğuna benzeten bir metafor ve Guarani Cizvit misyonlarının 400. yılında yerli direnişini vurgulayan bir dizi makale yayımlıyor.
 
-*Brasil de Fato publishes articles on Brazil's 2026 elections, a metaphor comparing Iran to a honey badger, and a series on 400 years of Guarani Jesuit missions.*
+*Brasil de Fato publishes articles on Brazil's 2026 elections as decisive for democracy, a metaphor comparing Iran to a honey badger, and a series on 400 years of Guarani Jesuit missions highlighting indigenous resistance.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/23/entre-dados-percepcoes-e-narrativas-como-se-decide-o-voto-em-um-pais-sob-tensao/)  *2026-04-23 10:44* — Entre dados, percepções e narrativas: como se decide o voto em um país sob tensão
@@ -1397,193 +1456,216 @@ Brasil de Fato, Brezilya'nın 2026 seçimleri, İran'ı bal porsuğuna benzeten 
 
 ---
 
-### 115. Graciliano Ramos'un romanının yeni baskısı toprak eşitsizliği tartışması başlattı
-*New edition of Graciliano Ramos novel sparks debate on land inequality*
+### 120. Graciliano Ramos, 'latifundio hâlâ toplumsal bir hastalık' olduğu için güncelliğini koruyor
+*Graciliano Ramos remains relevant as 'latifundio still a societal ill'*
 
-Brezilya'da Graciliano Ramos'un klasiği 'São Bernardo'nun yeni baskısı yayımlandı ve edebiyatın toprak mücadeleleri ile yapısal eşitsizliklere nasıl katkı sağlayabileceği tartışıldı.
+Brasil de Fato, Graciliano Ramos'un 'São Bernardo' adlı eserinin yeni baskısının tanıtım etkinliğini ve edebiyatın toprak mücadelelerine ve yapısal eşitsizliklere karşı nasıl katkıda bulunabileceği üzerine bir tartışmayı bildiriyor.
 
-*A new edition of Graciliano Ramos's classic 'São Bernardo' was launched in Brazil, accompanied by a debate on how literature can address land struggles and structural inequalities.*
+*Brasil de Fato reports on a launch event for a new edition of Graciliano Ramos's 'São Bernardo', with a debate on how literature can contribute to land struggles and against structural inequalities.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/graciliano-ramos-permanece-atual-porque-latifundio-ainda-e-mazela-da-sociedade/)  *2026-04-23 01:07* — Graciliano Ramos permanece atual porque ‘latifúndio ainda é mazela da sociedade’
 
 ---
 
-### 116. Brezilya askeri mahkemesi Bolsonaro'nun ordu kayıtlarının açıklanmasına karar verdi
+### 121. Brezilya askeri mahkemesi Bolsonaro'nun ordu kayıtlarının açıklanmasına karar verdi
 *Brazil military court orders release of Bolsonaro's army records*
 
-Brezilya Askeri Yüksek Mahkemesi (STM), eski Devlet Başkanı Jair Bolsonaro'nun talebi üzerine Silahlı Kuvvetler'in askerlik hizmetine ilişkin belgeleri bir davada kullanılmak üzere mahkemeye göndermesine karar verdi.
+Yüksek Askeri Mahkeme (STM) bakanı Carlos Vuyk de Aquino, eski Devlet Başkanı Jair Bolsonaro'nun askerlik hizmetine ilişkin belgelerin Silahlı Kuvvetler tarafından gönderilmesi talebini kabul etti. Belgeler, yaklaşan bir STM davasında kullanılacak.
 
-*Brazil's Superior Military Tribunal (STM) granted former President Jair Bolsonaro's request for the Armed Forces to send documents about his military service to aid in a trial.*
+*Superior Military Tribunal (STM) minister Carlos Vuyk de Aquino granted former President Jair Bolsonaro's request for the Armed Forces to send documents about his military service. The records will be used in an upcoming STM trial.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/stm-autoriza-coleta-de-dados-sobre-trajetoria-de-bolsonaro-no-exercito/)  *2026-04-23 00:24* — STM autoriza coleta de dados sobre trajetória de Bolsonaro no Exército
 
 ---
 
-### 117. Brezilya, karşılıklılık ilkesiyle ABD'li ajanın çalışma iznini iptal etti
-*Brazil revokes US agent's work authorization in reciprocity*
+### 122. Lula, ABD'li delege sınır dışı edildikten sonra karşılıklılık çağrısı yaptı
+*Lula calls for reciprocity after US delegate expelled from Brazil*
 
-Brezilya, bir Brezilyalı delegesinin ABD'den sınır dışı edilmesine karşılık olarak ülkede görev yapan bir ABD'li ajanın çalışma iznini iptal etti. Devlet Başkanı Lula, karşılıklılık ilkesini savundu ve ilişkilerin normale dönmesini umduğunu belirtti.
+Brezilya Devlet Başkanı Luiz Inácio Lula da Silva, Brezilya'da çalışan bir ABD'li ajanın çalışma izninin iptal edilmesinin ardından karşılıklılık ilkesini savundu. Bu, bir Brezilyalı delegenin ABD'den sınır dışı edilmesinin ardından geldi. Lula, ikili ilişkilerin normale dönmesini umduğunu ifade etti.
 
-*Brazil revoked the work authorization of a US agent operating in the country, in response to the expulsion of a Brazilian delegate from the US. President Lula defended the reciprocity and expressed hope for normalization of relations.*
+*Brazilian President Luiz Inácio Lula da Silva defended reciprocity after a US agent working in Brazil had his work authorization revoked. This followed the expulsion of a Brazilian delegate from the United States. Lula expressed hope that bilateral relations would normalize.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/lula-defende-reciprocidade-em-caso-de-delegado-expulso-dos-eua-e-diz-esperar-que-relacao-se-normalize/)  *2026-04-23 00:20* — Lula defende reciprocidade em caso de delegado expulso dos EUA e diz esperar que relação se normalize
 
 ---
 
-### 118. Pará'daki aşırı yağışlar iklim krizi ve altyapı eksikliklerini ortaya çıkardı
+### 123. Pará'da aşırı yağışlar iklim krizini ve altyapı eksikliklerini ortaya çıkardı
 *Extreme rains in Pará expose climate crisis and infrastructure failures*
 
-Brezilya'nın Pará eyaletindeki aşırı yağışlar, iklim krizinin etkilerini ve kentsel altyapıdaki eksiklikleri gözler önüne serdi. Uzmanlar, önlemenin en iyi yol olduğunu belirtiyor.
+Brezilya'nın Pará eyaletindeki aşırı yağışlar, kentsel altyapı eksiklikleri ortamında iklim krizinin etkilerini gözler önüne serdi. Analist Wagner Ribeiro, başkent Belém'deki kentleşme sürecini açıkladı ve önlemenin en iyi yol olduğunu savundu.
 
-*Extreme rainfall in Pará, Brazil, has highlighted the effects of the climate crisis and failures in urban infrastructure. Experts say prevention is the best approach.*
+*Extreme rainfall in Pará, Brazil, has highlighted the effects of the climate crisis amid urban infrastructure shortcomings. Analyst Wagner Ribeiro explained the urbanization process in the capital Belém and argued that prevention is the best approach.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/chuvas-extremas-no-para-expoem-efeitos-da-crise-climatica-diante-de-falhas-em-infraestrutura-urbana/)  *2026-04-23 00:13* — Chuvas extremas no Pará expõem efeitos da crise climática diante de falhas em infraestrutura urbana
 
 ---
 
-### 119. Brezilyalı kaynak: Trump, İran geriliminde ABD hegemonyasının çöküşünü görüyor
-*Trump sees US hegemony collapse amid Iran standoff, Brazilian source says*
+### 124. Küresel ekonomi Trump'ı köşeye sıkıştırıyor, savaşla birlikte ABD hegemonyası çöküyor
+*Global economy cornering Trump as US hegemony collapses amid war*
 
-Brasil de Fato'ya göre, ABD ile İran arasındaki ateşkes uzatmasıyla sonuçlanan çıkmaz, ABD hegemonyasının çöküşünü gösteriyor. Hürmüz Boğazı üzerindeki anlaşmazlık ise gerginliğini koruyor.
+ABD ile İran arasındaki çıkmaz, Pakistan'ın arabuluculuğuyla Çarşamba günü ateşkesin uzatılmasına rağmen çözümden uzak görünüyor. Hürmüz Boğazı'nın kontrolüne ilişkin gerilim tırmanıyor ve mevcut senaryoda savaşın müzakere yoluyla sona ermesi pek olası görünmüyor.
 
-*According to Brasil de Fato, the impasse between the US and Iran, with a ceasefire extension, indicates a collapse of US hegemony. The dispute over the Strait of Hormuz remains tense.*
+*The impasse between the US and Iran, with a ceasefire extension on Wednesday after Pakistan's mediation, appears far from resolution. Tensions over control of the Strait of Hormuz are escalating, and a negotiated end to the war seems unlikely in the current scenario.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/encurralado-pela-economia-global-trump-ve-colapso-da-hegemonia-dos-eua-com-continuidade-da-guerra/)  *2026-04-22 23:53* — Encurralado pela economia global, Trump vê ‘colapso da hegemonia dos EUA’ com continuidade da guerra
 
 ---
 
-### 120. Brezilya'nın MEC Livros platformu 500 binin üzerinde kullanıcı kaydetti
-*Brazil's MEC Livros platform registers over 500,000 users*
+### 125. Analist: Küba'nın sadece dayanışma değil, müttefik ülkelerden sübvansiyona ihtiyacı var
+*Analyst says Cuba needs subsidies from allied countries, not just solidarity*
 
-Brezilya Eğitim Bakanlığı'nın kitap ödünç verme platformu MEC Livros, lansmanından iki hafta sonra 500 binin üzerinde kullanıcı kaydetti ve ücretsiz kitap ödünç verme hizmeti sunuyor.
+Bir programda analistler, ülkelerin ortak eylemini ve Küba'ya sürekli maddi yardım ihtiyacını değerlendirerek, mali sübvansiyonlar olmadan dayanışma açıklamalarının yetersiz olduğunu savundu.
 
-*Brazil's Ministry of Education's book lending platform, MEC Livros, has registered over 500,000 users within two weeks of launch, offering free book loans.*
+*Analysts on a program assessed joint action by countries and the need for continuous material aid to Cuba, arguing that declarations of solidarity are insufficient without financial subsidies.*
+
+**Kaynaklar / Sources:**
+- [Brasil de Fato](https://www.brasildefato.com.br/podcast/o-estrangeiro/2026/04/22/cuba-precisa-de-subsidios-de-paises-aliados-nao-so-de-declaracoes-de-solidariedade-diz-analista/)  *2026-04-22 23:10* — Cuba precisa de subsídios de países aliados, não só de declarações de solidariedade, diz analista
+
+---
+
+### 126. Brezilya'nın MEC Livros ücretsiz kitap platformuna 500 binden fazla kayıt
+*Over 500,000 register on Brazil's MEC Livros free book platform*
+
+Brezilya'nın ücretsiz kitap ödünç veren MEC Livros platformu, lansmanından iki hafta içinde 500 binden fazla kullanıcı kaydetti. Araç, yüksek kullanıcı hacmini birleştiriyor.
+
+*Brazil's MEC Livros platform, which lends publications for free, has registered over 500,000 users within two weeks of launch. The tool consolidates a high volume of users.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/mais-de-500-mil-pessoas-se-cadastram-na-plataforma-mec-livros-site-aluga-livros-gratuitos/)  *2026-04-22 22:46* — Mais de 500 mil pessoas se cadastram na plataforma MEC Livros; site empresta publicações gratuitamente
 
 ---
 
-### 121. Milletvekilleri, GDF'nin BRB mali krizini dış kaynak kullanımına devretme girişimini kınadı
-*Deputies denounce GDF's attempt to outsource BRB financial crisis*
+### 127. Milletvekilleri, GDF'nin BRB mali krizini dış kaynak kullanımına aktarma girişimini kınadı
+*Deputies denounce GDF attempt to outsource BRB financial crisis*
 
-Federal Bölge Yasama Meclisi'ndeki muhalefet milletvekilleri, hükümetin Brasília Bankası'nın (BRB) mali durumuyla ilgili iletişim stratejisini eleştirerek krizi dış kaynak kullanımına devretmeye çalıştığını iddia etti.
+Federal Bölge Yasama Meclisi'ndeki (CLDF) muhalefet milletvekilleri, Brasília Bankası'nın (BRB) mali durumunu tartıştı ve GDF'nin iletişim stratejilerini eleştirdi. Sermaye artırımını onaylayan olağanüstü genel kurulun etkisini analiz ettiler.
 
-*Opposition deputies in the Legislative Chamber of the Federal District criticized the government's communication strategy regarding the financial situation of Banco de Brasília (BRB), accusing it of trying to outsource the crisis.*
+*Opposition deputies in the Legislative Chamber of the Federal District (CLDF) debated the financial situation of Banco de Brasília (BRB) and criticized the GDF's communication strategies. They analyzed the impact of an extraordinary assembly that approved a capital increase.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/quem-afundou-o-brb-foram-eles-deputados-denunciam-tentativa-do-gdf-de-terceirizar-crise-financeira/)  *2026-04-22 22:41* — ‘Quem afundou o BRB foram eles’: deputados denunciam tentativa do GDF de terceirizar crise financeira
 
 ---
 
-### 122. Marcelo Freixo, Flávio Bolsonaro'yu aşırı sağcı ve demokrasi karşıtı olarak nitelendirdi
-*Marcelo Freixo calls Flávio Bolsonaro far-right and anti-democratic*
+### 128. Marcelo Freixo kitap çıkardı ve röportajda Bolsonaro'yu tartıştı
+*Marcelo Freixo launches book and discusses Bolsonaro in interview*
 
-Brasil de Fato, Marcelo Freixo'nun yeni kitabıyla ilgili bir röportajda Flávio Bolsonaro'yu aşırı sağcı ve demokratik kopuşun savunucusu olarak tanımladığını bildiriyor. Freixo'nun kitabı, siyasi tarihini Rio de Janeiro tarihiyle iç içe geçiriyor.
+Brasil de Fato, Marcelo Freixo'nun 'Viver é perigoso' kitabını çıkardığını ve Flávio Bolsonaro'nun aşırı sağcı ve demokratik kopuşun savunucusu olduğunu söylediğini bildiriyor.
 
-*Brasil de Fato reports that Marcelo Freixo, in an interview about his new book, described Flávio Bolsonaro as far-right and a defender of democratic rupture. Freixo's book intertwines his political history with the history of Rio de Janeiro.*
+*Brasil de Fato reports that Marcelo Freixo launched the book 'Viver é perigoso' and stated that Flávio Bolsonaro is far-right and a defender of democratic rupture.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/22/marcelo-freixo-flavio-bolsonaro-e-de-extrema-direita-e-defensor-da-ruptura-democratica/)  *2026-04-22 22:36* — Marcelo Freixo: ‘Flávio Bolsonaro é de extrema direita e defensor da ruptura democrática’
 
 ---
 
-### 123. Casa MEL, kadınlara sığınma ve dönüşüm sunan bir alan
-*Casa MEL space offers shelter and transformation for women*
+### 129. Casa MEL, Rio'da kadınlara barınma ve dönüşüm sağlıyor
+*Casa MEL provides shelter and transformation for women in Rio*
 
-Casa MEL, Instituto e se fosse você? tarafından işletilen, José do Patrocínio, 698 adresinde kadınları merkeze alan sanat, kültür ve direniş faaliyetleri sunan bir alandır. Girişim, kolektif güçlenme yoluyla kadınları özgürleştirmeyi amaçlamaktadır.
+Brasil de Fato, Casa MEL'in Rio de Janeiro'da 'e se fosse você?' enstitüsü tarafından işletilen, kadınlar için bir barınma ve dönüşüm alanı olduğunu bildiriyor.
 
-*Casa MEL, a space run by the Instituto e se fosse você?, provides art, culture, and resistance activities centered on women in José do Patrocínio, 698. The initiative aims to liberate women through collective empowerment.*
+*Brasil de Fato reports that Casa MEL is a space of shelter and transformation for women, run by the institute 'e se fosse você?' in Rio de Janeiro.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/casa-mel-e-um-espaco-de-acolhimento-e-transformacao-para-mulheres/)  *2026-04-22 22:00* — Casa MEL é um espaço de acolhimento e transformação para mulheres
 
 ---
 
-### 124. Brezilya Federal Polisi, ABD göçmenlik ajanının yetkilerini iptal etti
-*Brazil Federal Police revokes credentials of US immigration agent*
+### 130. Brezilya Federal Polisi, ABD göçmenlik ajanının yetkilerini iptal etti
+*Brazilian Federal Police revokes credentials of US immigration agent*
 
-Brezilya Federal Polisi (PF) direktörü Andrei Rodrigues, Brasília'daki PF merkezinde görevli bir ABD göçmenlik ajanının diplomatik yetkilerini iptal etti. Bu adım, ABD hükümetinin bir Brezilya delegesini sınır dışı etme kararına karşılık olarak atılan bir adım olarak tanımlandı.
+Brasil de Fato, Brezilya Federal Polisi genel müdürünün, ABD'nin bir Brezilya delegesini sınır dışı etme kararına karşılık olarak Brasília'daki bir ABD göçmenlik ajanının diplomatik yetkilerini iptal ettiğini bildiriyor.
 
-*Brazil's Federal Police director Andrei Rodrigues revoked the diplomatic credentials of a US immigration agent stationed at the PF headquarters in Brasília. The move was described as a reciprocal act in response to the US government's decision to expel a Brazilian delegate.*
+*Brasil de Fato reports that the director-general of the Brazilian Federal Police revoked the diplomatic credentials of a US immigration agent in Brasília, in reciprocity for the US decision to expel a Brazilian delegate.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/policia-federal-retira-credenciais-de-agente-de-imigracao-dos-eua/)  *2026-04-22 21:42* — Polícia Federal retira credenciais de agente de imigração dos EUA
 
 ---
 
-### 125. Amapá'daki terapi merkezinde zorla çalıştırma ve yardımlara el koyma iddiası
-*Therapeutic community in Amapá accused of forced labor, withholding benefits*
+### 131. Rapor, Amapá'daki terapötik toplulukta zorla çalıştırma ve Bolsa Família'nın alıkonulduğunu ortaya koydu
+*Report finds forced labor and Bolsa Família retention at Amapá therapeutic community*
 
-Ulusal İşkenceyle Mücadele Mekanizması'nın bir raporu, Amapá'nın kırsal kesimindeki bir terapi merkezinin sakinlerini ücretsiz zorla çalıştırdığını ve Bolsa Família yardımlarına el koyduğunu iddia ediyor. Tesiste aktif bir sağlık ekibi bulunmuyor.
+Brasil de Fato, Ulusal İşkenceyle Mücadele Mekanizması'nın bir raporunun, Amapá'da sağlık ekibi bulunmayan bir terapötik toplulukta zorla ücretsiz çalıştırma ve Bolsa Família yardımlarının alıkonulmasını tespit ettiğini bildiriyor.
 
-*A report by the National Mechanism to Combat Torture alleges that a therapeutic community in rural Amapá subjected residents to unpaid forced labor and withheld their Bolsa Família benefits. The facility lacks an active health team.*
+*Brasil de Fato reports that a report by the National Mechanism to Combat Torture found forced unpaid labor and retention of Bolsa Família benefits at a therapeutic community in Amapá, which lacked a health team.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/comunidade-terapeutica-no-amapa-tem-trabalho-forcado-nao-remunerado-e-retem-bolsa-familia-dos-acolhidos-diz-relatorio/)  *2026-04-22 21:19* — Comunidade terapêutica no Amapá tem trabalho forçado não remunerado e retém Bolsa Família dos acolhidos, diz relatório
 
 ---
 
-### 126. Rapor: São Paulo'da devlet ihmali nedeniyle her 19 saatte bir mahkum ölüyor
-*Report: one prisoner dies every 19 hours in São Paulo due to state neglect*
+### 132. Rapor: São Paulo'da devlet ihmali nedeniyle her 19 saatte bir mahkum ölüyor
+*Report: One prisoner dies every 19 hours in São Paulo due to state negligence*
 
-Sivil toplum kuruluşlarının bir raporu, refakat eksikliği nedeniyle 22.000 sağlık randevusunun gerçekleştirilmediğini ve São Paulo'da her 19 saatte bir mahkumun öldüğünü ortaya koyuyor. Raporda koşullar 'işkence incelikleri' olarak tanımlanıyor.
+Sivil toplum kuruluşlarının raporuna göre, refakatçi eksikliği nedeniyle 22 bin sağlık randevusu gerçekleştirilemedi ve São Paulo'da her 19 saatte bir mahkum ölüyor.
 
-*A report by civil society organizations reveals that 22,000 health appointments were not carried out due to lack of escort, leading to a death rate of one prisoner every 19 hours in São Paulo. The report describes conditions as involving 'refinements of torture'.*
+*A report by civil society organizations reveals that 22,000 healthcare appointments were not carried out due to lack of escort, contributing to a death rate of one prisoner every 19 hours in São Paulo.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/requintes-de-tortura-por-negligencia-do-estado-um-preso-morre-a-cada-19-horas-em-sao-paulo/)  *2026-04-22 21:05* — “Requintes de tortura”: por negligência do Estado, um preso morre a cada 19 horas em São Paulo
 
 ---
 
-### 127. Breziya Topraksız Köylü Hareketi kırsal koşulları ve CONAB'ı protesto ediyor
-*Brazil's Landless Workers Movement protests rural conditions and CONAB*
+### 133. Brezilyalı kırsal işçiler terk edilme, uzun çalışma saatleri ve toprak erişimi sorunlarıyla karşı karşıya
+*Brazilian rural workers face abandonment, long hours, and land access issues*
 
-Topraksız Köylü Hareketi (MST), kırsal işçilerin karşılaştığı terk edilme ve toprağa erişim gibi zorlukları vurguluyor. MST ayrıca Ceará'daki CONAB merkezini işgal ederek kötü yönetimi ve aile çiftçiliğine verilen desteğin yetersizliğini protesto etti.
+Brasil de Fato, kırsal işçilerin karşılaştığı terk edilme, ömür boyu süren çalışma günleri ve toprağa erişim gibi zorlukları anlamak için aile çiftçiliğinden liderlerle röportaj yaptı.
 
-*The Landless Workers' Movement (MST) highlights challenges faced by rural workers, including abandonment and land access issues. MST also occupied CONAB's headquarters in Ceará to protest mismanagement and lack of support for family farming.*
+*Brasil de Fato interviewed leaders from family farming to understand the challenges faced by rural workers, including abandonment, lifelong workdays, and access to land.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/22/abandono-jornadas-vitalicias-e-acesso-a-terra-os-desafios-do-trabalhador-e-trabalhadora-rural/)  *2026-04-22 14:24* — Abandono, jornadas vitalícias e acesso à terra: os desafios do trabalhador e trabalhadora rural
+
+---
+
+### 134. Topraksız İşçi Hareketi, Ceará'daki CONAB merkezini işgal etti
+*Landless Workers Movement occupies CONAB headquarters in Ceará*
+
+Topraksız İşçi Hareketi (MST), Brezilya'nın Ceará eyaletindeki Ulusal Tedarik Şirketi (CONAB) merkezini işgal ederek yönetimdeki başarısızlığı, ödeme gecikmelerini ve aile çiftçiliğine yönelik ihmali protesto etti. Grup, toprak reformu ve küçük çiftçilere daha iyi destek talep ediyor.
+
+*The Landless Workers' Movement (MST) occupied the headquarters of the National Supply Company (CONAB) in Ceará, Brazil, to protest alleged mismanagement, payment delays, and neglect of family farming. The group demands agrarian reform and better support for small farmers.*
+
+**Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/22/mst-ocupa-sede-da-conab-no-ceara-em-protesto-pela-reforma-agraria/)  *2026-04-22 14:10* — MST ocupa sede da CONAB no Ceará em protesto pela Reforma Agrária
 
 ---
 
-### 128. Brasil de Fato, Çin'in kırk yılda çölleşmeyi nasıl durdurduğunu açıklıyor
+### 135. Brasil de Fato, Çin'in kırk yılda çölleşmeyi nasıl durdurduğunu anlatıyor
 *Brasil de Fato explains how China curbed desertification over four decades*
 
-Brasil de Fato, Çin'in topraklarının dörtte birinden fazlasını tehdit eden çölleşme sürecini tersine çevirdiğini bildiriyor. 1978'de başlatılan Üç-Kuzey Koruma Ormanı Programı sayesinde ülke, 336.000 kilometrekare çölleşmiş araziyi geri kazandı.
+Brasil de Fato, Çin'in 1978'de başlatılan Üç-Kuzey Barınak Ormanı Programı ile çölleşmeyi tersine çevirme başarısını aktarıyor; program, Almanya büyüklüğünde 336.000 km² çölleşmiş araziyi restore etti.
 
-*Brasil de Fato reports that China reversed a process of desertification that threatened over a quarter of its territory. Through the Three-North Shelter Forest Program launched in 1978, the country recovered 336,000 square kilometers of desertified land.*
+*Brasil de Fato reports on China's success in reversing desertification through the Three-North Shelter Forest Program launched in 1978, which restored 336,000 km² of desertified land, an area comparable to Germany.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/22/bdf-explica-como-a-china-freou-o-avanco-da-desertificacao/)  *2026-04-22 09:00* — BdF Explica: como a China freou o avanço da desertificação
 
 ---
 
-### 129. Brezilya PEC'si ırksal tazminatlar için ulusal fon öneriyor
-*Brazilian PEC proposes national fund for racial reparations*
+### 136. Brezilya tazminat değişikliği, ırksal eşitlik için fon öngörüyor
+*Brazil reparations amendment proposes fund for racial equality*
 
-Brezilya'da önerilen bir anayasa değişikliği (PEC), Ulusal Ekonomik Tazminat ve Irk Eşitliğini Teşvik Fonu oluşturmayı amaçlıyor. Teklif tartışılıyor.
+Brezilya'da 'PEC da Reparação' olarak bilinen anayasa değişikliği önerisi, siyah nüfus için Ulusal Ekonomik Tazminat ve Irksal Eşitliği Teşvik Fonu oluşturmayı amaçlıyor.
 
-*A proposed constitutional amendment (PEC) in Brazil aims to create a National Fund for Economic Reparation and Promotion of Racial Equality. The proposal is under discussion.*
+*A proposed constitutional amendment in Brazil, known as the Reparations PEC, aims to create a National Fund for Economic Reparation and Promotion of Racial Equality for the black population.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/tres-por-quatro/2026/04/21/pec-da-reparacao-o-que-o-estado-brasileiro-deve-ao-povo-negro/)  *2026-04-22 00:05* — PEC da Reparação: o que o Estado brasileiro deve ao povo negro?
 
 ---
 
-### 130. Brezilya Kongresi, 6x1 çalışma düzenini sona erdiren PEC'leri oylayacak
-*Brazilian Congress to vote on PECs ending 6x1 work schedule*
+### 137. Brezilya Kongresi, 6x1 çalışma düzenini sona erdirme önerilerini oylayacak
+*Brazilian Congress to vote on proposals to end 6x1 work schedule*
 
-Brezilya Temsilciler Meclisi Anayasa ve Adalet Komisyonu, 6x1 çalışma düzenini (altı gün çalışma, bir gün izin) sona erdirecek iki anayasa değişikliği teklifini (PEC) oylayacak. Siyaset bilimci Rudá Ricci, değişikliği 'medeniyet projesi' olarak nitelendirdi.
+Brasil de Fato, Brezilya Temsilciler Meclisi'nin 6x1 çalışma düzenine ilişkin iki anayasa değişikliğini (PEC) oylayacağını bildiriyor. Siyaset bilimci Rudá Ricci, 6x1 düzeninin sona erdirilmesini seçim taleplerinden daha acil bir 'medeniyet projesi' olarak tanımladı.
 
-*Brazil's Chamber of Deputies Constitution and Justice Committee is set to vote on two proposed constitutional amendments (PECs) that would end the 6x1 work schedule (six days work, one day off). Political scientist Rudá Ricci called the change a 'civilizational project'.*
+*Brasil de Fato reports that Brazil's Chamber of Deputies is set to vote on two constitutional amendments (PECs) regarding the 6x1 work schedule, which would alter Article 7 of the Constitution. Political scientist Rudá Ricci described ending the 6x1 schedule as a 'civilizational project' more urgent than electoral demands.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/fim-da-escala-6x1-nao-e-uma-questao-de-governo-e-um-projeto-civilizatorio-avalia-cientista-politico/)  *2026-04-21 23:00* — Fim da escala 6×1 não é uma questão de governo, é um ‘projeto civilizatório’, avalia cientista político
@@ -1591,12 +1673,12 @@ Brezilya Temsilciler Meclisi Anayasa ve Adalet Komisyonu, 6x1 çalışma düzeni
 
 ---
 
-### 131. Pakistan'ın talebi üzerine ABD-İran ateşkesi uzatıldı
-*US-Iran ceasefire extended after Pakistan request*
+### 138. Trump, Pakistan talebi üzerine İran ile ateşkesi uzattı
+*Trump extends ceasefire with Iran after Pakistan request*
 
-ABD Başkanı Donald Trump, Pakistanlı yetkililerin talepleri üzerine İran ile ateşkesin uzatıldığını duyurdu. Analistler, ateşkes uzatılmasına rağmen çatışmanın kalıcı olarak sona ermesinin zor olduğunu belirtiyor.
+Brasil de Fato, ABD Başkanı Donald Trump'ın Pakistanlı yetkililerin talepleri üzerine İran ile ateşkesi uzattığını ve planlanan bir saldırıyı askıya aldığını bildiriyor. Analistler, çatışmayı sona erdirecek nihai bir anlaşmanın zor olduğunu belirtiyor.
 
-*US President Donald Trump announced an extension of the ceasefire with Iran after requests from Pakistani authorities. Analysts note that a permanent end to the conflict remains difficult despite the truce extension.*
+*Brasil de Fato reports that US President Donald Trump announced an extension of the ceasefire with Iran after requests from Pakistani authorities, suspending a planned attack. Analysts note that a final agreement to end the conflict remains difficult.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/apesar-de-prorrogacao-do-cessar-fogo-acordo-para-fim-do-conflito-entre-ira-e-eua-e-dificil/)  *2026-04-21 22:33* — Apesar de prorrogação do cessar-fogo, acordo para fim do conflito entre Irã e EUA é difícil
@@ -1604,292 +1686,303 @@ ABD Başkanı Donald Trump, Pakistanlı yetkililerin talepleri üzerine İran il
 
 ---
 
-### 132. Uluslararası Af Örgütü, ABD, İsrail ve Rusya'yı çok taraflılığı baltalamakla suçluyor
-*Amnesty International accuses US, Israel, Russia of undermining multilateralism*
+### 139. Uluslararası Af Örgütü, ABD, İsrail ve Rusya'yı çok taraflılığı baltalamakla suçluyor
+*Amnesty accuses US, Israel, Russia of undermining multilateralism*
 
-Uluslararası Af Örgütü'nün yıllık insan hakları raporu, Amerika Birleşik Devletleri, İsrail ve Rusya'yı çok taraflılığa, uluslararası hukuka ve sivil topluma yönelik yırtıcı saldırılarla suçluyor. Rapor, küresel bir insan hakları değerlendirmesi sunuyor.
+Brasil de Fato, Uluslararası Af Örgütü'nün yıllık raporunda ABD, İsrail ve Rusya'yı çok taraflılığa, uluslararası hukuka ve sivil topluma yönelik yırtıcı saldırılarla suçladığını bildiriyor.
 
-*Amnesty International's annual report on human rights accuses the United States, Israel, and Russia of predatory attacks on multilateralism, international law, and civil society. The report provides a global assessment of human rights.*
+*Brasil de Fato reports that Amnesty International's annual report accuses the United States, Israel, and Russia of predatory attacks on multilateralism, international law, and civil society.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/anistia-acusa-eua-israel-e-russia-de-minar-multilateralismo/)  *2026-04-21 21:52* — Anistia acusa EUA, Israel e Rússia de minar multilateralismo
 
 ---
 
-### 133. Papa XIV. Leo, selefi Francesco'yu ölüm yıldönümünde andı
+### 140. Papa XIV. Leo, selefi Francesco'yu ölüm yıldönümünde andı
 *Pope Leo XIV honors predecessor Francis on death anniversary*
 
-Papa XIV. Leo, selefi Papa Francesco'yu ölümünün birinci yıldönümünde andı. Francesco, 88 yaşında felç ve kalp yetmezliği nedeniyle hayatını kaybetmişti.
+Brasil de Fato, Papa XIV. Leo'nun selefi Papa Francesco'nun ölümünün birinci yıldönümünde ona saygı duruşunda bulunduğunu ve Francesco'nun Kilise'ye katkılarını belirttiğini bildiriyor.
 
-*Pope Leo XIV paid tribute to his predecessor Pope Francis on the first anniversary of his death. Francis died at age 88 due to a stroke and heart failure.*
+*Brasil de Fato reports that Pope Leo XIV paid tribute to his predecessor Pope Francis on the first anniversary of his death, noting Francis' contributions to the Church.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/papa-leao-homenageia-francisco-no-aniversario-de-um-ano-da-morte/)  *2026-04-21 21:38* — Papa Leão homenageia Francisco no aniversário de um ano da morte
 
 ---
 
-### 134. Portekiz Başbakanı yabancı düşmanlığını küçümsüyor, Brezilya bağlarını övüyor
-*Portuguese PM downplays xenophobia, praises Brazil ties*
+### 141. Portekiz Başbakanı yabancı düşmanlığını küçümsedi, Brezilya ile ekonomik ortaklığı övdü
+*Portuguese PM downplays xenophobia, praises economic partnership with Brazil*
 
-Portekiz Başbakanı Luís Montenegro, Lizbon'da Devlet Başkanı Lula ile yaptığı görüşmede Brezilyalılara yönelik yabancı düşmanlığı olaylarını küçümsedi ve Brezilya ile ekonomik ortaklığı vurguladı.
+Portekiz Başbakanı Luís Montenegro, Lizbon'da Devlet Başkanı Luiz Inácio Lula da Silva ile görüşmesinde Brezilyalılara yönelik yabancı düşmanlığı olaylarını küçümsedi ve Brezilya ile ekonomik ortaklığı vurguladı.
 
-*Portuguese Prime Minister Luís Montenegro minimized xenophobic incidents against Brazilians in Portugal and emphasized economic partnership with Brazil during a meeting with President Lula in Lisbon.*
+*Portuguese Prime Minister Luís Montenegro minimized episodes of xenophobia against Brazilians in Portugal and reinforced the economic partnership with Brazil during a meeting with President Luiz Inácio Lula da Silva in Lisbon on Tuesday.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/ao-lado-de-lula-premie-portugues-minimiza-xenofobia-e-elogia-parceria-economica-com-o-brasil/)  *2026-04-21 20:17* — Ao lado de Lula, premiê português minimiza xenofobia e elogia parceria econômica com o Brasil
 
 ---
 
-### 135. İsrail, Filistin evlerini yıkmakla övünen hahama onur veriyor
+### 142. İsrail, Filistin evlerini yıkmakla övünen hahama onur verdi
 *Israel honors rabbi who boasts of demolishing Palestinian homes*
 
-İsrail, aşırılıkçı haham Avraham Zarbiv'i Bağımsızlık Günü kutlamalarında meşale yakmak için seçti. Zarbiv, Gazze'de Filistin evlerini yıkmakla tanınıyor. İnsan hakları aktivistleri, bu seçimin soykırımın kabulü anlamına geldiğini söylüyor.
+Gazze'de sivil evleri buldozerle yıkmakla tanınan aşırılıkçı bir haham, İsrail Bağımsızlık Günü kutlamalarında meşale yakacak. İnsan hakları aktivistleri, bu seçimin soykırımın 'ulusun ruhu' olarak kabul edildiğini simgelediğini söylüyor.
 
-*Israel selected extremist rabbi Avraham Zarbiv to light a torch at Independence Day celebrations. Zarbiv is known for demolishing Palestinian homes in Gaza. Human rights activists say the choice symbolizes acceptance of genocide.*
+*An extremist rabbi known for demolishing civilian homes in Gaza with bulldozers will light a torch at Israel's Independence Day celebration. Human rights activists say the choice symbolizes acceptance of genocide as the 'spirit of the nation.'*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/israel-concede-honraria-a-rabino-que-se-orgulha-de-demolir-casas-palestinas/)  *2026-04-21 19:24* — Israel concede honraria a rabino que se orgulha de demolir casas palestinas
 
 ---
 
-### 136. Anket: Amerikalıların %71'i Trump'ın duygusal dengesi olmadığını söylüyor
+### 143. Anket: Amerikalıların %71'i Trump'ın duygusal dengeden yoksun olduğunu söylüyor
 *Poll: 71% of Americans say Trump lacks emotional balance*
 
-Reuters/Ipsos anketi, Amerikalıların %71'inin Başkan Donald Trump'ın duygusal dengesi olmadığına inandığını ortaya koydu; bu oran Demokratlarda %92'ye çıkıyor. Sadece %26'sı aynı fikirde değil.
+Salı günü yayınlanan Reuters/Ipsos anketi, Amerikalıların %71'inin Başkan Donald Trump'ın duygusal dengeden yoksun olduğuna inandığını, Demokratların %92'sinin bu görüşte olduğunu ortaya koydu.
 
-*A Reuters/Ipsos poll found that 71% of Americans believe President Donald Trump lacks emotional balance, including 92% of Democrats. Only 26% disagreed.*
+*A Reuters/Ipsos poll released Tuesday found that 71% of Americans believe President Donald Trump lacks emotional balance, with 92% of Democrats holding that view.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/pesquisa-indica-que-71-dos-estadunidenses-criticam-trump-por-desequilibrio-emocional/)  *2026-04-21 19:12* — Pesquisa indica que 71% dos estadunidenses criticam Trump por desequilíbrio emocional
 
 ---
 
-### 137. Tarihçi, Tiradentes'in Brezilya'daki kahraman statüsünü açıklıyor
-*Historian explains Tiradentes' hero status in Brazil*
+### 144. Tarihçi, Tiradentes'in Brezilya'da neden kahraman olduğunu açıklıyor
+*Historian explains why Tiradentes became a hero in Brazil*
 
-Tarihçi André Figueiredo, Tiradentes'in, içinde yer aldığı hareket hiç gerçekleşmemesine rağmen Brezilya'da nasıl ulusal kahraman haline geldiğini açıklıyor.
+Tarihçi André Figueiredo, Tiradentes'in Brezilya'da kahraman statüsüne yükseltilmesine yol açan ayrıntıları açıklıyor.
 
-*Historian André Figueiredo explains how Tiradentes became a national hero in Brazil, despite the movement he was part of never materializing.*
+*Historian André Figueiredo explains details that led to Tiradentes being elevated to hero status in Brazil.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/21/tiradentes-o-heroi-de-um-movimento-que-nao-saiu-do-papel/)  *2026-04-21 19:00* — Tiradentes: o herói de um movimento que não saiu do papel
 
 ---
 
-### 138. Çin, Brezilya, Meksika ve İspanya'nın Küba ambargosunun kaldırılması çağrısını destekliyor
-*China backs Brazil, Mexico, Spain call to end Cuba embargo*
+### 145. Çin, Brezilya, Meksika ve İspanya'nın Küba ablukasının sona ermesi çağrısını destekliyor
+*China backs Brazil, Mexico, Spain call to end Cuba blockade*
 
-Çin, ABD'nin Küba ambargosunun sona ermesi çağrısını yineledi ve Brezilya, Meksika ve İspanya'nın Küba'daki insani krizle ilgili ortak bildirisine destek verdi. Dışişleri Bakanlığı sözcüsü Guo Jiakun, Pekin'de bu tutumu açıkladı.
+Çin, ABD'nin Küba'ya uyguladığı ekonomik ablukanın sona ermesi çağrısını yineledi ve Brezilya, Meksika ve İspanya'nın Küba'daki insani krizle ilgili ortak bildirisine destek verdi. Pozisyon, Pekin'de Dışişleri Bakanlığı sözcüsü Guo Jiakun tarafından açıklandı.
 
-*China reiterated its call for an end to the US embargo on Cuba and expressed support for a joint declaration by Brazil, Mexico, and Spain on the humanitarian crisis in Cuba. Foreign Ministry spokesman Guo Jiakun stated the position in Beijing.*
+*China reiterated its call for an end to the U.S. economic blockade of Cuba and expressed support for a joint declaration by Brazil, Mexico, and Spain on the humanitarian crisis in Cuba. The position was stated by Foreign Ministry spokesman Guo Jiakun in Beijing.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/china-apoia-declaracao-de-brasil-mexico-e-espanha-e-exige-fim-do-bloqueio-a-cuba/)  *2026-04-21 16:45* — China apoia declaração de Brasil, México e Espanha e exige fim do bloqueio a Cuba
 
 ---
 
-### 139. MST, São Paulo'da toprak mücadelesinin önemli bir liderinin ölümünü yas tutuyor
-*MST mourns death of key land struggle leader in São Paulo*
+### 146. MST, São Paulo'da Toprak Mücadelesinin Önemli Bir İsminin Ölümünü Yas tutuyor
+*MST Mourns Death of Key Land Struggle Figure in São Paulo*
 
-Topraksız Köylü Hareketi (MST), São Paulo'da toprak mücadelesinde önemli bir referans olan 'Companheiro Bil' olarak anılan kişinin ölümünü duyurdu.
+Topraksız Köylü Hareketi (MST), São Paulo'da toprak mücadelesinin 'Companheiro Bil' olarak anılan önemli bir isminin ölümünü duyurdu. Hareket yasını ifade etti.
 
-*The Landless Workers' Movement (MST) announced the death of a key reference in the struggle for land in São Paulo, referred to as 'Companheiro Bil.'*
+*The Landless Workers' Movement (MST) announced the death of a key figure in the land struggle in São Paulo, referred to as 'Companheiro Bil.' The movement expressed its grief.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/21/mst-se-despede-de-uma-das-principais-referencias-da-luta-pela-terra-em-sao-paulo/)  *2026-04-21 16:06* — MST se despede de uma das principais referências da luta pela terra em São Paulo
 
 ---
 
-### 140. Almanya ve İtalya, AB-İsrail ortaklık anlaşmasının askıya alınmasını reddediyor
-*Germany, Italy reject suspending EU-Israel association agreement*
+### 147. Almanya ve İtalya, AB'nin İsrail ile ortaklık anlaşmasını askıya almasını reddetti
+*Germany and Italy reject suspending EU association agreement with Israel*
 
-Avrupa Birliği, savaş suçları ve insanlığa karşı suçlar nedeniyle İsrail ile ortaklık anlaşmasının askıya alınması konusunda fikir birliğine varamadı; Almanya ve İtalya, Lüksemburg'daki dışişleri bakanları toplantısında bu harekete karşı çıktı.
+Avrupa Birliği, Lüksemburg'daki dışişleri bakanları toplantısında üye ülkeler arasındaki anlaşmazlıklar nedeniyle, savaş suçları ve insanlığa karşı suçlar gerekçesiyle İsrail ile ortaklık anlaşmasının askıya alınması konusunda fikir birliğine varamadı.
 
-*The European Union failed to reach consensus on suspending the association agreement with Israel over war crimes and crimes against humanity, after Germany and Italy opposed the move during a foreign ministers meeting in Luxembourg.*
+*The European Union failed to reach consensus on suspending the association agreement with Israel over war crimes and crimes against humanity, after disagreements among member states during a foreign ministers meeting in Luxembourg.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/alemanha-e-italia-rejeitam-suspender-acordo-de-associacao-da-ue-com-israel-por-crimes-contra-a-humanidade/)  *2026-04-21 15:40* — Alemanha e Itália rejeitam suspender acordo de associação da UE com Israel por crimes contra a humanidade
 
 ---
 
-### 141. MST kurucu ortağı Valmir Rodrigues Chaves hayatını kaybetti
-*MST co-founder Valmir Rodrigues Chaves dies*
+### 148. MST kurucusu Valmir Rodrigues Chaves 60 yaşında öldü
+*Valmir Rodrigues Chaves, MST founder, dies at 60*
 
-Brezilya Topraksız İşçi Hareketi'nin (MST) tarihi aktivisti ve kurucu ortağı Valmir Rodrigues Chaves, 60 günden fazla yoğun bakımda kaldıktan sonra Pazartesi günü hayatını kaybetti. Onuruna bir tören Salı günü planlandı.
+Brezilya Topraksız Köylü Hareketi'nin (MST) kurucularından tarihi aktivist Valmir Rodrigues Chaves, São Paulo'da 60 günden fazla yoğun bakımda kaldıktan sonra Pazartesi günü öldü.
 
-*Valmir Rodrigues Chaves, a historic activist and co-founder of Brazil's Landless Workers Movement (MST), died on Monday after more than 60 days in intensive care. A celebration in his honor was scheduled for Tuesday.*
+*Valmir Rodrigues Chaves, a historic activist and one of the founders of Brazil's Landless Workers Movement (MST), died on Monday after more than 60 days in intensive care in São Paulo.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/morre-valmir-rodrigues-militante-historico-da-luta-pela-terra-e-um-dos-fundadores-do-mst/)  *2026-04-21 15:31* — Morre Valmir Rodrigues Chaves, militante histórico da luta pela terra e um dos fundadores do MST
 
 ---
 
-### 142. Rusya, Avrupa'nın nükleerleşmesinin kıta istikrarına zarar verdiğini söylüyor
+### 149. Rusya, Avrupa'nın nükleerleşmesinin kıta istikrarına zarar verdiğini söylüyor
 *Russia says Europe's nuclearization harms continental stability*
 
-Rusya Devlet Başkanlığı sözcüsü Dmitry Peskov, Fransa ve Polonya arasındaki olası nükleer tatbikatların ayrıntılarının netleştirilmesi gerektiğini ve Avrupa'nın nükleerleşme arayışının kıtadaki istikrarı zedelediğini söyledi.
+Rusya Devlet Başkanlığı sözcüsü Dmitri Peskov, Fransa ve Polonya arasında ortak nükleer tatbikatlara ilişkin olası müzakerelerin ayrıntılarının netleştirilmesi gerektiğini ve Avrupa'nın nükleerleşme arayışının kıta istikrarına zarar verdiğini söyledi.
 
-*Russian presidential spokesman Dmitry Peskov said that details of possible nuclear exercises between France and Poland need clarification, and that Europe's pursuit of nuclearization undermines stability on the continent.*
+*Russian presidential spokesman Dmitry Peskov said that details of possible negotiations between France and Poland on joint nuclear exercises need clarification, and that Europe's pursuit of nuclearization harms stability on the continent.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/russia-diz-que-busca-da-europa-por-nuclearizacao-prejudica-estabilidade-no-continente/)  *2026-04-21 13:57* — Rússia diz que busca da Europa por nuclearização prejudica estabilidade no continente
 
 ---
 
-### 143. MST, katliamdan 22 yıl sonra Felisburgo bölgesi için kararnameyi kutluyor, ancak tetikte
-*MST celebrates decree for Felisburgo area 22 years after massacre, remains alert*
+### 150. MST, katliamdan 22 yıl sonra Felisburgo bölgesi için kararnameyi kutluyor
+*MST celebrates decree for Felisburgo area 22 years after massacre*
 
-Terra Prometida yerleşimindeki bir eylemde liderler, 2004'te öldürülen beş Topraksız İşçiyi andı ve yargı aşamasında ve yerleşimin oluşturulmasında hız talep etti. MST tetikte olmaya devam ediyor.
+Brezilya Topraksız İşçi Hareketi (MST), beş topraksız işçinin öldürülmesinden 22 yıl sonra Felisburgo'daki Terra Prometida yerleşimi için bir kararnameyi kutladı. Liderler, yargı sürecinin hızlandırılması ve yerleşimin kurulması çağrısında bulundu.
 
-*During an act at the Terra Prometida settlement, leaders remembered the five Landless Workers killed in 2004 and demanded speed in the judicial phase and the creation of the settlement. The MST remains alert.*
+*Brazil's Landless Workers' Movement (MST) celebrated a decree for the Terra Prometida settlement in Felisburgo, 22 years after five landless workers were killed there. Leaders called for swift judicial proceedings and creation of the settlement.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/21/22-anos-apos-massacre-mst-celebra-decreto-para-area-de-felisburgo-mas-segue-em-alerta/)  *2026-04-21 13:21* — 22 anos após massacre, MST celebra decreto para área de Felisburgo, mas segue em alerta
 
 ---
 
-### 144. Agroekolojik hac, Canguçu'da (RS) quilombolaları, yerleşimcileri ve çiftçileri bir araya getiriyor
-*Agroecological pilgrimage gathers quilombolas, settlers, and farmers in Canguçu, RS*
+### 151. Agroekolojik hac yolculuğu Canguçu'da quilombolaları, yerleşimcileri ve çiftçileri bir araya getiriyor
+*Agroecological pilgrimage gathers quilombolas, settlers and farmers in Canguçu*
 
-Quilombo Bisa Sabina Mendes'teki agroekolojik bir hac, direniş, maneviyat, gıda ve kolektif örgütlenmeyi dile getiriyor.
+Brezilya'nın Canguçu kentindeki Quilombo Bisa Sabina Mendes'te düzenlenen agroekolojik bir hac yolculuğu, quilombolaları, yerleşimcileri ve çiftçileri direniş, maneviyat, gıda ve kolektif örgütlenme etrafında bir araya getirdi.
 
-*An agroecological pilgrimage at Quilombo Bisa Sabina Mendes articulates resistance, spirituality, food, and collective organization.*
+*An agroecological pilgrimage at Quilombo Bisa Sabina Mendes in Canguçu, Brazil, brought together quilombolas, settlers, and farmers to articulate resistance, spirituality, food, and collective organization.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/21/romaria-agroecologica-reune-quilombolas-assentados-e-agricultores-em-cangucu-rs/)  *2026-04-21 12:53* — Romaria agroecológica reúne quilombolas, assentados e agricultores em Canguçu (RS)
 
 ---
 
-### 145. Brezilya ve Almanya kritik mineraller ve nadir toprak elementleri anlaşması imzaladı
+### 152. Brezilya ve Almanya kritik mineraller ve nadir toprak elementleri anlaşması imzaladı
 *Brazil and Germany sign agreement on critical minerals and rare earths*
 
-Brezilya Devlet Başkanı Luiz Inácio Lula da Silva ve Almanya, Almanya'daki Herrenhausen Sarayı'nda ortak basın açıklaması sırasında kritik mineraller ve nadir toprak elementleri konusunda anlaşma imzaladı.
+Brasil de Fato, Brezilya Devlet Başkanı Luiz Inácio Lula da Silva ile Almanya'nın, Almanya'daki Herrenhausen Sarayı'nda ortak basın açıklaması sırasında kritik mineraller ve nadir toprak elementleri konusunda bir anlaşma imzaladığını bildiriyor.
 
-*Brazilian President Luiz Inácio Lula da Silva and Germany signed an agreement on critical minerals and rare earths during a joint press statement at the Herrenhausen Palace in Germany.*
+*Brasil de Fato reports that Brazilian President Luiz Inácio Lula da Silva and Germany signed an agreement on critical minerals and rare earths during a joint press statement at Herrenhausen Palace in Germany.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/brasil-e-alemanha-firmam-acordo-sobre-minerais-criticos-e-terras-raras/)  *2026-04-21 10:37* — Brasil e Alemanha firmam acordo sobre minerais críticos e terras raras
 
 ---
 
-### 146. Rapor: Amapá kadın cezaevinde aşırı biber gazı kullanımı ve sağlıksız koşullar
-*Report: Abusive pepper spray use, unsanitary conditions in Amapá women's prison*
+### 153. Rapor, Amapá kadın cezaevinde kötü koşulları ortaya koyuyor
+*Report reveals abusive conditions in Amapá women's prison*
 
-Brasil de Fato'nun haberine göre, Brezilya'nın Amapá eyaletindeki bir kadın cezaevinde aşırı biber gazı kullanımı, sağlıksız koşullar ve yetersiz beslenen hamile kadınlar tespit edildi. Savcılık cezaevindeki bir ölümü soruşturuyor.
+Brasil de Fato'nun raporu, Amapá'daki bir kadın cezaevinde biber gazının kötüye kullanıldığını, sağlıksız koşulları ve yetersiz beslenen hamile kadınları ortaya koyuyor. Savcılık bir ölümü soruşturuyor.
 
-*A report by Brasil de Fato reveals abusive use of pepper spray, unsanitary conditions, and malnourished pregnant women at a women's prison in Amapá, Brazil. The Public Prosecutor's Office is investigating a death in the facility.*
+*A report by Brasil de Fato reveals abusive use of pepper spray, unhealthy conditions, and malnourished pregnant women in a women's prison in Amapá. The Public Prosecutor's Office is investigating a death.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/21/relatorio-aponta-uso-abusivo-de-spray-de-pimenta-condicoes-insalubres-e-gravidas-desnutridas-em-presidio-feminino-do-amapa-mp-investiga-morte-de-presa/)  *2026-04-21 10:00* — Relatório aponta uso abusivo de spray de pimenta, condições insalubres e grávidas desnutridas em presídio feminino do Amapá; MP investiga morte de presa
 
 ---
 
-### 147. Brezilya'da 2025'te grevlerde yüzde 14 artış, özel sektör öncülüğünde
-*Brazil sees 14% increase in strikes in 2025, led by private sector*
+### 154. Brezilya'da 2025'te grevlerde yüzde 14 artış
+*Brazil sees 14% increase in strikes in 2025*
 
-Brezilya'da 2025 yılında 1.006 grev kaydedildi; bu, bir önceki yıla göre yüzde 14 artış anlamına geliyor. Artışa ağırlıklı olarak özel sektör ve kamu iktisadi teşebbüsleri öncülük etti. Brasil de Fato'nun haberine göre, kamu sektörü grevleri sabit kaldı.
+Brasil de Fato, Brezilya'da 2025 yılında 1.006 grev kaydedildiğini ve bunun bir önceki yıla göre %14 artış olduğunu bildiriyor. Artışa ağırlıklı olarak özel sektör ve kamu iktisadi teşebbüsleri neden olurken, kamu sektörü grevleri sabit kaldı.
 
-*Brazil recorded 1,006 strikes in 2025, a 14% increase from the previous year, driven mainly by the private sector and state-owned enterprises. Public sector strikes remained stable, according to a report by Brasil de Fato.*
+*Brasil de Fato reports that Brazil recorded 1,006 strikes in 2025, a 14% increase from the previous year. The rise was driven mainly by the private sector and state-owned enterprises, while public sector strikes remained stable.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/20/atrasos-salariais-e-condicoes-de-trabalho-greves-no-brasil-tem-alta-de-14-puxada-por-paralisacoes-no-setor-privado/)  *2026-04-21 00:37* — Atrasos salariais e condições de trabalho: greves no Brasil têm alta de 14% puxada por paralisações no setor privado
 
 ---
 
-### 148. Uzman, Brezilyalı nadir toprak şirketinin Amerikalılara satılmasının egemenliğe hakaret olduğunu söylüyor
-*Expert says sale of Brazilian rare earths company to Americans is affront to sovereignty*
+### 155. Brezilyalı nadir toprak şirketinin Amerikalılara satışı eleştiriliyor
+*Sale of Brazilian rare earths company to Americans criticized*
 
-Uzman Luiz Paulo Siqueira, Brezilyalı bir nadir toprak şirketinin Amerikalılara satılmasının ulusal egemenliğe hakaret olduğu uyarısında bulundu. Ayrıca, madencilik şirketleri için lisansların gevşetilmesi amacıyla Kongre'de harekete geçilmesi riskine dikkat çekti.
+Brasil de Fato, uzman Luiz Paulo Siqueira'nın Brezilyalı bir nadir toprak şirketinin Amerikalılara satışını ulusal egemenliğe hakaret olarak nitelendirdiğini bildiriyor. Siqueira, Kongre'nin madencilik lisanslarını gevşetme yönünde harekete geçebileceği uyarısında bulundu.
 
-*Luiz Paulo Siqueira, an expert, warned that the sale of a Brazilian rare earths company to Americans is an affront to national sovereignty. He also noted a risk of mobilization in Congress to relax licenses for mining companies.*
+*Brasil de Fato reports that expert Luiz Paulo Siqueira called the sale of a Brazilian rare earths company to Americans an affront to national sovereignty. He warned of potential Congressional moves to relax mining licenses.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/20/venda-de-empresa-brasileira-que-atua-com-terras-raras-a-americanos-e-afronta-a-nossa-soberania-diz-especialista/)  *2026-04-20 23:10* — Venda de empresa brasileira que atua com terras raras a americanos é ‘afronta à nossa soberania’, diz especialista
 
 ---
 
-### 149. Tarihçi, Brezilya'da daha az çalışıp daha çok yaşamaya yönelik net bir toplumsal arzu olduğunu söylüyor
-*Historian says there is clear social desire to work less and live more in Brazil*
+### 156. Tarihçi Brezilya'da çalışma saatlerinin azaltılması arzusunu tartışıyor
+*Historian discusses desire for reduced working hours in Brazil*
 
-Bir tarihçi, Brezilya'da çalışma saatlerinin azaltılması tartışmasını ele alarak, daha az çalışıp daha çok yaşamaya yönelik net bir toplumsal arzu olduğunu savundu. Konuşmada, çıkar çatışmaları, karşıt argümanlar ve işçi hareketinin rolü ele alındı.
+Brasil de Fato, Brezilya'da daha az çalışıp daha fazla yaşamaya yönelik net bir toplumsal arzu olduğunu savunan bir tarihçiyle röportaj yapıyor. Tartışma, azaltılmış çalışma saatlerinin kamuoyu tartışmasına dönüşünü, rekabet eden çıkarları ve sendika hareketinin rolünü kapsıyor.
 
-*A historian discussed the debate over reducing working hours in Brazil, arguing that there is a clear social desire to work less and live more. The conversation covered interests at stake, opposing arguments, and the role of the labor movement.*
+*Brasil de Fato interviews a historian who argues there is a clear social desire in Brazil to work less and live more. The discussion covers the return of reduced working hours to public debate, competing interests, and the role of the union movement.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/20/ha-um-desejo-social-claro-de-trabalhar-menos-e-viver-mais-afirma-historiador/)  *2026-04-20 23:06* — ‘Há um desejo social claro de trabalhar menos e viver mais’, afirma historiador
 
 ---
 
-### 150. Siyaset bilimci, ABD'nin kırmızı çizgiyi aştığını ve İran müzakerelerini zorlaştırdığını söylüyor
-*Political scientist says US crossed red line, making Iran negotiation harder*
+### 157. Siyaset bilimci ABD'nin İran'la kırmızı çizgiyi aştığını, müzakerelerin zorlaştığını söylüyor
+*Political scientist says US crossed red line with Iran, negotiations difficult*
 
-Siyaset bilimci José Vitor Ferro, ABD ile İran arasında Hürmüz Boğazı'ndaki gerilimin kesin bir çözümü giderek zorlaştırdığını söyledi. ABD'nin kırmızı çizgiyi aştığını ve müzakereleri karmaşık hale getirdiğini belirtti.
+Brasil de Fato, siyaset bilimci José Vitor Ferro ile röportaj yapıyor; Ferro, Hürmüz Boğazı'ndaki ABD-İran geriliminin kesin bir çözümü giderek zorlaştırdığını söylüyor. ABD'nin kırmızı çizgiyi aştığını savunuyor.
 
-*Political scientist José Vitor Ferro said that tensions between the US and Iran in the Strait of Hormuz make a definitive solution increasingly difficult. He stated that the US crossed a red line, complicating negotiations.*
+*Brasil de Fato interviews political scientist José Vitor Ferro, who says the US-Iran tension in the Strait of Hormuz makes a definitive solution increasingly difficult. He argues the US crossed a red line.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/20/eua-cruzaram-a-linha-vermelha-e-uma-negociacao-fica-cada-vez-mais-dificil-avalia-cientista-politico/)  *2026-04-20 22:49* — ‘EUA cruzaram a linha vermelha’ e uma negociação fica cada vez mais difícil, avalia cientista político
 
 ---
 
-### 151. Brezilya Yüksek Mahkemesi Yargıcı Flávio Dino, yargı reformunu savunuyor
-*Brazilian Supreme Court Justice Flávio Dino advocates for judicial reform*
+### 158. Brezilya Yüksek Mahkemesi yargıcı Flávio Dino yargı reformunu savunuyor
+*Brazilian Supreme Court justice Flávio Dino defends judicial reform*
 
-Brezilya Yüksek Mahkemesi Yargıcı Flávio Dino, yargıda yeni bir reformu savunan özel bir makale yazdı ve Brezilya adalet sisteminin rolü hakkındaki tartışmaların yoğunlaştığı mevcut dönemin reform için iyi bir fırsat olduğunu savundu.
+Brasil de Fato, Brezilya Yüksek Mahkemesi Yargıcı Flávio Dino'nun Brezilya yargısının rolü hakkındaki yoğunlaşan tartışmaların yeni bir yargı reformu için iyi bir fırsat olduğunu savunduğu özel bir makale yayınlıyor.
 
-*Brazilian Supreme Court Justice Flávio Dino wrote an exclusive article defending a new reform of the judiciary, arguing that the current intensification of debates about the role of the Brazilian justice system presents a good opportunity for reform.*
+*Brasil de Fato publishes an exclusive article by Brazilian Supreme Court Justice Flávio Dino, who argues that the current moment of intensified debate about the role of the Brazilian judiciary is a good opportunity for a new judicial reform.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/20/em-artigo-exclusivo-flavio-dino-defende-nova-reforma-do-judiciario/)  *2026-04-20 22:30* — Em artigo exclusivo, Flávio Dino defende Nova Reforma do Judiciário
 
 ---
 
-### 152. ABD, Ramagem'in tutuklanmasına karışan Brezilyalı federal polis memurunun ülkeyi terk etmesini emretti
+### 159. ABD, Ramagem'in tutuklanmasına karışan Brezilyalı federal polis memurunun ülkeyi terk etmesini emretti
 *US orders Brazilian federal police officer involved in Ramagem arrest to leave country*
 
-Amerika Birleşik Devletleri, eski milletvekili Alexandre Ramagem'in tutuklanmasına karışan Brezilyalı federal polis memuru Marcelo Ivo de Carvalho'nun ülkeyi terk etmesini emretti. Tedbir, ABD Dışişleri Bakanlığı Batı Yarımküre İşleri Bürosu tarafından duyuruldu.
+Brasil de Fato, Amerika Birleşik Devletleri'nin eski milletvekili Alexandre Ramagem'in tutuklanmasına karışan Brezilya Federal Polisi delegesi Marcelo Ivo de Carvalho'nun ülkeyi terk etmesini emrettiğini bildiriyor. Tedbir, ABD Dışişleri Bakanlığı Batı Yarımküre İşleri Bürosu tarafından duyuruldu.
 
-*The United States ordered Brazilian federal police officer Marcelo Ivo de Carvalho, involved in the arrest of former deputy Alexandre Ramagem, to leave the country. The measure was announced by the US State Department's Bureau of Western Hemisphere Affairs.*
+*Brasil de Fato reports that the United States ordered Brazilian Federal Police delegate Marcelo Ivo de Carvalho, involved in the arrest of former deputy Alexandre Ramagem, to leave the country. The measure was announced by the US State Department's Bureau of Western Hemisphere Affairs.*
 
 **Kaynaklar / Sources:**
 - [Brasil de Fato](https://www.brasildefato.com.br/2026/04/20/estados-unidos-mandam-delegado-da-policia-federal-envolvido-na-prisao-de-ramagem-deixar-o-pais/)  *2026-04-20 22:23* — Estados Unidos mandam delegado da Polícia Federal envolvido na prisão de Ramagem deixar o país
 
 ---
 
-### 153. Isabela Camini ve Denilson da Silva Porto Alegre'de yeni kitaplarını tanıttı
+### 160. Isabela Camini ve Denilson da Silva Porto Alegre'de yeni kitaplarını tanıttı
 *Isabela Camini and Denilson da Silva launch new books in Porto Alegre*
 
-Isabela Camini ve Denilson da Silva Porto Alegre'de yeni kitaplarını tanıttı. Camini'nin çalışması Paulo Freire'den ilham alan pedagojik mektuplara odaklanırken, da Silva'nın sone çalışması hafızayı ele alıyor.
+Topraksız Köylü Hareketi (MST), Isabela Camini ve Denilson da Silva'nın Porto Alegre'de yeni kitaplarını tanıttığını bildiriyor. Kitaplar 'Cartas Pedagógicas: o que aprendemos com Paulo Freire' ve 'A Terceira Margem do Rio: Sonetos'.
 
-*Isabela Camini and Denilson da Silva launched new books in Porto Alegre. Camini's work focuses on pedagogical letters inspired by Paulo Freire, while da Silva's sonnets explore memory.*
+*The Landless Workers' Movement (MST) reports that Isabela Camini and Denilson da Silva launched new books in Porto Alegre. The books are 'Cartas Pedagógicas: o que aprendemos com Paulo Freire' and 'A Terceira Margem do Rio: Sonetos'.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/20/pedagogia-e-poesia-de-dedos-entrelacados-isabela-camini-e-denilson-da-silva-lancam-novos-livros-em-porto-alegre/)  *2026-04-20 19:21* — Pedagogia e poesia de dedos entrelaçados: Isabela Camini e Denilson da Silva lançam novos livros em Porto Alegre
 
 ---
 
-### 154. Breziya Topraksız Köylü Hareketi tarım reformu ve adalet için protesto ediyor
-*Brazil's Landless Workers Movement protests for agrarian reform and justice*
+### 161. Soya cumhuriyetleri: kurumsal yoğunlaşma Güney Amerika'da aşırı sağı güçlendiriyor
+*Soybean republics: corporate concentration strengthens far right in South America*
 
-Breziya Topraksız Köylü Hareketi (MST), tarım reformu ve Eldorado dos Carajás katliamının 30. yıl dönümü için yürüyüş düzenliyor. Hareket, 1996 katliamındaki cezasızlığı kınıyor ve halkçı tarım reformu çağrısı yapıyor.
+Topraksız Köylü Hareketi (MST) tarafından yayınlanan bir makale, soya sektöründeki kurumsal yoğunlaşmanın Güney Amerika'da aşırı sağı nasıl güçlendirdiğini ve şimdi ormandaki yerli toplulukların doğrudan direnişiyle karşı karşıya olduğunu tartışıyor.
 
-*The Landless Workers Movement (MST) in Brazil is marching for agrarian reform and to commemorate the 30th anniversary of the Eldorado dos Carajás massacre. The movement denounces impunity for the 1996 massacre and calls for popular agrarian reform.*
+*An article by the Landless Workers' Movement (MST) discusses how corporate concentration in the soybean sector has strengthened the far right in South America and now faces direct resistance from indigenous communities in the forest.*
 
 **Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/20/republicas-da-soja/)  *2026-04-20 12:52* — Repúblicas da soja
-- [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/20/mst-em-sergipe-marcha-por-reforma-agraria-e-em-homenagem-aos-30-anos-de-eldorado-dos-carajas/)  *2026-04-20 12:36* — MST em Sergipe marcha por Reforma Agrária e em homenagem aos 30 anos de Eldorado dos Carajás
 
 ---
 
-### 155. Brezilya'daki MST, katliam yıldönümünde toprak reformu için ulusal mücadele haftası düzenliyor
-*Brazil's MST holds national struggle week for land reform on massacre anniversary*
+### 162. Brezilya'daki MST, toprak reformu için ulusal yürüyüş düzenliyor, Eldorado dos Carajás katliamının 30. yılını anıyor
+*Brazil's MST holds national march for land reform, marks 30 years since Eldorado dos Carajás massacre*
 
-Brezilya Topraksız Köylü Hareketi (MST), 21 topraksız işçinin öldürüldüğü Eldorado do Carajás katliamının 30. yıldönümünde yürüyüşler ve INCRA ofislerinin işgalleriyle tarihi bir ulusal mücadele haftası düzenledi. Etkinlikler ayrıca 17 Nisan Uluslararası Köylü Mücadeleleri Günü'nü de andı.
+Brezilya Topraksız İşçi Hareketi (MST), ülke genelinde INCRA ofislerini işgal ederek ve yürüyüşler düzenleyerek toprak reformu talep ediyor ve 1996'da Pará eyaletinde 21 topraksız işçinin öldürüldüğü Eldorado dos Carajás katliamının 30. yıl dönümünü anıyor. Protestolar, katliamın cezasız kalmasını kınıyor ve adalet ile hızlı toprak dağıtımı çağrısı yapıyor.
 
-*Brazil's Landless Workers' Movement (MST) held a historic national struggle week, including marches and occupations of INCRA offices, marking 30 years since the Eldorado do Carajás massacre in which 21 landless workers were killed. The events also commemorated the International Day of Peasant Struggles on April 17.*
+*Brazil's Landless Workers' Movement (MST) is holding a national march and occupying INCRA offices across the country to demand agrarian reform and commemorate the 30th anniversary of the Eldorado dos Carajás massacre, in which 21 landless workers were killed in Pará state in 1996. The protests denounce impunity for the massacre and call for justice and faster land redistribution.*
 
 **Kaynaklar / Sources:**
+- [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/20/mst-em-sergipe-marcha-por-reforma-agraria-e-em-homenagem-aos-30-anos-de-eldorado-dos-carajas/)  *2026-04-20 12:36* — MST em Sergipe marcha por Reforma Agrária e em homenagem aos 30 anos de Eldorado dos Carajás
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/17/nos-30-anos-apos-eldorado-do-carajas-mst-faz-jornada-historica-pelas-ruas-do-pais-em-defesa-da-reforma-agraria/)  *2026-04-17 22:04* — Nos 30 anos após Eldorado do Carajás, MST faz Jornada histórica pelas ruas do país em defesa da Reforma Agrária
+
+---
+
+### 163. MST, Eldorado do Carajás Katliamı'nın 30. Yılını Anıyor
+*MST Marks 30th Anniversary of Eldorado do Carajás Massacre*
+
+Brezilya Topraksız Köylü Hareketi (MST), 17 Nisan'da Eldorado do Carajás katliamının 30. yıl dönümünü ve aynı zamanda Uluslararası Köylü Mücadeleleri Günü'nü andı. MST, ölenlerin anısına eylemler düzenleyerek toprak reformu ve sosyal adalet mücadelesini yeniden teyit etti.
+
+*Brazil's Landless Workers' Movement (MST) observed the 30th anniversary of the Eldorado do Carajás massacre on April 17, which also marks the International Day of Peasant Struggles. The MST held actions in memory of those killed and reaffirmed its commitment to land reform and social justice.*
+
+**Kaynaklar / Sources:**
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/17/jornada-nacional-de-lutas-em-defesa-da-reforma-agraria-2026/)  *2026-04-17 20:49* — Jornada Nacional de Lutas em Defesa da Reforma Agrária 2026
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/17/17-de-abril-internacionalizado-como-dia-internacional-das-lutas-camponesas-um-plantio-em-memoria-da-luta-camponesa-mundial/)  *2026-04-17 17:21* — 17 de abril, internacionalizado como Dia Internacional das Lutas Camponesas: Um plantio em memória da luta camponesa mundial!
 - [Landless Workers' Movement (MST)](https://mst.org.br/2026/04/17/april-17-internationalized-as-the-international-day-of-peasant-struggles-a-planting-in-memory-of-the-global-peasant-struggle/)  *2026-04-17 17:03* — April 17, internationalized as the International Day of Peasant Struggles : A planting in memory of the global peasant struggle!
