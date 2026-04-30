@@ -3,7 +3,7 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-30T08:32:43.749232+00:00",
+  "fetched_at": "2026-04-30T10:32:16.914302+00:00",
   "error": "",
   "items": [
     {
@@ -25,14 +25,14 @@
       "date": "2026-04-02"
     },
     {
-      "title_en": "Iran Internet Shutdown: Longest Documented by IODA",
-      "title_tr": "İran İnternet Kesintisi: IODA Tarafından Belgelenen En Uzun",
+      "title_en": "Longest Internet Shutdown in Iran Documented by IODA",
+      "title_tr": "İran'da IODA Tarafından Belgelenen En Uzun İnternet Kesintisi",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/IR?f...",
       "date": "2026-03-19"
     },
     {
-      "title_en": "Cuba Power Shortage Visible in Internet Connectivity Signals",
-      "title_tr": "Küba Elektrik Kesintisi İnternet Bağlantı Sinyallerinde Görülüyor",
+      "title_en": "Power Shortage in Cuba Visible in IODA Connectivity Signals",
+      "title_tr": "Küba'da Elektrik Kesintisi IODA Bağlantı Sinyallerinde Görülüyor",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/CU?f...",
       "date": "2026-03-17"
     }

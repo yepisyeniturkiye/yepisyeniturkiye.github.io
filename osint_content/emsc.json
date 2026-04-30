@@ -3,7 +3,7 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-30T08:32:43.749232+00:00",
+  "fetched_at": "2026-04-30T10:32:16.914302+00:00",
   "error": "",
   "items": [
     {
@@ -31,8 +31,8 @@
       "date": "2026-04-28"
     },
     {
-      "title_en": "LastQuake Messenger Bot",
-      "title_tr": "LastQuake Messenger Bot",
+      "title_en": "LastQuake Messenger Bot announcement",
+      "title_tr": "LastQuake Messenger Bot duyurusu",
       "url": "https://m.me/LastQuakeBot",
       "date": ""
     }

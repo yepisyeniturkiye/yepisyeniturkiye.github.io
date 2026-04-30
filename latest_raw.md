@@ -7,13 +7,49 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2026 items**
-*Updated 2026-04-30 08:32 UTC*
+**Last 24 hours — 2063 items**
+*Updated 2026-04-30 10:32 UTC*
 
 ---
 
+- [287 nominated for 2026 Nobel Peace Prize, Trump likely among them](https://www.rappler.com/world/global-affairs/candidates-2026-nobel-prize/) — *Rappler* — 2026-04-30 10:10
+  > Of this year's nominations, 208 are individuals and 79 are organizations
+- [Israel Smashes Boats, Strands and Kidnaps Flotilla Activists Near Greece](https://novaramedia.com/2026/04/30/israel-smashes-boats-strands-and-kidnaps-flotilla-activists-near-greece/) — *Novara Media* — 2026-04-30 10:08
+  > The Global Sumud Flotilla (GSF) was attacked last night by warships, drones and speedboats full of heavily-armed Israeli commandos, despite sailing just off the coast of Greece, more than 500 nautical miles from Gaza. Of 57 boats at sea, 22
+- [All for a failed war plan](https://frontline.thehindu.com/columns/modi-israel-gaza-iran-brics/article70923352.ece) — *Frontline* — 2026-04-30 10:06
+  > Narendra Modi’s blind faith in Benjamin Netanyahu’s promise of a quick regime change in Iran caused India to make a series of strategic errors that have left the nation diplomatically isolated and economically off-track.
+- [DOH Usec Baggao faces complaint over health infra projects bagged by brother](https://www.rappler.com/philippines/health-undersecretary-baggao-complaint-ombudsman/) — *Rappler* — 2026-04-30 09:59
+  > Concerned health workers accuse Health Undersecretary Glenn Mathew Baggao of violating anti-graft and procurement laws
+- [Notices of violation issued vs Navotas landfill operator prior to fire](https://www.rappler.com/philippines/metro-manila/notices-violation-issued-navotas-landfill-operator-before-fire/) — *Rappler* — 2026-04-30 09:56
+  > Among violations that the Environmental Management Bureau flagged are non-compliance to daily soil cover and the number of required gas vent pipes
+- [Alphabet revenue tops expectations on record quarter for cloud unit](https://www.rappler.com/technology/alphabet-earnings-april-2026/) — *Rappler* — 2026-04-30 09:38
+  > 'Our enterprise AI solutions have become our primary growth driver for cloud for the first time,' CEO Sundar Pichai tells analysts, noting that sales on those products grew eightfold from a year ago
+- [ASEAN economic ministers agree to strengthen FTAs, ratify petrol security deal](https://www.rappler.com/business/asean-economic-ministers-strengthen-free-trade-deals-ratify-petrol-security-agreement/) — *Rappler* — 2026-04-30 09:37
+  > 'In times of uncertainty, predictability is stability, and stability begins with keeping goods moving across borders,' says Department of Trade and Industry Secretary Cristina Roque
+- [Karnataka CM won’t change ‘for now’: Congress chief amid speculation of leadership shuffle](https://scroll.in/latest/1092494/karnataka-cm-wont-change-for-now-congress-chief-amid-speculation-of-leadership-shuffle?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 09:37
+  > A state minister had said a day earlier that party members would be happy if Mallikarjun Kharge became the chief minister.
+- [Iran ceasefire owes to rapidfire depletion of key US weapons](https://asiatimes.com/2026/04/iran-ceasefire-owes-to-rapidfire-depletion-of-key-us-weapons/) — *Asia Times* — 2026-04-30 09:32
+  > The fragile US-Iran ceasefire announced on April 7, 2026, after 40 days of war came at an opportune time for the United States. Several reports indicate it is running out of weapons amid the conflict. As a scholar focused on US military dep
+- [Samsung chip profit jumps almost 50-fold; Supply shortage to worsen in 2027](https://www.rappler.com/technology/samsung-earnings-april-2026/) — *Rappler* — 2026-04-30 09:19
+  > Samsung says January-March operating profit in its cash cow chip division reached a record 53.7 trillion won from just 1.1 trillion won in the same period a year earlier
+- [Taiwan’s Cheng will face a tough crowd on US visit](https://asiatimes.com/2026/04/taiwans-cheng-will-face-a-tough-crowd-on-us-visit/) — *Asia Times* — 2026-04-30 09:07
+  > Fresh from consultations with Chinese paramount leader Xi Jinping in April, Cheng Li-wun, the Chairwoman of Taiwan’s Kuomintang (KMT), plans to visit the US in June. It will be awkward. During her US visit, at which she hopes to talk with U
+- [Why We Are Suing the Department of Education](https://www.propublica.org/article/propublica-suing-department-of-education) — *ProPublica* — 2026-04-30 09:00
+  > The post Why We Are Suing the Department of Education appeared first on ProPublica .
+- [Mães da Praça de Maio completam 49 anos de luta persistente por memória, verdade e justiça](https://www.brasildefato.com.br/2026/04/30/maes-da-praca-de-maio-completam-49-anos-de-luta-persistente-por-memoria-verdade-e-justica/) — *Brasil de Fato* — 2026-04-30 09:00
+  > Em 30 de abril de 1977 nasce a luta das Mães da Praça de Maio, que se tornaria símbolo mundial de resistência Fonte
+- [Após rejeitar Messias no STF, Congresso analisa veto de Lula ao PL da dosimetria](https://www.brasildefato.com.br/2026/04/30/apos-rejeitar-messias-no-stf-congresso-analisa-veto-de-lula-ao-pl-da-dosimetria/) — *Brasil de Fato* — 2026-04-30 09:00
+  > O Congresso Nacional deve analisar, nos próximos dias, o veto do presidente Luiz Inácio Lula da Silva (PT) ao chamado Projeto de Lei da dosimetria (PL 2.162/2023), que altera critérios para a definição de penas no sistema penal. O texto tra
+- [Ex-Mossad Chief Compares Settler Violence to Holocaust](https://novaramedia.com/2026/04/30/ex-mossad-chief-compares-settler-violence-to-holocaust/) — *Novara Media* — 2026-04-30 08:53
+  > The former chief of Israel’s intelligence agency has compared settler violence in the Palestinian territories to the way Jews were treated in the Holocaust. Tamir Pardo was appointed by Benjamin Netanyahu and served as director of Mossad be
+- [LIST: Lawmakers who voted to back Sara Duterte impeach complaints at justice committee](https://www.rappler.com/philippines/list-congressmen-voted-favor-sara-duterte-impeachment-complaints-house-justice-committee-2026/) — *Rappler* — 2026-04-30 08:33
+  > Did your district represenative support the impeachment complaints against Vice President Sara Duterte?
 - [West Bengal Polls: Lawyer’s Exclusion From SIR Reveals Democratic Rot](https://www.newsclick.in/west-bengal-polls-lawyers-exclusion-sir-reveals-democratic-rot) — *The OC Portal* — 2026-04-30 08:22
 - [Delimitation 2026: Political Reset That Could Test India’s Federal Balance](https://www.newsclick.in/delimitation-2026-political-reset-could-test-indias-federal-balance) — *The OC Portal* — 2026-04-30 08:22
+- [Narendra Dabholkar murder convict granted bail](https://scroll.in/latest/1092490/narendra-dabholkar-murder-convict-granted-bail?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 08:21
+  > The Bombay High Court also expressed doubts about Sharad Kalaskar being identified as the assailant in the case.
+- [I-PAC Director Vinesh Chandel gets bail in West Bengal coal scam case](https://scroll.in/latest/1092492/i-pac-director-vinesh-chandel-gets-bail-in-west-bengal-coal-scam-case?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 08:20
+  > The Enforcement Directorate, which had arrested him on April 13, did not oppose the grant of bail.
 - [Sharon Osbourne Is a Far-Right AI Slop Fan](https://novaramedia.com/2026/04/30/sharon-osbourne-is-a-far-right-ai-slop-fan/) — *Novara Media* — 2026-04-30 08:12
   > Sharon Osbourne has proclaimed herself a big fan of an AI-generated song performed by a fictitious rapper linked to a far-right political party. The widow of Black Sabbath frontman Ozzy Osbourne and former judge of TV talent shows The X Fac
 - [At home in the world: Remembering Raghu Rai (1942-2026)](https://frontline.thehindu.com/other/obituary/raghu-rai-photography-legacy-tribute-2026/article70923568.ece) — *Frontline* — 2026-04-30 08:11
@@ -190,10 +226,22 @@ For the clustered bilingual view, see [index.md](index.md).
   > “O neoliberalismo vive uma crise da sua dominação, porque o Estado norte-americano está vivendo uma crise interna que impacta no seu controle do mundo. Com a ascensão da China e de outros países e a luta de resistência dos povos, vão se cri
 - [DOJ Indicts Comey for Posting “Threatening” Picture of Seashells on Instagram](https://truthout.org/articles/doj-indicts-comey-posting-threatening-picture-of-seashells-on-instagram/) — *Truthout* — 2026-04-29 19:18
   > Legal experts, including ex-Trump officials, say the charges against the former FBI director rest on flimsy grounds.
+- [Privatizar Petrobras e Banco do Brasil? Especialista explica problemas da proposta de Zema](https://www.brasildefato.com.br/2026/04/29/privatizar-petrobras-e-banco-do-brasil-especialista-explica-problemas-da-proposta-de-zema/) — *Brasil de Fato* — 2026-04-29 19:16
+  > A proposta do pré-candidato à Presidência da República Romeu Zema (Novo) de privatizar a Petrobras e o Banco do Brasil gerou polêmicas no centro do debate eleitoral. Em vídeo publicado nas redes sociais, no último domingo (26), Zema afirmou
 - [America’s Special Relationship Is With Israel Not U.K, Ambassador Admits](https://novaramedia.com/2026/04/29/americas-special-relationship-is-with-israel-not-u-k-ambassador-admits/) — *Novara Media* — 2026-04-29 19:15
   > King Charles is charming Trump in Washington, and two men have been stabbed in an antisemitic attack in Golders Green, London. Plus: We speak to Green Party deputy Mothin Ali, economist Laurie MacFarlane about rent caps and the UAE is leavi
+- [Caso Master: Vorcaro ‘seduziu elite econômica e políticos’ para perpetuar fraude](https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/04/29/caso-master-vorcaro-seduziu-elite-economica-e-politicos-para-perpetuar-fraude/) — *Brasil de Fato* — 2026-04-29 19:10
+  > Débora Magagna, economista e roteirista de documentário sobre escândalo do Master, fala de teia de influência do banqueiro Fonte
 - [Court refuses to reconsider Trump's most embarrassing conviction](https://www.alternet.org/trump-e-jean-carroll-2676831049/) — *AlterNet* — 2026-04-29 19:06
   > A federal appeals court handed President Donald Trump a loss on Wednesday in his quest for the entire court to re-hear his appeal in the $83 million E. Jean Carroll civil defamation case. CNN reports that the court’s decision now allows the
+- [Luz do Povo promove justiça tarifária e inclusão social com gratuidade e desconto na luz](https://www.brasildefato.com.br/2026/04/29/luz-do-povo-promove-justica-tarifaria-e-inclusao-social-com-gratuidade-e-desconto-na-luz/) — *Brasil de Fato* — 2026-04-29 19:02
+  > No Brasil, grandes consumidores de energia têm acesso ao mercado livre e conseguem comprar energia mais barata que o cidadão comum. Indústrias, shoppings e mineradoras, entre outros, pagam menos, pois conseguem negociar preços com os vended
+- [Pelo direito a ‘perder tempo’ com a vida](https://www.brasildefato.com.br/colunista/cidade-das-letras-literatura-e-educacao/2026/04/29/pelo-direito-a-perder-tempo-com-a-vida/) — *Brasil de Fato* — 2026-04-29 18:58
+  > Por Marcelo Gomes da Silva O mundo do trabalho, tal como o conhecemos hoje, constituiu-se, historicamente, por meio de complexas transformações que afetaram os trabalhadores e trabalhadoras. Ao longo dos anos, as disputas sobre o tempo desp
+- [Seminários em MG expõem riscos da corrida por terras raras no estado](https://www.brasildefato.com.br/2026/04/29/seminarios-em-mg-expoem-riscos-da-corrida-por-terras-raras-no-estado/) — *Brasil de Fato* — 2026-04-29 18:51
+  > Minas Gerais se tornou palco de um intenso debate sobre a exploração de terras raras, minerais considerados cruciais para a transição energética e tecnológica global. Seminários recentes em Poços de Caldas e Belo Horizonte, organizados pelo
+- [Quase 50 mil mulheres violentadas em 2025: MG bate recorde e expõe crise no estado](https://www.brasildefato.com.br/colunista/gleide-andrade/2026/04/29/quase-50-mil-mulheres-violentadas-em-2025-mg-bate-recorde-e-expoe-crise-no-estado/) — *Brasil de Fato* — 2026-04-29 18:47
+  > Minas Gerais encerrou 2025 com 48.846 casos de violência de gênero registrados em atendimentos no sistema de saúde. O número, por si só, já é devastador. Mas sua tradução no tempo revela a dimensão real da tragédia: foram 133 mulheres viole
 - [Projeto Bem Viver lança cartilha sobre práticas integrativas na Reforma Agrária](https://mst.org.br/2026/04/29/projeto-bem-viver-lanca-cartilha-sobre-praticas-integrativas-na-reforma-agraria/) — *Landless Workers' Movement (MST)* — 2026-04-29 18:46
   > Publicação traz vivências de curso de extensão que formou 50 multiplicadoras em fitoterapia e cuidados tradicionais em assentamentos e acampamentos do Paraná. O post Projeto Bem Viver lança cartilha sobre práticas integrativas na Reforma Ag
 - [“A setback for democracy”: Two more opposition parties banned in Ecuador](https://peoplesdispatch.org/2026/04/29/a-setback-for-democracy-two-more-opposition-parties-banned-in-ecuador/) — *People's Dispatch* — 2026-04-29 18:46
@@ -204,16 +252,32 @@ For the clustered bilingual view, see [index.md](index.md).
   > “Make no mistake: This ruling isn’t about the law, it’s about power, and giving Republicans more US House seats they couldn’t otherwise win at the ballot box,” said one critic.
 - [Trump's focus on ballroom project masks 'humiliating strategic defeat': analysis](https://www.alternet.org/trump-krugman-ballroom/) — *AlterNet* — 2026-04-29 18:20
   > President Donald Trump insists that polls showing him with low approval ratings are "fake news." But those polls are not outliers, and they show a pattern of widespread dissatisfaction with the president, according to critics. In a Substack
+- [Trump’s shiny new attack on US citizens stands on shaky legal ground](https://www.alternet.org/doj-denaturalization/) — *AlterNet* — 2026-04-29 18:08
+  > The New York Times, on April 23, reported that the Trump-era U.S. Department of Justice (DOJ) is ramping up its push to denaturalize U.S. citizens — and more than 300 are being targeted. The New Republic's Matt Ford, in an article published
+- [Revealed: The real threat behind Trump DOJ’s 'flimsy' Comey indictment](https://www.alternet.org/comey-indictment/) — *AlterNet* — 2026-04-29 18:04
+  > The DOJ's second indictment of James Comey is "flimsy, at best," according to a former U.S. attorney writing for MS NOW , but even if it is no real threat to the man himself, there is one threat it does pose. On Tuesday, the DOJ confirmed t
 - [Politico Boss Reportedly Demands Allegiance to Israel From Editorial Staff](https://truthout.org/articles/politico-boss-reportedly-demands-allegiance-to-israel-from-editorial-staff/) — *Truthout* — 2026-04-29 18:00
   > The publication’s parent company, Axel Springer, considers Israel’s right to exist one of its “essential” values.
+- [Top general immediately contradicts Trump Pentagon chief’s attack on oversight](https://www.alternet.org/pete-hegseth-congress/) — *AlterNet* — 2026-04-29 17:58
+  > On Wednesday, Defense Secretary Pete Hegseth appeared before Congress to answer questions under oath for the first time since the start of the war with Iran. Hegseth struck a hostile posture toward his questioners, but as CNN Pentagon repor
+- [UK will pay the price for tying itself to rogue state’s 'descent into madness': analysis](https://www.alternet.org/trump-king-2676830156/) — *AlterNet* — 2026-04-29 17:54
+  > King Charles is engaged in a high-profile visit to the United States, and while some are applauding his apparent ability to impress and navigate President Donald Trump, others in the United Kingdom are decrying that their monarch has them “
 - [Mali president condemns Western-backed 'terrorist' attacks, reaffirms sovereignty](https://www.youtube.com/shorts/VH6l9s2zY5g) — *BreakThrough News* — 2026-04-29 17:40
   > Malian President General Assimi Goïta declared the security situation in the country “under control” following a wave of coordinated attacks by Jama'a Nusrat ul-Islam wa al-Muslimin (JNIM) and the Azawad Liberation Front (FLA) over the week
+- ['Boxed in Trump' has 'nowhere to move' as his presidency crumbles: top historian](https://www.alternet.org/trump-2676830162/) — *AlterNet* — 2026-04-29 17:39
+  > As President Donald Trump’s latest approval numbers collapse to historic lows of 32 percent, renowned historian Heather Cox Richardson says , “We’re into new hatred territory here for any American president.” In response to this plunging po
+- [Sparks fly as Pentagon chief dodges questions on hiring his personal attorney for DOD role](https://www.alternet.org/jason-crow-pete-hegseth/) — *AlterNet* — 2026-04-29 17:31
+  > Rep. Jason Crow (D-Col.) confronted Secretary of Defense Pete Hegseth on Wednesday during a hearing on the Pentagon budget about the secretary's decision to hire his personal lawyer to a top role while the lawyer is still working with clien
 - [Queijo produzido em assentamento gaúcho do MST está entre os melhores do mundo](https://mst.org.br/2026/04/29/queijo-produzido-em-assentamento-gaucho-do-mst-esta-entre-os-melhores-do-mundo/) — *Landless Workers' Movement (MST)* — 2026-04-29 17:22
   > Produzido em Jóia (RS), o queijo 'Sete Povos' é um alimento que materializa memória, identidade e território O post Queijo produzido em assentamento gaúcho do MST está entre os melhores do mundo apareceu primeiro em MST .
+- [Trump used Hillary Clinton’s dishes for dinner with King Charles](https://www.alternet.org/trump-state-dinner/) — *AlterNet* — 2026-04-29 17:21
+  > The 200-year-old White House mansion has among its lower-level rooms the "China Room," which features a place setting chosen by first families of past administrations. It appears that one of President Donald Trump's favorites is the exquisi
 - [Hundreds of Incarcerated Migrants Go on Hunger Strike in Remote Michigan Prison](https://truthout.org/articles/hundreds-of-incarcerated-migrants-go-on-hunger-strike-in-remote-michigan-prison/) — *Truthout* — 2026-04-29 17:14
   > Migrants at the GEO Group-run facility demand their right to due process, edible food, and an end to sleep deprivation.
 - [Fetterman Joins GOP in Defeating Senate Democrats’ Attempt to Block War on Cuba](https://truthout.org/articles/fetterman-joins-gop-in-defeating-senate-democrats-attempt-to-block-war-on-cuba/) — *Truthout* — 2026-04-29 17:11
   > Congress has repeatedly failed to curb Trump’s ability to wage war and to rein in his boat bombing spree.
+- [Conservative brutally mocks Trump’s sleeping habits in scathing parody](https://www.alternet.org/bill-kristol-trump-sleep/) — *AlterNet* — 2026-04-29 17:03
+  > When President Donald Trump is sending social media posts nonstop during the wee hours, critics often ask: Shouldn't someone with a job as demanding as president of the United States be getting more sleep? One of those critics is Never Trum
 - [May 1: Unions, community orgs plan nationwide ‘economic blackout’ against billionaires and authoritarianism](https://therealnews.com/may-1-unions-community-orgs-economic-blackout-billionaires-authoritarianism) — *The Real News Network* — 2026-04-29 16:44
   > “Nobody else is coming to save us. It is our world that we're going to fight for. And May Day is the day that we have set to lead that fight.”
 - [In photos: Koli fishers fear loss of livelihood, cultural identity as Mumbai fells 45,000 mangroves](https://scroll.in/article/1092408/in-photos-koli-fishers-fear-loss-of-livelihood-cultural-identity-as-mumbai-fells-45000-mangroves?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 16:30
@@ -253,18 +317,28 @@ For the clustered bilingual view, see [index.md](index.md).
 - [The music hook](https://frontline.thehindu.com/newsletter/the-frontline-weekly/popular-music-india-class-memory/article70919521.ece) — *Frontline* — 2026-04-29 13:42
 - [Palestine emerges as central issue in a key Pennsylvania Democratic primary](https://mondoweiss.net/2026/04/palestine-emerges-as-central-issue-in-a-key-pennsylvania-democratic-primary/) — *Mondoweiss* — 2026-04-29 13:32
   > Chris Rabb's consistency on Palestine has resonated with voters in the country's bluest district, who have felt betrayed by the Democrats' approach to Israel and foreign policy.
+- [Rush Hour: Voter turnout in Bengal to cross 90%, oil prices near $115, highest since 2022 & more](https://scroll.in/latest/1092464/rush-hour-voter-turnout-in-bengal-to-cross-90-oil-prices-near-115-highest-since-2022-more?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 13:15
+  > Become a Scroll member to get Rush Hour – a wrap of the day’s important stories delivered straight to your inbox every evening.
+- [Oil prices jump to $114.8 as US-Iran peace talks remain stalled](https://scroll.in/latest/1092479/oil-prices-jump-to-114-8-as-us-iran-peace-talks-remain-stalled?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 13:03
+  > The price is at its highest level since June 2022.
 - [The Palestinian farmers whose livelihoods have been destroyed by Israeli settlers](https://mondoweiss.net/2026/04/the-palestinian-farmers-whose-livelihoods-have-been-destroyed-by-israeli-settlers/) — *Mondoweiss* — 2026-04-29 12:59
   > Israeli settler violence since October 2023 has systematically rendered farmland inaccessible across the West Bank. The state-backed policy is destroying harvests, driving up the price of produce, and dismantling an entire way of life.
 - [Crime, myth and the state](https://frontline.thehindu.com/the-nation/punjab-gangster-myth/article70919655.ece) — *Frontline* — 2026-04-29 12:30
   > From folklore to digital platforms, Punjab has long mythologised its outlaws. A controversial docuseries, Lawrence of Punjab, highlights how that tradition is being repurposed in the age of organised crime.
+- [Fiction: A Dalit fisherman from Tamil Nadu in search of a better life ends up as a ‘cyber slave’](https://scroll.in/article/1091711/fiction-a-dalit-fisherman-from-tamil-nadu-in-search-of-a-better-life-ends-up-as-a-cyber-slave?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 12:00
+  > An excerpt from ‘The River of Grey Flowers’, by Rejimon Kuttappan.
 - [Trump’s Golden Dome exposed as false sense of security](https://asiatimes.com/2026/04/trumps-golden-dome-exposed-as-false-sense-of-security/) — *Asia Times* — 2026-04-29 11:30
   > As missile threats grow more numerous, diverse and technologically sophisticated, a recent US Senate hearing has exposed mounting concerns that the US’s homeland missile defenses are increasingly misaligned with the realities of modern warf
 - [Taïwan : Défendre la souveraineté d’un peuple](https://investigaction.net/taiwan-defendre-la-souverainete-dun-peuple/?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-defendre-la-souverainete-dun-peuple) — *Investig'Action* — 2026-04-29 11:05
   > Taïwan est-elle vraiment « protégée »… ou tenue en otage ? Derrière les slogans sur la démocratie et le « monde libre », l’île apparaît ici comme le pivot d’une […] The post Taïwan : Défendre la souveraineté d’un peuple appeared first on In
+- [Bengal elections: Repolling in booths where taping of EVM buttons is verified, says EC](https://scroll.in/latest/1092471/bengal-elections-repolling-in-booths-where-taping-of-evm-buttons-is-verified-says-ec?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 11:00
+  > The BJP claimed that tapes had been used to cover the voting button for the party’s candidate in Falta constituency.
 - [FIFA Could Make Billions From the World Cup. Host Cities Will Get Little in Return.](https://www.propublica.org/article/world-cup-2026-host-cities-revenue-houston) — *ProPublica* — 2026-04-29 11:00
   > The post FIFA Could Make Billions From the World Cup. Host Cities Will Get Little in Return. appeared first on ProPublica .
 - [The mainstream media is finally beginning to echo Americans’ outrage at Israeli slaughter](https://mondoweiss.net/2026/04/the-mainstream-media-is-finally-beginning-to-echo-americans-outrage-at-israeli-slaughter/) — *Mondoweiss* — 2026-04-29 11:00
   > Over the past two years, Israel has lost the support of the American public and is now losing one of its last bulwarks in the political arena — prominent voices in the mainstream media.
+- [Maharashtra: Officials need not stand up to greet convicted MLAs, MPs or those facing inquiries](https://scroll.in/latest/1092469/maharashtra-officials-need-not-stand-up-to-greet-convicted-mlas-mps-or-those-facing-inquiries?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 10:29
+  > In such situations, officials should treat elected representatives like ordinary citizens without any special protocols, a government circular said on Tuesday.
 - [UAE’s OPEC exit signals new global oil order](https://asiatimes.com/2026/04/uaes-opec-exit-signals-new-global-oil-order/) — *Asia Times* — 2026-04-29 10:03
   > The reported decision by the United Arab Emirates to leave OPEC and OPEC+ is more than a dispute over oil production. It is a sign that the old architecture of oil power is being reshaped by national strategy, Gulf competition and Asian ene
 - [Asia’s oil shock nightmare has only just begun](https://asiatimes.com/2026/04/asias-oil-shock-nightmare-has-only-just-begun/) — *Asia Times* — 2026-04-29 09:36
