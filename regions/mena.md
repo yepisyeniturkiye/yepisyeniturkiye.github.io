@@ -4,49 +4,22 @@ title: Yepisyeni Türkiye — Ortadoğu ve Kuzey Afrika
 
 # Ortadoğu ve Kuzey Afrika / Middle East & North Africa
 
-**2026-05-01 — 78 küme / cluster**
+**2026-05-01 — 75 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Latin America](../regions/latam.md) · [Africa](../regions/africa.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Medya Hasan Piker'a odaklanmak yerine Gazze'deki ölümlere odaklanmadığı için eleştirildi
-*Media criticized for focusing on Hasan Piker instead of Gaza killings*
+### 1. İsrail-Gazze çatışması ve küresel yansımaları yorumlara hakim
+*Israel-Gaza conflict and its global implications dominate commentary*
 
-Birden fazla yayın organı, ana akım medyayı Twitch yayıncısı Hasan Piker'ın yorumlarına odaklanırken Hind Rajab'ın ölümü ve sağlık çalışanlarına yönelik saldırılar da dahil olmak üzere İsrail'in Filistinlilere yönelik öldürmelerini görmezden geldiği için eleştirdi. The Real News Network, The Atlantic'in iki haftada Piker hakkında beş makale yayınladığını ancak Hind Rajab hakkında hiçbir makale yayınlamadığını belirtti. Electronic Intifada, AIPAC'ın Gazze soykırımını finanse eden ve teşvik eden adayları desteklediğini bildirdi. Jacobin, Piker'ın yorumlarını sorgulanmayan seçkin merkezcilerin daha kınanması gereken ifadeleriyle karşılaştırdı.
+Birçok yayın, devam eden İsrail-Gazze çatışmasını analiz ediyor; bazıları İsrail'i soykırımla suçlarken, diğerleri uluslararası hesap verebilirliğin aşındığını inceliyor. Yorumcular ayrıca İsrailli ve ABD'li Yahudiler arasında Siyonizm nedeniyle oluşan ayrışmayı ve savaşın İsrail'in güvenlik doktrini üzerindeki etkisini tartışıyor.
 
-*Multiple outlets criticized mainstream media for focusing on Twitch streamer Hasan Piker's comments while ignoring Israeli killings of Palestinians, including the death of Hind Rajab and attacks on medical workers. The Real News Network noted The Atlantic published five articles on Piker in two weeks but none on Hind Rajab. Electronic Intifada reported that AIPAC backs candidates who fund and promote the Gaza genocide. Jacobin compared Piker's comments to more reprehensible statements by elite centrists that go unchallenged.*
-
-**Kaynaklar / Sources:**
-- [The Real News Network](https://therealnews.com/the-atlantics-hasan-piker-meltdown-perfectly-distills-elite-medias-warped-priorities)  *2026-04-30 21:56* — The Atlantic’s Hasan Piker meltdown perfectly distills elite media’s warped priorities
-- [Electronic Intifada](https://electronicintifada.net/blogs/michael-f-brown/aipac-backs-candidates-who-fund-and-promote-gaza-genocide)  *2026-04-30 20:59* — AIPAC backs candidates who fund and promote Gaza genocide
-- [Jacobin](https://jacobin.com/2026/04/hasan-piker-democrats-centrists-violence)  *2026-04-30 20:45* — Let’s Compare Hasan Piker’s Comments to Elite Centrists’
-
----
-
-### 2. Filistin meselesi ABD Demokratik ön seçimlerini ve medya kapsamını etkiliyor
-*Palestine issue influences US Democratic primaries and media coverage*
-
-Pennsylvania Demokratik ön seçimlerinde Chris Rabb'ın Filistin konusundaki tutumu, partinin İsrail politikası tarafından ihanete uğradığını hisseden seçmenlerde yankı buldu. Ana akım medya, İsrail eylemlerine yönelik kamu öfkesini giderek daha fazla yansıtıyor. Francesca Albanese, Hindistan'ın İsrail ile bağlarını eleştirdi. Michigan'da, öğrenci protestolarına yönelik baskının ardından Filistin yanlısı aktivistler Demokratik kongrede zafer elde etti.
-
-*In Pennsylvania's Democratic primary, Chris Rabb's stance on Palestine resonated with voters feeling betrayed by the party's Israel policy. Mainstream media increasingly reflects public outrage over Israeli actions. Francesca Albanese criticized India's ties with Israel. In Michigan, pro-Palestinian activists achieved victories at the Democratic convention after crackdowns on student protests.*
+*Multiple outlets analyze the ongoing Israel-Gaza conflict, with some accusing Israel of genocide and others examining the erosion of international accountability. Commentators also discuss the fracture between Israeli and US Jews over Zionism, and the impact of the war on Israel's security doctrine.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/palestine-emerges-as-central-issue-in-a-key-pennsylvania-democratic-primary/)  *2026-04-29 13:32* — Palestine emerges as central issue in a key Pennsylvania Democratic primary
-- [Mondoweiss](https://mondoweiss.net/2026/04/the-mainstream-media-is-finally-beginning-to-echo-americans-outrage-at-israeli-slaughter/)  *2026-04-29 11:00* — The mainstream media is finally beginning to echo Americans’ outrage at Israeli slaughter
-- [Frontline](https://frontline.thehindu.com/interviews/francesca-albanese-gaza-genocide-un-report-interview/article70912873.ece)  *2026-04-29 08:30* — Today, the world is divided into two. Those who believe Israel’s lies and those who don’t: Francesca Albanese
-- [DropSite News](https://www.dropsitenews.com/p/michigan-democrats-student-protesters-palestine-israel-elections)  *2026-04-21 18:45* — Michigan Dems Came Down Hard On Student Protests Against the Gaza Genocide. It Just Blew Up in Their Face.
-
----
-
-### 3. İsrail-Gazze çatışması: analistler soykırım ve uluslararası hesap verebilirliğin aşınması uyarısında bulunuyor
-*Israel-Gaza conflict: analysts warn of genocide and erosion of international accountability*
-
-Birden fazla kaynak, İsrail'in Gazze'deki askeri harekatının uluslararası eleştirilerle karşı karşıya olduğunu bildiriyor. +972 Magazine, Mondoweiss ve Frontline'dan analistler, İsrail'in eylemlerinin soykırım boyutuna ulaştığı ve dünyanın yeterince dikkat etmediği uyarısında bulunuyor. B'Tselem sözcüsü Yair Dvir, İsrail'e tanınan dokunulmazlığın uluslararası hesap verebilirliğin gerilediğini gösterdiğini söyledi. Francesca Albanese, Hindistan'ın İsrail'le gelişen ilişkisini inceledi.
-
-*Multiple sources report that Israel's military campaign in Gaza is facing international criticism. Analysts from +972 Magazine, Mondoweiss, and Frontline warn that Israel's actions amount to genocide and that the world is not paying enough attention. B'Tselem spokesperson Yair Dvir said the immunity granted to Israel signifies the decline of international accountability. Francesca Albanese examined India's evolving relationship with Israel.*
-
-**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/how-the-corporate-media-helped-fuel-israels-genocide-in-gaza/)  *2026-04-24 15:15* — How the corporate media helped fuel Israel’s genocide in Gaza
+- [Mondoweiss](https://mondoweiss.net/2026/04/an-israeli-op-ed-calling-u-s-jews-traitors-for-refusing-to-emigrate-to-israel-points-to-the-looming-jewish-fracture-over-zionism/)  *2026-04-24 14:56* — An Israeli Op-Ed calling U.S. Jews ‘traitors’ for refusing to emigrate to Israel points to the looming Jewish fracture over Zionism
 - [+972 Magazine](https://www.972mag.com/israel-iran-permanent-security-doctrine/)  *2026-04-24 12:45* — The beginning of the end of Israel’s ‘permanent security’ doctrine
 - [Mondoweiss](https://mondoweiss.net/2026/04/israel-is-threatening-to-resume-the-genocide-in-gaza-this-time-the-world-isnt-paying-attention/)  *2026-04-24 12:41* — Israel is threatening to resume the genocide in Gaza. This time, the world isn’t paying attention.
 - [Frontline](https://frontline.thehindu.com/interviews/btselem-yair-dvir-gaza-genocide-blueprint-for-war/article70884268.ece)  *2026-04-24 11:38* — The genocide in Gaza has become the blueprint: Yair Dvir
@@ -54,70 +27,79 @@ Birden fazla kaynak, İsrail'in Gazze'deki askeri harekatının uluslararası el
 
 ---
 
-### 4. Filistin dayanışma hareketleri baskı altında ve İsrail'e yaptırım çağrıları
-*Palestine solidarity movements face pressure and call for sanctions on Israel*
+### 2. AIPAC ve medya, Gazze haberleri ve Hasan Piker nedeniyle eleştirildi
+*AIPAC and media criticized over Gaza coverage and Hasan Piker*
 
-Mondoweiss, İsrail'e silah ambargosu ve yaptırım çağrılarını bildirdi. BreakThrough News, Rania Khalek'in Lübnan Başbakanı'nı İsrail'le işbirliği yapmakla eleştirdiğini aktardı. People's Dispatch, Fransa'da Filistin dayanışması aktivistlerinin izlendiğini duyurdu. Mondoweiss ayrıca ICE gözetiminden serbest bırakılan Filistinli aktivist Leqaa Kordia ile röportaj yaptı.
+Electronic Intifada, AIPAC'ın Gazze'de soykırım olarak nitelendirilen eylemleri finanse eden ve teşvik eden adayları desteklediğini, ana akım medyanın ise Hasan Piker'a odaklandığını bildirdi. Jacobin ise elit merkezcilerin ifadelerinin Piker'ın yorumlarından daha kınanması gerektiğini, ancak savaş ve İslamofobinin Demokrat çevrelerde kabul görmesi nedeniyle göz ardı edildiğini savundu.
 
-*Mondoweiss reported calls for an arms embargo and sanctions on Israel. BreakThrough News featured Rania Khalek criticizing Lebanon's PM for cooperating with Israel. People's Dispatch reported on surveillance of Palestine solidarity activists in France. Mondoweiss also interviewed Leqaa Kordia, a Palestinian activist released from ICE detention.*
+*The Electronic Intifada reported that AIPAC backs candidates who fund and promote what it calls the Gaza genocide, while mainstream media focus on Hasan Piker. Jacobin argued that statements by elite centrists are more reprehensible than Piker's comments, but go unnoticed due to war and Islamophobia being acceptable in Democratic circles.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/ending-aid-isnt-enough-we-need-sanctions-and-an-arms-embargo-on-israel-now/)  *2026-04-21 17:32* — Ending aid isn’t enough — we need sanctions and an arms embargo on Israel now
-- [BreakThrough News](https://www.youtube.com/shorts/94w8h0JgY_4)  *2026-04-21 16:18* — Rania Khalek slams Lebanon PM's cooperation with Israel
-- [People's Dispatch](https://peoplesdispatch.org/2026/04/21/palestine-solidarity-movement-in-france-faces-growing-pressure/)  *2026-04-21 16:16* — Palestine solidarity movement in France faces growing pressure
-- [Mondoweiss](https://mondoweiss.net/2026/04/ive-become-stronger-leqaa-kordia-on-life-after-ice-detention/)  *2026-04-21 11:30* — ‘I’ve become stronger:’ Leqaa Kordia on life after ICE detention
+- [Electronic Intifada](https://electronicintifada.net/blogs/michael-f-brown/aipac-backs-candidates-who-fund-and-promote-gaza-genocide)  *2026-04-30 20:59* — AIPAC backs candidates who fund and promote Gaza genocide
+- [Jacobin](https://jacobin.com/2026/04/hasan-piker-democrats-centrists-violence)  *2026-04-30 20:45* — Let’s Compare Hasan Piker’s Comments to Elite Centrists’
 
 ---
 
-### 5. İsrail ateşkes sırasında Gazze'de yardım çalışanı öldürmelerine ve Batı Şeria'da yerleşim genişletmeye devam ediyor
-*Israel continues Gaza aid worker killings and West Bank settlement expansion amid ceasefire*
+### 3. İran, ABD deniz ablukasının kaldırılmasını şart koşuyor; kırılgan ateşkesler gündemde
+*Iran demands end to US naval blockade before talks; fragile ceasefires in focus*
 
-Mondoweiss, İsrail'in ateşkesin yedinci ayında temel yardımı engellemek için Gazze'de hâlâ yardım çalışanlarını öldürdüğünü bildiriyor. Novara Media, İsrailli gardiyanların Sde Teiman kampında Filistinli tutsaklara tecavüz etmek için köpek kullandıklarını itiraf ettiğini bildiriyor. Mondoweiss ayrıca İsrail'in cezasızlık penceresi kapanmadan Batı Şeria'da yerleşimleri hızla genişlettiğini bildiriyor. The Intercept, Demokratların İsrail'e yönelik tüm ABD silah anlaşmalarını engelleme veya istisnalara izin verme konusunda bölünmüş olduğunu bildiriyor.
+İran, ABD deniz ablukası kaldırılmadıkça görüşme yapmayacağını açıkladı. Analistler, İsrail'in İran'la çatışmayı yeniden başlatmaya ve Lübnan'daki saldırılarını sürdürmeye çalışabileceği uyarısında bulunuyor.
 
-*Mondoweiss reports that Israel is still killing aid workers in Gaza to block essential aid, seven months into the ceasefire. Novara Media reports that Israeli guards admitted using dogs to rape Palestinian captives at Sde Teiman camp. Mondoweiss also reports that Israel is rapidly expanding West Bank settlements before its window of impunity closes. The Intercept reports that Democrats are split over blocking all U.S. weapons deals with Israel or allowing exceptions.*
+*Iran has stated it will not hold talks with the US unless the naval blockade is lifted. Meanwhile, analysts warn that Israel may try to reignite conflict with Iran and resume its offensive in Lebanon, threatening fragile ceasefires.*
 
 **Kaynaklar / Sources:**
+- [People's Dispatch](https://peoplesdispatch.org/2026/04/23/iran-says-no-talks-with-the-us-unless-it-lifts-its-naval-blockade/)  *2026-04-23 19:00* — Iran says no talks with the US unless it lifts its naval blockade
+- [Mondoweiss](https://mondoweiss.net/2026/04/what-to-expect-next-in-the-fragile-ceasefires-in-iran-and-lebanon/)  *2026-04-23 13:30* — What to expect next in the fragile ceasefires in Iran and Lebanon
+
+---
+
+### 4. İsrail'in Lübnan'daki eylemleri ve gazeteciyi hedef alması gerilimi artırıyor
+*Israel's actions in Lebanon and targeting of journalist raise tensions*
+
++972 Magazine, ABD'nin arabuluculuk ettiği ateşkes görüşmeleri sırasında İsrail'in devam eden saldırılarının Lübnan hükümetini zayıflattığını ve Hizbullah'ın bundan yararlanmaya çalıştığını bildiriyor. Ayrıca DropSite News, Lübnanlı gazeteci Amal Halil'in İsrail tarafından bombalanarak ölüme terk edildiğini ve bir yorumcunun Hizbullah ile bağlantı olduğunu öne sürdüğünü bildiriyor.
+
+*+972 Magazine reports that Israel's ongoing attacks are weakening the Lebanese government and Hezbollah seeks to capitalize, amid U.S.-brokered ceasefire talks. Separately, DropSite News reports that Lebanese journalist Amal Khalil was bombed and left to die by Israel, with a commentator asserting a connection to Hezbollah.*
+
+**Kaynaklar / Sources:**
+- [+972 Magazine](https://www.972mag.com/israel-lebanon-civil-war-ceasefire/)  *2026-04-23 15:55* — Is Israel trying to foment civil war in Lebanon?
+- [DropSite News](https://www.dropsitenews.com/p/lebanon-journalist-amal-khalil-killed-israel)  *2026-04-22 23:14* — Lebanese Journalist Amal Khalil Bombed and Left to Die by Israel
+
+---
+
+### 5. Ateşkese rağmen İsrail Gazze'de yardım çalışanlarını öldürmeye devam ediyor
+*Israel continues to kill aid workers in Gaza despite ceasefire*
+
+Birden fazla rapor, ateşkesin yedinci ayında İsrail'in Gazze'de insani yardım çalışanlarına saldırmaya devam ettiğini gösteriyor. Yetkililer, bu saldırıların Filistinlilere ulaşan temel yardımı engellemeyi amaçladığını söylüyor.
+
+*Multiple reports indicate that Israel is still attacking humanitarian aid workers in Gaza, seven months into a ceasefire. Officials say these attacks aim to block essential aid from reaching Palestinians.*
+
+**Kaynaklar / Sources:**
+- [Truthout](https://truthout.org/articles/israel-continues-to-kill-aid-workers-in-gaza-seven-months-into-the-ceasefire/)  *2026-04-20 16:13* — Israel Continues to Kill Aid Workers in Gaza 7 Months Into the Ceasefire
 - [Mondoweiss](https://mondoweiss.net/2026/04/israel-is-still-killing-aid-workers-in-gaza/)  *2026-04-20 13:16* — Israel is (still) killing aid workers in Gaza
-- [Novara Media](https://novaramedia.com/2026/04/20/israeli-guards-admit-dogs-are-used-to-rape-palestinians-says-analyst/)  *2026-04-20 11:02* — Israeli Guards Admit Dogs Are Used to Rape Palestinians, Says Analyst
-- [Mondoweiss](https://mondoweiss.net/2026/04/israel-races-against-time-to-expand-west-bank-settlements-before-it-is-limited-by-new-regional-realities/)  *2026-04-19 13:30* — Israel is racing to expand West Bank settlements before new political realities end its era of impunity
-- [The Intercept](https://theintercept.com/2026/04/19/israel-weapons-military-aid-arms-embargo-democrats/)  *2026-04-19 10:11* — Democrats Are Split Over What It Means to Block Israel Weapons Deals
 
 ---
 
-### 6. İranlı grup savaş suçu davası açtı; Gazze gıda sistemi yok edildi; İsrail ABD'de popüler değil
-*Iranian group files war crimes case; Gaza food system destroyed; Israel unpopular in US*
+### 6. İran Hürmüz Boğazı'nı açarken Lübnan'da ateşkes sürüyor
+*Iran opens Strait of Hormuz as ceasefire holds in Lebanon*
 
-İranlı bir grup, Uluslararası Ceza Mahkemesi'ne ABD-İsrail savaş suçlarına dair kanıt sundu. Gazze'deki tarım arazilerinin çoğu İsrail bombardımanı ve müsaderesi nedeniyle kullanılamaz durumda. Anketler, İsrail'in ABD'deki popülaritesinin Gazze çatışması nedeniyle keskin bir düşüş yaşadığını gösteriyor. Tehditlere rağmen Trump'ın İran konusundaki yetkisini sınırlama oylaması Senato'da başarısız oldu.
+İran, Hürmüz Boğazı'nı yeniden açarken Lübnan'da ateşkes yürürlüğe girdi; Hizbullah milletvekili İbrahim El-Musavi, grubun anlaşmaya saygı duyacağını belirtti. ABD, Orta Doğu'ya binlerce asker daha gönderiyor ve ABD-İran müzakerelerinin ilk turu zorlukları ortaya koydu.
 
-*An Iranian group has filed evidence of US-Israeli war crimes with the International Criminal Court. In Gaza, most farmland is unusable due to Israeli bombing and seizure. Polling shows Israel's popularity in the US has declined sharply, driven by the Gaza conflict. A US Senate vote to limit Trump's authority on Iran failed despite threats.*
+*Iran has reopened the Strait of Hormuz, and a ceasefire in Lebanon is taking hold, with Hezbollah MP Ibrahim Al-Moussawi stating the group will respect the deal. The U.S. is adding thousands of troops in the Middle East, and the first round of U.S.-Iran negotiations showed challenges ahead.*
 
 **Kaynaklar / Sources:**
-- [Truthout](https://truthout.org/articles/iranian-group-files-us-israeli-war-crimes-evidence-to-international-criminal-court/)  *2026-04-26 14:44* — Iranian Group Files US-Israeli War Crimes Evidence to International Criminal Court
-- [Truthout](https://truthout.org/articles/palestinians-in-gaza-want-to-rebuild-food-systems-israel-isnt-letting-them/)  *2026-04-26 13:46* — Palestinians in Gaza Want to Rebuild Food Systems. Israel Isn’t Letting Them.
-- [Mondoweiss](https://mondoweiss.net/2026/04/latest-polling-paints-dire-picture-for-israel-in-u-s-politics/)  *2026-04-26 13:27* — Latest polling paints dire picture for Israel in U.S. politics
-- [Truthout](https://truthout.org/articles/52-senators-vote-against-reining-in-trumps-war-on-iran-despite-genocidal-threat/)  *2026-04-15 21:18* — 52 Senators Vote Against Reining In Trump’s War on Iran Despite Genocidal Threat
+- [DropSite News](https://www.dropsitenews.com/p/iran-opens-strait-of-hormuz-lebanon-ceasefire)  *2026-04-17 14:37* — Iran opens Strait of Hormuz; Thousands return to southern Lebanon as ceasefire takes hold; House rejects Iran resolution by one vote
+- [Mondoweiss](https://mondoweiss.net/2026/04/trump-may-want-out-of-the-iran-war-but-the-first-round-of-negotiations-showed-the-challenges-ahead/)  *2026-04-17 13:42* — Trump may want out of the Iran war, but the first round of negotiations showed the challenges ahead
+- [DropSite News](https://www.dropsitenews.com/p/hezbollah-mp-ibrahim-al-moussawi-israel-lebanon-ceasefire-talks-iran)  *2026-04-16 15:34* — Exclusive: Hezbollah MP Ibrahim Al-Moussawi Says “We Will Be Respecting the Ceasefire”
+- [DropSite News](https://www.dropsitenews.com/p/us-troops-middle-east-israel-lebanon-gaza-boat-strikes)  *2026-04-15 14:46* — U.S. to add thousands of troops in Middle East; Israel continues to batter Lebanon, Gaza; Four killed in yet another Pacific boat strike
 
 ---
 
-### 7. Savaş ve işgal altında Filistin siyasi hayatı kötüleşiyor
-*Palestinian political life deteriorates amid war and occupation*
+### 7. İsrail'in Lübnan'daki askeri kampanyası direnişle karşılaşıyor
+*Israel's military campaign in Lebanon faces resistance*
 
-Mondoweiss, iki yıllık çatışma ve İsrail baskılarının siyasi hayatı boşaltması nedeniyle Filistin belediye seçimlerinde çok az aday olduğunu bildiriyor. Truthout, Gazze'deki bir öğretmenin savaşın öğrenciler için eğitim fırsatlarını ve umudu nasıl yok ettiğini anlatan birinci şahıs tanıklığına yer veriyor.
++972 Magazine, Lübnan'daki ateşkesin İsrail'in güney Lübnan'daki etnik temizlik de dahil olmak üzere yayılmacı hırslarını durdurmasının olası olmadığını bildiriyor. MintPress News, İsrail güçlerinin Bint Jbeil'de direnişle karşılaştığını ve İsrail'in kırılganlığına ilişkin 'örümcek ağı' teorisini yinelediğini bildiriyor.
 
-*Mondoweiss reports that Palestinian municipal elections are seeing few candidates, as two years of conflict and Israeli crackdowns have hollowed out political life. Truthout features a first-person account from a Gaza teacher describing how the war has destroyed educational opportunities and hope for students.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/palestinians-are-holding-local-elections-but-hardly-anyone-is-running-heres-why-that-matters/)  *2026-04-25 17:01* — Palestinians are holding local elections, but hardly anyone is running. Here’s why that matters.
-- [Truthout](https://truthout.org/articles/as-a-teacher-in-gaza-i-saw-education-bring-hope-israel-has-extinguished-it/)  *2026-04-25 13:36* — As a Teacher in Gaza, I Saw Education Bring Hope. Israel Has Extinguished It.
-
----
-
-### 8. İsrail'in Lübnan'daki askeri operasyonları ve ateşkes beklentileri
-*Israel's military operations in Lebanon and ceasefire prospects*
-
-+972 Magazine'den bir analiz, İsrail'in tampon bölgeler ve 'doğal sınırlar' arayışının, Lübnan'da bir ateşkesin genişlemeci hırslarını durdurmasının olası olmadığını öne sürüyor. MintPress News, İsrail güçlerinin Lübnan'a birkaç kilometreden fazla ilerleyemediğini, direniş güçlerinin Bint Jbeil'de hattı tuttuğunu ve bunun uzun süreli savaşta İsrail'in kırılganlığına dair geçmiş uyarıları yansıttığını bildiriyor.
-
-*An analysis from +972 Magazine argues that Israel's push for buffer zones and 'natural borders' suggests a ceasefire in Lebanon is unlikely to halt its expansionist ambitions. MintPress News reports that Israeli forces have failed to advance beyond a few kilometers into Lebanon, with resistance forces holding the line in Bint Jbeil, echoing past warnings about Israel's fragility in prolonged war.*
+*+972 Magazine reports that the ceasefire in Lebanon is unlikely to stop Israel's expansionist ambitions, including ethnic cleansing in southern Lebanon. MintPress News reports that Israeli forces face resistance in Bint Jbeil, echoing the 'spider web' theory of Israel's fragility.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/israel-lebanon-ceasefire/)  *2026-04-16 21:10* — Why the ceasefire in Lebanon won’t stop Israel’s expansionist ambitions
@@ -125,840 +107,817 @@ Mondoweiss, iki yıllık çatışma ve İsrail baskılarının siyasi hayatı bo
 
 ---
 
-### 9. İsrail'in Filistin bayrağına yönelik baskısı gerçeküstü boyutlara ulaştı
-*Israel's crackdown on Palestinian flag reaches surreal levels*
+### 8. İsrail'in Filistin bayrağına yönelik baskısı gerçeküstü olarak tanımlandı
+*Israel's crackdown on Palestinian flag described as surreal*
 
-+972 Magazine, İsrail'in Filistin bayrağına yönelik baskısının gerçeküstü bir hal aldığını, bir Macar bayrağına el konulması ve bir kipanın tahrip edilmesinin derin bir güvensizliği yansıttığını bildiriyor.
++972 Magazine'in haberine göre, İsrail'in Filistin bayrağına yönelik baskısı, bir Macar bayrağına el konulması da dahil, askeri güce rağmen derin bir güvensizliği ele veriyor.
 
-*+972 Magazine reports that Israel's crackdown on the Palestinian flag has become surreal, including confiscation of a Hungarian flag and mutilation of a kippah, reflecting deep insecurity.*
+*+972 Magazine reports that Israel's crackdown on the Palestinian flag, including confiscation of a Hungarian flag, betrays deep insecurity despite military strength.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/israel-crackdown-palestinian-flag-surreal/)  *2026-05-01 08:06* — Israel’s crackdown on the Palestinian flag veers into the surreal
 
 ---
 
-### 10. Bennett-Lapid birlik listesi, Siyonizm'in parya dönemindeki geleceğini gösteriyor
-*Bennett-Lapid unity ticket shows Zionism's future in pariah era*
+### 9. Bennett-Lapid birlik listesi: İsrail apartheid'ine liberal bir cila
+*Bennett-Lapid unity ticket: liberal veneer on Israeli apartheid*
 
-Mondoweiss, Bennett-Lapid'in Netanyahu'yu devirme çabasının, İsrail'in parya statüsünden rahatsız olanlara hitap etmeyi amaçladığını, ancak bunun İsrail apartheid'ına sadece liberal bir cila sürdüğünü savunuyor.
+Mondoweiss, Naftali Bennett ve Yair Lapid'in Benjamin Netanyahu'yu devirme ortak çabasının, İsrail'in parya statüsünden rahatsız olanlara hitap etmeyi amaçladığını, ancak kampanyanın İsrail apartheid'ine sadece 'liberal' bir cila sürdüğünü bildiriyor.
 
-*Mondoweiss reports that the Bennett-Lapid joint effort to unseat Netanyahu aims to appeal to those upset by Israel's pariah status, but argues it merely puts a liberal veneer on Israeli apartheid.*
+*Mondoweiss reports that Naftali Bennett and Yair Lapid's joint effort to unseat Benjamin Netanyahu aims to appeal to those upset by Israel's pariah status, but the campaign merely puts a 'liberal' veneer on Israeli apartheid.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/united-in-apartheid-what-the-bennett-lapid-unity-ticket-tells-us-about-the-future-of-zionism-in-israels-pariah-era/)  *2026-04-30 14:50* — United in Apartheid: What the Bennett-Lapid unity ticket tells us about the future of Zionism in Israel’s pariah era
 
 ---
 
-### 11. Hırvat sağcı, AB-İsrail ilişkilerini canlandırma çabalarına öncülük ediyor
-*Croatian right-winger leads efforts to rekindle EU-Israel romance*
+### 10. Hırvat Sağcı, AB-İsrail İlişkilerini Canlandırma Çabalarına Öncülük Ediyor
+*Croatian Right-Winger Leads Efforts to Rekindle EU-Israel Ties*
 
-Hırvat sağcı politikacı Dubravka Šuica, AB-İsrail ilişkilerini geliştirme çabalarına öncülük ediyor. Filistin Yönetimi'nin Trump'ın politikalarına uyum sağlamasını istiyor.
+Electronic Intifada, Hırvat sağcı siyasetçi Dubravka Šuica'nın AB-İsrail ilişkilerini canlandırma çabalarına öncülük ettiğini ve Filistin Yönetimi'nin Trump'ın kurallarına uymasını istediğini bildiriyor.
 
-*Dubravka Šuica, a Croatian right-wing politician, is leading efforts to improve EU-Israel relations. She wants the Palestinian Authority to align with Trump's policies.*
+*Electronic Intifada reports that Dubravka Šuica, a Croatian right-wing politician, is leading efforts to rekindle EU-Israel relations and wants the Palestinian Authority to play by Trump's rules.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/david-cronin/croatian-right-winger-leads-efforts-rekindle-eu-israel-romance)  *2026-04-30 14:39* — Croatian right-winger leads efforts to rekindle EU-Israel romance
 
 ---
 
-### 12. Gazze öğrenci kamp alanlarından iki yıl sonra çıkarılan dersler
-*Lessons from Gaza student encampments two years on*
+### 11. İki yıl sonra, Gazze öğrenci kampları hareket için dersler sunuyor
+*Two years on, Gaza student encampments offer movement lessons*
 
-İki yıl önce Columbia Üniversitesi'ndeki aktivistler, Filistin'le dayanışma amacıyla bir kampüs binasını işgal ederek adını 'Hind's Hall' olarak değiştirmişti. Filistin için kampüs protestoları büyük ölçüde azalmış olsa da, ilham verdikleri harekete ders vermeye devam ediyor.
+Columbia Üniversitesi'ndeki aktivistlerin bir kampüs binasını işgal edip 'Hind'in Salonu' olarak yeniden adlandırmasından iki yıl sonra, Filistin için kampüs protestoları büyük ölçüde azaldı. Mondoweiss, kampların ilham verdikleri hareket için hayati dersler sunmaya devam ettiğini bildiriyor.
 
-*Two years ago, activists at Columbia University occupied a campus building, renaming it 'Hind's Hall' in solidarity with Palestine. While campus protests for Palestine have mostly receded, they continue to offer lessons for the movement they inspired.*
+*Two years after activists at Columbia University occupied a campus building and renamed it 'Hind's Hall', campus protests for Palestine have mostly receded. Mondoweiss reports that the encampments continue to offer vital lessons for the movement they inspired.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/the-lessons-from-the-gaza-student-encampments-two-years-on/)  *2026-04-30 13:42* — The lessons from the Gaza student encampments, two years on
 
 ---
 
-### 13. Montreal öğrenci aktivizmi modeli üniversiteleri yatırım açıklamaya zorluyor
-*Montreal student activism model forces university investment disclosure*
+### 12. Montreal öğrenci aktivizmi üniversiteleri yatırımlarını açıklamaya zorladı
+*Montreal student activism forces university investment disclosure*
 
-Montreal'deki öğrenci aktivizmi, üniversiteleri yatırımlarını açıklamaya zorladı. Bu model, diğer öğrenci hareketleri için bir örnek olarak görülüyor.
+Electronic Intifada, Montreal'deki öğrenci aktivizminin üniversiteleri yatırımlarını açıklamaya zorladığını ve benzer hareketler için bir model oluşturduğunu bildiriyor.
 
-*Student activism in Montreal has forced universities to disclose their investments. The model is seen as an example for other student movements.*
+*Electronic Intifada reports that Montreal's student activism has forced universities to disclose their investments, providing a model for similar movements.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/montreal-provides-model-student-activism/51374)  *2026-04-30 06:39* — Montreal provides a model for student activism
 
 ---
 
-### 14. İsrail'in çekilmeyi Hamas'ın silahsızlanmasına bağlamasıyla Gazze ateşkesi zayıfladı
-*Gaza ceasefire undermined as Israel conditions withdrawal on Hamas disarmament*
+### 13. Gazze ateşkesi devam eden saldırılar ve yardım kısıtlamalarıyla zayıflatıldı
+*Gaza ceasefire undermined by continued attacks and aid restrictions*
 
-İsrail'in devam eden saldırıları ve yardım kısıtlamaları Gazze'deki ateşkesi anlamsız hale getirdi. +972 Magazine'e göre, İsrail şimdi çekilmeyi Hamas'ın her silahı bırakmasına bağlıyor.
++972 Magazine'e göre İsrail'in devam eden saldırıları ve yardım kısıtlamaları ateşkesi anlamsız hale getirdi. İsrail şimdi çekilmeyi Hamas'ın tüm silahlarını bırakmasına bağlıyor.
 
-*Israel's continued attacks and aid restrictions have made a mockery of the ceasefire in Gaza. Now Israel is conditioning its withdrawal on Hamas giving up every last weapon, according to +972 Magazine.*
+*Israel's continued attacks and aid restrictions have made a mockery of the ceasefire, according to +972 Magazine. Israel is now conditioning withdrawal on Hamas giving up all its weapons.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/gaza-disarmament-trap-israel-ceasefire/)  *2026-04-29 14:26* — Gaza’s disarmament trap
 
 ---
 
-### 15. İsrailli yerleşimci şiddeti Filistinli çiftçilerin geçim kaynaklarını yok ediyor
-*Israeli settler violence destroys Palestinian farmers' livelihoods*
+### 14. Filistin, Pensilvanya Demokratik ön seçiminde merkezi konu haline geliyor
+*Palestine emerges as central issue in Pennsylvania Democratic primary*
 
-Mondoweiss, Ekim 2023'ten bu yana İsrailli yerleşimci şiddetinin Batı Şeria'da sistematik olarak tarım arazilerini erişilemez hale getirdiğini, hasatları yok ettiğini ve bir yaşam biçimini ortadan kaldırdığını bildiriyor.
+Mondoweiss'e göre Chris Rabb'ın Filistin konusundaki tutarlılığı, Demokratların İsrail ve dış politika yaklaşımı tarafından ihanete uğradığını hisseden Pensilvanya'nın en mavi bölgesindeki seçmenlerde yankı buldu.
 
-*Mondoweiss reports that Israeli settler violence since October 2023 has systematically rendered farmland inaccessible across the West Bank, destroying harvests and dismantling a way of life.*
+*Chris Rabb's consistency on Palestine has resonated with voters in Pennsylvania's bluest district, who feel betrayed by the Democrats' approach to Israel and foreign policy, according to Mondoweiss.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/palestine-emerges-as-central-issue-in-a-key-pennsylvania-democratic-primary/)  *2026-04-29 13:32* — Palestine emerges as central issue in a key Pennsylvania Democratic primary
+
+---
+
+### 15. İsrailli yerleşimci şiddeti Batı Şeria'da Filistinli çiftçilerin geçim kaynaklarını yok ediyor
+*Israeli settler violence destroys Palestinian farmers' livelihoods in West Bank*
+
+Mondoweiss'e göre Ekim 2023'ten bu yana İsrailli yerleşimci şiddeti Batı Şeria'da sistematik olarak tarım arazilerini erişilemez hale getirdi. Devlet destekli bu politika hasatları yok ediyor ve bütün bir yaşam biçimini ortadan kaldırıyor.
+
+*Israeli settler violence since October 2023 has systematically rendered farmland inaccessible across the West Bank, according to Mondoweiss. The state-backed policy is destroying harvests and dismantling an entire way of life.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/the-palestinian-farmers-whose-livelihoods-have-been-destroyed-by-israeli-settlers/)  *2026-04-29 12:59* — The Palestinian farmers whose livelihoods have been destroyed by Israeli settlers
 
 ---
 
-### 16. Almanya'da İsrail silah şirketine girme davası başladı
-*Palestine Action trial begins in Germany over break-in at Israeli weapons firm*
+### 16. Ana akım medya, Amerikalıların Gazze'deki İsrail eylemlerine yönelik öfkesini yansıtıyor
+*Mainstream media echoes American outrage at Israeli actions in Gaza*
 
-Almanya'da 'Ulm 5' olarak bilinen beş aktivistin davası başladı. İsrail'e ait bir silah şirketine girme eyleminden dolayı hapis cezasıyla karşı karşıyalar. Uzmanlar, davanın doğrudan eylemi suç sayma konusunda emsal oluşturabileceğini söylüyor.
+Mondoweiss'e göre son iki yılda İsrail, Amerikan kamuoyunun desteğini kaybetti ve şimdi ana akım medyadaki önemli sesleri kaybediyor. Medya nihayet Amerikalıların İsrail'in katliamına yönelik öfkesini yansıtıyor.
 
-*The trial of five activists known as the 'Ulm 5' has begun in Germany. They face prison time for a break-in at an Israeli weapons firm, in a case experts say could set a precedent for criminalizing direct action.*
+*Over the past two years, Israel has lost the support of the American public and is now losing prominent voices in the mainstream media, according to Mondoweiss. The media is finally echoing Americans' outrage at Israeli slaughter.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/the-mainstream-media-is-finally-beginning-to-echo-americans-outrage-at-israeli-slaughter/)  *2026-04-29 11:00* — The mainstream media is finally beginning to echo Americans’ outrage at Israeli slaughter
+
+---
+
+### 17. Almanya'daki Filistin Eylemi davası geniş kapsamlı görülüyor
+*Palestine Action trial in Germany seen as far-reaching*
+
++972 Magazine, 'Ulm 5' olarak bilinen kişilerin bir İsrail silah firmasına girdikleri için hapis cezasıyla karşı karşıya olduğunu bildiriyor. Uzmanlar, davanın doğrudan eylemi suç sayma konusunda emsal teşkil edebileceği uyarısında bulunuyor.
+
+*+972 Magazine reports that the 'Ulm 5' are facing prison time for a break-in at an Israeli weapons firm. Experts warn the case could set a precedent for criminalizing direct action.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/palestine-action-trial-germany-ulm-5-elbit/)  *2026-04-28 21:18* — ‘Extraordinarily far-reaching’ Palestine Action trial gets underway in Germany
 
 ---
 
-### 17. Analist, Trump'ın gösterişine rağmen İran anlaşması için çaresiz olduğunu söylüyor
-*Analyst says Trump desperate for Iran deal despite bravado*
+### 18. Analist: Trump'ın gösterişine rağmen ABD İran'la anlaşma konusunda umutsuz
+*Analyst says US is desperate for Iran deal despite Trump's bravado*
 
-Mondoweiss, analist Sina Toossi'nin, Trump'ın İran'ın zayıflığına dair kamuoyundaki iddialarının aksine, ABD'nin İran'la bir anlaşma için çaresiz olduğunu belirttiğini aktarıyor.
+Mondoweiss'in haberine göre analist Sina Toossi, Trump'ın İran'ın zayıfladığı yönündeki kamuoyu açıklamalarının aksine ABD'nin İran'la anlaşma konusunda umutsuz olduğunu söyledi. Toossi, İran'ın ABD ve İsrail'le savaş sırasında elde ettiği kazanımları ele aldı.
 
-*Mondoweiss quotes analyst Sina Toossi stating that the US is desperate for a deal with Iran, contrary to Trump's public claims of Iranian weakness.*
+*Mondoweiss reports that analyst Sina Toossi says the United States is desperate for a deal with Iran, contrary to Trump's public claims that Iran has been weakened. Toossi discussed Iran's gains during the war with the US and Israel.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/despite-his-public-bravado-trump-is-desperate-for-a-deal-with-iran/)  *2026-04-28 14:40* — Despite his public bravado, Trump is desperate for a deal with Iran
 
 ---
 
-### 18. İsrail Geri Dönüş Yürüyüşü'nü engelliyor; Filistinliler Nakba'yı anıyor
-*Israel blocks March of Return; Palestinians mark Nakba*
+### 19. İsrail'in Dönüş Yürüyüşü'nü engellemesine rağmen Filistinliler Nakba'yı andı
+*Palestinians mark Nakba despite Israeli blockade of March of Return*
 
-+972 Magazine, İsrail polisinin ana Geri Dönüş Yürüyüşü'nü engellediğini ancak Filistinlilerin boşaltılmış köyleri ziyaret ederek Nakba'yı andığını bildiriyor.
++972 Magazine'in haberine göre, İsrail polisinin ana Dönüş Yürüyüşü'nü engellemesinin ardından Filistinli aileler, 1948'de kaybedilenlerin anısını canlı tutmak için ülke genelinde boşaltılmış köylere dönerek Nakba'yı andı.
 
-*+972 Magazine reports that Israeli police prevented the main March of Return procession, but Palestinians commemorated the Nakba by visiting depopulated villages.*
+*After Israeli police prevented the main March of Return procession, Palestinian families returned to depopulated villages across the country to mark the Nakba, keeping alive the memory of what was lost in 1948, as reported by +972 Magazine.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/march-of-return-nakba-2026/)  *2026-04-28 14:30* — Israel blocked the March of Return. Palestinians marked the Nakba anyway
 
 ---
 
-### 19. Peter Mandelson'un İsrail bağlantıları yeni raporda ortaya çıktı
-*Peter Mandelson's Israel ties revealed in new report*
+### 20. Yeni raporda Peter Mandelson'ın İsrail bağlantıları vurgulanıyor
+*Peter Mandelson's Israel ties highlighted in new report*
 
-Electronic Intifada, eski İngiltere büyükelçisi Peter Mandelson'un Jeffrey Epstein ile olan bağlantısının ötesinde İsrail ve destekçileriyle önemli bağları olduğunu bildiriyor.
+Electronic Intifada, eski İngiltere büyükelçisi Peter Mandelson'ın Jeffrey Epstein'ın 'en iyi arkadaşı' olduğunu yazdığını ve İsrail ile Birleşik Krallık ve ötesindeki destekçileriyle önemli bağları olduğunu bildiriyor.
 
-*Electronic Intifada reports that former UK ambassador Peter Mandelson had significant ties to Israel and its supporters, beyond his association with Jeffrey Epstein.*
+*Electronic Intifada reports that former UK ambassador Peter Mandelson, who wrote he was Jeffrey Epstein's 'best pal,' has significant ties with Israel and its supporters in the UK and beyond.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/peter-mandelson-untold-israel-connection/51369)  *2026-04-28 13:23* — Peter Mandelson: the untold Israel connection
 
 ---
 
-### 20. Filistinli gönüllüler İsrail yerleşimci saldırılarına karşı gece nöbetçileri oluşturdu
-*Palestinian volunteers form night guards against Israeli settler attacks*
+### 21. Filistinli gönüllüler Batı Şeria köylerini yerleşimci saldırılarına karşı savunuyor
+*Palestinian volunteers defend West Bank villages from settler attacks*
 
-Filistinli gönüllülerden oluşan bir taban ağı, gecelerini Batı Şeria köylerini artan İsrail yerleşimci şiddetinden koruyarak geçiriyor. Gruplar, topluluklarını korumak için gece nöbetçileri olarak çalışıyor.
+Mondoweiss, Batı Şeria köylerini artan İsrail yerleşimci şiddetine karşı korumak için geceleri nöbet tutan Filistinli gönüllülerden oluşan bir taban ağını haberleştiriyor.
 
-*A grassroots network of Palestinian volunteers spends nights defending West Bank villages from escalating Israeli settler violence. The groups operate as night guards to protect their communities.*
+*Mondoweiss reports on a grassroots network of Palestinian volunteers who spend nights protecting their West Bank villages from escalating Israeli settler violence.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/the-night-guards-inside-the-grassroots-network-fighting-back-against-israeli-settler-attacks/)  *2026-04-27 16:15* — ‘The night guards’: Inside the grassroots network fighting back against Israeli settler attacks
 
 ---
 
-### 21. Mondoweiss, gazeteci Amal Halil'in ölümünde İsrail'in rolüne dair kanıt bildiriyor
-*Mondoweiss reports evidence of Israeli role in journalist Amal Khalil's death*
+### 22. Ana akım medya, gazeteci Amal Halil'in öldürülmesinde İsrail'in rolünü görmezden geliyor
+*Mainstream media ignoring Israel's role in killing journalist Amal Khalil*
 
-Mondoweiss, İsrail ordusunun Lübnanlı muhabir Amal Halil'i öldürdüğüne dair güçlü kanıtlar bulunduğunu ve ABD medyasının bu haberi büyük ölçüde görmezden geldiğini bildiriyor.
+Mondoweiss, İsrail ordusunun Lübnanlı muhabir Amal Halil'i öldürdüğüne dair güçlü kanıtlar olduğunu ve ABD medyasının bu haberi neden görmezden geldiğini sorguluyor.
 
-*Mondoweiss reports compelling evidence that the Israeli military killed Lebanese reporter Amal Khalil, and notes that US media is largely ignoring the story.*
+*Mondoweiss reports compelling evidence that the Israeli military killed Lebanese reporter Amal Khalil, and questions why US media is ignoring the story.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/the-mainstream-media-is-ignoring-israels-role-in-the-killing-of-journalist-amal-khalil/)  *2026-04-27 14:30* — The mainstream media is ignoring Israel’s role in the killing of journalist Amal Khalil
 
 ---
 
-### 22. İsrail saldırıları Gazze'nin el-Zehra mahallesini yaşanmaz hale getirdi
-*Israel's attacks rendered Gaza's al-Zahra neighborhood uninhabitable*
+### 23. Anketler, İsrail'in ABD siyasetinde kötü bir tablo çizdiğini gösteriyor
+*Polling shows dire picture for Israel in US politics*
 
-Electronic Intifada, İsrail'in Ekim 2023'te Gazze Şehri'nin el-Zehra mahallesine düzenlediği saldırıların bölgeyi yaşanmaz hale getirdiğini bildiriyor.
+Mondoweiss, İsrail'in ABD'deki popülaritesindeki düşüşün Gazze soykırımı ve İran savaşından kaynaklandığını, ancak bu düşüşün on yıllardır sürdüğünü ve siyasi sonuçların artık görüldüğünü bildiriyor.
 
-*Electronic Intifada reports that Israel's attacks on Gaza City's al-Zahra neighborhood in October 2023 rendered it uninhabitable.*
+*Mondoweiss reports that Israel's plummeting popularity in the US has been driven by the Gaza genocide and Iran war, but has been building for decades, and political results are now visible.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/latest-polling-paints-dire-picture-for-israel-in-u-s-politics/)  *2026-04-26 13:27* — Latest polling paints dire picture for Israel in U.S. politics
+
+---
+
+### 24. İsrail, Gazze Şehri'nin el-Zehra mahallesini nasıl harap etti
+*How Israel devastated Gaza City's al-Zahra neighborhood*
+
+Raporlara göre, İsrail'in Ekim 2023'te Gazze Şehri'ndeki el-Zehra mahallesine düzenlediği saldırılar bölgeyi yaşanmaz hale getirdi.
+
+*Israel's attacks on the al-Zahra neighborhood in Gaza City in October 2023 rendered the area uninhabitable, according to reports.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/how-israel-ravaged-gaza-citys-al-zahra-neighborhood/51355)  *2026-04-25 18:14* — How Israel ravaged Gaza City’s al-Zahra neighborhood
 
 ---
 
-### 23. İngiliz Milletvekili, İsrail Politikasının Gözden Geçirilmesini İstiyor
-*UK Lawmaker Urges Government to Reconsider Israel Policy Over Death Penalty Law*
+### 25. Filistin yerel seçimlerine İsrail baskısı nedeniyle düşük katılım
+*Palestinian local elections see low turnout amid Israeli crackdown*
 
-İngiliz milletvekili İkbal Muhammed, soykırım, açlık ve Filistinlilere yönelik yeni bir idam cezası yasasını gerekçe göstererek İngiltere hükümetini İsrail politikasını yeniden değerlendirmeye çağırdı. Bu eylemlerin İşçi Partisi hükümeti için kırmızı çizgi olup olmadığını sorguladı.
+Bir zamanlar son demokratik çıkış yolu olan Filistin bölgelerindeki belediye seçimlerine bu yıl çok az aday katılıyor. Düşüş, Filistin siyasi hayatını içi boşaltan iki yıllık soykırım ve İsrail baskısına bağlanıyor.
 
-*British MP Iqbal Mohamed called on the UK government to reevaluate its policy toward Israel, citing genocide, starvation, and a new death penalty law targeting Palestinians. He questioned whether these actions constitute red lines for the Labour government.*
+*Municipal elections in Palestinian areas, once the last democratic outlet, are seeing very few candidates this year. The decline is attributed to two years of genocide and Israeli crackdown that have hollowed out Palestinian political life.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/palestinians-are-holding-local-elections-but-hardly-anyone-is-running-heres-why-that-matters/)  *2026-04-25 17:01* — Palestinians are holding local elections, but hardly anyone is running. Here’s why that matters.
+
+---
+
+### 26. İngiliz Milletvekili, Yeni İdam Yasası Nedeniyle İsrail Politikasının Yeniden Değerlendirilmesini İstiyor
+*UK MP Calls for Reevaluation of Israel Policy Over New Death Penalty Law*
+
+İngiliz Milletvekili Iqbal Mohamed, soykırım, açlık ve yalnızca Filistinliler için idam cezasının İşçi Partisi hükümeti için kırmızı çizgi olup olmadığını sorguladı. Birleşik Krallık'ı İsrail politikasını yeniden değerlendirmeye çağırdı.
+
+*British MP Iqbal Mohamed questioned whether genocide, starvation, and a death penalty for Palestinians alone are red lines for the Labour government. He urged the UK to reevaluate its Israel policy.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/new-death-penalty-law-should-force-starmer-government-to-reevaluate-uk-policy-toward-israel/)  *2026-04-25 13:24* — New death penalty law should force Starmer government to reevaluate UK policy toward Israel
 
 ---
 
-### 24. Hizbullah insansız hava araçları Lübnan'da İsrail tanklarını hedef alıyor
+### 27. Hizbullah insansız hava araçları Lübnan'da İsrail tanklarını hedef alıyor
 *Hezbollah drones target Israeli tanks in Lebanon*
 
-Jon Elmer, Hizbullah'ın insansız hava araçlarıyla İsrail askeri altyapısını hedef alan yenilikçi taktiklerini aktarıyor.
+Jon Elmer, Hizbullah'ın insansız hava araçları kullanarak İsrail askeri altyapısını hedef almadaki yenilikçi taktiklerini aktarıyor.
 
-*Jon Elmer reports on Hezbollah's innovative tactics in targeting Israeli military infrastructure with drones.*
+*Jon Elmer reports on Hezbollah's innovative tactics in targeting Israeli military infrastructure using drones.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/tamara-nassar/how-hizballah-drones-hunt-israeli-tanks)  *2026-04-24 16:41* — How Hizballah drones hunt Israeli tanks
 
 ---
 
-### 25. Filistinliler yıllar sonra ilk kez yerel seçimlerde oy kullanıyor
+### 28. Filistinliler yıllar sonra ilk kez yerel seçimlerde oy kullanıyor
 *Palestinians vote in local elections for first time in years*
 
-Batı Şeria ve Gazze'deki bir şehirde yerel seçimler yapılıyor; bölge sakinleri seçimin meşruiyeti ve değişim potansiyeli konusunda bölünmüş durumda.
+Batı Şeria ve Gazze'deki bir şehirde yerel seçimler yapılıyor. Seçmenler, oylamanın meşruiyeti ve değişim potansiyeli konusunda ikiye bölünmüş durumda.
 
-*Local elections are taking place across the West Bank and one city in Gaza, with residents split on the vote's legitimacy and potential for change.*
+*Local elections are taking place across the West Bank and one city in Gaza. Residents are split on the vote's legitimacy and potential for change.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/palestinian-local-elections-west-bank-gaza/)  *2026-04-24 15:58* — What’s at stake as Palestinians go to the polls for the first time in years
 
 ---
 
-### 26. Kitap, kurumsal medyanın Gazze'deki İsrail soykırımını nasıl körüklediğini anlatıyor
-*Book details how corporate media helped fuel Israel's genocide in Gaza*
+### 29. Hakim, Palestine Action sanıklarına karşı şansı zorlaştırdı
+*Judge stacked odds against Palestine Action defendants*
 
-Medya eleştirmeni Adam Johnson'ın yeni kitabı, kablolu yayınların, gazetelerin ve çevrimiçi haber sitelerinin Filistinlilerin toplu katledilmesine nasıl destek oluşturduğunu anlatıyor.
+Electronic Intifada, Filton davasındaki sanıkların, eylemlerinin savaş suçlarını önlemek için makul güç kullanımı olduğu yönündeki savunmalarının, usulsüz bir yargıç nedeniyle engellendiğini bildiriyor.
 
-*Media critic Adam Johnson's new book details how cable shows, newspapers, and online news sites helped build support for the mass killing of Palestinians.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/how-the-corporate-media-helped-fuel-israels-genocide-in-gaza/)  *2026-04-24 15:15* — How the corporate media helped fuel Israel’s genocide in Gaza
-
----
-
-### 27. ABD'li Yahudilere hain diyen İsrail köşe yazısı, Siyonizm üzerindeki bölünmeye işaret ediyor
-*Israeli op-ed calling US Jews traitors points to fracture over Zionism*
-
-Sağcı bir İsrailli gazetecinin, İsrail'e göç etmeyi reddettikleri için ABD'li Yahudilere 'hain' diyen köşe yazısı, İsrailli ve Amerikalı Yahudiler arasında Siyonizm konusunda büyüyen bölünmeyi vurguluyor.
-
-*An op-ed by a right-wing Israeli journalist calling US Jews 'traitors' for refusing to emigrate to Israel highlights the growing divide between Israeli and American Jews over Zionism.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/an-israeli-op-ed-calling-u-s-jews-traitors-for-refusing-to-emigrate-to-israel-points-to-the-looming-jewish-fracture-over-zionism/)  *2026-04-24 14:56* — An Israeli Op-Ed calling U.S. Jews ‘traitors’ for refusing to emigrate to Israel points to the looming Jewish fracture over Zionism
-
----
-
-### 28. İsrail, Lübnan'da iç savaş çıkarmaya çalışmakla suçlanıyor
-*Israel accused of trying to foment civil war in Lebanon*
-
-+972 Magazine, ABD'nin arabuluculuğunda ateşkesi uzatma görüşmeleri sürerken İsrail'in devam eden saldırılarının Lübnan hükümetini zayıflattığını ve Hizbullah'ın bundan yararlanmaya çalıştığını bildiriyor. Makale, İsrail'in Lübnan'da iç savaş çıkarmaya çalışıp çalışmadığını sorguluyor.
-
-*+972 Magazine reports that amid U.S.-brokered talks to extend the ceasefire, Israel's ongoing attacks are weakening the Lebanese government, and Hezbollah seeks to capitalize. The article questions whether Israel is trying to foment civil war in Lebanon.*
-
-**Kaynaklar / Sources:**
-- [+972 Magazine](https://www.972mag.com/israel-lebanon-civil-war-ceasefire/)  *2026-04-23 15:55* — Is Israel trying to foment civil war in Lebanon?
-
----
-
-### 29. İran ve Lübnan'daki kırılgan ateşkesler yeniden çatışma riskiyle karşı karşıya
-*Fragile ceasefires in Iran and Lebanon face risks of renewed conflict*
-
-Mondoweiss, ABD ve İran'ın Hürmüz Boğazı'nda karşı karşıya gelmesiyle İsrail'in İran'la savaşı yeniden alevlendirmek ve Lübnan'daki taarruzunu yeniden başlatmak için elinden geleni yapacağını bildiriyor.
-
-*Mondoweiss reports that as the US and Iran face off in the Strait of Hormuz, Israel will do everything it can to reignite the war with Iran and resume its offensive in Lebanon.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/what-to-expect-next-in-the-fragile-ceasefires-in-iran-and-lebanon/)  *2026-04-23 13:30* — What to expect next in the fragile ceasefires in Iran and Lebanon
-
----
-
-### 30. Hakim Filistin Eylemi davasında savunma argümanlarını kısıtladı
-*Judge restricts defense arguments in Palestine Action case*
-
-Electronic Intifada, Filton davasındaki sanıkların eylemlerinin savaş suçlarını önlemek için makul güç kullanımı olduğu yönündeki savunmalarının engellendiğini bildirdi. Haberde hakimin Palestine Action grubu aleyhine karar verdiği belirtiliyor.
-
-*Electronic Intifada reported that defendants in the Filton case have been prevented from arguing that their actions amounted to reasonable force to prevent war crimes. The report describes the judge as having stacked the odds against the group Palestine Action.*
+*Electronic Intifada reports that defendants in the Filton case have been prevented from arguing that their actions amounted to reasonable force to prevent war crimes, due to a rogue judge.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/how-one-rogue-judge-stacked-odds-against-palestine-action/51364)  *2026-04-23 09:53* — How one rogue judge stacked the odds against Palestine Action
 
 ---
 
-### 31. Rapor İsrail lobisinin AB politikasını etkilediğini iddia ediyor
-*Report alleges Israel lobby influences EU policy*
+### 30. İsrail lobisinin AB politikasını etkilediğine dair yeni kanıt
+*New proof that Israel lobby influences EU policy*
 
-Electronic Intifada, İsrail lobisinin AB metinlerini yazdığını iddia eden bir görüş yazısı yayınladı ve AB dış politika şefi Kallas'ı sahtekârlıkla eleştirdi.
+Electronic Intifada, yeni kanıtların İsrail lobisinin AB senaryosunu yazdığını ve Kallas'ın 'bir sahtekarlık ve saçmalık kokteyli' sunduğunu gösterdiğini bildiriyor.
 
-*Electronic Intifada published an opinion piece alleging that the Israel lobby writes EU scripts, specifically criticizing EU foreign policy chief Kallas for dishonesty.*
+*Electronic Intifada reports that new proof shows the Israel lobby writes EU script, with Kallas serving a 'cocktail of dishonesty and farce.'*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/david-cronin/new-proof-israel-lobby-writes-eu-script)  *2026-04-23 06:15* — New proof that Israel lobby writes EU script
 
 ---
 
-### 32. Canlı yayında Hizbullah'ın Lübnan'ı koruması tartışıldı
-*Livestream discusses Hezbollah protecting Lebanon*
+### 31. Canlı yayında Hizbullah'ın Lübnan'ı koruması ve İran'ın Hürmüz Boğazı tutumu ele alınıyor
+*Livestream discusses Hezbollah protecting Lebanon and Iran's Strait of Hormuz stance*
 
-Electronic Intifada, Sara Larijani ve Taha Zeinalih'in İran'ın Hürmüz Boğazı'nı kontrol etme kararlılığını ve Jon Elmer'ın Lübnan'daki direnişi tartıştığı bir canlı yayını duyurdu.
+Electronic Intifada'dan bir canlı yayında Sara Larijani ve Taha Zeinalih İran'ın Hürmüz Boğazı'nı kontrol etme kararlılığını, Jon Elmer ise Lübnan'daki direnişi ele alıyor.
 
-*Electronic Intifada promoted a livestream featuring Sara Larijani and Taha Zeinalih discussing Iran's commitment to controlling the Strait of Hormuz, and Jon Elmer on resistance in Lebanon.*
+*A livestream from Electronic Intifada features Sara Larijani and Taha Zeinalih discussing Iran's commitment to controlling the Strait of Hormuz, and Jon Elmer on resistance in Lebanon.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/eli-gerzon/livestream-hizballah-protects-lebanon)  *2026-04-22 17:01* — Livestream: Hizballah protects Lebanon
 
 ---
 
-### 33. Aktivistler Gazze'de yerinden edilenlerin 1948 öncesi evlerine dönüşünü planlıyor
-*Activists map return of Gaza displaced to pre-1948 homes*
+### 32. Aktivistler, yerinden edilmiş Gazelilerin 1948 öncesi evlerine savaş sonrası dönüşünü haritalandırıyor
+*Activists map out post-war return for displaced Gazans to pre-1948 homes*
 
-Gazze'deki çatışmalar nedeniyle yerinden edilenlerin çoğu zaten Nakba mültecileri. Aktivistler, 1948 öncesi evlerine nasıl dönebileceklerini planlıyor.
++972 Magazine'in haberine göre, Gazze'deki çatışma nedeniyle yerinden edilenlerin çoğu zaten Nakba mültecisi ve aktivistler, 1948 öncesi orijinal evlerine nasıl dönebileceklerini planlıyor.
 
-*Many of those displaced by the conflict in Gaza are already refugees from the Nakba. Activists are mapping out how they could return to their original homes from before 1948.*
+*+972 Magazine reports that many displaced by the conflict in Gaza are already Nakba refugees, and activists are planning how they could return to their original pre-1948 homes.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/gaza-day-after-return-palestinian-refugees-zochrot/)  *2026-04-22 16:02* — What a real ‘day after’ for Gaza could look like
 
 ---
 
-### 34. Philadelphia ön seçiminde Filistin yanlısı sol ile İsrail lobisi karşı karşıya
-*Philadelphia primary race pits pro-Palestine left against Israel lobby*
+### 33. Yeni Zelanda yüksek mahkemesi İsrail işgaline yatırımlara karşı karar verdi
+*New Zealand high court rules against investments in Israeli occupation*
 
-Mondoweiss, Chris Rabb'ın Philadelphia PA-3 Temsilciler Meclisi ön seçimindeki yükselişinin yarışı Filistin yanlısı sol ile İsrail lobisi arasında bir savaş alanına dönüştürdüğünü bildiriyor.
+Electronic Intifada'nın haberine göre, Yeni Zelanda yüksek mahkemesi, egemen varlık fonunun yatırımlar için net insan hakları standartları belirlemesi gerektiğine hükmederek İsrail işgaline yapılan yatırımlara darbe vurdu.
 
-*Mondoweiss reports that Chris Rabb's surge in Philadelphia's PA-3 House primary has made the race a battleground between the pro-Palestine left and the Israel lobby.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/philadelphia-primary-race-becomes-the-latest-democratic-party-battle-between-the-pro-palestine-left-and-israel-lobby/)  *2026-04-22 13:30* — Philadelphia primary race becomes the latest Democratic Party battle between the pro-Palestine left and Israel lobby
-
----
-
-### 35. İran savaşı sırasında İsrail'e çalışmak için kaçak yollarla giren Filistinli işçiler
-*Palestinian laborers smuggled into Israel for work amid Iran war*
-
-Mondoweiss, iki yıldır çalışma izni reddedilen 150.000'den fazla Filistinli işçinin İran savaşı sırasında Yeşil Hat'ı kaçak geçerek İsrail'e girdiğini ve sığınaklara girmelerinin yasak olduğunu bildiriyor.
-
-*Mondoweiss reports that over 150,000 Palestinian laborers denied work permits for two years are smuggling themselves across the Green Line during the war on Iran, where they are banned from shelters.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/inside-the-lives-of-palestinian-laborers-smuggled-into-israel-for-work-during-the-iran-war/)  *2026-04-22 13:15* — Inside the lives of Palestinian laborers smuggled into Israel for work during the Iran war
-
----
-
-### 36. Yeni Zelanda mahkemesi İsrail işgaline yatırımlara karşı karar verdi
-*New Zealand court rules against investments in Israeli occupation*
-
-Yeni Zelanda yüksek mahkemesi, egemen varlık fonunun net insan hakları standartları belirlemesi gerektiğine hükmederek İsrail işgaline yapılan yatırımlara darbe vurdu.
-
-*New Zealand's high court ruled that the sovereign wealth fund must formulate clear human rights standards, striking a blow against investments in the Israeli occupation.*
+*Electronic Intifada reports that New Zealand's high court ruled that the sovereign wealth fund must formulate clear human rights standards for investments, striking a blow against investments in the Israeli occupation.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/ali-abunimah/new-zealand-high-court-strikes-blow-against-investments-israeli-occupation)  *2026-04-22 12:22* — New Zealand high court strikes blow against investments in Israeli occupation
 
 ---
 
-### 37. İsrailliler, casusluk 'salgınında' İran için casus olarak toplanıyor
-*Israelis recruited as spies for Iran in espionage 'epidemic'*
+### 34. Aktivistler İsrail'e yaptırım ve silah ambargosu çağrısı yapıyor
+*Activists call for sanctions and arms embargo on Israel*
 
-Mondoweiss, İran'ın İsrail toplumundaki çatlakları kullanarak İsrailli casuslar topladığını ve bunun İsrail'in kendi taktiklerini yansıttığını bildiriyor.
+Mondoweiss, Demokratların İsrail'e askeri yardımı sorgulamaya başladığını ancak aktivistlerin yardımı kesmenin yeterli olmadığını savunduğunu bildiriyor. İsrail'e karşı silah ambargosu ve hedefli yaptırımlar talep ediyorlar.
 
-*Mondoweiss reports that Iran is recruiting Israeli spies by exploiting cracks in Israeli society, mirroring Israel's own recruitment tactics.*
+*Mondoweiss reports that Democrats are beginning to question military aid to Israel, but activists argue that ending aid is not enough. They demand an arms embargo and targeted sanctions against Israel.*
 
 **Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/israelis-are-being-recruited-as-spies-for-iran-in-what-security-experts-call-an-espionage-epidemic/)  *2026-04-22 11:30* — Israelis are being recruited as spies for Iran in what security experts call an espionage ‘epidemic’
+- [Mondoweiss](https://mondoweiss.net/2026/04/ending-aid-isnt-enough-we-need-sanctions-and-an-arms-embargo-on-israel-now/)  *2026-04-21 17:32* — Ending aid isn’t enough — we need sanctions and an arms embargo on Israel now
 
 ---
 
-### 38. Filistinliler ve İsrailliler kayıplarını birlikte anmak için ortak tören düzenledi
-*Palestinians and Israelis hold joint ceremony to mourn losses*
+### 35. Filistinliler ve İsrailliler kayıpları için ortak yas töreni düzenledi
+*Palestinians and Israelis hold joint mourning ceremony for losses*
 
-Yaslı Filistinli ve İsrailli aileler, önceki yıllardaki sağcı saldırılar nedeniyle gizli bir yerde ortak bir anma töreni düzenledi. Katılımcılar birbirlerinin acısını tanıdı ve ortak bir gelecek çağrısında bulundu.
++972 Magazine, yaslı Filistinli ve İsrailli ailelerin, önceki yıllardaki sağcı saldırılara rağmen gizli bir yerde ortak bir tören düzenlediğini, birbirlerinin acısını tanıdığını ve ortak bir gelecek çağrısı yaptığını bildiriyor.
 
-*Bereaved Palestinian and Israeli families held a joint mourning ceremony at a secret location due to right-wing attacks in previous years. Participants recognized each other's grief and called for a shared future.*
+*+972 Magazine reports that bereaved Palestinian and Israeli families held a joint ceremony at a secret location, recognizing each other's grief and calling for a shared future, despite right-wing attacks in previous years.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/joint-israeli-palestinian-memorial-day-2026/)  *2026-04-21 15:43* — ‘Here is where hope lies’: Palestinians and Israelis mourn losses in joint ceremony
 
 ---
 
-### 39. İngiltere bakanlığı ile silah üreticisi Leonardo arasındaki döner kapı sorgulanıyor
-*Revolving door between UK ministry and weapons maker Leonardo questioned*
+### 36. Filistinli aktivist ICE gözaltı deneyimini anlatıyor
+*Palestinian activist speaks about ICE detention experience*
 
-Eski bir İngiltere Savunma Bakanlığı yetkilisinin, şu anda Leonardo'da çalışırken eski meslektaşlarına lobi yapıp yapmadığı sorgulanıyor. Şirket, çatışmalarda kullanılan silahlar üretiyor.
+ICE gözaltından serbest bırakılan Leqaa Kordia, Mondoweiss'e verdiği röportajda tutuklanmasını, tanıştığı kadınları ve Filistinli kimliğini anlattı.
 
-*Questions are raised about whether a former UK Ministry of Defence official, now at Leonardo, has lobbied former colleagues. The company makes weapons used in conflicts.*
+*Leqaa Kordia, released from ICE detention, discussed her arrest, the women she met, and her Palestinian identity in an interview with Mondoweiss.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/ive-become-stronger-leqaa-kordia-on-life-after-ice-detention/)  *2026-04-21 11:30* — ‘I’ve become stronger:’ Leqaa Kordia on life after ICE detention
+
+---
+
+### 37. İngiltere Bakanlığı ile silah üreticisi Leonardo arasında döner kapı
+*Revolving door between UK ministry and arms maker Leonardo*
+
+Electronic Intifada, eski bir İngiltere Savunma Bakanlığı yetkilisinin şu anda silah üreticisi Leonardo'da çalıştığını ve bunun lobicilik endişelerini artırdığını bildiriyor. Makale, basının bu potansiyel çıkar çatışmasını neden araştırmadığını sorguluyor.
+
+*Electronic Intifada reports that a former UK Ministry of Defence official now works for Leonardo, a weapons manufacturer, raising concerns about lobbying. The article questions why the press has not investigated this potential conflict of interest.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/revolving-door-between-uk-ministry-and-maker-genocide-weapons/51363)  *2026-04-21 06:59* — Revolving door between UK ministry and maker of genocide weapons
 
 ---
 
-### 40. Gazze Un Katliamı'ndan tanıklıklar İsrail ateşini detaylandırıyor
-*Testimonies from Gaza Flour Massacre detail Israeli shooting*
+### 38. İsrail ordusu Gazze'de 100'den fazla yardım arayanı öldürdü
+*Israeli military kills over 100 aid seekers in Gaza*
 
-Gazze'de 29 Şubat 2024'te yardım arayan 100'den fazla Filistinlinin öldürüldüğü ve 750'den fazlasının yaralandığı olaya ilişkin tanıklıklar, İsrail güçlerinin doğrudan sivillere ateş açtığını anlatıyor.
+29 Şubat 2024'te İsrail güçleri, Gazze'deki el-Nablusi kavşağı yakınında yardım arayan 100'den fazla Filistinliyi öldürdü ve 750'den fazlasını yaraladı. Electronic Intifada ayrıca İsrail'in sistematik bir açlık kampanyasının parçası olarak Gazze'de bir yürümeye başlayan çocuğu öldürdüğünü bildiriyor.
 
-*Testimonies from the February 29, 2024 incident in Gaza, where over 100 Palestinians seeking aid were killed and more than 750 injured, describe Israeli forces shooting directly at civilians.*
+*On 29 February 2024, Israeli forces killed over 100 Palestinians and injured more than 750 near Gaza's al-Nabulsi roundabout while they sought aid. Electronic Intifada also reports that Israel killed a toddler in Gaza as part of a systematic starvation campaign.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/shooting-was-not-air-testimonies-flour-massacre/51362)  *2026-04-20 19:22* — “The shooting was not in the air”: Testimonies from the Flour Massacre
+- [Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/israel-kills-toddler-gaza)  *2026-04-17 14:47* — Israel kills toddler in Gaza
 
 ---
 
-### 41. Filistinli yazar 7 Ekim'den beri yaşadığı parçalanmışlığı anlatıyor
-*Palestinian writer reflects on fragmentation since October 7*
+### 39. İsrail, değişen siyasi ortamda Batı Şeria yerleşimlerini genişletiyor
+*Israel expands West Bank settlements amid shifting political landscape*
 
-Randa Abdel-Fattah, 7 Ekim'den bu yana günlük yaşam ile Arap ve Müslüman hayatlarının canlı yayında yok edilmesinin normalleşmesi arasında sıkışıp kaldığı parçalanmışlık duygusunu yansıtıyor.
+Mondoweiss, İsrail'in benzeri görülmemiş bir hızla yeni Batı Şeria yerleşimlerini onayladığını, bunun İran'ın savaştan sağ çıkması ve Cumhuriyetçilerin ABD ara seçimlerini kaybetmesi halinde dokunulmazlık penceresinin kapanmasına bağlandığını bildirdi. Genişleme, yeni siyasi gerçeklere karşı bir yarış olarak görülüyor.
 
-*Randa Abdel-Fattah reflects on the fragmentation she has felt since October 7, caught between daily life and the normalization of live-streamed annihilation of Arab and Muslim lives.*
+*Mondoweiss reports that Israel is approving new West Bank settlements at an unprecedented rate, citing a closing window of impunity if Iran emerges intact from the war and Republicans lose US midterms. The expansion is seen as a race against new political realities.*
+
+**Kaynaklar / Sources:**
+- [Mondoweiss](https://mondoweiss.net/2026/04/israel-races-against-time-to-expand-west-bank-settlements-before-it-is-limited-by-new-regional-realities/)  *2026-04-19 13:30* — Israel is racing to expand West Bank settlements before new political realities end its era of impunity
+
+---
+
+### 40. Randa Abdel-Fattah 7 Ekim'den bu yana yaşadığı parçalanmayı anlatıyor
+*Randa Abdel-Fattah reflects on fragmentation since October 7*
+
+Mondoweiss, Randa Abdel-Fattah'ın 7 Ekim'den bu yana günlük yaşam ile Arap ve Müslüman hayatlarının canlı yayında yok edilmesinin normalleşmesi arasında sıkışıp kaldığı parçalanma duygusunu anlatan bir yazısını yayımladı.
+
+*Mondoweiss published a piece by Randa Abdel-Fattah reflecting on the fragmentation she has felt since October 7, caught between daily life and the normalization of live-streamed annihilation of Arab and Muslim lives.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/bearing-witness-to-the-parts-of-the-whole/)  *2026-04-18 15:05* — Bearing witness to the parts of the whole
 
 ---
 
-### 42. İsrail'in Lübnan'da mezhep gerilimlerini körükleme geçmişi inceleniyor
+### 41. İsrail'in Lübnan'da mezhepsel gerilimleri körükleme geçmişi inceleniyor
 *Israel's history of stoking sectarian tensions in Lebanon examined*
 
-Mondoweiss, Netanyahu'nun Trump tarafından Lübnan ile ateşkese zorlanmış olabileceğini, ancak İsrail'in direnişi zayıflatmak ve yayılmacılığı pekiştirmek için mezhep ayrılıklarını kullanmaya devam edeceğini bildiriyor.
+Mondoweiss, Lübnan ile ateşkese rağmen İsrail'in, İsrail yayılmacılığını pekiştirirken direnişi zayıflatmak veya silahsızlandırmak için mezhepsel bölünmeleri sömürme stratejisine devam edebileceğini bildirdi. Makale, Netanyahu'nun Trump tarafından ateşkese zorlanmış olabileceğini belirtiyor.
 
-*Mondoweiss reports that Netanyahu may have been coerced by Trump into a ceasefire with Lebanon, but argues Israel will continue exploiting sectarian divisions to weaken resistance and entrench expansionism.*
+*Mondoweiss reports that despite a ceasefire with Lebanon, Israel may continue a strategy of exploiting sectarian divisions to weaken or disarm resistance while entrenching Israeli expansionism. The article notes Netanyahu may have been coerced by Trump into the ceasefire.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/israels-long-history-of-stoking-sectarian-tensions-in-lebanon-and-what-it-means-for-the-ceasefire/)  *2026-04-18 11:00* — Israel’s long history of stoking sectarian tensions in Lebanon, and what it means for the ceasefire
 
 ---
 
-### 43. İsrail, açlık kampanyası sırasında Gazze'de bir yürümeye başlayan çocuğu öldürdü
-*Israel kills toddler in Gaza amid starvation campaign*
+### 42. İsrail'in Hamas'ı yarattığı iddiasını çürütmek
+*Debunking the claim that Israel created Hamas*
 
-Raporlar, İsrail güçlerinin Gazze'de bir yürümeye başlayan çocuğu, planlı bir açlık sürecinin parçası olarak öldürdüğünü gösteriyor.
+Electronic Intifada, İsrail'in Hamas'ı yarattığı efsanesini çürüterek, bunun İsrail istihbaratı tarafından ima edildiğini ve direniş grubunun rakipleri tarafından pekiştirildiğini belirtiyor.
 
-*Reports indicate that Israeli forces killed a toddler in Gaza as part of what is described as a systematic process of engineered starvation.*
-
-**Kaynaklar / Sources:**
-- [Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/israel-kills-toddler-gaza)  *2026-04-17 14:47* — Israel kills toddler in Gaza
-
----
-
-### 44. ABD-İran müzakerelerinin ilk turu önümüzdeki zorlukları gösteriyor
-*First round of US-Iran negotiations shows challenges ahead*
-
-Mondoweiss, Trump yönetiminin İran savaşının bir felaket olduğunu kabul etmesine rağmen, İran ile yapılan ilk müzakere turunun bir çıkış yolu bulmanın zor olabileceğini gösterdiğini bildiriyor.
-
-*Mondoweiss reports that while the Trump administration recognizes the Iran war has been a catastrophe, the first round of negotiations with Iran showed that finding an exit may be difficult.*
-
-**Kaynaklar / Sources:**
-- [Mondoweiss](https://mondoweiss.net/2026/04/trump-may-want-out-of-the-iran-war-but-the-first-round-of-negotiations-showed-the-challenges-ahead/)  *2026-04-17 13:42* — Trump may want out of the Iran war, but the first round of negotiations showed the challenges ahead
-
----
-
-### 45. İsrail'in Hamas'ı yarattığı efsanesi çürütülüyor
-*Debunking the myth that Israel created Hamas*
-
-Bir makale, İsrail'in Hamas'ı yarattığı iddiasının İsrail istihbaratı tarafından ima edilen ve direniş grubunun rakipleri tarafından pekiştirilen bir efsane olduğunu savunuyor.
-
-*An article argues that the claim Israel created Hamas is a myth insinuated by Israeli intelligence and cemented by the resistance faction's rivals.*
+*Electronic Intifada debunks the myth that Israel created Hamas, stating it was insinuated by Israeli intelligence and cemented by rivals of the resistance faction.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/debunking-lie-israel-created-hamas/51350)  *2026-04-16 19:16* — Debunking the lie that “Israel created Hamas”
 
 ---
 
-### 46. İsrail'in çalışma izinlerini iptal etmesi Batı Şerialı işçileri zor durumda bırakıyor
+### 43. İsrail çalışma izinlerini iptal edince Batı Şeria'daki işçiler mağdur oldu
 *West Bank workers suffer after Israel revokes work permits*
 
-Mondoweiss'e göre, İsrail'in 7 Ekim'den sonra 200.000'den fazla Filistinli işçinin çalışma iznini iptal etmesiyle Batı Şeria'daki aileler birikimlerini tüketiyor, öğün atlıyor ve umutlarını kaybediyor.
+İsrail'in 7 Ekim'den sonra 200.000'den fazla Filistinli işçinin çalışma iznini iptal etmesiyle Batı Şeria'daki aileler birikimlerini tüketiyor ve umutlarını kaybediyor.
 
-*Mondoweiss reports that after Israel revoked work permits for over 200,000 Palestinian laborers following October 7, West Bank families are burning through savings, skipping meals, and losing hope.*
+*After Israel revoked work permits for over 200,000 Palestinian laborers following October 7, West Bank families are burning through savings and losing hope.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/no-permit-no-work-no-future-inside-the-lives-of-west-bank-workers-crushed-by-israels-labor-ban/)  *2026-04-16 13:33* — No permit, no work, no future: inside the lives of West Bank workers crushed by Israel’s labor ban
 
 ---
 
-### 47. Orbán'ın yenilgisinin AB'nin İsrail politikasını değiştirmesi beklenmiyor
-*Orbán's defeat unlikely to shift EU policy on Israel*
+### 44. Orbán'ın Macaristan'daki yenilgisinin AB'nin İsrail politikasını değiştirmesi beklenmiyor
+*Orbán's defeat in Hungary unlikely to shift EU policy on Israel*
 
-Mondoweiss, Péter Magyar'ın Macaristan'daki kesin zaferine rağmen AB'nin İsrail politikasının değişmeyeceğini, çünkü bu politikanın Viktor Orbán tarafından değil Avrupa'nın liberal çekirdeği tarafından belirlendiğini savunuyor.
+Medyada Netanyahu'nun bir müttefik kaybettiği yönündeki haberlerin aksine, Péter Magyar'ın Macaristan'daki zaferi AB'nin İsrail politikasını değiştirmeyecek; çünkü politikayı Orbán gibi neofaşistler değil, Avrupa'nın liberal çekirdeği belirliyor.
 
-*Mondoweiss argues that despite Péter Magyar's decisive win in Hungary, EU policy on Israel will not change because it is set by Europe's liberal core, not by Viktor Orbán.*
+*Despite media narratives that Netanyahu lost an ally, Péter Magyar's win in Hungary will not shift EU policy on Israel, as policy is set by Europe's liberal core, not neofascists like Orbán.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/why-viktor-orbans-defeat-in-hungary-wont-impact-european-policy-toward-israel/)  *2026-04-16 13:21* — Why Viktor Orbán’s defeat in Hungary won’t impact European policy toward Israel
 
 ---
 
-### 48. Podcast, Gazze'de kaybolanları araştırıyor
+### 45. Podcast, Gazze'de kaybolanları araştırıyor
 *Podcast investigates the disappeared of Gaza*
 
-+972 Magazine, Gazeli gazeteci Mahmud Muştaha'nın binlerce kişinin Gazze'de nasıl kaybolduğunu ve bunun aileleri için ne anlama geldiğini araştıran bir podcast'ine yer veriyor.
++972 Magazine, Gazze'de binlerce kişinin nasıl kaybolduğunu ve bunun aileleri üzerindeki etkisini araştıran Gazze'li gazeteci Mahmud Muşteha'nın bir podcast'ini yayınlıyor.
 
-*+972 Magazine features a podcast by Gazan journalist Mahmoud Mushtaha investigating how thousands of people have disappeared in Gaza and what that means for their families.*
+*+972 Magazine publishes a podcast by Gazan journalist Mahmoud Mushtaha investigating how thousands of people disappeared in Gaza and the impact on their families.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/podcast-disappeared-of-gaza/)  *2026-04-16 13:00* — PODCAST: The disappeared of Gaza
 
 ---
 
-### 49. Senato'daki Demokratların çoğu İsrail'e silah satışını engellemek için oy kullandı
-*Most Senate Democrats vote to block arms sales to Israel*
+### 46. Senato Demokratları tarihi oylamada İsrail'e silah satışını engellemek için oy kullandı
+*Senate Democrats vote to block arms sales to Israel in historic vote*
 
-Mondoweiss'e göre, tarihi bir Senato oylamasında Demokratların %75'inden fazlası İsrail'e silah satışını engelleme çabasını destekledi. Önergeler başarısız olsa da oylama, Demokratlar arasında İsrail'e yardıma karşı artan bir fikir birliğine işaret ediyor.
+Senato'da yapılan tarihi bir oylamada Demokratların %75'inden fazlası İsrail'e silah satışını engelleme girişimini destekledi. Önergeler reddedilse de oylama, Demokratlar arasında İsrail yardımına karşı artan bir mutabakata işaret ediyor.
 
-*Mondoweiss reports that in a historic Senate vote, over 75% of Democrats backed an effort to block weapons to Israel. The resolutions failed, but the vote signals growing Democratic consensus against aid to Israel.*
+*In a historic Senate vote, over 75% of Democrats backed an effort to block weapons to Israel. The resolutions failed, but the vote signals growing Democratic consensus against aid to Israel.*
 
 **Kaynaklar / Sources:**
 - [Mondoweiss](https://mondoweiss.net/2026/04/in-historic-senate-vote-75-of-democrats-vote-to-block-arms-sales-to-israel/)  *2026-04-16 11:57* — In historic Senate vote, over 75% of Democrats vote to block arms sales to Israel
 
 ---
 
-### 50. İsrail, 1967'den Bu Yana En Büyük Batı Şeria Toprak Ele Geçirmesini Onayladı
-*Israel Approves Largest West Bank Land Seizure Since 1967*
+### 47. İsrail, Nakba'dan bu yana en büyük Batı Şeria toprak gasbını onayladı
+*Israel approves largest West Bank land grab since Nakba*
 
-Electronic Intifada, İsrail'in Batı Şeria'da özel mülkiyete ait Filistin topraklarında yeni yerleşimler onayladığını ve bunun Nakba'dan bu yana en büyük toprak gasbı olduğunu bildiriyor.
+Electronic Intifada, İsrail'in Batı Şeria'da özel mülkiyete ait Filistin topraklarında yeni yerleşimler planladığını ve bunu Nakba'dan bu yana en büyük toprak gasbı olarak nitelendirdiğini bildiriyor.
 
-*Electronic Intifada reports that Israel has approved new settlements on privately owned Palestinian land in the West Bank, described as the largest land grab since the Nakba.*
+*Electronic Intifada reports that Israel has planned new settlements on privately owned Palestinian land in the West Bank, calling it the largest land grab since the Nakba.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/tamara-nassar/israels-largest-land-grab-nakba)  *2026-04-16 07:03* — Israel’s largest land grab since the Nakba
 
 ---
 
-### 51. Rapor: İsrail Savunma Şirketi Avrupa Savaş Fonlarından Yararlanıyor
-*Report: Israeli Defense Firm Benefits from European War Funds*
+### 48. İsrail, Avrupa'nın savaş endüstrisi için ayrılan fonlardan yararlanıyor
+*Israel benefits from EU funds for Europe's war industry*
 
-Electronic Intifada, İsrail savunma şirketi Elbit Systems'e ait bir firmanın Avrupa'nın savaş sanayisi için ayrılan fonlardan yararlandığını ve firmanın aya gitmekle övündüğünü bildiriyor.
+Electronic Intifada, İsrail savunma şirketi Elbit Systems'e ait bir firmanın Avrupa'nın savaş endüstrisi için ayrılan fonlardan yararlandığını ve aya gitmekle övündüğünü bildiriyor.
 
-*Electronic Intifada reports that a firm owned by Elbit Systems, an Israeli defense company, benefits from funds earmarked for Europe's war industry, with the firm boasting of going to the moon.*
+*Electronic Intifada reports that a firm owned by Elbit Systems, an Israeli defense company, benefits from funds earmarked for Europe's war industry, and boasts of going to the moon.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/david-cronin/how-israel-benefits-funds-earmarked-europes-war-industry)  *2026-04-16 06:31* — How Israel benefits from funds earmarked for Europe's war industry
 
 ---
 
-### 52. İsrail askerleri Batı Şerialı Filistinlileri sindirmek için kısa süreli kaçırmalar kullanıyor
-*Israeli soldiers use brief abductions to intimidate West Bank Palestinians*
+### 49. İsrail askerleri Masafer Yatta'da kısa süreli keyfi kaçırmalar gerçekleştiriyor
+*Israeli soldiers conduct brief arbitrary abductions in Masafer Yatta*
 
-+972 Magazine, son aylarda İsrail askerlerinin Masafer Yatta'da birçok Filistinliyi gözleri bağlı, dövülmüş ve ardından açıklama yapılmadan serbest bırakılan düzinelerce Batı Şerialı Filistinliyi tutukladığını bildiriyor.
++972 Magazine, son aylarda İsrail askerlerinin Masafer Yatta'da Batı Şerialı onlarca Filistinliyi tutukladığını, çoğunun gözleri bağlanıp dövüldüğünü ve ardından açıklama yapılmadan serbest bırakıldığını bildirdi. Haber bunu yeni bir yıldırma aracı olarak tanımlıyor.
 
-*+972 Magazine reports that in recent months, Israeli soldiers have arrested dozens of West Bank Palestinians, many blindfolded, beaten, and then released without explanation, as a new tool of intimidation in Masafer Yatta.*
+*+972 Magazine reported that in recent months, Israeli soldiers have arrested dozens of West Bank Palestinians in Masafer Yatta, many blindfolded and beaten, then released without explanation. The report describes this as a new tool of intimidation.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/abductions-in-masafer-yatta/)  *2026-04-15 19:02* — Brief, arbitrary abductions: A new tool of Israeli intimidation in Masafer Yatta
 
 ---
 
-### 53. Canlı Yayın İran, Hizbullah İHA'ları ve İsrail'in Yenilgisini Tartışıyor
-*Livestream Discusses Iran, Hezbollah Drones, and Israeli Defeat*
+### 50. Canlı yayın: İran söz sahibi
+*Livestream: Iran calls the shots*
 
-Electronic Intifada'nın canlı yayınında İran, Hizbullah'ın etkili insansız hava araçları ve İsrail liderlerinin yenilgiyi kabul etmesiyle ilgili haberler yer alıyor.
+Electronic Intifada'nın canlı yayınında Ahmad Hussam İran seyahatlerini, Jon Elmer Hizbullah'ın insansız hava araçlarını ve Asa Winstanley İsrail liderlerinin yenilgiyi kabul etmesini anlatıyor.
 
-*Electronic Intifada's livestream features reports on Iran, Hezbollah's efficient drones, and Israeli leaders admitting defeat.*
+*Electronic Intifada's livestream features Ahmad Hussam reporting on travels in Iran, Jon Elmer on Hezbollah's drones, and Asa Winstanley on Israeli leaders admitting defeat.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/eli-gerzon/livestream-iran-calls-shots)  *2026-04-15 15:18* — Livestream: Iran calls the shots
 
 ---
 
-### 54. Kadınlar Gazze'de İsrail ordusunun istismarını anlatıyor
-*Women recount abuse by Israeli military in Gaza*
+### 51. Kadınlar İsrail ordusunun istismarını anlatıyor
+*Women recount abuse at hands of Israeli military*
 
-Gazze'deki kadınlar, İsrail askerleri tarafından bombalandıklarını, yaralandıklarını, canlı kalkan olarak kullanıldıklarını ve aşağılandıklarını anlatıyor.
+Electronic Intifada, Gazze'deki kadınların İsrail askerleri tarafından bombalanma, yaralanma, insan kalkanı olarak kullanılma ve aşağılanma yaşadıklarını bildiriyor.
 
-*Women in Gaza recount being bombed, wounded, used as human shields, and humiliated by Israeli soldiers.*
+*Electronic Intifada reports on women in Gaza who experienced bombing, injury, being used as human shields, and humiliation by Israeli soldiers.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/women-recount-abuse-hands-israeli-military/51351)  *2026-04-15 12:50* — Women recount abuse at hands of Israeli military
 
 ---
 
-### 55. Gazze'den Filistinliler Mısır'daki Taabu Kulübü'nde topluluk buluyor
-*Palestinians from Gaza find community at Egypt's Taabu Club*
+### 52. Mısır'da bir Gazze parçası
+*A piece of Gaza in Egypt*
 
-Gazze'den Filistinliler, Mısır'daki Taabu Kulübü'nde topluluk ve teselli buluyor.
+Electronic Intifada, Gazze'den gelen Filistinlilerin Mısır'daki Taabu Kulübü'nde topluluk ve teselli bulduğunu bildiriyor.
 
-*Palestinians from Gaza have found community and solace at Egypt's Taabu Club.*
+*Electronic Intifada reports that Palestinians from Gaza find community and solace at Egypt’s Taabu Club.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/piece-gaza-egypt/51334)  *2026-04-14 21:13* — A piece of Gaza in Egypt
 
 ---
 
-### 56. İsrailli Arap partiler yenilenen Ortak Liste için şartlarda bölünmüş durumda
-*Israeli Arab parties divided on terms for renewed Joint List*
+### 53. İsrailli Arap partiler seçim öncesi Ortak Liste'yi yenilemekte zorlanıyor
+*Israeli Arab parties struggle to renew Joint List before elections*
 
-+972 Magazine, İsrail'deki dört Arap partisinin liderlerinin birleşik bir seçim ittifakının önemi konusunda hemfikir olduğunu ancak paktın şartları konusunda bölünmüş olduğunu bildiriyor.
+İsrail'deki dört Arap partisinin liderleri, birleşik bir seçim ittifakının önemi konusunda hemfikir ancak anlaşmanın şartları konusunda bölünmüş durumda.
 
-*+972 Magazine reports that leaders of Israel's four Arab parties agree on the importance of a unified electoral alliance but remain divided on the terms of the pact.*
+*Leaders of Israel's four Arab parties agree on the importance of a unified electoral alliance but remain divided on the terms of the pact.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/renewed-joint-list-divisions-israel-elections/)  *2026-04-14 18:58* — Can a renewed Joint List survive until Israel’s elections?
 
 ---
 
-### 57. Theo Von, Gazze konusunda acı ve cehaleti harmanlıyor
-*Theo Von blends anguish and ignorance over Gaza*
+### 54. Podcastçi Theo Von, Gazze yorumları nedeniyle eleştiriliyor
+*Podcaster Theo Von criticized for Gaza comments*
 
-Electronic Intifada, podcast yayıncısı Joe Rogan'ın Nobel Barış Ödülü sahibi AFSC'nin bir CIA şirketi olabileceğini öne sürdüğünü ve Theo Von'un Gazze hakkındaki yorumlarını ele alıyor.
+Podcastçi Theo Von, Gazze hakkındaki yorumlarında acı ve cehaleti harmanladığı için eleştiriliyor. Ayrıca Joe Rogan, Nobel Barış Ödülü sahibi Amerikan Dost Hizmet Komitesi'nin CIA bağlantılı olabileceğini öne sürdü; bu iddia kanıtlanmamıştır.
 
-*Electronic Intifada reports that podcaster Joe Rogan suggested the Nobel Peace Prize-winning AFSC could be a CIA company, and discusses Theo Von's commentary on Gaza.*
+*Podcaster Theo Von has been criticized for blending anguish and ignorance in his comments about Gaza. Separately, Joe Rogan suggested the Nobel Peace Prize-winning American Friends Service Committee could be a CIA front, a claim without evidence.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/michael-f-brown/theo-von-blends-anguish-and-ignorance-over-gaza)  *2026-04-13 22:55* — Theo Von blends anguish and ignorance over Gaza
 
 ---
 
-### 58. İsrailli yazar Holokost Anma Günü sireninde ayağa kalkmayı reddediyor
-*Israeli author refuses to stand for Holocaust Remembrance Day siren*
+### 55. İsrailli yazar Holokost Anma Günü sireninde ayağa kalkmayı reddediyor
+*Israeli writer refuses to stand for Holocaust Remembrance Day siren*
 
-+972 Magazine, Holokost Anma Günü sireninde ayağa kalkmayacağını söyleyen İsrailli bir yazarın görüş yazısını yayınlıyor ve soykırım yapan bir devletin Holokost'u onurlandıramayacağını savunuyor.
+İsrailli bir yazar, soykırım yapan bir devletin Holokost'u onurlandıramayacağını savunarak İsrail'in Holokost Anma Günü sireninde ayağa kalkmayacağını belirtti.
 
-*+972 Magazine publishes an opinion piece by an Israeli author who says they will not stand for the Holocaust Remembrance Day siren, arguing that a state committing genocide cannot honor the Holocaust.*
+*An Israeli writer stated they will not stand for Israel's Holocaust Remembrance Day siren, arguing that a state committing genocide cannot claim to honor the Holocaust.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/stand-israel-holocaust-remembrance-siren/)  *2026-04-13 20:08* — Why I will not stand for Israel’s Holocaust Remembrance Day siren
 
 ---
 
-### 59. Fotoğraf denemesi İsrail kamusal alanındaki aşırı militarizmi gösteriyor
-*Photo essay shows hypermilitarism in Israeli public sphere*
+### 56. Fotoğraf denemesi, İsrail günlük yaşamındaki aşırı militarizmi inceliyor
+*Photo essay examines hypermilitarism in everyday Israeli life*
 
-+972 Magazine, askeri imgelerin İsrail'de günlük hayata nasıl nüfuz ettiğini, hayal gücünü ve kimliği şekillendirdiğini gösteren bir fotoğraf denemesi yayınlıyor.
++972 Magazine tarafından hazırlanan bir fotoğraf denemesi, askeri imgelerin İsrail kamusal alanını nasıl kuşattığını ve hayal gücü, arzular ile kolektif kimliği nasıl şekillendirdiğini inceliyor.
 
-*+972 Magazine publishes a photo essay illustrating how military imagery pervades everyday life in Israel, shaping imagination and identity.*
+*A photo essay by +972 Magazine explores how military imagery pervades the Israeli public sphere, shaping imagination, desires, and collective identity.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/israel-hypermilitarism-everyday-life/)  *2026-04-10 21:17* — PHOTOS: How hypermilitarism pervades everyday life in Israel
 
 ---
 
-### 60. İsrail ordusu Gazze'deki sınıfında 9 yaşındaki kız çocuğunu vurarak öldürdü
-*Israeli army shoots, kills 9-year-old girl in her Gaza classroom*
+### 57. İsrail ordusu Gazze'deki bir sınıfta 9 yaşındaki kız çocuğunu öldürdü
+*Israeli army kills 9-year-old girl in Gaza classroom*
 
-Electronic Intifada, İsrail güçlerinin Gazze'deki sınıfında 9 yaşındaki bir kız çocuğunu vurarak öldürdüğünü ve yerleşimcilerin bir genci öldürüp çocuklara saldırdığını bildiriyor.
+İsrail ordusu, Gazze'deki bir sınıfta 9 yaşındaki bir kız çocuğunu vurarak öldürdü. Ayrıca yerleşimciler bir genci öldürdü ve bir dizi olayda Filistinli çocuklara saldırdı.
 
-*Electronic Intifada reports that Israeli forces shot and killed a 9-year-old girl in her Gaza classroom, and that settlers killed a youth and attacked children in rampages.*
+*The Israeli army shot and killed a 9-year-old girl in her classroom in Gaza, according to reports. Separately, settlers killed a youth and attacked Palestinian children in a series of incidents.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/israeli-army-shoots-kills-9-year-old-girl-her-gaza-classroom)  *2026-04-10 16:09* — Israeli army shoots, kills 9-year-old girl in her Gaza classroom
 
 ---
 
-### 61. İsrail'deki idam cezası tartışması İranlı celladın kabuslarına atıfta bulunuyor
+### 58. İsrail'deki idam cezası tartışması İranlı celladın kabuslarına atıfta bulunuyor
 *Israeli death penalty debate draws on Iranian hangman's nightmares*
 
-+972 Magazine, İsrail idam cezasını benimserken hükümet bakanlarının bir celladın kabuslarından uyarıcı dersler için İran'a bakabileceğini öne süren bir görüş yazısı yayınlıyor.
++972 Magazine'deki bir makale, İsrail idam cezasını benimserken hükümet bakanlarının bir İranlı celladın deneyimlerinden ilham ve uyarı alabileceğini öne sürüyor.
 
-*+972 Magazine publishes an opinion piece suggesting that as Israel embraces the death penalty, government ministers can look to Iran for cautionary lessons from an executioner's nightmares.*
+*An article in +972 Magazine suggests that as Israel embraces the death penalty, government ministers could learn from the experiences of an Iranian hangman, offering both inspiration and caution.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/israelis-nightmares-iranian-hangman/)  *2026-04-09 17:50* — What Israelis can learn from the nightmares of an Iranian hangman
 
 ---
 
-### 62. Fotoğraflarla Filistin: Mart 2026
-*Palestine in Pictures: March 2026*
+### 59. Mart 2026 Filistin fotoğraf özeti yayımlandı
+*March 2026 Palestine photo digest published*
 
-Electronic Intifada, foto muhabirlerinin güçlü görselleriyle Filistin'deki önemli gelişmelerin aylık özetini sunuyor.
+Mart 2026'ya ait Filistin'deki önemli gelişmelerin aylık özeti, foto muhabirlerinin güçlü görselleriyle yayımlandı.
 
-*Electronic Intifada presents a monthly digest of key developments in Palestine with powerful images by photojournalists.*
+*A monthly digest of key developments in Palestine for March 2026 has been published, featuring powerful images by photojournalists.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/palestine-pictures-march-2026/51338)  *2026-04-09 16:06* — Palestine in Pictures: March 2026
 
 ---
 
-### 63. İsrail ordusunun propaganda kolu ifşa edildi
-*Israeli army propaganda wing exposed*
+### 60. İsrail ordusunun propaganda kanadı: IDF Sözcü Birimi'nin iç yüzü
+*Inside the Israeli army's propaganda wing: IDF Spokesperson's Unit*
 
-+972 Magazine'in araştırması, İsrail Savunma Kuvvetleri Sözcülüğü'nün psikolojik operasyonlar, seçici sızıntılar ve özel muhabir erişimi kullanarak kamu söylemini kontrol ettiğini ve İsrail'in anlatısını yurtdışında desteklediğini ortaya koyuyor.
++972 Magazine'in araştırması, IDF Sözcü Birimi'nin psikolojik operasyon kampanyaları, seçici sızıntılar ve özel muhabir erişimi yoluyla kamu söylemini kontrol ederek İsrail'in anlatısını nasıl desteklediğini ortaya koyuyor.
 
-*An investigation by +972 Magazine reveals how the IDF Spokesperson's Unit uses psy-ops, selective leaks, and exclusive reporter access to control public discourse and promote Israel's narrative abroad.*
+*An investigation by +972 Magazine reveals how the IDF Spokesperson's Unit controls public discourse through psy-op campaigns, selective leaks, and exclusive reporter access to promote Israel's narrative.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/inside-israeli-army-propaganda-wing/)  *2026-04-08 20:07* — Inside the Israeli army’s propaganda wing
 
 ---
 
-### 64. Batı Şerialı Filistinli, aşağılayıcı seyahat macerasını anlatıyor
-*West Bank Palestinian describes humiliating travel ordeal*
+### 61. Batı Şerialı Filistinli, köprü kapanışının ardından yaşadığı aşağılayıcı seyahat macerasını anlatıyor
+*West Bank Palestinian describes humiliating travel ordeal after bridge closure*
 
-Batı Şerialı bir Filistinli, İsrail'in uyarısız Allenby Köprüsü'nü kapatmasının ardından İstanbul'a 36 saatlik bir yolculuğu anlatıyor. Macera, kaçırılan uçuşlar ve bitmeyen bekleyişleri içeriyordu.
++972 Magazine, İsrail'in Allenby Köprüsü'nü uyarısız kapatmasının ardından İstanbul yolculuğu 36 saatlik bir çileye dönüşen Batı Şerialı bir Filistinlinin deneyimini aktarıyor.
 
-*A West Bank Palestinian recounts a 36-hour journey to Istanbul after Israel closed the Allenby Bridge without warning. The ordeal included missed flights and endless waiting.*
+*+972 Magazine reports on the experience of a West Bank Palestinian whose journey to Istanbul turned into a 36-hour ordeal after Israel closed the Allenby Bridge without warning.*
 
 **Kaynaklar / Sources:**
 - [+972 Magazine](https://www.972mag.com/allenby-bridge-west-bank-ordeal/)  *2026-04-07 17:00* — The humiliating ordeal of traveling abroad as a West Bank Palestinian
 
 ---
 
-### 65. Canlı yayın: İsrail ordusu her cephede tökezliyor
-*Livestream: Israeli military falters on all fronts*
+### 62. Canlı yayında İsrail ordusunun zorlukları ve İran direnişi tartışılıyor
+*Livestream discusses Israeli military challenges and Iran resistance*
 
-Electronic Intifada, Trump'ın İran'da yenilgiyi kabul etmektense küresel felaketi riske attığını, İran liderliğindeki direnişi ve İsrail'in Filistinliler için ölüm cezasını benimsemesini ele alıyor.
+Bir canlı yayın programı, İsrail ordusunun her cephede zorlandığını ele aldı; yorumcular Trump'ın İran'da yenilgiyi kabul etmektense küresel felaketi riske attığını söyledi. Program ayrıca İran liderliğindeki direnişi ve İsrail'in Filistinliler için ölüm cezasını benimsemesini ele aldı.
 
-*Electronic Intifada reports that Trump risks global catastrophe rather than admit defeat in Iran, and discusses Iran-led resistance and Israel adopting death penalty for Palestinians.*
+*A livestream program discussed the Israeli military faltering on all fronts, with commentators saying Trump risks global catastrophe rather than admit defeat in Iran. The program also covered Iran-led resistance and Israel adopting the death penalty for Palestinians.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/eli-gerzon/livestream-israeli-military-falters-all-fronts)  *2026-04-06 13:46* — Livestream: Israeli military falters on all fronts
 
 ---
 
-### 66. İsrail, ABD'li öğrenci protestocuların Batı Şeria'ya girişini engelledi
+### 63. İsrail, ABD'li öğrenci protestocuların Batı Şeria'ya girişini engelledi
 *Israel blocks US student protesters from entering West Bank*
 
-Electronic Intifada'ya göre, Allenby sınır kapısındaki İsrailli yetkililer ABD'li öğrenci protestocuların Batı Şeria'ya girişini engelledi ve Amerikan polis kayıtlarına erişimleri olduğunu ima etti.
+Electronic Intifada'ya göre, Allenby sınır kapısındaki İsrailli yetkililer, Amerikan polis kayıtlarına erişimleri olduğunu ima ederek ABD'li öğrenci protestocuların Batı Şeria'ya girişini engelledi.
 
-*Electronic Intifada reports that Israeli officials at the Allenby crossing blocked US student protesters from entering the West Bank, hinting they have access to American police records.*
+*Electronic Intifada reports that Israeli officials at the Allenby crossing hinted they have access to American police records, blocking US student protesters from entering the West Bank.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/israel-blocks-us-student-protesters-entering-west-bank/51333)  *2026-04-03 06:41* — Israel blocks US student protesters from entering West Bank
 
 ---
 
-### 67. Gazze'den kurtarılan kuvöz bebekleri anneleriyle buluştu
-*Incubator babies saved from Gaza reunited with mothers*
+### 64. Gazze'den kurtarılan kuvöz bebekleri anneleriyle buluştu; Batı Şeria'da çocuk öldürüldü
+*Incubator babies saved from Gaza reunited with mothers; child killed in West Bank*
 
-Electronic Intifada'ya göre, Gazze'den kurtarılan kuvöz bebekleri anneleriyle buluşturuldu. Ayrıca, İsrail güçleri işgal altındaki Batı Şeria'daki Dheisheh mülteci kampında 15 yaşındaki bir çocuğu vurarak öldürdü.
+Electronic Intifada'ya göre, Gazze'deki soykırımdan kurtarılan kuvöz bebekleri anneleriyle buluşturulurken, İsrail güçleri işgal altındaki Batı Şeria'daki Dheisheh mülteci kampında 15 yaşındaki bir çocuğu vurarak öldürdü.
 
-*Electronic Intifada reports that incubator babies saved from Gaza were reunited with their mothers. Separately, Israeli forces shot and killed a 15-year-old child in Dheisheh refugee camp in the occupied West Bank.*
+*Electronic Intifada reports that incubator babies saved from the Gaza genocide have been reunited with their mothers, while Israeli forces shot and killed a 15-year-old child in Dheisheh refugee camp in the occupied West Bank.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/incubator-babies-saved-gaza-genocide-reunited-their-moms)  *2026-04-03 06:14* — Incubator babies saved from Gaza genocide reunited with their moms
 
 ---
 
-### 68. Kufr Akab sakinleri Kudüs'ün eteklerinde boğulma ile karşı karşıya
-*Kufr Aqab residents face suffocation on Jerusalem outskirts*
+### 65. Kufr Aqab sakinleri sınırlı hareket ve işgal baskınlarıyla karşı karşıya
+*Kufr Aqab residents face limited mobility and occupation raids*
 
-Electronic Intifada'ya göre, Kufr Akab sakinleri Kudüs'ün eteklerinde sınırlı hareket kabiliyeti ve işgal baskınlarıyla karşı karşıya.
+Electronic Intifada'ya göre, Kudüs'ün eteklerindeki Kufr Aqab sakinleri, kısıtlı hareket ve işgal güçlerinin baskınlarıyla karşı karşıya.
 
-*Electronic Intifada reports that residents of Kufr Aqab face limited mobility and occupation raids on the outskirts of Jerusalem.*
+*Electronic Intifada reports that residents of Kufr Aqab, on the outskirts of Jerusalem, face restricted movement and raids by occupation forces.*
 
 **Kaynaklar / Sources:**
 - [Electronic Intifada](https://electronicintifada.net/content/suffocated-outskirts-jerusalem/51328)  *2026-04-02 20:34* — Suffocated on the outskirts of Jerusalem
 
 ---
 
-### 69. Iraklı şarkıcı Kadim el-Sahir Londra'da konser verdi
-*Iraqi singer Kadim el-Sahir performs in London*
+### 66. Kadim el-Sahir, Londra konserinde umut mesajı verdi
+*Kadim el-Sahir performs message of hope in London concert*
 
-Iraklı şarkıcı Kadim el-Sahir, 18 Ocak 2019'da Londra'da yaklaşık 4.000 hayranına konser verdi. Konser, umut, birlik ve neşe mesajı iletti.
+Iraklı şarkıcı Kadim el-Sahir, 18 Ocak'ta Londra'da yaklaşık 4.000 kişiye konser vererek umut, birlik ve neşe mesajı iletti. Konser Middle East Eye tarafından haberleştirildi.
 
-*Iraqi singer Kadim el-Sahir performed to nearly 4,000 fans in London on January 18, 2019. The concert conveyed a message of hope, unity, and joy.*
+*Iraqi singer Kadim el-Sahir performed to nearly 4,000 people in London on 18 January, delivering a message of hope, unity, and joy. The concert was covered by Middle East Eye.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/news/kadim-el-sahir-how-caesar-arabic-song-wowed-london)  *2019-01-21 13:46* — Kadim el-Sahir: How the Caesar of Arabic song wowed London
 
 ---
 
-### 70. İskenderiye'nin tarihi binalarını çizimlerle korumak
+### 67. İskenderiye'nin tarihi binalarını çizimlerle korumak
 *Preserving Alexandria's historic buildings through drawings*
 
-İskenderiye'nin tarihi binaları endişe verici bir hızla yıkılıyor. Bazı kişiler, bu yapıların anısını belgelemek ve korumak için kalem ve kağıt kullanıyor.
+Middle East Eye, İskenderiye'nin tarihi binalarının endişe verici bir hızla yıkıldığını bildirdi. Bazı kişiler, mimari mirası yok olmadan belgelemek ve korumak için kalem ve kağıt kullanıyor.
 
-*Alexandria's historic buildings are being demolished at an alarming rate. Some individuals are using pencil and paper to document and preserve the memory of these structures.*
+*Middle East Eye reports that Alexandria's historic buildings are being demolished at an alarming rate. Some individuals are using pencil and paper to document and preserve the architectural heritage before it disappears.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/crumbling-bride-med-using-pencil-and-paper-preserve-alexandria)  *2019-01-20 14:46* — The crumbling ‘bride of the Med’: Using pencil and paper to preserve Alexandria
 
 ---
 
-### 71. Film yapımcıları Jocelyne Saab ve Oussama Fawzi'nin profilleri
+### 68. Film yapımcıları Jocelyne Saab ve Oussama Fawzi'nin profilleri
 *Profiles of filmmakers Jocelyne Saab and Oussama Fawzi*
 
-Makale, Lübnanlı film yapımcısı Jocelyne Saab ve Mısırlı film yapımcısı Oussama Fawzi'yi tanıtarak çalışmalarını ve gelecek nesiller üzerindeki etkilerini vurguluyor.
+Middle East Eye, Lübnanlı yönetmen Jocelyne Saab ve Mısırlı yönetmen Oussama Fawzi hakkında bir yazı yayımladı; onları, çalışmaları gelecek nesillere ilham verecek ama aynı zamanda bir uyarı niteliği taşıyabilecek asi ruhlar olarak tanımladı.
 
-*The article profiles Lebanese filmmaker Jocelyne Saab and Egyptian filmmaker Oussama Fawzi, highlighting their work and its impact on future generations.*
+*Middle East Eye published a feature on Lebanese director Jocelyne Saab and Egyptian director Oussama Fawzi, describing them as mavericks whose work will inspire future generations but may also serve as a cautionary tale.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/tale-two-film-mavericks-jocelyne-saab-and-oussama-fawzi)  *2019-01-16 09:55* — A tale of two film mavericks: Jocelyne Saab and Oussama Fawzi
 
 ---
 
-### 72. Sanat, Türkiye'nin Suriyeli mültecilere muamelesiyle yüzleşiyor
+### 69. Sanat, Türkiye'nin Suriyeli mültecilere muamelesini ele alıyor
 *Arts confront Turkey's treatment of Syrian refugees*
 
-Bir Türk yazar ve bir film yönetmeni, Suriyeli mültecileri anlatılmaya değer hikayeleri olan insanlar olarak betimleyen eserler yaratarak Türkiye'deki Suriyelilere yönelik muameleyle yüzleşiyor.
+Middle East Eye, Türkiye'nin Suriyelilere yönelik muamelesine yanıt olarak bir Türk yazar ve bir film yönetmeninin, Suriyeli mültecileri merkeze alan ve onları anlatılmaya değer hikayeleri olan insanlar olarak betimleyen eserler yarattığını bildirdi.
 
-*A Turkish author and a film director have created works that depict Syrian refugees as human beings with stories worth telling, confronting the treatment of Syrians in Turkey.*
+*Middle East Eye reports that a Turkish author and a film director have created works placing Syrian refugees at the center, depicting them as human beings with stories worth telling, in response to Turkey's treatment of Syrians.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/unwanted-guests-arts-confront-turkeys-treatment-syrian-refugees)  *2019-01-14 13:09* — Unwanted guests: The arts confront Turkey's treatment of Syrian refugees
 
 ---
 
-### 73. Antik Arap hat sanatının canlanışı
-*Revival of ancient Arabic calligraphy scripts*
+### 70. Antik Arap kufi hattı 21. yüzyılda yeniden canlanıyor
+*Ancient Arabic kufic calligraphy experiences 21st-century revival*
 
-Antik Küfi hattı, 21. yüzyılda bir rönesans yaşıyor; meraklılar, Arap Britanya Merkezi gibi kurumlarda bu sanatı öğreniyor.
+Antik bir Arap yazısı olan kufi hattı, meraklılarının bu sanatı öğrenmesiyle yeniden canlanıyor. Bu canlanma, geleneksel hattatlığın korunmasına yönelik artan ilgiyi vurguluyor.
 
-*Ancient kufic calligraphy is experiencing a 21st-century renaissance, with devotees learning the art form at institutions like the Arab British Centre.*
+*Kufic calligraphy, an ancient Arabic script, is undergoing a renaissance as devotees learn the art form. The revival highlights a growing interest in preserving traditional calligraphy.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/write-stuff-how-ancient-arabic-scripts-are-coming-back-life)  *2018-12-30 20:00* — The write stuff: How ancient Arabic scripts are coming back to life
 
 ---
 
-### 74. 2018, Orta Doğu sineması için dönüm noktası yılı
-*2018 milestone year for Middle Eastern film*
+### 71. Orta Doğu sineması 2018'de dönüm noktası yılı yaşadı
+*Middle Eastern cinema achieves milestone year in 2018*
 
-2018, Orta Doğu sineması için bir dönüm noktasıydı; Lübnan, ilk Oscar yabancı dil adaylığını ve Venedik'te ilk büyük ödülünü aldı.
+Orta Doğu sineması 2018'de dönüm noktası bir yıl geçirdi; Lübnan ilk Oscar yabancı dil adaylığını ve Venedik'te büyük bir ödülü kazandı. Bölge sineması uluslararası tanınırlık kazandı.
 
-*2018 was a milestone year for Middle Eastern cinema, with Lebanon achieving its first Oscar foreign-language nomination and first major award at Venice.*
+*Middle Eastern film had a milestone year in 2018, with Lebanon earning its first Oscar foreign-language nomination and a major award at Venice. The region's cinema gained international recognition.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/middle-eastern-film-2018-why-it-was-milestone-year)  *2018-12-25 13:32* — Middle Eastern film in 2018: Why it was a milestone year
 
 ---
 
-### 75. Doktor, IŞİD'den kurtulan Ezidi kadınlara yardım ediyor
-*Doctor helps Yazidi women survivors of Islamic State*
+### 72. Doktor, IŞİD mağduru Ezidi kadınlara destek sağlıyor
+*Doctor provides support to Yazidi women victims of Islamic State*
 
-Kadın doğum uzmanı Dr. Nagham Nawzat, hayatına yönelik tehditlere rağmen IŞİD esaretinden kurtulan 1.000'den fazla Ezidi kadına temel destek sağladı.
+Jinekolog Nagham Nawzat, hayatına yönelik tehditlere rağmen IŞİD mağduru 1.000'den fazla Ezidi kadına temel destek sağladı. Çalışmalarını Ezidi topluluğuna adadı.
 
-*Gynecologist Dr. Nagham Nawzat has provided essential support to over 1,000 Yazidi women who survived Islamic State captivity, despite threats to her own life.*
+*Gynecologist Nagham Nawzat has provided essential support to over 1,000 Yazidi women who were victims of the Islamic State, despite threats to her own life. She dedicates her work to the Yazidi community.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/doctor-giving-life-back-female-yazidi-victims-islamic-state)  *2018-10-18 10:00* — This doctor is giving life back to female Yazidi victims of Islamic State
 
 ---
 
-### 76. Lübnan'da yasadışı kürtaj: kadınlar risklerle karşı karşıya
-*Illegal abortion in Lebanon: women face risks*
+### 73. Lübnan'da yasadışı kürtaj binlerce kadın için risk oluşturuyor
+*Illegal abortion in Lebanon poses risks for thousands of women*
 
-Lübnan'da her yıl binlerce kadın risklere rağmen yasadışı kürtaj yaptırıyor. Women on Web gibi kuruluşlar, kadınların kürtaj haplarına erişmesine yardımcı oluyor.
+Yasak olmasına rağmen, Lübnan'da her yıl binlerce kadın yasadışı kürtaj yaptırarak önemli risklerle karşılaşıyor. Women on Web örgütü, Lübnan'daki kadınlara kürtaj hapları sağlamaya yardımcı oluyor.
 
-*Thousands of women in Lebanon undergo illegal abortions every year despite the risks. Organizations like Women on Web help women access abortion pills.*
+*Despite being banned, thousands of women in Lebanon undergo illegal abortions every year, facing significant risks. The organization Women on Web helps provide abortion pills to women in Lebanon.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/illegal-abortion-lebanon-i-couldnt-comprehend-how-painful-it-was)  *2018-09-20 16:45* — Illegal abortion in Lebanon: 'I couldn't comprehend how painful it was'
 
 ---
 
-### 77. Libyalı sanatçının blues sevgisi profilde vurgulanıyor
-*Libyan artist's love for blues highlighted in profile*
+### 74. Kaddafi karikatürleriyle tanınan Libyalı sanatçı Hasan Dhaimish cazı da seviyordu
+*Libyan artist Hasan Dhaimish known for Gaddafi cartoons also loved jazz*
 
-Middle East Eye, Muammer Kaddafi'yi hicveden karikatürleriyle tanınan 'The Cleaver' lakaplı Libyalı sanatçı Hasan Dhaimish'in caz ve blues tutkusunu da ele alan bir profil yayınladı.
+Muammer Kaddafi'yi hicveden karikatürleriyle ünlü Libyalı sanatçı Hasan Dhaimish'in caz müziğine de tutkusu vardı. 'The Cleaver' olarak biliniyordu.
 
-*Middle East Eye profiles Hasan Dhaimish, known as 'The Cleaver', a Libyan artist famous for satirical cartoons of Muammar Gaddafi, who also had a passion for jazz and blues.*
+*Hasan Dhaimish, a Libyan artist famous for satirical cartoons of Muammar Gaddafi, also had a passion for jazz music. He was known as 'The Cleaver'.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/breezin-through-burnley-libyan-artists-love-blues)  *2018-04-04 16:38* — Breezin’ through Burnley: A Libyan artist’s love for the blues
 
 ---
 
-### 78. Yerinden edilmiş Yemenli kadınlar köylüleri cinsel tacizle suçluyor
-*Displaced Yemeni women accuse villagers of sexual harassment*
+### 75. Yerinden edilmiş Yemenli kadınlar muhafazakar köylerde cinsel taciz bildiriyor
+*Displaced Yemeni women report sexual harassment in conservative villages*
 
-Middle East Eye, Taiz'den yerinden edilmiş Yemenli kadınların muhafazakar köylerde cinsel tacize maruz kaldıklarını ve kendilerini 'hapishanede' gibi hissettiklerini bildiriyor.
+Taiz'den yerinden edilen Yemenli kadınlar, muhafazakar kırsal bölgelerde cinsel tacize maruz kaldıklarını ve hayatı 'hapishane' gibi hissettiklerini söylüyor.
 
-*Middle East Eye reports that displaced Yemeni women from Taiz City say they face sexual harassment in conservative villages, feeling like they are in a 'prison'.*
+*Yemeni women displaced from Taiz City say they face sexual harassment in conservative rural areas, describing life as feeling like a 'prison'.*
 
 **Kaynaklar / Sources:**
 - [Middle East Eye](https://www.middleeasteye.net/features/sexual-harassment-displaced-yemeni-women-accuse-villagers-abuse)  *2016-08-18 18:16* — Sexual harassment: Displaced Yemeni women accuse villagers of abuse
