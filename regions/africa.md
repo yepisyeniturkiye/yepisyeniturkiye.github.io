@@ -4,52 +4,52 @@ title: Yepisyeni Türkiye — Afrika
 
 # Afrika / Africa
 
-**2026-05-01 — 31 küme / cluster**
+**2026-05-01 — 26 küme / cluster**
 
 Ana sayfa / home: [`index.md`](../index.md)  |  Gösterge paneli / dashboard: [`dashboard.md`](../dashboard.md)  |  Bölgeler / regions: [Middle East & North Africa](../regions/mena.md) · [Latin America](../regions/latam.md) · [Asia](../regions/asia.md) · [Europe](../regions/eu.md) · [United Kingdom](../regions/uk.md) · [United States](../regions/us.md) · [Global](../regions/global.md)
 
 ---
 
-### 1. Ibrahim Mahama'nın altın madeni, ilk üretimini Gana Altın Kurulu'na sattı
-*Ibrahim Mahama's gold mine sells first output to Ghana Gold Board*
+### 1. Ibrahim Mahama'nın Damang Altın Madeni ilk altın üretimini GoldBod'a sattı
+*Ibrahim Mahama's Damang Gold Mine sells first gold output to GoldBod*
 
-Pan African TV'nin haberine göre, Ibrahim Mahama'ya ait Damang Gold Mine Ltd., döviz rezervlerini desteklemek için ilk altın üretiminin %100'ünü Gana Altın Kurulu'na sattı.
+Pan African TV, Ibrahim Mahama'nın Damang Altın Madeni Ltd.'nin ilk altın üretiminin yüzde 100'ünü döviz rezervlerini desteklemek için Gana Altın Kurulu'na (GoldBod) sattığını bildiriyor. GoldBod CEO'su, madenden bir ekibi kabul etti.
 
-*Damang Gold Mine Ltd., owned by Ibrahim Mahama, sold 100% of its first gold output to the Ghana Gold Board to support foreign reserves accumulation, according to Pan African TV.*
+*Pan African TV reports that Ibrahim Mahama's Damang Gold Mine Ltd. has sold 100% of its first gold output to the Ghana Gold Board (GoldBod) to support foreign reserves accumulation. The CEO of GoldBod received a team from the mine.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/ibrahim-mahamas-damang-gold-mine-limited-sells-100-of-its-first-gold-output-to-goldbod-bog-in-historic-move/)  *2026-05-01 08:33* — Ibrahim Mahama’s Damang Gold Mine Limited sells 100% of its first gold output to GoldBod, BoG In Historic Move
 
 ---
 
-### 2. Gana, 2026 av yasağından zanaatkar kano balıkçılarını muaf tuttu
-*Ghana exempts artisanal canoe fishers from 2026 closed season*
+### 2. Gana, 2026 av yasağı döneminde zanaatkar kano balıkçılarını muaf tuttu
+*Ghana exempts artisanal canoe fishers from 2026 closed fishing season*
 
-Pan African TV'nin haberine göre, Gana Hükümeti, balık stoklarını yeniden inşa ederken geçim kaynaklarını korumak için 2026 av yasağı döneminde deniz zanaatkar kano balıkçılarını muaf tuttu.
+Pan African TV, Gana Hükümeti'nin, balık stoklarını yeniden inşa ederken geçim kaynaklarını korumak için 2026 av yasağı döneminde deniz zanaatkar kano balıkçılarını muaf tuttuğunu duyurduğunu bildiriyor.
 
-*The Government of Ghana announced that marine artisanal canoe fishers will be exempted from the 2026 closed fishing season to protect livelihoods while rebuilding fish stocks, as reported by Pan African TV.*
+*Pan African TV reports that the Government of Ghana announced marine artisanal canoe fishers will be exempted from the 2026 closed fishing season to protect livelihoods while rebuilding fish stocks.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/government-exempts-marine-artisanal-canoe-fishers-from-2026-closed-fishing-season/)  *2026-04-28 16:46* — Government exempts marine artisanal canoe fishers from 2026 closed fishing season
 
 ---
 
-### 3. Makale, Afrika'nın egemen finans için yeni bir risk diline ihtiyacı olduğunu savunuyor
-*Article argues Africa needs new risk language for sovereign finance*
+### 3. Afrika, egemen finans için yeni bir risk diline ihtiyaç duyuyor
+*Africa needs new risk language for sovereign finance*
 
-Pan African TV'deki bir makale, Afrika'nın egemen finans için yeni bir risk diline ihtiyacı olduğunu savunuyor; mevcut çerçeveler sinyalleri yeterince erken yorumlayamıyor ve bu da maliyetli hatalara yol açıyor.
+Pan African TV, Afrika'nın egemen riskinin hâlâ farklı ekonomiler için tasarlanmış çerçevelerle değerlendirildiğini ve bunun erken sinyallerin yanlış yorumlanmasına yol açtığını bildiriyor.
 
-*An article on Pan African TV argues that Africa needs a new risk language for sovereign finance, as current frameworks fail to interpret signals early enough, leading to costly mistakes.*
+*Pan African TV reports that Africa's sovereign risk is still assessed using frameworks designed for different economies, leading to costly misinterpretations of early signals.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/signals-before-ratings-why-africa-needs-a-new-risk-language/)  *2026-04-28 05:45* — Signals Before Ratings: Why Africa Needs a New Risk Language
 
 ---
 
-### 4. Maden Komisyonu, Adamus Maden İzinlerinin İptalini Savundu
-*Minerals Commission Defends Revocation of Adamus Mining Leases*
+### 4. Gana Maden Komisyonu, Adamus maden ruhsatlarının iptalini savundu
+*Ghana Minerals Commission defends revocation of Adamus mining leases*
 
-Pan African TV'ye göre, Gana Maden Komisyonu, Adamus Resources Limited'in maden izinlerinin iptalini, siyasi nedenlerden ziyade maden yasalarının sistematik ihlallerini gerekçe göstererek savundu.
+Pan African TV, Gana Maden Komisyonu'nun Adamus Resources Limited'in maden ruhsatlarının iptalini, siyasi nedenlerden ziyade maden yasalarının sistematik ihlallerini gerekçe göstererek savunduğunu bildirdi.
 
 *Pan African TV reports that Ghana's Minerals Commission defended the revocation of mining leases for Adamus Resources Limited, citing systemic violations of mining laws rather than political motives.*
 
@@ -58,46 +58,46 @@ Pan African TV'ye göre, Gana Maden Komisyonu, Adamus Resources Limited'in maden
 
 ---
 
-### 5. Gana Göçmenlik Servisi SECOBOR Girişimini Başlattı
-*Ghana Immigration Service Launches SECOBOR Initiative*
+### 5. Gana Göçmenlik Dairesi, SECOBOR kamu-özel sektör girişimini başlattı
+*Ghana Immigration Service launches SECOBOR public-private initiative*
 
-Pan African TV'ye göre, Gana Göçmenlik Servisi Yönetim Kurulu, hizmetin ihtiyaçlarını karşılamak için kaynak sağlamayı amaçlayan kamu-özel ortaklığı SECOBOR'u başlatmayı hedefliyor.
+Pan African TV, Gana Göçmenlik Dairesi'nin, hizmetin ihtiyaçları için kaynak sağlamak amacıyla SECOBOR (Sınırlarımızı Güvence Altına Alma Operasyonu) adlı bir kamu-özel sektör girişimi başlattığını bildirdi.
 
-*Pan African TV reports that the Ghana Immigration Service's Governing Council is pushing for the launch of Operation Secure Our Borders (SECOBOR), a public-private partnership to mobilize resources for the service's needs.*
+*Pan African TV reports that the Ghana Immigration Service launched a public-private initiative called SECOBOR (Operation Secure Our Borders) to mobilize resources for the service's needs.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/gis-launch-a-public-private-sector-initiative-secobor-aimed-at-addressing-needs-of-the-service/)  *2026-04-27 20:59* — GIS launch a public-private sector initiative, SECOBOR aimed at addressing needs of the service
 
 ---
 
-### 6. Afrikalı yolculuk platformu YANGO, NEV mobilitesi için FUTURE CAR ile ortaklık kurdu
-*African ride-hailing platform YANGO partners with FUTURE CAR for NEV mobility*
+### 6. Afrikalı yolculuk paylaşım platformu YANGO, NEV mobilitesi için FUTURE CAR ile ortaklık kurdu
+*African ride-hailing firm YANGO partners with FUTURE CAR for NEV mobility*
 
-Afrika'nın en büyük yolculuk platformlarından YANGO, filo ortaklarıyla Hangzhou'yu ziyaret etti ve Afrika'da yeni enerjili araç mobilitesi için bir referans oluşturmak üzere FUTURE CAR ile ortaklık kurdu.
+Afrika'nın en büyük yolculuk paylaşım platformlarından YANGO, filo ortaklarıyla birlikte Hangzhou'yu ziyaret etti ve Afrika'da yeni enerji aracı (NEV) mobilitesi için bir referans noktası belirlemek üzere çekirdek ortağı FUTURE CAR ile incelemelerde bulundu.
 
-*YANGO, one of Africa's largest ride-hailing platforms, visited Hangzhou with fleet partners and signed a partnership with FUTURE CAR to set a benchmark for new energy vehicle mobility in Africa.*
+*YANGO, one of Africa's largest ride-hailing platforms, visited Hangzhou with fleet partners and conducted inspections with its core partner FUTURE CAR to set a benchmark for new energy vehicle (NEV) mobility in Africa.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/africas-mobility-giant-yango-visits-hangzhou-partners-future-car-to-set-benchmark-for-nev-mobility-in-africa-2/)  *2026-04-27 16:00* — Africa’s Mobility Giant YANGO Visits Hangzhou, Partners FUTURE CAR to Set Benchmark for NEV Mobility in Africa
 
 ---
 
-### 7. YAWC Ağı yetkilisi Zambiya'nın Cinsiyet Daimi Sekreteri ile görüştü
-*YAWC Network official meets Zambia's Gender Permanent Secretary*
+### 7. YAWC Ağı heyeti, Zambiya'nın toplumsal cinsiyet daimi sekreteriyle görüştü
+*YAWC Network delegation meets Zambia's gender permanent secretary*
 
-Genç Afrikalı Kadınlar Kongresi Küresel Yönetim Konseyi üyesi, YAWC'nin 10. yıldönümü öncesinde kadınların güçlendirilmesi konusunda işbirliğini ilerletmek için Lusaka'da Zambiya Cinsiyet Daimi Sekreteri'ne bir nezaket ziyaretinde bulundu.
+Genç Afrikalı Kadınlar Kongresi (YAWC) Ağı Küresel Yönetim Konseyi üyesi, YAWC'nin 10. yıldönümü öncesinde kadınların güçlendirilmesi konusunda ikili işbirliğini ilerletmek için Lusaka'da Zambiya'nın Toplumsal Cinsiyet Daimi Sekreteri'ne nezaket ziyaretinde bulundu.
 
-*A member of the Young African Women Congress Global Governing Council paid a courtesy call on Zambia's Permanent Secretary for Gender in Lusaka to advance cooperation on women's empowerment ahead of YAWC's 10th anniversary.*
+*A member of the Global Governing Council of the Young African Women Congress (YAWC) Network paid a courtesy call on Zambia's Permanent Secretary for Gender in Lusaka to advance bilateral cooperation on women's empowerment ahead of YAWC's 10th anniversary.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/yawc-network-global-governing-council-member-pays-courtesy-call-on-zambias-permanent-secretary-for-gender/)  *2026-04-27 15:57* — YAWC NETWORK GLOBAL GOVERNING COUNCIL MEMBER PAYS COURTESY CALL ON ZAMBIA’S PERMANENT SECRETARY FOR GENDER
 
 ---
 
-### 8. Gana-Sierra Leone ortak komisyonu uygulama birimi kurdu
-*Ghana-Sierra Leone joint commission establishes delivery unit*
+### 8. Gana ve Sierra Leone PJCC toplantılarını tamamladı, uygulama birimi kurdu
+*Ghana and Sierra Leone conclude PJCC meetings, establish delivery unit*
 
-Gana ve Sierra Leone, Akra'da Daimi Ortak İşbirliği Komisyonu Bakanlar Toplantısı'nı sonuçlandırarak ikili anlaşmaların uygulanmasını izlemek üzere bir uygulama birimi kurdu.
+Gana ve Sierra Leone, Akra'da Daimi Ortak İşbirliği Komisyonu Bakanlar Toplantısını tamamlayarak ikili anlaşmaların uygulanmasını izlemek üzere bir uygulama birimi kurdu.
 
 *Ghana and Sierra Leone concluded the Ministerial Meeting of their Permanent Joint Commission for Cooperation in Accra, establishing a delivery unit to track implementation of bilateral agreements.*
 
@@ -106,12 +106,12 @@ Gana ve Sierra Leone, Akra'da Daimi Ortak İşbirliği Komisyonu Bakanlar Toplan
 
 ---
 
-### 9. Gana parlamento komitesi NPA'yı şeffaflık için övdü
-*Ghana parliamentary committee praises NPA for transparency*
+### 9. Gana parlamentosu enerji komitesi NPA'yı şeffaflık için övdü
+*Ghana parliament energy committee praises NPA for transparency*
 
-Gana'daki Parlamento Seçilmiş Enerji Komitesi, Ulusal Petrol Kurumu'nu bir çalışma ziyareti sırasındaki karşılama ve açık iletişimi nedeniyle takdir etti.
+Gana'da Parlamento Enerji Seçilmiş Komitesi, Başkan Emmanuel Kwasi Bedzrah liderliğindeki çalışma ziyareti sırasında Ulusal Petrol Kurumu'nu (NPA) şeffaflığı ve açık iletişimi nedeniyle takdir etti.
 
-*The Parliamentary Select Committee on Energy in Ghana commended the National Petroleum Authority for its reception and open engagement during a working visit.*
+*The Parliamentary Select Committee on Energy in Ghana commended the National Petroleum Authority (NPA) for its transparency and open engagement during a working visit led by Chairman Emmanuel Kwasi Bedzrah.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/parliaments-energy-committee-applauds-npa-for-transparency/)  *2026-04-24 19:16* — Parliament’s Energy Committee Applauds NPA For Transparency
@@ -121,7 +121,7 @@ Gana'daki Parlamento Seçilmiş Enerji Komitesi, Ulusal Petrol Kurumu'nu bir ça
 ### 10. Gana, yabancı düşmanı saldırılar nedeniyle Güney Afrika elçisini çağırdı
 *Ghana summons South African envoy over xenophobic attacks*
 
-Gana, Ganalılar da dahil olmak üzere yabancı uyrukluları hedef alan bir dizi yabancı düşmanı olay nedeniyle Güney Afrika'ya resmi diplomatik protestoda bulundu. Dışişleri Bakanı Samuel Okudzeto Ablakwa, Güney Afrika Maslahatgüzarını çağırdı.
+Gana, Ganalılar da dahil olmak üzere yabancı uyrukluları hedef alan bir dizi yabancı düşmanı olay nedeniyle Güney Afrika'ya resmi diplomatik protestoda bulundu. Dışişleri Bakanı Samuel Okudzeto Ablakwa, Güney Afrika Maslahatgüzarı'nı çağırdı.
 
 *Ghana has lodged a formal diplomatic protest against South Africa over a series of xenophobic incidents targeting foreign nationals, including Ghanaians. Foreign Minister Samuel Okudzeto Ablakwa summoned the Acting High Commissioner of South Africa.*
 
@@ -130,48 +130,48 @@ Gana, Ganalılar da dahil olmak üzere yabancı uyrukluları hedef alan bir dizi
 
 ---
 
-### 11. Gana cumhurbaşkanı yardımcısı şeffaf mali sisteme bağlılığı yineledi
-*Ghana vice president reaffirms commitment to transparent financial system*
+### 11. Gana Cumhurbaşkanı Yardımcısı şeffaf mali sisteme bağlılığı yineledi
+*Ghana VP reaffirms commitment to transparent financial system*
 
-Cumhurbaşkanı Yardımcısı Profesör Naana Jane Opoku-Agyemang, hükümetin dayanıklı, şeffaf ve teknoloji odaklı bir kamu mali yönetim sistemi kurma taahhüdünü yineledi. 2026 Yıllık Denetçi ve Muhasebeci Konferansı'nda konuştu.
+Cumhurbaşkanı Yardımcısı Profesör Naana Jane Opoku-Agyemang, hükümetin dayanıklı, şeffaf ve teknoloji odaklı bir kamu mali yönetim sistemi kurma taahhüdünü yineledi.
 
-*Vice President Professor Naana Jane Opoku-Agyemang reaffirmed the government's commitment to building a resilient, transparent, and technology-driven public financial management system. She spoke at the 2026 Annual Conference of the Controller and Accountant.*
+*Vice President Professor Naana Jane Opoku-Agyemang reaffirmed the government's commitment to building a resilient, transparent, and technology-driven public financial management system.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/we-are-building-a-resilient-and-transparent-financial-system-veep/)  *2026-04-23 16:20* — We Are Building A Resilient And Transparent Financial System – Veep
 
 ---
 
-### 12. YAWC Ağı üst düzey yetkilisi stratejik görev için Zambiya ve Zimbabve'yi ziyaret ediyor
-*YAWC Network senior official visits Zambia and Zimbabwe for strategic mission*
+### 12. YAWC Ağı üst düzey yetkilisi Zambiya ve Zimbabve'ye stratejik ziyarette bulundu
+*YAWC Network senior official embarks on strategic visit to Zambia and Zimbabwe*
 
-Genç Afrikalı Kadınlar Kongresi (YAWC) Ağı'nın üst düzey bir yetkilisi, örgütün 10. yıldönümü öncesinde pan-Afrika ortaklıklarını derinleştirmek için Zambiya ve Zimbabve'ye dokuz günlük bir diplomatik misyona başladı.
+Genç Afrikalı Kadınlar Kongresi (YAWC) Ağı'ndan üst düzey bir yetkili, örgütün 10. yıldönümü öncesinde Pan-Afrika ortaklıklarını derinleştirmek için Zambiya ve Zimbabve'ye dokuz günlük diplomatik bir misyona başladı.
 
-*A senior official of the Young African Women Congress (YAWC) Network embarked on a nine-day diplomatic mission to Zambia and Zimbabwe to deepen pan-African partnerships ahead of the organization's 10th anniversary.*
+*A senior official from the Young African Women Congress (YAWC) Network began a nine-day diplomatic mission to Zambia and Zimbabwe to deepen pan-African partnerships ahead of the organization's 10th anniversary.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/yawc-network-senior-official-embarks-on-strategic-visit-to-zambia-and-zimbabwe/)  *2026-04-22 21:08* — YAWC Network Senior Official Embarks On Strategic Visit To Zambia And Zimbabwe
 
 ---
 
-### 13. Gana ve Sierra Leone, Akra'da ortak işbirliği komisyonunu başlattı
-*Ghana and Sierra Leone launch joint cooperation commission in Accra*
+### 13. Gana ve Sierra Leone ortak işbirliği komisyonunu başlattı
+*Ghana and Sierra Leone launch joint cooperation commission*
 
-Gana ve Sierra Leone, 21 Nisan'da Akra'da Daimi Ortak İşbirliği Komisyonu'nun ilk tam oturumunu açtı. Oturum, on yılı aşkın süredir kağıt üzerinde var olan bir çerçevenin ilk kez tam olarak etkinleştirilmesi anlamına geliyor; her iki ülke de iyi niyeti eyleme dönüştürme taahhüdünde bulunuyor.
+Gana ve Sierra Leone, Accra'da Daimi Ortak İşbirliği Komisyonu'nun ilk tam oturumunu açtı. Oturum, on yılı aşkın süredir kağıt üzerinde var olan bir çerçevenin etkinleştirilmesi anlamına geliyor ve iyi niyeti somut sonuçlara dönüştürmeyi hedefliyor.
 
-*Ghana and Sierra Leone opened the first full session of their Permanent Joint Commission for Cooperation in Accra on April 21. The session marks the first full activation of a framework that has existed on paper for over a decade, as both nations commit to transforming goodwill into delivery.*
+*Ghana and Sierra Leone opened the first full session of their Permanent Joint Commission for Cooperation in Accra. The session marks the activation of a framework that had existed on paper for over a decade, aiming to transform goodwill into concrete delivery.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/ghana-sierra-leone-move-from-diplomacy-to-delivery-as-pjcc-kicks-off-in-accra/)  *2026-04-21 21:47* — Ghana, Sierra Leone Move From Diplomacy To Delivery As PJCC Kicks Off In Accra
 
 ---
 
-### 14. Gana DVLA, Ashiaman ve Teshie Nungua'da yeni ultra merkezler açtı
-*Ghana's DVLA opens new ultra centers in Ashiaman and Teshie Nungua*
+### 14. Gana DVLA, Ashaiman ve Teshie Nungua'da Yeni Ultra Merkezler Açtı
+*Ghana's DVLA Opens New Ultra Centers in Ashaiman and Teshie Nungua*
 
-Gana Sürücü ve Araç Lisanslama Kurumu (DVLA), hizmet sunumunu iyileştirmek ve araç hizmetlerini merkeziyetsizleştirmek için Ashiaman ve Teshie Nungua'da yeni ultra merkezler açtı.
+Gana'daki Sürücü ve Araç Lisanslama Kurumu (DVLA), hizmet sunumunu iyileştirmek için Ashaiman ve Teshie Nungua'da yeni Ultra Merkezler açtı. Merkezler, araç hizmetlerini merkeziyetsizleştirmeyi ve modernleştirmeyi hedefliyor.
 
-*Ghana's Driver and Vehicle Licensing Authority (DVLA) commissioned new ultra centers in Ashiaman and Teshie Nungua to enhance service delivery and decentralize vehicular services.*
+*The Driver and Vehicle Licensing Authority (DVLA) in Ghana has commissioned new Ultra Centers in Ashaiman and Teshie Nungua to improve service delivery. The centers aim to decentralize and modernize vehicular services.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/ashiaman-gets-its-share-of-dvla-ultra-center-to-boost-service-delivery/)  *2026-04-16 10:11* — Ashiaman gets its share of DVLA Ultra Center to boost service delivery.
@@ -179,204 +179,149 @@ Gana Sürücü ve Araç Lisanslama Kurumu (DVLA), hizmet sunumunu iyileştirmek 
 
 ---
 
-### 15. Gana, Avrupa Birliği ile güvenlik ve savunma ortaklığı imzaladı
-*Ghana signs security and defence partnership with European Union*
+### 15. Gana'nın kalkınma girişimleri ve uluslararası ortaklıkları rapor edildi
+*Ghana's development initiatives and international partnerships reported*
 
-Gana, Avrupa Birliği ile bir Güvenlik ve Savunma Ortaklığı'nı resmileştirdi ve bunu Batı Afrika'daki istikrarsızlık ve Sahel'den gelen şiddet içeren aşırılık tehdidine karşı bir yanıt olarak konumlandırdı.
+Pan African TV, Gana'nın AB ile Güvenlik ve Savunma Ortaklığı, uygun fiyatlı konut vurgusuyla Afrika Kent Forumu'na katılımı, Cumhurbaşkanı Mahama'nın astronot Christina Koch'u övmesi, petrol sektöründe 24 saat operasyonlar için mutabakat zaptı ve küresel kakao üretim açığını kapatma çabaları hakkında haber yapıyor.
 
-*Ghana formalised a Security and Defence Partnership with the European Union, positioning it as a response to instability in West Africa and the threat of violent extremism from the Sahel.*
+*Pan African TV reports on Ghana's Security and Defence Partnership with the EU, its participation in the Africa Urban Forum highlighting affordable housing, President Mahama's praise for astronaut Christina Koch, a memorandum of understanding for 24-hour operations in the petroleum sector, and efforts to fill the global cocoa production gap.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/ghana-signs-security-and-defence-partnership-with-eu-dismisses-sovereignty-concerns/)  *2026-04-14 15:42* — Ghana Signs Security and Defence Partnership with EU, Dismisses Sovereignty Concerns
+- [Pan African TV](https://panafricantv.com/ghana-highlights-scalable-housing-solutions-at-africa-urban-forum/)  *2026-04-10 19:06* — Ghana Highlights Scalable Housing Solutions at Africa Urban Forum
+- [Pan African TV](https://panafricantv.com/ghanas-president-hails-sole-female-astronaut-on-artemis-ii-mission/)  *2026-04-09 16:01* — Ghana’s President Hails Sole Female Astronaut on Artemis II Mission
+- [Pan African TV](https://panafricantv.com/24-houreconomy-authoritynpa-sign-mou-to-implement-24-hour-operations-in-petroleum-downstreamsector/)  *2026-04-08 22:12* — 24-HourEconomy Authority,NPA Sign MoU To Implement 24-hour Operations In Petroleum Downstreamsector
+- [Pan African TV](https://panafricantv.com/global-cocoa-production-gap-how-dr-randy-abbeys-reformist-leadership-is-filling-the-global-void/)  *2026-04-08 22:06* — Global Cocoa Production Gap: How Dr. Randy Abbey’s Reformist Leadership Is filling the global Void
 
 ---
 
-### 16. Hayırsever, Tamale'deki Ambariya Sünni Topluluğuna tebliğ otobüsü bağışladı
+### 16. Hayırsever, Tamale'deki Ambariya Sünni Topluluğuna Davet otobüsü bağışladı
 *Philanthropist donates Da'wah bus to Ambariya Sunni Community in Tamale*
 
-Alhaji FuZak olarak bilinen Alhaji Hussein Yushaw, Tamale'deki Ambariya Sünni Topluluğuna tebliğ faaliyetlerini desteklemek için bir otobüs bağışladı. Otobüs, kişisel asistanı Alhaji Mohammed Tahiru tarafından teslim edildi.
+Pan African TV, hayırsever Alhaji FuZak'ın, Ambariya Sünni Topluluğu'nun tebliğ faaliyetlerini desteklemek için Tamale'de bir Davet otobüsü bağışladığını bildiriyor.
 
-*Alhaji Hussein Yushaw, known as Alhaji FuZak, donated a Da'wah bus to the Ambariya Sunni Community in Tamale to support their outreach activities. The bus was presented on his behalf by his personal assistant, Alhaji Mohammed Tahiru.*
+*Pan African TV reports that philanthropist Alhaji FuZak donated a Da'wah bus to the Ambariya Sunni Community in Tamale to support their outreach activities.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/philanthropist-alhaji-fuzak-donates-dawah-bus-to-ambariya-sunni-community/)  *2026-04-13 12:17* — Philanthropist Alhaji FuZak Donates Da’wah Bus To Ambariya Sunni Community
 
 ---
 
-### 17. Gana, Afrika Kent Forumu'nda ölçeklenebilir konut çözümlerini vurguladı
-*Ghana highlights scalable housing solutions at Africa Urban Forum*
+### 17. Polis, Kotoku Pazarı'ndaki şiddet olaylarının şüphelilerini arıyor
+*Police hunt suspects after violent disturbances at Kotoku Market*
 
-Gana, Nairobi'deki İkinci Afrika Kent Forumu'nda uygun fiyatlı konutlara odaklanarak kapsayıcı ve sürdürülebilir kentsel kalkınma taahhüdünü yineledi. Bakan Yardımcısı Rita Naa Odoley ülke bildirisini sundu.
+Gana'da güvenlik güçleri, Büyük Akra Bölgesi'ndeki Adjen Kotoku Soğan Pazarı'nda meydana gelen şiddet olaylarına karışan kişileri yakalamak için çabalarını yoğunlaştırıyor. Polis kaynaklarına göre saldırı, tüccarları korkuttu ve ticari faaliyetleri aksattı.
 
-*Ghana reiterated its commitment to inclusive and sustainable urban development, focusing on affordable housing, at the Second Africa Urban Forum in Nairobi. Deputy Minister Rita Naa Odoley delivered the country statement.*
-
-**Kaynaklar / Sources:**
-- [Pan African TV](https://panafricantv.com/ghana-highlights-scalable-housing-solutions-at-africa-urban-forum/)  *2026-04-10 19:06* — Ghana Highlights Scalable Housing Solutions at Africa Urban Forum
-
----
-
-### 18. Gana cumhurbaşkanı Artemis II görevindeki kadın astronotu övdü
-*Ghana's president praises female astronaut on Artemis II mission*
-
-Gana Cumhurbaşkanı John Dramani Mahama, Artemis II görevindeki tek kadın astronot Christina Koch'u dünya çapında kadınlar ve kızlar için bir ilham kaynağı olarak övdü.
-
-*Ghana's President John Dramani Mahama praised Christina Koch, the only female astronaut on the Artemis II mission, as an inspiration for women and girls worldwide.*
-
-**Kaynaklar / Sources:**
-- [Pan African TV](https://panafricantv.com/ghanas-president-hails-sole-female-astronaut-on-artemis-ii-mission/)  *2026-04-09 16:01* — Ghana’s President Hails Sole Female Astronaut on Artemis II Mission
-
----
-
-### 19. Gana 24 Saat Ekonomi Otoritesi ve NPA, petrol sektörü için mutabakat zaptı imzaladı
-*Ghana's 24-Hour Economy Authority and NPA sign MoU for petroleum sector*
-
-24 Saat Ekonomi Otoritesi ve Ulusal Petrol Otoritesi, Gana'nın aşağı yönlü petrol sektöründe 24 saat operasyonları uygulamak için bir mutabakat zaptı imzalayarak ekonomik faaliyeti artırmayı hedefliyor.
-
-*The 24-Hour Economy Authority and the National Petroleum Authority signed an MoU to implement 24-hour operations in Ghana's downstream petroleum sector, aiming to boost economic activity.*
-
-**Kaynaklar / Sources:**
-- [Pan African TV](https://panafricantv.com/24-houreconomy-authoritynpa-sign-mou-to-implement-24-hour-operations-in-petroleum-downstreamsector/)  *2026-04-08 22:12* — 24-HourEconomy Authority,NPA Sign MoU To Implement 24-hour Operations In Petroleum Downstreamsector
-
----
-
-### 20. Dr. Randy Abbey liderliğinde Gana'nın kakao üretim liderliği inceleniyor
-*Ghana's cocoa production leadership under Dr. Randy Abbey examined*
-
-Pan African TV'den bir makale, geleneksel güçlerin düşüş yaşadığı bir dönemde Dr. Randy Abbey liderliğindeki Gana'nın küresel kakao üretim açığını kapatabileceğini tartışıyor.
-
-*An article from Pan African TV discusses how Ghana, under the leadership of Dr. Randy Abbey, may fill the global cocoa production gap as traditional powerhouses face declines.*
-
-**Kaynaklar / Sources:**
-- [Pan African TV](https://panafricantv.com/global-cocoa-production-gap-how-dr-randy-abbeys-reformist-leadership-is-filling-the-global-void/)  *2026-04-08 22:06* — Global Cocoa Production Gap: How Dr. Randy Abbey’s Reformist Leadership Is filling the global Void
-
----
-
-### 21. Gana'da Kotoku pazarındaki şiddet olaylarının ardından polis şüphelileri arıyor
-*Police hunt suspects after violent disturbances at Kotoku market in Ghana*
-
-Pan African TV, Gana'daki güvenlik güçlerinin Adjen Kotoku Soğan Pazarı'ndaki şiddet olaylarına karışan şüphelileri aradığını ve olayın tüccarları korkuttuğunu bildiriyor.
-
-*Pan African TV reports that security agencies in Ghana are searching for suspects involved in violent disturbances at the Adjen Kotoku Onion Market, which left traders in fear.*
+*Security agencies in Ghana are intensifying efforts to apprehend individuals involved in violent disturbances at the Adjen Kotoku Onion Market in the Greater Accra Region. The attack left traders in fear and disrupted commercial activities, according to police sources.*
 
 **Kaynaklar / Sources:**
 - [Pan African TV](https://panafricantv.com/police-launch-manhunt-for-suspects-behind-kotoku-market-disturbances/)  *2026-04-07 22:28* — Police Launch Manhunt for Suspects Behind Kotoku Market Disturbances
 
 ---
 
-### 22. Güney Afrika sendikası NUMSA çelik sektörü iş kayıplarını protesto ediyor
-*South African union NUMSA protests steel industry job losses*
+### 18. NUMSA, Güney Afrika çelik sektörüne müdahale için protesto düzenledi
+*NUMSA protests for intervention in South African steel industry*
 
-NUMSA, üyelerinin SA Steel Mills ve ArcelorMittal Güney Afrika'da iş kayıplarını önlemek için müdahale talebiyle Endüstriyel Kalkınma Kurumu önünde protesto düzenlediğini bildiriyor.
+Güney Afrika Metal İşçileri Ulusal Sendikası (NUMSA), SA Steel Mills ve ArcelorMittal Güney Afrika'ya hükümet müdahalesi talep ederek protesto düzenledi ve eritme tesislerini kurtarmak için sanayi politikası çağrısıyla cumhurbaşkanlığına yürüdü.
 
-*NUMSA reports that its members picketed outside the Industrial Development Corporation to demand intervention at SA Steel Mills and ArcelorMittal South Africa to prevent job losses.*
+*The National Union of Metalworkers of South Africa (NUMSA) held protests demanding government intervention at SA Steel Mills and ArcelorMittal South Africa, and marched to the presidency to call for industrial policy to save smelters.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-demands-that-idc-must-urgently-intervene-at-sa-steel-mills-and-arcelormittal-south-africa-amsa/)  *2025-12-10 05:55* — NUMSA demands that IDC must urgently intervene at SA Steel Mills and ArcelorMittal South Africa (AMSA)
-
----
-
-### 23. NUMSA, sanayi politikası başarısızlıkları nedeniyle cumhurbaşkanlığına yürüdü
-*NUMSA marches to presidency over industrial policy failures*
-
-Güney Afrika Metal İşçileri Ulusal Sendikası (NUMSA), canlı bir sanayi politikasının olmayışını protesto etmek için Cumhurbaşkanlığı Ofisi'ne yürüdü. Sendika, hem Cumhurbaşkanlığı'nı hem de Elektrik Bakanlığı'nı eleştirdi.
-
-*The National Union of Metalworkers of South Africa (NUMSA) marched to the Office of the Presidency to protest the lack of a vibrant industrial policy, which it says threatens the manufacturing sector. The union expressed frustration with both the Presidency and the Ministry of Electricity.*
-
-**Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-statement-on-the-memorandum-of-demands-to-the-office-of-the-presidency-to-save-sa-smelters/)  *2025-12-09 05:33* — NUMSA Statement on the Memorandum of demands to the Office of the Presidency to Save SA Smelters!
 
 ---
 
-### 24. NUMSA, kadına yönelik şiddete karşı ulusal kapanışa katılacak
+### 19. NUMSA, toplumsal cinsiyete dayalı şiddete karşı ulusal kapanışa katılacak
 *NUMSA to join national shutdown against gender-based violence*
 
-NUMSA, Güney Afrika'da toplumsal cinsiyete dayalı şiddet, kadın cinayetleri ve çocuğa yönelik şiddeti protesto etmek için 21 Kasım 2025'teki ulusal kapanışa katılacağını duyurdu. Sendikanın toplumsal cinsiyet yapısı gösterilere katılacak.
+NUMSA, Güney Afrika'da toplumsal cinsiyete dayalı şiddet, kadın cinayetleri ve çocuğa yönelik şiddeti protesto etmek için 21 Kasım 2025'teki ulusal kapanışa katılacağını duyurdu.
 
-*NUMSA announced it will participate in a national shutdown on 21 November 2025 to protest gender-based violence, femicide, and violence against children in South Africa. The union's gender structure will join demonstrations.*
+*NUMSA announced its participation in a national shutdown on 21 November 2025 to protest gender-based violence, femicide, and violence against children in South Africa.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-will-participate-in-the-national-shutdown-to-protest-against-the-alarming-levels-of-gbv-femicide-and-violence-against-children/)  *2025-11-19 06:25* — NUMSA will participate in the National Shutdown to protest against the alarming levels of GBV, femicide and violence against children
 
 ---
 
-### 25. NUMSA, otomotiv sektöründe enflasyon üstü ücret anlaşmasını memnuniyetle karşıladı
-*NUMSA welcomes above-inflation wage deal in auto sector*
+### 20. NUMSA, otomotiv sektöründe enflasyon üstü ücret anlaşması imzaladı
+*NUMSA signs above-inflation wage agreement in auto sector*
 
-NUMSA, Otomobil Üreticileri Derneği (AMEO) ile otomotiv sektöründe enflasyonun üzerinde artış sağlayan bir ücret anlaşmasını memnuniyetle karşıladı. Anlaşma Ulusal Toplu Pazarlık Forumu'nda sağlandı.
+NUMSA, Otomobil Üreticileri Birliği (AMEO) ile otomotiv sektörü çalışanlarına enflasyon üstü zam sağlayan bir ücret anlaşması imzaladı.
 
-*NUMSA welcomed a wage agreement in the auto sector with the Automobile Manufacturers Association (AMEO) that provides above-inflation increases. The deal was reached through the National Bargaining Forum.*
+*NUMSA signed a wage agreement with the Automobile Manufacturers Association (AMEO) providing above-inflation increases for workers in the auto sector.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-welcomes-the-signing-of-an-above-inflation-wage-agreement-in-the-auto-sector/)  *2025-11-15 06:11* — NUMSA welcomes the signing of an above inflation wage agreement in the Auto Sector
 
 ---
 
-### 26. NUMSA, lastik sektöründe üç yıllık ücret anlaşması imzaladı
-*NUMSA signs three-year wage agreement in tyre sector*
+### 21. NUMSA, lastik sektöründe üç yıllık ücret anlaşması imzaladı
+*NUMSA concludes three-year wage deal in tyre sector*
 
-NUMSA, lastik imalat sektöründe 1 Temmuz 2025'ten 30 Haziran 2028'e kadar geçerli üç yıllık bir ücret anlaşması imzaladı. Anlaşma, 1-7 arası derecelerdeki saatlik ücretli çalışanlar için %5,5 oranında genel artış içeriyor.
+NUMSA, lastik imalat sektöründe Temmuz 2025'ten itibaren geçerli olmak üzere, ilk yıl için %5,5 oranında genel zam içeren üç yıllık bir ücret anlaşması imzaladı.
 
-*NUMSA concluded a three-year wage agreement in the tyre manufacturing sector, effective from 1 July 2025 to 30 June 2028. The deal includes across-the-board increases of 5.5% for hourly paid employees in grades 1 to 7.*
+*NUMSA finalized a three-year wage agreement in the tyre manufacturing sector, effective from July 2025, with across-the-board increases of 5.5% in the first year.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-signs-3-year-wage-agreement-in-the-tyre-sector/)  *2025-11-11 12:27* — NUMSA signs 3 year wage agreement in the Tyre Sector
 
 ---
 
-### 27. NUMSA, güvenlik şirketlerinin uyumu için Hazine'ye yürüyecek
-*NUMSA to march to Treasury over security company compliance*
+### 22. NUMSA, güvenlik şirketlerinin uyumu için Hazine'ye yürüyecek
+*NUMSA to march to National Treasury over security company compliance*
 
-NUMSA, Pretoria'daki Ulusal Hazine'ye yürüyerek hükümetin, özellikle sağlık sigortası ve emeklilik katkı payları konusunda toplu sözleşmelere uymayan güvenlik şirketleriyle iş yapmayı bırakmasını talep edecek.
+NUMSA, Pretoria'daki Ulusal Hazine'ye yürüyerek hükümetin, sağlık sigortası ve emeklilik katkı payları konusunda toplu sözleşmelere uymayan güvenlik şirketleriyle iş yapmayı durdurmasını talep edecek.
 
-*NUMSA will march to the National Treasury in Pretoria to demand that the government stop doing business with security companies that fail to comply with collective agreements, particularly regarding medical insurance and pension contributions.*
+*NUMSA plans to march to the National Treasury in Pretoria to demand that the government stop doing business with security companies that fail to comply with collective agreements on medical insurance and pension contributions.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-to-march-to-national-treasury-to-demand-that-it-must-blacklist-security-companies-for-non-payment-of-medical-insurance-and-pension-fund-contributions-29-october-2025/)  *2025-10-29 08:46* — NUMSA to march to National Treasury to demand that it must blacklist Security companies for non-payment of medical insurance and pension fund contributions 29 October 2025
 
 ---
 
-### 28. NUMSA Ulusal Yürütme Kurulu kararları Şubat 2025
-*NUMSA National Executive Committee decisions February 2025*
+### 23. NUMSA Ulusal Yürütme Kurulu, Şubat toplantısından önemli kararlar yayımladı
+*NUMSA National Executive Committee issues key decisions from February meeting*
 
-NUMSA, 12-15 Şubat 2025 tarihlerinde yapılan Ulusal Yürütme Kurulu toplantısının önemli kararlarını yayınladı. Belge Genel Sekreter Irvin Jim tarafından yayımlandı.
+NUMSA, Genel Sekreter Irvin Jim tarafından duyurulan, 12-15 Şubat 2025 tarihlerinde yapılan Ulusal Yürütme Kurulu toplantısının önemli kararlarını yayımladı.
 
-*NUMSA released the key decisions from its National Executive Committee meeting held from 12 to 15 February 2025. The document was issued by General Secretary Irvin Jim.*
+*NUMSA released the key decisions from its National Executive Committee meeting held from 12-15 February 2025, as announced by General Secretary Irvin Jim.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/key-decisions-of-the-nec-of-12-15-february-2025/)  *2025-10-27 08:27* — Key decisions of the NEC of 12 -15 February 2025
 
 ---
 
-### 29. NUMSA Ulusal Toplu Pazarlık Konferansı bildirgesi Mart 2025
-*NUMSA National Bargaining Conference declaration March 2025*
+### 24. NUMSA, Mart 2025 Ulusal Toplu Pazarlık Konferansı bildirisini yayımladı
+*NUMSA publishes March 2025 National Bargaining Conference declaration*
 
-NUMSA, Mart 2025'te yapılan Ulusal Toplu Pazarlık Konferansı'nın bildirge ve taleplerini yayınladı. Belge Genel Sekreter Irvin Jim tarafından yayımlandı.
+NUMSA, Genel Sekreter Irvin Jim tarafından duyurulan, Mart 2025'teki Ulusal Toplu Pazarlık Konferansı'nın bildiri ve taleplerini yayımladı.
 
-*NUMSA published the declaration and demands from its National Bargaining Conference held in March 2025. The document was issued by General Secretary Irvin Jim.*
+*NUMSA published the declaration and demands resulting from its National Bargaining Conference in March 2025, as announced by General Secretary Irvin Jim.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/march-2025-nbc-declaration/)  *2025-10-27 08:15* — March 2025 NBC Declaration
 
 ---
 
-### 30. NUMSA Cinsiyet Yapısı Doğu Cape Sel Mağdurlarına Yardım Ulaştırdı
-*NUMSA Gender Structure Delivers Relief to Eastern Cape Flood Victims*
+### 25. NUMSA cinsiyet yapısı Doğu Kap sel mağdurlarına yardım ulaştırdı
+*NUMSA gender structure delivers relief to Eastern Cape flood victims*
 
-Güney Afrika Metal İşçileri Ulusal Sendikası (NUMSA) Ulusal Cinsiyet Yapısı, cinsel taciz konulu bir çalıştayın ardından Doğu Cape'deki sel mağdurlarına ikinci bir yardım turu ulaştırdı.
+Güney Afrika Ulusal Metal İşçileri Sendikası'nın Ulusal Cinsiyet Yapısı, Mthatha'da düzenlenen cinsel taciz çalıştayı sırasında Doğu Kap sel mağdurlarına ikinci bir yardım turu ulaştırdı.
 
-*The National Union of Metalworkers of South Africa (NUMSA)'s National Gender Structure delivered a second round of relief to flood victims in the Eastern Cape, following a workshop on sexual harassment.*
+*The National Union of Metalworkers of South Africa's National Gender Structure delivered a second round of relief to Eastern Cape flood victims during a workshop on sexual harassment in Mthatha.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-gender-structure-delivers-second-round-of-relief-to-eastern-cape-flood-victims/)  *2025-10-27 07:27* — NUMSA Gender Structure Delivers Second Round of Relief to Eastern Cape Flood Victims
 
 ---
 
-### 31. NUMSA Otomotiv Ücret Görüşmelerinde Çıkmaza Girdi, Olası Grevle Karşı Karşıya
-*NUMSA Reaches Deadlock in Auto Wage Talks, Faces Possible Strike*
+### 26. NUMSA otomotiv ücret görüşmelerinde kilitlenme ilan etti, grev olası
+*NUMSA declares deadlock in auto wage talks, strike possible*
 
-Güney Afrika Metal İşçileri Ulusal Sendikası (NUMSA) otomotiv sektörü ücret görüşmelerinde çıkmaza girdi ve olası bir grevle karşı karşıya kalırken, diğer taleplerle ilgili müzakereler devam ediyor.
+Güney Afrika Ulusal Metal İşçileri Sendikası, otomotiv sektörü ücret görüşmelerinde kilitlenme olduğunu ve grev olasılığını duyururken, kısa çalışma ve konut yardımı gibi diğer talepler üzerindeki müzakereler sürüyor.
 
-*The National Union of Metalworkers of South Africa (NUMSA) has reached a deadlock in auto industry wage talks and faces possible strike action, while negotiations on other demands continue.*
+*The National Union of Metalworkers of South Africa announced a deadlock in auto industry wage talks, with possible strike action, while negotiations on other demands like short time and housing allowance continue.*
 
 **Kaynaklar / Sources:**
 - [National Union of Metal Workers of South Africa (NUMSA)](https://www.numsa.org.za/numsa-statement-on-the-deadlock-in-the-auto-wage-talks/)  *2025-10-27 07:10* — NUMSA statement on the deadlock in the Auto wage talks
