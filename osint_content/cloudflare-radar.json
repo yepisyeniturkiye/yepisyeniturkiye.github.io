@@ -3,9 +3,15 @@
   "platform_name": "Cloudflare Radar",
   "homepage": "https://radar.cloudflare.com",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-04-30T16:04:05.531869+00:00",
+  "fetched_at": "2026-05-01T08:38:47.804553+00:00",
   "error": "",
   "items": [
+    {
+      "title_en": "Agent Readiness Scan: Check website readiness for AI agents",
+      "title_tr": "AI Ajanlarına Hazırlık Taraması: Web sitenizin hazır olup olmadığını kontrol edin",
+      "url": "https://blog.cloudflare.com/agent-readiness/",
+      "date": ""
+    },
     {
       "title_en": "DDoS threat report for 2025 Q4",
       "title_tr": "2025 Q4 DDoS tehdit raporu",
@@ -13,26 +19,20 @@
       "date": ""
     },
     {
-      "title_en": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
-      "title_tr": "Kapatmalar, elektrik kesintileri ve çatışma: 2026 Q1 İnternet kesintileri incelemesi",
-      "url": "https://radar.cloudflare.com/reports",
-      "date": "2026-04-01"
+      "title_en": "Feb 2026: Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+      "title_tr": "Şubat 2026: Kapatmalar, elektrik kesintileri ve çatışma: 2026 Q1 İnternet kesintilerinin incelemesi",
+      "url": "https://radar.cloudflare.com/reports?q=Internet+disruptions",
+      "date": "2026-04"
     },
     {
-      "title_en": "Sudan internet outage on April 23, 2026",
-      "title_tr": "23 Nisan 2026 Sudan internet kesintisi",
+      "title_en": "Last observed outage: Malaysia, AS4818, CelcomDigi, technical problem",
+      "title_tr": "Son gözlemlenen kesinti: Malezya, AS4818, CelcomDigi, teknik sorun",
       "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
-      "date": "2026-04-23"
+      "date": "2026-04-30"
     },
     {
-      "title_en": "Network Quality Test (new feature)",
-      "title_tr": "Ağ Kalite Testi (yeni özellik)",
-      "url": "https://radar.cloudflare.com/speedtest",
-      "date": ""
-    },
-    {
-      "title_en": "URL Scanner (updated tool)",
-      "title_tr": "URL Tarayıcı (güncellenmiş araç)",
+      "title_en": "URL Scanner updated: scan websites for AI agent readiness",
+      "title_tr": "URL Tarayıcı güncellendi: AI ajan hazırlığı için web sitelerini tarayın",
       "url": "https://radar.cloudflare.com/scan",
       "date": ""
     }
