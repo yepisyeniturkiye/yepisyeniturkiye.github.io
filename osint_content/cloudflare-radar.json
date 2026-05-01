@@ -3,15 +3,9 @@
   "platform_name": "Cloudflare Radar",
   "homepage": "https://radar.cloudflare.com",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T11:38:10.862942+00:00",
+  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
   "error": "",
   "items": [
-    {
-      "title_en": "Agent Readiness Scan: Check website readiness for AI agents",
-      "title_tr": "AI Ajanlarına Hazırlık Taraması: Web sitenizin hazır olup olmadığını kontrol edin",
-      "url": "https://blog.cloudflare.com/agent-readiness/",
-      "date": ""
-    },
     {
       "title_en": "DDoS threat report for 2025 Q4",
       "title_tr": "2025 Q4 DDoS tehdit raporu",
@@ -19,22 +13,28 @@
       "date": ""
     },
     {
-      "title_en": "Feb 2026: Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
-      "title_tr": "Şubat 2026: Kapatmalar, elektrik kesintileri ve çatışma: 2026 Q1 İnternet kesintileri incelemesi",
-      "url": "https://radar.cloudflare.com/reports?q=Shutdowns%2C%20power%20outages%2C%20and%20conflict",
+      "title_en": "Feb 2026 Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+      "title_tr": "Şubat 2026 Kapanmalar, elektrik kesintileri ve çatışma: 2026 Q1 İnternet kesintileri incelemesi",
+      "url": "https://radar.cloudflare.com/reports",
       "date": "2026-04"
     },
     {
-      "title_en": "Last observed outage: Malaysia, AS4818, CelcomDigi, Apr 30 2026",
-      "title_tr": "Son gözlemlenen kesinti: Malezya, AS4818, CelcomDigi, 30 Nisan 2026",
-      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
-      "date": "2026-04-30"
+      "title_en": "Network Quality Test - new tool",
+      "title_tr": "Ağ Kalite Testi - yeni araç",
+      "url": "https://radar.cloudflare.com/speedtest",
+      "date": ""
     },
     {
-      "title_en": "URL Scanner: New feature to scan websites for AI agent readiness",
-      "title_tr": "URL Tarayıcı: Web sitelerini AI ajan hazırlığı için tarayan yeni özellik",
+      "title_en": "URL Scanner - updated",
+      "title_tr": "URL Tarayıcı - güncellendi",
       "url": "https://radar.cloudflare.com/scan",
       "date": ""
+    },
+    {
+      "title_en": "Last observed outage: Malaysia (AS4818) - CelcomDigi, technical problem",
+      "title_tr": "Son gözlemlenen kesinti: Malezya (AS4818) - CelcomDigi, teknik sorun",
+      "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
+      "date": "2026-04-30"
     }
   ]
 }

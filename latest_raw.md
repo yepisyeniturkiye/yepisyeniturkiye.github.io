@@ -7,11 +7,68 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2394 items**
-*Updated 2026-05-01 11:38 UTC*
+**Last 24 hours — 2439 items**
+*Updated 2026-05-01 14:39 UTC*
 
 ---
 
+- [Bengal: EC orders repoll at 15 booths in South 24 Parganas district](https://scroll.in/latest/1092531/west-bengal-ec-orders-repoll-at-15-booths-in-south-24-parnagas-district?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 14:13
+  > The polling, held on April 29, was declared void based on reports submitted by returning officers and observers, the Election Commission said.
+- [Whistleblower says DOJ ordered prosecutors to rush SPLC indictment: report](https://www.alternet.org/news-politics/trump-doj-splc/) — *AlterNet* — 2026-05-01 14:11
+  > Several Democratic members of Congress are demanding answers from the Department of Justice after a whistleblower alleged that prosecutors were ordered to rush the controversial indictment of a prominent left-leaning civil rights organizati
+- [“O presidente é candidato”, afirma Edinho Silva sobre boatos de desistência de Lula](https://www.brasildefato.com.br/2026/05/01/o-presidente-e-candidato-afirma-edinho-silva-sobre-boatos-de-desistencia-de-lula/) — *Brasil de Fato* — 2026-05-01 14:10
+  > Presidente do PT reconhece que partido deveria ter assinado a CPI do Banco Master Fonte
+- [Bolsonaro é internado para cirurgia no ombro em Brasília](https://www.brasildefato.com.br/2026/05/01/bolsonaro-e-internado-para-cirurgia-no-ombro-em-brasilia/) — *Brasil de Fato* — 2026-05-01 14:06
+  > O ex-presidente Jair Bolsonaro foi internado na manhã desta sexta-feira (1º) no hospital DF Star, em Brasília, para passar por uma cirurgia no ombro. O procedimento, para tratar uma lesão no manguito rotador direito, deve durar três horas. 
+- [Iran sends proposal for negotiations with US to mediator Pakistan](https://www.rappler.com/world/middle-east/iran-sends-mediator-pakistan-proposal-negotiations-us/) — *Rappler* — 2026-05-01 14:05
+  > Washington has not said what its next steps are
+- [In Jharkhand, vanishing palash forest is eroding livelihoods](https://scroll.in/article/1092413/in-jharkhand-vanishing-palash-forest-is-eroding-livelihoods?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 14:00
+  > The palash tree is used to grow lac, which primarily Dalit and Adivasi families rely on to supplement their agricultural earnings.
+- [May Day 2026: U.S. labor movement reclaims International Workers’ Day](https://www.peoplesworld.org/article/may-day-2026-u-s-labor-movement-reclaims-international-workers-day/) — *The OC Portal* — 2026-05-01 13:54
+- [Lawmakers question 'murky legal status' of Trump officials’ arrangement with top allies](https://www.alternet.org/kushner-witkoff-trump/) — *AlterNet* — 2026-05-01 13:51
+  > In late April, President Donald Trump announced that Jared Kushner and Steve Witkoff (the Trump Administration's special envoy to the Middle East) would be resuming peace talks with Iran — only to tell the media, the next day, that the trip
+- [Top CEO pay increased 20 times faster than workers’ pay in 2025](https://www.commondreams.org/newswire/top-ceo-pay-increased-20-times-faster-than-workers-pay-in-2025) — *Common Dreams* — 2026-05-01 13:51
+  > Global real worker pay fell 12 percent while real CEO pay surged 54 percent between 2019 and 2025. At least four CEOs of major corporations each pocketed over $100 million in pay and bonuses last year. Broadcom CEO Hock Tan led the pack at 
+- [Ex-White House official reveals why 'fed up' Trump insiders are 'scared to speak up'](https://www.alternet.org/trump-supporters-2676839486/) — *AlterNet* — 2026-05-01 13:48
+  > Numerous Republican lawmakers are past the point of "fed up" with President Donald Trump, but according to one his most notable former officials, they have refused to do anything about it because they are "scared to speak up" — and he knows
+- [Working people can defeat Trump!](https://liberationnews.org/working-people-can-defeat-trump/) — *Liberation News* — 2026-05-01 13:47
+  > Millions of people across the country are marking International Workers Day in the true tradition of the holiday that was born right here in the United States – by taking to the streets against the dictatorship of the ultra-rich. Today, the
+- [Strikes Are Down, but Workers Are Rediscovering Their Power](https://jacobinmag.com/) — *The OC Portal* — 2026-05-01 13:35
+- [Rush Hour: Khera gets anticipatory bail, HC says EC can use central staff for vote counting & more](https://scroll.in/latest/1092522/rush-hour-khera-gets-anticipatory-bail-hc-says-ec-can-use-central-staff-for-vote-counting-more?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 13:34
+  > Become a Scroll member to get Rush Hour – a wrap of the day’s important stories delivered straight to your inbox every evening.
+- [Coventry Council Renews £750k Palantir Deal](https://novaramedia.com/2026/05/01/coventry-council-renews-750k-palantir-deal/) — *Novara Media* — 2026-05-01 13:30
+  > Coventry city council has renewed a contract with Palantir despite opposition from councillors and trade unions. The AI and analytics giant, whose technology is used by the Israeli military and by ICE to power US president Donald Trump’s im
+- [100,000+ Students to Walk Out Alongside Workers in Largest One-Day Strike in Over 80 Years](https://www.commondreams.org/newswire/100000-students-to-walk-out-alongside-workers-in-largest-one-day-strike-in-over-80-years) — *Common Dreams* — 2026-05-01 13:26
+  > Today, more than 100,000 students across the country are walking out of their classrooms as part of the largest one-day student strike in over 80 years, joined by coordinated Sunrise Movement actions and community mobilizations nationwide, 
+- [Gujarat HC extends Asaram’s temporary bail in rape case till June 15](https://scroll.in/latest/1092527/gujarat-hc-extends-asarams-temporary-bail-in-rape-case-till-june-15?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 13:11
+  > The order came a day after the Rajasthan High Court also extended the religious leader’s interim bail till May 25.
+- [Philippines rises to 114th in World Press Freedom Index | The wRap](https://www.rappler.com/video/daily-wrap/may-1-2026/) — *Rappler* — 2026-05-01 13:10
+  > Today’s headlines: Press Freedom Index, Donald Trump, BINI
+- [Com fim da escala 6×1, mulher tem mais acesso a trabalho, diz ministra](https://www.brasildefato.com.br/2026/05/01/com-fim-da-escala-6x1-mulher-tem-mais-acesso-a-trabalho-diz-ministra/) — *Brasil de Fato* — 2026-05-01 12:53
+  > Ministra Márcia Lopes defende que a mudança é uma 'exigência do nosso tempo' Fonte
+- [‘Giri’ games](https://frontline.thehindu.com/newsletter/poll-vault-anand-mishra/gandhigiri-kejriwal-akhilesh-indian-politics/article70924136.ece) — *Frontline* — 2026-05-01 12:39
+- [CNN under fire for platforming Scott Jennings after pundit’s profane on-air tirade](https://www.alternet.org/scott-jennings-cnn-iran/) — *AlterNet* — 2026-05-01 12:37
+  > Although President Donald Trump repeatedly attacks CNN as "fake news," there is one CNN employee he holds in very high regard: GOP insider Scott Jennings, whose relentlessly pro-MAGA, pro-Trump talking points frustrate not only liberals and
+- [Israel mantém presos brasileiro e palestino integrantes da flotilha de ajuda humanitária a Gaza](https://www.brasildefato.com.br/2026/05/01/israel-mantem-presos-brasileiro-e-palestino-integrantes-da-flotilha-de-ajuda-humanitaria-a-gaza/) — *Brasil de Fato* — 2026-05-01 12:35
+  > Demais ativistas do grupo foram levados para a Grécia após serem interceptados por militares israelenses Fonte
+- [Why Hindutva loves to hate Romila Thapar](https://scroll.in/video/1092530/why-hindutva-loves-to-hate-romila-thapar?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 12:30
+  > Why is their so much history in today’s politics? Romila Thapar and Namit Arora explain on Scroll Adda.
+- [Pakistan’s Hangor subs tighten China link, test India at sea](https://asiatimes.com/2026/05/pakistans-hangor-subs-tighten-china-link-test-india-at-sea/) — *Asia Times* — 2026-05-01 12:13
+  > Pakistan is betting on Hangor-class submarines to sharpen its undersea edge as its deterrent increasingly rests on deepening military integration with China rather than any single platform. Last month, multiple media sources announced the c
+- [Above normal heatwave days likely in parts of India in May: IMD](https://scroll.in/latest/1092526/above-normal-heatwave-days-likely-in-parts-of-india-in-may-imd?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 12:13
+  > This came as the country continues to experience higher-than-average temperatures that are pushing energy demand to ​a record high.
+- [How Trump tricked voters with a corrupted promise of 'vitality': historian](https://www.alternet.org/trump-2676839117/) — *AlterNet* — 2026-05-01 12:12
+  > There has been near-endless debate over the last decade about why President Donald Trump has been able to persuade voters and what he offers them. In a recent interview with the New York Times , historian and author Jackson Lears put forwar
+- [Somos a maioria nas cidades, mas a política urbana ainda não nos prioriza](https://www.brasildefato.com.br/colunista/observatorio-da-metropoles-pr/2026/04/30/somos-a-maioria-nas-cidades-mas-a-politica-urbana-ainda-nao-nos-prioriza/) — *Brasil de Fato* — 2026-05-01 12:00
+  > Por Constança Lacerda Camargo, Elisa da Costa Siqueira, Gabriela Costanaro Gonçalves, Gabriella Melyssa Rufo Freitas e Kamila Anne Carvalho da Silva As cidades brasileiras têm sido construídas a partir das necessidades e desejos dos grupos 
+- [Experimental fiction: A river hatches a conspiracy with a tree to transform human civilisation](https://scroll.in/article/1089188/experimental-fiction-a-river-hatches-a-conspiracy-with-a-tree-to-transform-human-civilisation?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 12:00
+  > An excerpt from ‘Amochu’, by Krishnopriyo Bhattacharya, translated from the Bengali by Arunava Sinha.
+- [Petro convoca população a apoiar constituinte que favoreça direitos sociais e combata a corrupção](https://www.brasildefato.com.br/2026/05/01/petro-convoca-populacao-a-apoiar-constituinte-que-favoreca-direitos-sociais-e-combata-a-corrupcao/) — *Brasil de Fato* — 2026-05-01 11:51
+  > Presidente colombiano destacou que sistema atual impede avanços em prol dos trabalhadores Fonte
+- [Brian Kemp blows up GOP’s hope for new Georgia midterm map](https://www.alternet.org/brian-kemp-supreme-court/) — *AlterNet* — 2026-05-01 11:49
+  > Georgia was once reliably Republican, with the GOP enjoying a clear advantage in statewide races. But these days, Georgia is an unpredictable swing state known for nail-biting elections. The Peach State has a conservative Republican two-ter
+- [Military analyst reveals how Trump exposed 'decline' of US naval supremacy](https://www.alternet.org/trump-navy-2676839034/) — *AlterNet* — 2026-05-01 11:38
+  > The U.S. Navy was instrumental in helping build the modern, according to one military analyst, but now, President Donald Trump's disastrous war in Iran has exposed its "gradual decline." Robert D. Kaplan is an analyst and writer focused on 
 - [Don’t Give MAGA Defectors Credit They Haven’t Earned](https://www.thenation.com/article/politics/trump-maga-defectors-tucker-carlson/) — *The OC Portal* — 2026-05-01 11:24
 - [As Trump’s Poll Numbers Fall, His Authoritarian Instincts Grow More Extreme](https://www.thenation.com/article/politics/trump-authoritarianism-polls/) — *The OC Portal* — 2026-05-01 11:24
 - [Why Barbara Kopple’s Labor Films Remain as Urgent as Ever](https://www.thenation.com/article/culture/barbara-kopple-labor-films-harlan-county-usa/) — *The OC Portal* — 2026-05-01 11:24
@@ -44,6 +101,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > The upbeat outlook and a fresh $100-billion share buyback offers reassurance to investors weighing Apple’s leadership transition amid intensifying competition in artificial intelligence
 - [SM Prime to bring premier mall experience to Nuvali by October 2026](https://www.rappler.com/business/sm-nuvali-opens-october-2026/) — *Rappler* — 2026-05-01 10:05
   > The opening of SM Nuvali in October comes as Laguna became the first Philippine province to generate P1 trillion in economic value
+- [Dictatorship of the employer?](https://frontline.thehindu.com/economy/labour-codes-workers-rights-corporate-power/article70403151.ece) — *Frontline* — 2026-05-01 10:00
+  > The new labour codes grant employers greater freedom while curtailing the most basic rights of workers, especially the most marginalised.
 - [Video: Do we need hate speech law?](https://scroll.in/video/1092517/video-do-we-need-hate-speech-law?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 10:00
   > Writer Harsh Mander discusses the question with lawyer Shahrukh Alam and researcher Nizamuddin Ahmed.
 - [Another Assassination Attempt, More Fertilizer for Conspiracy Theories](https://theintercept.com/2026/05/01/white-house-correspondents-dinner-conspiracy-theories/) — *The Intercept* — 2026-05-01 10:00
@@ -56,6 +115,14 @@ For the clustered bilingual view, see [index.md](index.md).
   > The post merely revives an old false claim about alleged destabilization attempts against the Marcos administration
 - [Maureen Santuyo: Artist and peasant organizer through and through](https://www.rappler.com/people/obituary/maureen-santuyo-upou-student-toboso-killing-victim-profile/) — *Rappler* — 2026-05-01 09:51
   > Friends and peers of Maureen Santuyo remember her as a caring, sensitive, and creative person who fought for peasants’ rights until the end
+- [The state is withdrawing from protecting unorganised workers](https://frontline.thehindu.com/economy/labour-codes-worker-rights-india-unorganised-sector-reforms/article70410728.ece) — *Frontline* — 2026-05-01 09:50
+  > The informal worker is still producing most of India’s wealth, yet the new rules replace their real rights with thin schemes and longer, riskier work.
+- [Pushing workers to the edge](https://frontline.thehindu.com/economy/labour-codes-worker-rights-protections/article70383307.ece) — *Frontline* — 2026-05-01 09:50
+  > Despite the grand sales pitch, trade unions say the new labour codes weaken job security and lock workers into unstable employment.
+- [Is this the end of worker power?](https://frontline.thehindu.com/economy/india-new-labour-codes-workers-rights-modi-government/article70398559.ece) — *Frontline* — 2026-05-01 09:50
+  > The codes will erase a century’s worth of hard-won labour rights as the state cedes its responsibility for workers to industrialists and bureaucrats.
+- [The gig workers’ rebellion](https://frontline.thehindu.com/the-nation/gig-workers-strike-india/article70524966.ece) — *Frontline* — 2026-05-01 09:40
+  > A flash strike over Christmas and New Year forced the government to act on the exploitative ten-minute delivery model. But the larger battle has just begun.
 - [Hustle Hassle: Happy Labor Day](https://www.rappler.com/hustle/hassle-happy-labor-day-2026/) — *Rappler* — 2026-05-01 09:35
   > Bawat kayod, para sa pamilya. Saludo sa lahat ng manggagawang lumalaban nang marangal araw-araw.
 - [[Ask the Tax Whiz] Should we cut taxes – or fix the system – to truly empower the middle class?](https://www.rappler.com/business/ask-the-tax-whiz-cut-or-fix-system-empower-middle-class/) — *Rappler* — 2026-05-01 09:30
@@ -156,6 +223,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Jerome Powell most likely has his last meeting as Fed Chair this week. Kevin Warsh, Trump’s pick, will likely have been approved as chair by the Senate in time for the Fed’s next meeting in June. We don’t know yet whether this will be Powel
 - [The Cowardice of Qualification: When Anti-War Voices Speak the Language of Empire](https://www.counterpunch.org/2026/05/01/the-cowardice-of-qualification-when-anti-war-voices-speak-the-language-of-empire/) — *CounterPunch* — 2026-05-01 05:53
   > A respected human rights activist has spoken repeatedly against the US-Israeli aggression on Iran. She recognizes the illegality of the war and does not shy away from condemning it in clear terms. Yet, almost invariably, she feels compelled
+- [The Mets as The People’s Team](https://www.counterpunch.org/2026/05/01/the-mets-as-the-peoples-team/) — *CounterPunch* — 2026-05-01 05:53
+  > A.M. Gittlitz is an organizer, writer and the author of I Want to Believe: Posadism, UFOs and Apocalypse Communism. His latest work, Metropolitans: New York Baseball, Class Struggle, and the People’s Team (Penguin Random House, 2026), highl
 - [Lessons for Everyone from the Irish Farmer Protests](https://www.counterpunch.org/2026/05/01/lessons-for-everyone-from-the-irish-farmer-protests/) — *CounterPunch* — 2026-05-01 05:53
   > Can anything make farmers turn away from Trump? How rightwing populism has gripped rural areas, especially among farmers, is evidenced by the results from the past few presidential elections. Still, critical challenges are emerging for key 
 - [Is the DNC Giving Kamala Harris a Boost for 2028?](https://www.counterpunch.org/2026/05/01/is-the-dnc-giving-kamala-harris-a-boost-for-2028/) — *CounterPunch* — 2026-05-01 05:52
@@ -172,6 +241,18 @@ For the clustered bilingual view, see [index.md](index.md).
   > Chuck Klosterman’s Football is based on the premise that American professional football is doomed to go the way of horse racing, a once massively popular but now marginal pastime. Klosterman’s aim is to leave [ . . . ] The post On Chuck Klo
 - [Founding Felons: Jefferson Would Be on a Watch List Today—You Might Be Next](https://www.counterpunch.org/2026/05/01/founding-felons-jefferson-would-be-on-a-watch-list-today-you-might-be-next/) — *CounterPunch* — 2026-05-01 05:48
   > Everything this nation once stood for is being turned on its head. We are being asked—no, told—to believe that the greatest threat to America today is not government overreach, endless war, corruption, surveillance, or the steady erosion of
+- [Progressive Economic Populism is a Winning Issue](https://www.counterpunch.org/2026/05/01/progressive-economic-populism-is-a-winning-issue/) — *CounterPunch* — 2026-05-01 05:48
+  > The re-election of Donald Trump reignited a simmering feud between the progressive and centrist wings of the Democratic Party. While centrists have cautioned against alienating “moderate” voters, progressives have urged the party to rally a
+- [Alexandre Dumas and His Revolutionary Novel “The Count of Monte Cristo”](https://www.counterpunch.org/2026/05/01/alexandre-dumas-and-his-revolutionary-novel-the-count-of-monte-cristo/) — *CounterPunch* — 2026-05-01 05:47
+  > The British Marxist historian E. J. Hobsbawm called it The Age of Revolution. It began in 1789, ran until 1848, and witnessed revolutions in industry, politics and culture, especially in the novel and with the Herculean [ . . . ] The post A
+- [King Charles III Visits Washington](https://www.counterpunch.org/2026/05/01/king-charles-iii-visits-washington/) — *CounterPunch* — 2026-05-01 05:46
+  > He can hardly be blamed for being given the brief by his Prime Minister. King Charles III is in the United States on a repair job, playing diplomatic handyman and mender for Sir Keir Starmer and the US-UK alliance so long regarded as specia
+- [Dangerous Workplaces](https://www.counterpunch.org/2026/05/01/dangerous-workplaces/) — *CounterPunch* — 2026-05-01 05:46
+  > Employees producing an economic surplus for employers to sell in the marketplace risk their life and limbs due to the bosses’ disregard of workplace safety standards. A new report from the National Council for Occupational Safety and Health
+- [Radical Palestinian Women in the Struggle for Liberation](https://www.counterpunch.org/2026/05/01/radical-palestinian-women-in-the-struggle-for-liberation/) — *CounterPunch* — 2026-05-01 05:45
+  > Almost three years into an unprecedented slaughter of Palestinians with mostly US- provided weapons wielded by a military that insists on its morality while its conscripts post videos showing the murder of children and the defiling of their
+- [A Remarkable Story](https://www.counterpunch.org/2026/05/01/a-remarkable-story/) — *CounterPunch* — 2026-05-01 05:45
+  > Without a Trace…Pogrom, Sweatshop, Gulag: the Jewish Radical Odyssey of Noah and Miril London, by John D. Holmes. Leiden/Boston: Brill Publishers, 2025. 475pp., $190.00 +++ One of my favorite books from recent years has the fascinating titl
 - [Santa Marta may be a game-changing moment](https://www.rappler.com/world/global-affairs/santa-marta-transitioning-away-from-fossil-fuels-conference-game-changing-moment/) — *Rappler* — 2026-05-01 05:43
   > A critical mass of countries begins mapping a fossil fuel phaseout
 - [Germany’s Morenoite RIO joins Left Party in support of war, attacks on the working class](https://www.wsws.org/en/articles/2026/05/01/vlog-m01.html) — *The OC Portal* — 2026-05-01 05:38
@@ -294,6 +375,10 @@ For the clustered bilingual view, see [index.md](index.md).
   > Camponeses e camponesas de todo o Brasil se preparam para o 4º Encontro Nacional do MPA Fonte
 - [Let’s Compare Hasan Piker’s Comments to Elite Centrists’](https://jacobin.com/2026/04/hasan-piker-democrats-centrists-violence) — *Jacobin* — 2026-04-30 20:45
   > Statements far more reprehensible than anything Hasan Piker has said are regularly written and spoken by prominent liberals in respectable outlets. But because war and Islamophobia are acceptable in elite Democratic circles, they don’t rais
+- [O fim da 6×1 precisa reverberar no altar, diz pesquisadora sobre Missa do Trabalhador em MG](https://www.brasildefato.com.br/podcast/visoespopulares/2026/04/30/o-fim-da-6x1-precisa-reverberar-no-altar-diz-pesquisadora-sobre-missa-do-trabalhador-em-mg/) — *Brasil de Fato* — 2026-04-30 20:38
+  > Esta semana marca o Dia Internacional de Luta dos Trabalhadores, comemorado em 1º de maio. Para discutir sobre o tema, o Visões Populares entrevista Aline Perez, jornalista e mestranda em Teologia Prática pela Pontifícia Universidade Católi
+- [Frente parlamentar articula projetos de equidade racial e educação antirracista no RS](https://www.brasildefato.com.br/2026/04/30/frente-parlamentar-articula-projetos-de-equidade-racial-e-educacao-antirracista-no-rs/) — *Brasil de Fato* — 2026-04-30 20:37
+  > Encontro em Porto Alegre reuniu parlamentares para debater leis contra racismo e valorização ancestral Fonte
 - [More Details Emerge of Trump’s Secret Use of ICE to Spy on Critics](https://truthout.org/articles/more-details-emerge-of-trumps-secret-use-of-ice-to-spy-on-critics/) — *Truthout* — 2026-04-30 20:30
   > Privacy groups are pushing Big Tech to notify users about federal surveillance after anonymous ICE critics were exposed.
 - [Connecticut Senate Approves More Towing Reforms, Expanding on Landmark 2025 Legislation](https://www.propublica.org/article/connecticut-towing-reforms) — *ProPublica* — 2026-04-30 20:30
@@ -838,6 +923,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > The tendering process was manipulated to favour certain bidders, resulting in an alleged loss of Rs 397 crore, a petition before the court alleged.
 - [Asia’s oil shock nightmare has only just begun](https://asiatimes.com/2026/04/asias-oil-shock-nightmare-has-only-just-begun/) — *Asia Times* — 2026-04-29 09:36
   > TOKYO — As the US-Israeli war on Iran drags on indefinitely, Asia is realizing the extent to which 2026 is a major game-changer for a region that had been “the main driver of global growth.” This is the International Monetary Fund’s charact
+- [‘Unfortunate’: Kerala HC questions EC on plea alleging over 21,000 polling staff could not vote](https://scroll.in/latest/1092455/unfortunate-kerala-hc-questions-ec-on-plea-alleging-over-21000-polling-staff-could-not-vote?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 09:28
+  > The Election Commission ought to provide the necessary voting facilities to all eligible citizens, the judge said.
 - [In Ukraine, Contract Saboteurs Fuel Propaganda About a Pro-Moscow Resistance](https://www.occrp.org/en/feature/in-ukraine-contract-saboteurs-fuel-propaganda-about-an-underground-pro-moscow-resistance) — *OCCRP* — 2026-04-29 09:12
   > More than a dozen foreigners have been convicted of sabotage in Ukraine, in what authorities say is part of a campaign orchestrated by Russia to sow divisions and create the illusion of an internal resistance movement.
 - [Takaichi on a mission to remake Japan’s place in Asia](https://asiatimes.com/2026/04/takaichi-on-a-mission-to-remake-japans-place-in-asia/) — *Asia Times* — 2026-04-29 09:03

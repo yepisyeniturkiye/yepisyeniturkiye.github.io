@@ -3,7 +3,7 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T11:38:10.862942+00:00",
+  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "Magnitude 5.2 earthquake in Fallon, United States",
-      "title_tr": "Fallon, Amerika Birleşik Devletleri'nde 5.2 büyüklüğünde deprem",
+      "title_tr": "Fallon, ABD'de 5.2 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1987667",
       "date": "2026-05-01"
     },
@@ -31,8 +31,8 @@
       "date": "2026-04-28"
     },
     {
-      "title_en": "LastQuake Messenger Bot",
-      "title_tr": "LastQuake Messenger Bot",
+      "title_en": "LastQuake Messenger Bot launched",
+      "title_tr": "LastQuake Messenger Bot kullanıma sunuldu",
       "url": "https://m.me/LastQuakeBot",
       "date": ""
     }

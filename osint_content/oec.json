@@ -3,7 +3,7 @@
   "platform_name": "Observatory of Economic Complexity",
   "homepage": "https://oec.world",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-05-01T11:38:10.862942+00:00",
+  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
   "error": "",
   "items": [
     {
@@ -13,12 +13,6 @@
       "date": "2026-04-30"
     },
     {
-      "title_en": "Latest Data Updates: Argentina, Brazil, Chile, China Feb 2026",
-      "title_tr": "En Son Veri Güncellemeleri: Arjantin, Brezilya, Şili, Çin Şubat 2026",
-      "url": "https://oec.world/data-updates",
-      "date": "2026-02"
-    },
-    {
       "title_en": "Tariff Simulator Report",
       "title_tr": "Tarife Simülatörü Raporu",
       "url": "https://oec.world/en/tariff-simulator-report",
@@ -26,15 +20,21 @@
     },
     {
       "title_en": "Country Rankings 2024 Trade",
-      "title_tr": "Ülke Sıralamaları 2024 Ticaret",
+      "title_tr": "2024 Ticaret Ülke Sıralamaları",
       "url": "https://oec.world/en/country-rankings/2024/trade",
-      "date": "2024"
+      "date": ""
     },
     {
       "title_en": "Product Rankings 2024 Trade",
-      "title_tr": "Ürün Sıralamaları 2024 Ticaret",
+      "title_tr": "2024 Ticaret Ürün Sıralamaları",
       "url": "https://oec.world/en/product-rankings/2024/trade",
-      "date": "2024"
+      "date": ""
+    },
+    {
+      "title_en": "Latest Data Updates Feb 2026",
+      "title_tr": "Şubat 2026 En Son Veri Güncellemeleri",
+      "url": "https://oec.world/data-updates",
+      "date": "2026-04-30"
     }
   ]
 }

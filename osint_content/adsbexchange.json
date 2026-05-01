@@ -3,7 +3,7 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-05-01T11:38:10.862942+00:00",
+  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
   "error": "",
   "items": [
     {
@@ -25,8 +25,8 @@
       "date": ""
     },
     {
-      "title_en": "Historical Data - unfiltered, unblocked archive",
-      "title_tr": "Geçmiş Veri - filtresiz, engelsiz arşiv",
+      "title_en": "Historical Data - unfiltered, unblocked archives",
+      "title_tr": "Geçmiş Veri - filtresiz, engelsiz arşivler",
       "url": "https://www.adsbexchange.com/products/historical-data/",
       "date": ""
     },
