@@ -3,7 +3,7 @@
   "platform_name": "USGS Earthquake Hazards",
   "homepage": "https://earthquake.usgs.gov",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T08:38:47.804553+00:00",
+  "fetched_at": "2026-05-01T10:11:02.575520+00:00",
   "error": "",
   "items": [
     {
@@ -19,22 +19,22 @@
       "date": "2026-04-01"
     },
     {
+      "title_en": "M 4.9 - 19 km SE of Silver Springs, Nevada",
+      "title_tr": "M 4.9 - Silver Springs, Nevada'nın 19 km GD'su",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980",
+      "date": "2026-05-01"
+    },
+    {
+      "title_en": "M 4.0 - 1 km WNW of Cooter, Missouri",
+      "title_tr": "M 4.0 - Cooter, Missouri'nin 1 km BKB'su",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60620376",
+      "date": "2026-04-23"
+    },
+    {
       "title_en": "M 5.7 - 20 km ESE of Silver Springs, Nevada",
       "title_tr": "M 5.7 - Silver Springs, Nevada'nın 20 km DGD'su",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068",
       "date": "2026-04-14"
-    },
-    {
-      "title_en": "M 4.8 - 19 km SE of Silver Springs, Nevada",
-      "title_tr": "M 4.8 - Silver Springs, Nevada'nın 19 km GD'su",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916046",
-      "date": "2026-04-22"
-    },
-    {
-      "title_en": "M 4.6 - 1 km SE of Boulder Creek, CA",
-      "title_tr": "M 4.6 - Boulder Creek, Kaliforniya'nın 1 km GD'su",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442",
-      "date": "2026-04-02"
     }
   ]
 }

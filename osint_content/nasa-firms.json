@@ -3,36 +3,36 @@
   "platform_name": "NASA FIRMS",
   "homepage": "https://firms.modaps.eosdis.nasa.gov",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T08:38:47.804553+00:00",
+  "fetched_at": "2026-05-01T10:11:02.575520+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Greece July 19th 2023 Fire Map",
-      "title_tr": "Yunanistan 19 Temmuz 2023 Yangın Haritası",
+      "title_en": "Greece July 19th 2023 fire map",
+      "title_tr": "Yunanistan 19 Temmuz 2023 yangın haritası",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-07-19;l:viirs,country-outline,viirs_crtc;@25.8,37.0,7z",
       "date": "2023-07-19"
     },
     {
-      "title_en": "Biobío Region, Chile Feb 3rd 2023 Fire Map",
-      "title_tr": "Şili Biobío Bölgesi 3 Şubat 2023 Yangın Haritası",
+      "title_en": "Biobío Region, Chile Feb 3rd 2023 fire map",
+      "title_tr": "Şili Biobío Bölgesi 3 Şubat 2023 yangın haritası",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-02-03;l:countries,aqua_srb721;@-73.4,-37.2,9z",
       "date": "2023-02-03"
     },
     {
       "title_en": "Wildfire smoke, Chile Feb 4th 2023",
-      "title_tr": "Şili'de orman yangını dumanı, 4 Şubat 2023",
+      "title_tr": "Şili orman yangını dumanı, 4 Şubat 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-02-03;l:countries,aqua_crc;@-72.6,-36.6,8z",
       "date": "2023-02-04"
     },
     {
       "title_en": "Wildfire, Alberta Province, Canada May 5th 2023",
-      "title_tr": "Kanada Alberta Eyaleti'nde orman yangını, 5 Mayıs 2023",
+      "title_tr": "Kanada Alberta Eyaleti orman yangını, 5 Mayıs 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-05-05;l:noaa20-viirs,countries,noaa20_m11;@-115.5,53.8,8z",
       "date": "2023-05-05"
     },
     {
       "title_en": "Wildfire, Quebec Province, Canada June 8th 2023",
-      "title_tr": "Kanada Quebec Eyaleti'nde orman yangını, 8 Haziran 2023",
+      "title_tr": "Kanada Quebec Eyaleti orman yangını, 8 Haziran 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-06-04..2023-06-08,2023-06-08;l:countries,aqua_srb721;@-75.7,52.8,9z",
       "date": "2023-06-08"
     }

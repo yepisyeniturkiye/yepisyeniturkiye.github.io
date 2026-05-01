@@ -3,7 +3,7 @@
   "platform_name": "Copernicus Data Space",
   "homepage": "https://dataspace.copernicus.eu",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-01T08:38:47.804553+00:00",
+  "fetched_at": "2026-05-01T10:11:02.575520+00:00",
   "error": "",
   "items": [
     {
@@ -14,13 +14,13 @@
     },
     {
       "title_en": "Major upgrade of CDSE networking on 28/04/2026",
-      "title_tr": "CDSE ağ altyapısında büyük yükseltme 28/04/2026",
+      "title_tr": "28/04/2026'da CDSE ağında büyük yükseltme",
       "url": "https://dataspace.copernicus.eu/news/2026-4-20-major-upgrade-cdse-networking-28042026",
       "date": "2026-04-20"
     },
     {
       "title_en": "Sentinel-1D User Data Opening from 17/04/2026",
-      "title_tr": "Sentinel-1D Kullanıcı Verileri Açılışı 17/04/2026'dan itibaren",
+      "title_tr": "17/04/2026'dan itibaren Sentinel-1D Kullanıcı Verilerinin Açılması",
       "url": "https://dataspace.copernicus.eu/news/2026-4-16-sentinel-1d-user-data-opening-17042026",
       "date": "2026-04-16"
     },
@@ -32,7 +32,7 @@
     },
     {
       "title_en": "The beauty of the green transition: solar panels on Hapcheon Lake, South Korea",
-      "title_tr": "Yeşil dönüşümün güzelliği: Hapcheon Gölü'ndeki güneş panelleri, Güney Kore",
+      "title_tr": "Yeşil dönüşümün güzelliği: Güney Kore, Hapcheon Gölü'ndeki güneş panelleri",
       "url": "https://dataspace.copernicus.eu/gallery/2026-3-27-beauty-green-transition-solar-panels-hapcheon-lake-south-korea",
       "date": "2026-03-27"
     }

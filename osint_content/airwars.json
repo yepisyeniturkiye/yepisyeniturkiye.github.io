@@ -3,7 +3,7 @@
   "platform_name": "Airwars",
   "homepage": "https://airwars.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-01T08:38:47.804553+00:00",
+  "fetched_at": "2026-05-01T10:11:02.575520+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "The first civilian confirmed killed in an AI-strike?",
-      "title_tr": "Yapay zeka saldırısında öldürülen ilk sivil mi?",
+      "title_tr": "Bir yapay zeka saldırısında öldürülen ilk sivil mi?",
       "url": "https://airwars.org/the-first-civilian-confirmed-killed-in-an-ai-assisted-strike/",
       "date": "2026-03-10"
     },
@@ -25,16 +25,16 @@
       "date": "2026-03-26"
     },
     {
+      "title_en": "The munitions of the Iran war",
+      "title_tr": "İran savaşının mühimmatları",
+      "url": "https://osmp.ngo/collection/the-iran-war-2026/",
+      "date": "2026-03-04"
+    },
+    {
       "title_en": "Airwars publishes final of 5,000 civilian harm incidents from Russian actions in Syria",
       "title_tr": "Airwars, Rusya'nın Suriye'deki eylemlerinden 5.000 sivil zarar olayını yayınladı",
       "url": "https://airwars.org/airwars-publishes-final-of-5000-civilian-harm-incidents-from-russian-actions-in-syria/",
       "date": "2025-08-20"
-    },
-    {
-      "title_en": "Airwars wins Overseas Press Club of America award",
-      "title_tr": "Airwars, Amerika Denizaşırı Basın Kulübü ödülünü kazandı",
-      "url": "https://airwars.org/airwars-wins-overseas-press-club-of-america-award/",
-      "date": "2025-04-19"
     }
   ]
 }
