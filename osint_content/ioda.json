@@ -3,36 +3,36 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T10:11:02.575520+00:00",
+  "fetched_at": "2026-05-01T11:38:10.862942+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Iran Internet Shutdown: Measurement-Based Perspective",
-      "title_tr": "İran İnternet Kesintisi: Ölçüm Tabanlı Perspektif",
+      "title_en": "Iran Internet Shutdown Measurement Report",
+      "title_tr": "İran İnternet Kapatma Ölçüm Raporu",
       "url": "https://ioda.inetintel.cc.gatech.edu/reports/from...",
       "date": "2026-04-27"
     },
     {
-      "title_en": "Sharif University of Technology (AS12660) Offline After Airstrikes",
-      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) Hava Saldırıları Sonrası Çevrimdışı",
+      "title_en": "Sharif University of Technology Outage After Airstrike",
+      "title_tr": "Hava Saldırısı Sonrası Şerif Teknoloji Üniversitesi Kesintisi",
       "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR...",
       "date": "2026-04-06"
     },
     {
-      "title_en": "Amazon Web Services (AS16509) Damage in Bahrain Visible in IODA",
-      "title_tr": "Bahreyn'de Amazon Web Services (AS16509) Hasarı IODA'da Görünüyor",
+      "title_en": "Amazon Web Services Bahrain Damage Visible in IODA",
+      "title_tr": "Amazon Web Services Bahreyn Hasarı IODA'da Görünüyor",
       "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH...",
       "date": "2026-04-02"
     },
     {
-      "title_en": "Iran Near-Total Internet Shutdown: Longest Documented by IODA",
-      "title_tr": "İran'da Neredeyse Tam İnternet Kesintisi: IODA Tarafından Belgelenen En Uzun",
+      "title_en": "Longest Internet Shutdown in Iran Documented by IODA",
+      "title_tr": "IODA Tarafından Belgelenen En Uzun İran İnternet Kesintisi",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/IR?f...",
       "date": "2026-03-19"
     },
     {
-      "title_en": "Cuba Power Shortage Visible in IODA Internet Connectivity Signals",
-      "title_tr": "Küba Elektrik Kesintisi IODA İnternet Bağlantı Sinyallerinde Görünüyor",
+      "title_en": "Cuba Power Shortage Impact on Internet Connectivity",
+      "title_tr": "Küba Elektrik Kıtlığının İnternet Bağlantısına Etkisi",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/CU?f...",
       "date": "2026-03-17"
     }

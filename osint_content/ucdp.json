@@ -3,7 +3,7 @@
   "platform_name": "Uppsala Conflict Data Program",
   "homepage": "https://ucdp.uu.se",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-01T10:11:02.575520+00:00",
+  "fetched_at": "2026-05-01T11:38:10.862942+00:00",
   "error": "",
   "items": [
     {
@@ -13,26 +13,26 @@
       "date": ""
     },
     {
-      "title_en": "UCDP Fatalities View exploratory dashboard",
-      "title_tr": "UCDP Ölüm Sayıları Görünümü keşif paneli",
+      "title_en": "UCDP Fatalities View: Exploratory Dashboard",
+      "title_tr": "UCDP Ölüm Sayıları Görünümü: Keşif Panosu",
       "url": "https://ucdp.uu.se/exploratory",
       "date": ""
     },
     {
-      "title_en": "UCDP Data Download page",
-      "title_tr": "UCDP Veri İndirme sayfası",
+      "title_en": "UCDP Data Download Page",
+      "title_tr": "UCDP Veri İndirme Sayfası",
       "url": "https://ucdp.uu.se/downloads/",
       "date": ""
     },
     {
-      "title_en": "UCDP 2024 conflict year data",
-      "title_tr": "UCDP 2024 çatışma yılı verileri",
+      "title_en": "UCDP 2024 Conflict Year Data",
+      "title_tr": "UCDP 2024 Çatışma Yılı Verileri",
       "url": "https://ucdp.uu.se/year/2024",
       "date": "2024"
     },
     {
-      "title_en": "UCDP Charts: conflict trends 1975-2024",
-      "title_tr": "UCDP Grafikler: 1975-2024 çatışma eğilimleri",
+      "title_en": "UCDP Charts: Conflict Trends 1975-2024",
+      "title_tr": "UCDP Grafikler: Çatışma Eğilimleri 1975-2024",
       "url": "https://ucdp.uu.se/downloads/charts/",
       "date": ""
     }

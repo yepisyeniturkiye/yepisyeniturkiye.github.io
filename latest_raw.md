@@ -7,15 +7,45 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2347 items**
-*Updated 2026-05-01 10:11 UTC*
+**Last 24 hours — 2394 items**
+*Updated 2026-05-01 11:38 UTC*
 
 ---
 
+- [Don’t Give MAGA Defectors Credit They Haven’t Earned](https://www.thenation.com/article/politics/trump-maga-defectors-tucker-carlson/) — *The OC Portal* — 2026-05-01 11:24
+- [As Trump’s Poll Numbers Fall, His Authoritarian Instincts Grow More Extreme](https://www.thenation.com/article/politics/trump-authoritarianism-polls/) — *The OC Portal* — 2026-05-01 11:24
+- [Why Barbara Kopple’s Labor Films Remain as Urgent as Ever](https://www.thenation.com/article/culture/barbara-kopple-labor-films-harlan-county-usa/) — *The OC Portal* — 2026-05-01 11:24
+- [What Starbucks Taught Me About Union-Busting](https://www.thenation.com/article/activism/union-now-organizing-labor/) — *The OC Portal* — 2026-05-01 11:24
+- [A Compact With America: The Congressional Progressive Caucus Releases Its New Affordability Agenda](https://www.thenation.com/article/politics/progressive-caucus-affordability-agenda-democrats-cost-of-living-plan/) — *The OC Portal* — 2026-05-01 11:24
+- [The Rise of the Vichy Scientists](https://www.thenation.com/article/society/jay-bhattacharya-nasem/) — *The OC Portal* — 2026-05-01 11:24
+- ['The dam is breaking': Trump's closest allies are now turning against him](https://www.alternet.org/trump-losing-supporters/) — *AlterNet* — 2026-05-01 11:11
+  > In an interview with NBC News in January 2026, Donald Trump said : “Maga is me. Maga loves everything I do.” Until recently, this statement was true. But over the past several months, cracks have begun to appear in the loyalty of the US pre
+- [Hindi Ito Marites: What makes a country happy?](https://www.rappler.com/newsbreak/podcasts-videos/hindi-ito-marites-what-makes-country-happy/) — *Rappler* — 2026-05-01 11:08
+  > Finland is officially the world's happiest country for the ninth consecutive year
+- [Ambulantes, autônomos e entregadores: como o fim da escala 6×1 pode impactar a vida de milhões de trabalhadores informais no Brasil](https://www.brasildefato.com.br/2026/05/01/ambulantes-autonomos-e-entregadores-como-o-fim-da-escala-6x1-pode-impactar-a-vida-de-milhoes-de-trabalhadores-informais-no-brasil/) — *Brasil de Fato* — 2026-05-01 11:00
+  > O Brasil chega ao 1º de Maio, 140 anos depois da histórica greve de Chicago, com duas frentes trabalhistas em ritmos opostos: a proposta de redução da jornada formal com o fim da escala 6×1 avança no Congresso, enquanto a regulação do traba
+- [Afoxé Omô Nilê Ogunjá promove Festival Feijão de Ogum com programação gratuita no Recife](https://www.brasildefato.com.br/2026/05/01/afoxe-omo-nile-ogunja-promove-festival-feijao-de-ogum-com-programacao-gratuita-no-recife/) — *Brasil de Fato* — 2026-05-01 11:00
+  > Evento gratuito reúne cortejo pelas ruas, distribuição de feijoada e apresentações musicais Fonte
+- [Trump in a much weaker position than he thinks: NYT analysis](https://www.alternet.org/trump-iran-ai/) — *AlterNet* — 2026-05-01 10:59
+  > Although President Donald Trump often describes himself as a victim of his opponents, he also expresses confidence on a range of issues — from the Iran war to the economy to health care. Trump is quite dismissive of the many polls showing h
+- [Israel Just Committed Piracy Off the Coast of Europe – and Got Away With It](https://novaramedia.com/2026/05/01/israel-just-committed-piracy-off-the-coast-of-europe-and-got-away-with-it/) — *Novara Media* — 2026-05-01 10:56
+  > More than 200 activists on the Global Sumud Flotilla (GSF) lost all contact with the outside world on Wednesday night, when they were attacked by warships, jet skis and speedboats full of heavily-armed Israeli commandos. The flotilla partic
+- [It's hard to avoid the conclusion that Justice Alito is gaslighting us](https://www.alternet.org/supreme-court-gaslighting/) — *AlterNet* — 2026-05-01 10:53
+  > How do I explain what the supermajority of the US Supreme Court did this week to the Voting Rights Act ? I'll put it this way. Six justices decided to pretend that racism no longer exists and that the history of racial discrimination no lon
+- [The people who stopped Trump's 2020 coup are being purged —here's what comes next](https://www.alternet.org/trump-2020-coup/) — *AlterNet* — 2026-05-01 10:33
+  > When President Donald Trump attempted to overturn the 2020 election, the institutional guardrails of American democracy held — but just barely. If faced with the same tests today, those guardrails and the people who held the line would larg
+- [Former Mumford & Sons Guitarist Wants Explosive Mines to Stop Channel Crossings](https://novaramedia.com/2026/05/01/former-mumford-sons-guitarist-wants-explosive-mines-to-stop-channel-crossings/) — *Novara Media* — 2026-05-01 10:30
+  > The former lead guitarist of folk rock band Mumford & Sons said Britain should build a mine-laden “floating wall” to stop migrants crossing the Channel. On April 25, Winston Marshall told Fox News that the best way to stop “military-aged me
+- [Asian currencies wilting in the Iran war’s heat](https://asiatimes.com/2026/05/asian-currencies-wilting-in-the-iran-wars-heat/) — *Asia Times* — 2026-05-01 10:22
+  > TOKYO – India and Indonesia aren’t often at the center of the global financial zeitgeist. But as the rupee and rupiah lead Asian currencies down and down, events in Mumbai and Jakarta speak to the ways the Iran war is imperiling economies e
+- [HC rejects plea seeking FIR against Rahul Gandhi for remarks on capture of institutions by BJP, RSS](https://scroll.in/latest/1092523/hc-rejects-plea-seeking-fir-against-rahul-gandhi-for-remarks-on-capture-of-institutions-by-bjp-rss?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 10:21
+  > A petition seeking a case against the Congress leader was filed by Simran Gupta, an office-bearer of a Hindutva organisation called the Hindu Shakti Dal.
 - [Apple shares rise as iPhone 17 and MacBook Neo drive forecast](https://www.rappler.com/technology/apple-earnings-april-30-2026/) — *Rappler* — 2026-05-01 10:09
   > The upbeat outlook and a fresh $100-billion share buyback offers reassurance to investors weighing Apple’s leadership transition amid intensifying competition in artificial intelligence
 - [SM Prime to bring premier mall experience to Nuvali by October 2026](https://www.rappler.com/business/sm-nuvali-opens-october-2026/) — *Rappler* — 2026-05-01 10:05
   > The opening of SM Nuvali in October comes as Laguna became the first Philippine province to generate P1 trillion in economic value
+- [Video: Do we need hate speech law?](https://scroll.in/video/1092517/video-do-we-need-hate-speech-law?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 10:00
+  > Writer Harsh Mander discusses the question with lawyer Shahrukh Alam and researcher Nizamuddin Ahmed.
 - [Another Assassination Attempt, More Fertilizer for Conspiracy Theories](https://theintercept.com/2026/05/01/white-house-correspondents-dinner-conspiracy-theories/) — *The Intercept* — 2026-05-01 10:00
   > Rep. Jamie Raskin responds to his Dana Bash interview, plus journalist Mike Rothschild on the world of political conspiracies. The post Another Assassination Attempt, More Fertilizer for Conspiracy Theories appeared first on The Intercept .
 - [8 Things You Should Know About Trump’s Effort to “Take Over” the Midterm Elections](https://www.propublica.org/article/trump-midterm-elections-takeover-takeaways) — *ProPublica* — 2026-05-01 10:00
@@ -42,6 +72,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Two months into the Iran war and the Strait of Hormuz is still mostly shut. Vessel traffic is running at a fraction of pre-war levels, with the patchwork of ceasefires, blockades and re-closures since February 28 not restoring confidence on
 - [For Kowloon House workers, the fight is not yet over](https://www.rappler.com/philippines/kowloon-house-workers-fight-jobs-decry-mass-termination/) — *Rappler* — 2026-05-01 09:03
   > For many weeks, Kowloon House workers fought for a liveable wage. Now, they’re fighting to keep their jobs.
+- [FACT CHECK: News graphic claiming Karen Davila is ‘willing to die for the Dutertes’ is fake](https://www.rappler.com/newsbreak/fact-check/karen-davila-duterte-family-fake-news-graphic/) — *Rappler* — 2026-05-01 09:00
+  > There is no credible evidence that the broadcast journalist made the alleged statement, and it is not supported by any verified news source
 - [FBI Redirected Thousands of Workers to Target Immigrants Under Trump's Deportation Push](https://theintercept.com/2026/05/01/fbi-ice-immigration-enforcement/) — *The Intercept* — 2026-05-01 09:00
   > Over 9,000 FBI personnel were assigned to immigration after Trump returned to office — a massive diversion that experts warn could put national security at risk. The post FBI Redirected Thousands of Workers to Target Immigrants Under Trump’
 - [Fim da escala 6×1 revive disputas históricas da classe trabalhadora: ‘A luta pelo tempo é central no capitalismo’](https://www.brasildefato.com.br/2026/05/01/fim-da-escala-6x1-revive-disputas-historicas-da-classe-trabalhadora-a-luta-pelo-tempo-e-central-no-capitalismo/) — *Brasil de Fato* — 2026-05-01 09:00
@@ -124,6 +156,22 @@ For the clustered bilingual view, see [index.md](index.md).
   > Jerome Powell most likely has his last meeting as Fed Chair this week. Kevin Warsh, Trump’s pick, will likely have been approved as chair by the Senate in time for the Fed’s next meeting in June. We don’t know yet whether this will be Powel
 - [The Cowardice of Qualification: When Anti-War Voices Speak the Language of Empire](https://www.counterpunch.org/2026/05/01/the-cowardice-of-qualification-when-anti-war-voices-speak-the-language-of-empire/) — *CounterPunch* — 2026-05-01 05:53
   > A respected human rights activist has spoken repeatedly against the US-Israeli aggression on Iran. She recognizes the illegality of the war and does not shy away from condemning it in clear terms. Yet, almost invariably, she feels compelled
+- [Lessons for Everyone from the Irish Farmer Protests](https://www.counterpunch.org/2026/05/01/lessons-for-everyone-from-the-irish-farmer-protests/) — *CounterPunch* — 2026-05-01 05:53
+  > Can anything make farmers turn away from Trump? How rightwing populism has gripped rural areas, especially among farmers, is evidenced by the results from the past few presidential elections. Still, critical challenges are emerging for key 
+- [Is the DNC Giving Kamala Harris a Boost for 2028?](https://www.counterpunch.org/2026/05/01/is-the-dnc-giving-kamala-harris-a-boost-for-2028/) — *CounterPunch* — 2026-05-01 05:52
+  > More than four months after Democratic National Committee chair Ken Martin announced that he was breaking his promise to release its autopsy report on the 2024 election, the decision remains highly controversial. Arguments swirl around whet
+- [View from the Sixth Floor: On Privilege, Disparity, and Knowing When You Have Enough](https://www.counterpunch.org/2026/05/01/view-from-the-sixth-floor-on-privilege-disparity-and-knowing-when-you-have-enough/) — *CounterPunch* — 2026-05-01 05:51
+  > I’m currently working from the roof of the Austin Public Library, or at least I was working until I got distracted and started writing this instead. And before you picture me sitting cross-legged in gravel between a fire escape and an HVAC 
+- [To Stay in Our (Human) Wheelhouse Must Be Our Priority](https://www.counterpunch.org/2026/05/01/to-stay-in-our-human-wheelhouse-must-be-our-priority/) — *CounterPunch* — 2026-05-01 05:50
+  > “You can’t crush ideas by suppressing them. You can crush them by ignoring them. By refusing to think, refusing to change. And that’s precisely what our society is doing! …The unadmitted, inadmissable government …rules the… society by stifl
+- [When Declaring Independence From Empire, Declare Our Interdependence With Each Other](https://www.counterpunch.org/2026/05/01/when-declaring-independence-from-empire-declare-our-interdependence-with-each-other/) — *CounterPunch* — 2026-05-01 05:49
+  > The Common Root of Our Multiple Crises The world is confronted by a boggling array of crises, testing the limits of human comprehension, let alone hope. In the immediate moment, a crisis of global supply chains caused by the shutdown of the
+- [Stroke Unto Death: Max’s Last Year, A Year Later](https://www.counterpunch.org/2026/05/01/stroke-unto-death-maxs-last-year-a-year-later/) — *CounterPunch* — 2026-05-01 05:49
+  > Now tumbling down the hill of time in an avalanche of emotion is the first anniversary of Max’s death. It’s been a year of immeasurable loss, bottomless grief, sleepless nights, vivid memories, strange and somewhat comforting rituals – ashe
+- [On Chuck Klosterman’s “Football”](https://www.counterpunch.org/2026/05/01/on-chuck-klostermans-football/) — *CounterPunch* — 2026-05-01 05:48
+  > Chuck Klosterman’s Football is based on the premise that American professional football is doomed to go the way of horse racing, a once massively popular but now marginal pastime. Klosterman’s aim is to leave [ . . . ] The post On Chuck Klo
+- [Founding Felons: Jefferson Would Be on a Watch List Today—You Might Be Next](https://www.counterpunch.org/2026/05/01/founding-felons-jefferson-would-be-on-a-watch-list-today-you-might-be-next/) — *CounterPunch* — 2026-05-01 05:48
+  > Everything this nation once stood for is being turned on its head. We are being asked—no, told—to believe that the greatest threat to America today is not government overreach, endless war, corruption, surveillance, or the steady erosion of
 - [Santa Marta may be a game-changing moment](https://www.rappler.com/world/global-affairs/santa-marta-transitioning-away-from-fossil-fuels-conference-game-changing-moment/) — *Rappler* — 2026-05-01 05:43
   > A critical mass of countries begins mapping a fossil fuel phaseout
 - [Germany’s Morenoite RIO joins Left Party in support of war, attacks on the working class](https://www.wsws.org/en/articles/2026/05/01/vlog-m01.html) — *The OC Portal* — 2026-05-01 05:38
@@ -218,20 +266,32 @@ For the clustered bilingual view, see [index.md](index.md).
   > While Western media continued prophesying the fall of the popular, sovereignist government that expelled French troops, the cabinet met on April 29 to push forward with developmental projects. The post “Sovereignty will be consolidated”, re
 - [Dia da Terra, precisamos falar sobre isto](https://www.brasildefato.com.br/colunista/vicente-rauber/2026/04/30/dia-da-terra-precisamos-falar-sobre-isto/) — *Brasil de Fato* — 2026-04-30 21:34
   > Mais do que nunca e de forma urgente precisamos reequilibrar a natureza de nossa Terra. Assim como é fundamental uma melhor distribuição da riqueza, para que imensos contingentes, especialmente da África e regiões da Ásia, tenham possibilid
+- [Morre Daniel Gaio, sociólogo, ambientalista e dirigente sindical da CUT, aos 45 anos](https://www.brasildefato.com.br/2026/04/30/morre-daniel-gaio-sociologo-ambientalista-e-dirigente-sindical-da-cut-aos-45-anos/) — *Brasil de Fato* — 2026-04-30 21:27
+  > Morreu nesta quinta-feira (30), em Brasília, o sociólogo, ambientalista e dirigente sindical Daniel Machado Gaio, aos 45 anos. Ele estava internado na UTI da Oncologia do Hospital Santa Luzia e enfrentava uma recidiva de leucemia, após anos
 - [Trump is shutting down as his world collapses around him](https://www.alternet.org/trump-dementia-age/) — *AlterNet* — 2026-04-30 21:21
   > An analyst says President Donald Trump’s behavior raises alarming questions about whether the 79-year-old man is mentally fit to be president, most recently when he seemed unaware of the Supreme Court’s Wednesday decision gutting the 1965 V
 - [Trump's Supreme Court may have crushed a Blue Wave before it starts](https://www.alternet.org/trump-s-supreme-court-may-have-crushed-a-blue-wave-before-it-starts/) — *AlterNet* — 2026-04-30 21:20
   > President Donald Trump’s Supreme Court gutted the Voting Rights Act on Wednesday — and on Thursday, an expert pointed out that this may help crush the potentially massive Blue Wave of Democratic lawmakers in the 2026 midterm elections. “The
+- [A celebração do Dia dos Povos Indígenas no território Potiguara](https://www.brasildefato.com.br/colunista/memorias-e-poeticas-pluri-versas-antirracistas/2026/04/30/a-celebracao-do-dia-dos-povos-indigenas-no-territorio-potiguara/) — *Brasil de Fato* — 2026-04-30 21:10
+  > Por Juracy Dayse Delfino Soares* Celebrado em 19 de abril, o Dia dos Povos Indígenas é, no território Potiguara, no litoral norte da Paraíba, um momento de encontro, fortalecimento cultural e reafirmação da identidade indígena. A data reúne
 - [Warren Catches Hegseth Contradicting Himself on Alleged Military Stock Trading](https://truthout.org/articles/warren-catches-hegseth-contradicting-himself-on-alleged-military-stock-trading/) — *Truthout* — 2026-04-30 21:10
   > Hegseth’s second day of congressional hearings was also interrupted by a protester who called him a war criminal.
+- [A rejeição de Messias e a chantagem do Congresso](https://www.brasildefato.com.br/colunista/andreia-de-jesus/2026/04/30/a-rejeicao-de-messias-e-a-chantagem-do-congresso/) — *Brasil de Fato* — 2026-04-30 21:05
+  > A rejeição do nome de Jorge Messias na sabatina do Senado não pode ser analisada de forma superficial ou personalista. Messias reunia, de forma inequívoca, todos os requisitos constitucionais exigidos para ocupar uma cadeira no Supremo Trib
 - [The reason Republicans are quitting in droves is obvious: report](https://www.alternet.org/republican-midterms-2676837264/) — *AlterNet* — 2026-04-30 21:02
   > In recent months, the Republican Party has seen a record high number of retirements from the House along with several from the Senate, while a number of GOP candidates have dropped out of races. They’ve offered all manner of justifications 
 - [He’s 'a coward': Legal expert demolishes Alito in damning take-down](https://www.alternet.org/supreme-court-voting-rights-2676837350/) — *AlterNet* — 2026-04-30 20:59
   > Professor of Law Richard Hasen, an elections law expert, is denouncing Supreme Court Justice Samuel Alito as a “coward” who is either lying to himself or the American public, after authoring what has been called the “ earthquake ” decision 
 - [AIPAC backs candidates who fund and promote Gaza genocide](https://electronicintifada.net/blogs/michael-f-brown/aipac-backs-candidates-who-fund-and-promote-gaza-genocide) — *Electronic Intifada* — 2026-04-30 20:59
   > Mainstream media focus attention on Hasan Piker rather than ongoing Israeli military killings targeting Palestinians.
+- [Cinema de MG é destaque de mostra em BH, com ‘Marte Um’ e pré-estreia sobre o Jequitinhonha](https://www.brasildefato.com.br/2026/04/30/cinema-de-mg-e-destaque-de-mostra-em-bh-com-marte-um-e-pre-estreia-sobre-o-jequitinhonha/) — *Brasil de Fato* — 2026-04-30 20:58
+  > Entre o drama familiar de Marte Um, o protagonismo da produtora Filmes de Plástico e a pré-estreia de obras voltadas aos territórios quilombolas do Vale do Jequitinhonha, o Cine Humberto Mauro abre espaço para um amplo panorama do cinema fe
+- [Não há justiça social sem justiça fiscal, diz especialista sobre tributação no Brasil](https://www.brasildefato.com.br/podcast/visoespopulares/2026/04/30/nao-ha-justica-social-sem-justica-fiscal-diz-especialista-sobre-tributacao-no-brasil/) — *Brasil de Fato* — 2026-04-30 20:53
+  > Auditora fiscal aposentada da Secretaria de Estado da Fazenda de Minas Gerais (SEF-MG) e primeira mulher a assumir a presidência da Associação Nacional de Fiscais de Tributos Estaduais (Febrafite), ao Visões Populares, é Maria Aparecida Mel
 - [New Poll Shows Americans Reject Trump’s Plans to Redesign Washington, DC](https://truthout.org/articles/new-poll-shows-americans-reject-trumps-plans-to-redesign-washington-dc/) — *Truthout* — 2026-04-30 20:47
   > The poll also found that a plan to place Trump's name on US currency is deeply unpopular.
+- [Camponeses e camponesas de todo o Brasil se preparam para o 4º Encontro Nacional do MPA](https://www.brasildefato.com.br/2026/04/30/camponeses-e-camponesas-de-todo-o-brasil-se-preparam-para-o-4o-encontro-nacional-do-mpa/) — *Brasil de Fato* — 2026-04-30 20:47
+  > Camponeses e camponesas de todo o Brasil se preparam para o 4º Encontro Nacional do MPA Fonte
 - [Let’s Compare Hasan Piker’s Comments to Elite Centrists’](https://jacobin.com/2026/04/hasan-piker-democrats-centrists-violence) — *Jacobin* — 2026-04-30 20:45
   > Statements far more reprehensible than anything Hasan Piker has said are regularly written and spoken by prominent liberals in respectable outlets. But because war and Islamophobia are acceptable in elite Democratic circles, they don’t rais
 - [More Details Emerge of Trump’s Secret Use of ICE to Spy on Critics](https://truthout.org/articles/more-details-emerge-of-trumps-secret-use-of-ice-to-spy-on-critics/) — *Truthout* — 2026-04-30 20:30
@@ -286,6 +346,14 @@ For the clustered bilingual view, see [index.md](index.md).
   > Bloomberg Law reported on Thursday that the Justice Department is looking at charging former FBI Director James Comey with leaking classified information, following his indictment on charges related to alleged threats against President Dona
 - [India is credible – but does it have the will to lead on Hormuz?](https://asiatimes.com/2026/05/india-is-credible-but-does-it-have-the-will-to-lead-on-hormuz/) — *Asia Times* — 2026-04-30 17:34
   > As the US-Iran conflict enters a volatile new phase, Indian analysts are sharply divided over the direction of New Delhi’s foreign policy. Much is on the line: economic vulnerability at home and reputational risk abroad, particularly across
+- ['God hates you': MAGA infighting soars to a 'vicious' new level](https://www.alternet.org/loomer-owens-maga/) — *AlterNet* — 2026-04-30 17:25
+  > Although she commands a substantial following that continues to grow, far-right podcaster Candace Owens is a highly divisive figure in U.S. politics — even among fellow MAGA Republicans. Owens is claiming, without evidence, that Turning Poi
+- [Trump defense chief immediately fact-checked on novel way to dance around War Powers act](https://www.alternet.org/the-right-wing/trump-iran-war-2676836163/) — *AlterNet* — 2026-04-30 17:23
+  > Secretary of Defense Pete Hegseth made a unique claim during his U.S. Senate hearing on Thursday that at least one Democrat said isn't in the law. Speaking about the Iran War, Hegseth told Sen. Tim Kaine (D-Va.) that when there is a ceasefi
+- [Trump did 'the worst thing a president could do' — and voters won’t be quick to forgive](https://www.alternet.org/trump-economy-2676836097/) — *AlterNet* — 2026-04-30 17:13
+  > Donald Trump did "the worst thing a president could do," given the grim economic forecast , according to a new breakdown from MS NOW , and voters are increasingly signaling how much they are done giving the benefit of the doubt. On Thursday
+- [GOP senator’s hot mic moment blows massive hole in key Trump claim](https://www.alternet.org/trump-judicial-nominee/) — *AlterNet* — 2026-04-30 17:09
+  > The notorious “hot mic” often provides the public with the opportunity to hear what those in government really think, and to that end, Senator Chuck Grassley (R-IA) has let something slip , opening an issue that has persisted since the 2020
 - [Civil Society Groups Urge EU to Tighten Kyrgyzstan Sanctions Following Export Ban](https://www.occrp.org/en/news/civil-society-groups-urge-eu-to-tighten-kyrgyzstan-sanctions-following-export-ban) — *OCCRP* — 2026-04-30 16:41
   > Following the EU's latest round of sanctions against Kyrgyzstan, international watchdogs are urging the bloc to broaden its restrictions to include all high-priority items that lack a proven domestic market in the Central Asian nation, alle
 - [Russia’s May 9 victory parade could be occasion for Ukraine truce](https://asiatimes.com/2026/05/russias-may-9-victory-parade-could-be-occasion-for-ukraine-truce/) — *Asia Times* — 2026-04-30 16:40
@@ -300,6 +368,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Rep. Ilhan Omar warned that “this bill has no meaningful reforms" to prevent abuses.
 - [Fox News’ chief political analyst just issued stunning wake-up call to Trump’s GOP](https://www.alternet.org/republican-midterms-2676835422/) — *AlterNet* — 2026-04-30 16:01
   > Fox News' chief political analyst Brit Hume had a shocking wake up call for Republicans on Thursday. There have been a few big boosts for the GOP over the past few days: The Supreme Court effectively eliminated a key aspect of the Voting Ri
+- [‘The Devil Wears Prada 2’ review: Cutting lines and blunt feints at the fashion industry](https://scroll.in/reel/1092446/the-devil-wears-prada-2-review-cutting-lines-and-blunt-feints-at-the-fashion-industry?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 16:00
+  > Anne Hathaway, Meryl Streep, Stanley Tucci and Emily Blunt return for David Frankel’s sequel.
 - [Friends of the Earth Applauds House Stripping Harmful Pesticide Language from Farm Bill](https://www.commondreams.org/newswire/friends-of-the-earth-applauds-house-stripping-harmful-pesticide-language-from-farm-bill) — *Common Dreams* — 2026-04-30 15:57
   > This morning, the House voted to strip sections 10205, 10206, and 10207 from the Farm Bill, with 71 Republicans voting to strip the pesticide language and only 6 Democrats voting to keep it. This shows immense bipartisan support for upholdi
 - [Experts debunk Trump’s latest victory lap](https://www.alternet.org/trump-louisiana-redistricting/) — *AlterNet* — 2026-04-30 15:55
@@ -340,6 +410,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Today’s headlines: Glenn Baggao, Inflation, Zaldy Co
 - [Yamuna: Fish, food, and survival](https://frontline.thehindu.com/the-nation/yamuna-pollution-delhi-fish-safety/article70925575.ece) — *Frontline* — 2026-04-30 15:00
   > Delhi’s Yamuna fishermen continue to cast their nets in toxic, sewage-filled waters as fish stocks vanish. Experts warn polluted river fish may carry serious health risks through the food chain.
+- [Thousands of AI‑written books are being sold. An eerie echo of Orwell’s ‘novel‑writing machines’](https://scroll.in/article/1092410/thousands-of-ai-written-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 15:00
+  > The technology disgusts Orwell’s character, Winston Smith, who pointedly decides to purchase a diary and pen to write down his own independent thoughts.
 - [Frustrations soar among key Trump voting blocs — with no end in sight](https://www.alternet.org/trump-farmers-iran-midterms/) — *AlterNet* — 2026-04-30 14:58
   > When Donald Trump enjoyed a narrow victory in the United States' 2024 election, the economy was cited, in many polls, as a key factor. And many voters, frustrated over inflation, were willing to give Trump a second chance as president. But 
 - ['Like a horror movie': US Coast Guard on track to run out of money this week](https://www.alternet.org/coast-guard/) — *AlterNet* — 2026-04-30 14:51
@@ -417,6 +489,12 @@ For the clustered bilingual view, see [index.md](index.md).
   > U.S. authorities allege Sinaloa Governor Ruben Rocha Moya and other state officials collected millions in drug money for protecting cartel, in a significant challenge for the Mexican government.
 - [Russia Demands Apple and Google Remove Independent Investigative News App](https://www.occrp.org/en/news/russia-demands-apple-and-google-remove-independent-investigative-news-app) — *OCCRP* — 2026-04-30 10:49
   > The state media and internet agency accused the outlet IStories of spreading “fakes” and destabilizing the country, marking the latest move in a sweeping crackdown on press freedom.
+- [Watch: Hindi series ‘Lukkhe’ explores rap, drugs and crime](https://scroll.in/reel/1092502/watch-hindi-series-lukkhe-explores-rap-drugs-and-crime?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 10:26
+  > Himank Gaur’s show stars Raashii Khanna, King, Lakshvir Singh Saran and Palak Tiwari. Out on May 8 on Prime Video.
+- [Bihar removes Sanjay Gandhi’s name from Patna zoo, dairy institute](https://scroll.in/latest/1092499/bihar-removes-sanjay-gandhis-name-from-patna-zoo-dairy-technology-institute?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 10:18
+  > The zoological park, which bore the name of the late Congress leader, was renamed Patna Zoo by the BJP-led state government.
+- [‘Exam’ trailer: Tamil series looks at an entrance test scam](https://scroll.in/reel/1092501/exam-trailer-tamil-series-looks-at-an-entrance-test-scam?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-30 10:16
+  > A Sarkunam’s series stars Dushara Vijayan, Aditi Balan and Abbas. Out on May 15 on Prime Video.
 - [287 nominated for 2026 Nobel Peace Prize, Trump likely among them](https://www.rappler.com/world/global-affairs/candidates-2026-nobel-prize/) — *Rappler* — 2026-04-30 10:10
   > Of this year's nominations, 208 are individuals and 79 are organizations
 - [Israel Smashes Boats, Strands and Kidnaps Flotilla Activists Near Greece](https://novaramedia.com/2026/04/30/israel-smashes-boats-strands-and-kidnaps-flotilla-activists-near-greece/) — *Novara Media* — 2026-04-30 10:08
@@ -756,6 +834,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > In such situations, officials should treat elected representatives like ordinary citizens without any special protocols, a government circular said on Tuesday.
 - [UAE’s OPEC exit signals new global oil order](https://asiatimes.com/2026/04/uaes-opec-exit-signals-new-global-oil-order/) — *Asia Times* — 2026-04-29 10:03
   > The reported decision by the United Arab Emirates to leave OPEC and OPEC+ is more than a dispute over oil production. It is a sign that the old architecture of oil power is being reshaped by national strategy, Gulf competition and Asian ene
+- [Madras HC orders CBI probe into alleged transformer tender scam during DMK’s V Senthil Balaji tenure](https://scroll.in/latest/1092467/madras-hc-orders-cbi-probe-into-alleged-transformer-tender-scam-during-dmks-v-senthil-balaji-tenure?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-29 09:49
+  > The tendering process was manipulated to favour certain bidders, resulting in an alleged loss of Rs 397 crore, a petition before the court alleged.
 - [Asia’s oil shock nightmare has only just begun](https://asiatimes.com/2026/04/asias-oil-shock-nightmare-has-only-just-begun/) — *Asia Times* — 2026-04-29 09:36
   > TOKYO — As the US-Israeli war on Iran drags on indefinitely, Asia is realizing the extent to which 2026 is a major game-changer for a region that had been “the main driver of global growth.” This is the International Monetary Fund’s charact
 - [In Ukraine, Contract Saboteurs Fuel Propaganda About a Pro-Moscow Resistance](https://www.occrp.org/en/feature/in-ukraine-contract-saboteurs-fuel-propaganda-about-an-underground-pro-moscow-resistance) — *OCCRP* — 2026-04-29 09:12
@@ -1248,6 +1328,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Already marginalized, Iran’s religious minority communities are overlooked victims of the US-Israeli war on Iran.
 - [Trump uses assassination try to justify expanding spying powers](https://asiatimes.com/2026/04/trump-uses-assassination-try-to-justify-expanding-spying-powers/) — *Asia Times* — 2026-04-27 18:26
   > An exchange of gunfire between an armed suspect and law enforcement outside the White House Correspondents’ Dinner on Saturday came days ahead of a deadline for extending far-reaching government surveillance powers, and President Donald Tru
+- [The Ramones Spoke for Capitalism’s Leftovers](https://jacobin.com/2026/04/ramones-50th-anniversary-political-punk) — *Jacobin* — 2026-04-27 18:18
+  > The Ramones’ legendary self-titled debut celebrates its 50th anniversary this month. More than the blueprint for later political punk, the record spoke for those the system had already forgotten.
 - [Trump uses Correspondents’ Dinner shooting to justify expanding spying powers as deadline nears](https://therealnews.com/trump-uses-correspondents-dinner-shooting-to-justify-expanding-spying-powers-as-deadline-nears) — *The Real News Network* — 2026-04-27 17:53
   > Section 702 of the Foreign Intelligence Surveillance Act is set to expire Thursday, and the president is claiming Saturday’s shooting proved “the safety of our nation” depends on the program.
 - [Despite Ongoing Attacks, Here Are Some Key Wins for the Abortion Rights Movement](https://truthout.org/articles/despite-ongoing-attacks-here-are-some-key-wins-for-the-abortion-rights-movement/) — *Truthout* — 2026-04-27 17:48
@@ -1260,6 +1342,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Is the general strike making a comeback? This May 1 – International Workers' Day – millions across the U.S. are preparing for a massive “no work, no school, no shopping” national shutdown. Husayn Karimi, editor of “Labor on the Line,” joins
 - [New Mexico becomes the latest state to end cooperation with ICE under new law](https://therealnews.com/new-mexico-becomes-the-latest-state-to-end-cooperation-with-ice-under-new-law) — *The Real News Network* — 2026-04-27 17:34
   > Activists say ending local and state cooperation with ICE is a key way to obstruct Trump’s mass deportation machine.
+- [Zohran Mamdani and the Contradiction of Democratic Socialism](https://jacobin.com/2026/04/mamdani-dsa-democratic-socialism-capitalism) — *Jacobin* — 2026-04-27 17:30
+  > What happens when a DSA politician takes charge of the largest city in the United States? Zohran Mamdani’s early record is filled with successes, but also evidence of the contradictions between socialist politics and governing the capitalis
 - [Iran continues to push for diplomatic solution after second Islamabad talks fail to materialize](https://peoplesdispatch.org/2026/04/27/iran-continues-to-push-for-diplomatic-solution-after-second-islamabad-talks-fail-to-materialize/) — *People's Dispatch* — 2026-04-27 17:20
   > However it also maintains its position that no talks would be held with the US until it lifts its illegal naval blockade, imposed since April 13. The post Iran continues to push for diplomatic solution after second Islamabad talks fail to m
 - [‘These are murders’: Trump killing spree hits at least 185](https://therealnews.com/trump-killing-spree-hits-185) — *The Real News Network* — 2026-04-27 17:17
@@ -1270,6 +1354,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > “America at 250” celebrations rely on a national mythology about the American Revolution that only really includes Patriot and Loyalist elites. Through the eyes of enslaved people, the story of the birth of the US looks very different.
 - [8 in 10 Posts by Trump Calling Someone “Low IQ” Target a Person of Color](https://truthout.org/articles/8-in-10-posts-by-trump-calling-someone-low-iq-feature-a-person-of-color/) — *Truthout* — 2026-04-27 16:40
   > One communications expert described the term as “a racist dog whistle with a long history in the US.”
+- [There’s a New Dark Money–Backed Democratic Machine](https://jacobin.com/2026/04/democratic-campaigns-finance-dark-money) — *Jacobin* — 2026-04-27 16:24
+  > A new influence network of PACs, rich donors, and consultants is taking advantage of increasingly threadbare campaign finance law to pour millions into Democratic campaigns, aiming to elect leaders committed to returning the party to the “m
 - [‘The night guards’: Inside the grassroots network fighting back against Israeli settler attacks](https://mondoweiss.net/2026/04/the-night-guards-inside-the-grassroots-network-fighting-back-against-israeli-settler-attacks/) — *Mondoweiss* — 2026-04-27 16:15
   > Meet the grassroots network of Palestinian volunteers who spend their nights defending their West Bank villages from escalating Israeli settler violence.
 - [Africa’s Mobility Giant YANGO Visits Hangzhou, Partners FUTURE CAR to Set Benchmark for NEV Mobility in Africa](https://panafricantv.com/africas-mobility-giant-yango-visits-hangzhou-partners-future-car-to-set-benchmark-for-nev-mobility-in-africa-2/) — *Pan African TV* — 2026-04-27 16:00
@@ -1292,6 +1378,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > There is compelling evidence that the Israeli military killed Lebanese reporter Amal Khalil. Why is the U.S. media ignoring the story?
 - [Israeli authorities pursue another extension to Dr. Hussam Abu Safiya’s imprisonment](https://peoplesdispatch.org/2026/04/27/israeli-authorities-pursue-another-extension-to-dr-hussam-abu-safiyas-imprisonment/) — *People's Dispatch* — 2026-04-27 14:15
   > Israeli authorities are reportedly pursuing another extension of the imprisonment of Palestinian pediatrician Dr. Hussam Abu Safiya. The post Israeli authorities pursue another extension to Dr. Hussam Abu Safiya’s imprisonment appeared firs
+- [Class Dealignment Hasn’t Gone Away](https://jacobin.com/2026/04/working-class-voters-dealignment-trump-democrats) — *Jacobin* — 2026-04-27 14:13
+  > Working-class voters may be having second thoughts about MAGA, but they’re still abandoning the Democratic Party. Democrats’ reliance on college-educated suburbanites is arithmetically insufficient and politically unsustainable.
 - [Peter Thiel has private meeting with Argentine President Javier Milei](https://peoplesdispatch.org/2026/04/27/peter-thiel-has-private-meeting-with-argentine-president-javier-milei/) — *People's Dispatch* — 2026-04-27 14:12
   > The meeting took place during a visit in which Thiel decided to buy a house in Buenos Aires. Some media outlets claim that the meeting could be a prelude to a major deal between Palantir and the Argentine government. The post Peter Thiel ha
 - [Eleven killed in Gaza in deadliest Israeli attack in weeks](https://peoplesdispatch.org/2026/04/27/eleven-killed-in-gaza-in-deadliest-israeli-attack-in-weeks/) — *People's Dispatch* — 2026-04-27 13:58
