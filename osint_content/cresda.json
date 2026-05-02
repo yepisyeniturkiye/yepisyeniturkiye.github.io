@@ -3,7 +3,7 @@
   "platform_name": "CRESDA (China Centre for Resources Satellite Data)",
   "homepage": "https://www.cresda.com/CN/",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
+  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
   "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cresda.com/CN/\nCall log:\n  - navigating to \"https://www.cresda.com/CN/\", waiting until \"domcontentloaded\"\n",
   "items": []
 }

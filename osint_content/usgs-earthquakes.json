@@ -3,38 +3,38 @@
   "platform_name": "USGS Earthquake Hazards",
   "homepage": "https://earthquake.usgs.gov",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
+  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "M 7.4 - 100 km ENE of Miyako, Japan",
-      "title_tr": "M 7.4 - Miyako, Japonya'nın 100 km DKD'su",
+      "title_en": "M7.4 earthquake 100 km ENE of Miyako, Japan",
+      "title_tr": "Japonya, Miyako'nun 100 km DKD'sunda 7.4 büyüklüğünde deprem",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7",
       "date": "2026-04-20"
     },
     {
-      "title_en": "M 7.4 - 129 km ESE of Bitung, Indonesia",
-      "title_tr": "M 7.4 - Bitung, Endonezya'nın 129 km DGD'su",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slss",
-      "date": "2026-04-01"
+      "title_en": "M5.7 earthquake 20 km ESE of Silver Springs, Nevada",
+      "title_tr": "Nevada, Silver Springs'in 20 km DGD'sunda 5.7 büyüklüğünde deprem",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068",
+      "date": "2026-04-14"
     },
     {
-      "title_en": "M 4.9 - 19 km SE of Silver Springs, Nevada",
-      "title_tr": "M 4.9 - Silver Springs, Nevada'nın 19 km GD'su",
+      "title_en": "M5.2 earthquake 19 km SE of Silver Springs, Nevada",
+      "title_tr": "Nevada, Silver Springs'in 19 km GD'sunda 5.2 büyüklüğünde deprem",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980",
       "date": "2026-05-01"
     },
     {
-      "title_en": "M 4.0 - 1 km WNW of Cooter, Missouri",
-      "title_tr": "M 4.0 - Cooter, Missouri'nin 1 km BKB'su",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60620376",
-      "date": "2026-04-23"
+      "title_en": "M4.8 earthquake 19 km SE of Silver Springs, Nevada",
+      "title_tr": "Nevada, Silver Springs'in 19 km GD'sunda 4.8 büyüklüğünde deprem",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916046",
+      "date": "2026-04-22"
     },
     {
-      "title_en": "M 5.7 - 20 km ESE of Silver Springs, Nevada",
-      "title_tr": "M 5.7 - Silver Springs, Nevada'nın 20 km DGD'su",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068",
-      "date": "2026-04-14"
+      "title_en": "M4.6 earthquake 1 km SE of Boulder Creek, CA",
+      "title_tr": "Kaliforniya, Boulder Creek'in 1 km GD'sunda 4.6 büyüklüğünde deprem",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442",
+      "date": "2026-04-02"
     }
   ]
 }

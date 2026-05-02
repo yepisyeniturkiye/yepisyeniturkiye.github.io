@@ -3,13 +3,19 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
+  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
   "error": "",
   "items": [
     {
       "title_en": "EMSC 2025 Activity Report",
       "title_tr": "EMSC 2025 Faaliyet Raporu",
       "url": "https://www.emsc-csem.org/Doc/EMSC_DOCS/EMSC_RT_activities_2025.pdf",
+      "date": "2026-05-02"
+    },
+    {
+      "title_en": "Magnitude 5.8 earthquake in Keelung, Taiwan",
+      "title_tr": "Keelung, Tayvan'da 5.8 büyüklüğünde deprem",
+      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1987759",
       "date": "2026-05-01"
     },
     {
@@ -22,12 +28,6 @@
       "title_en": "Magnitude 4.8 earthquake in Skiáthos, Greece",
       "title_tr": "Skiáthos, Yunanistan'da 4.8 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1986160",
-      "date": "2026-04-28"
-    },
-    {
-      "title_en": "Magnitude 4.7 earthquake in Skiáthos, Greece",
-      "title_tr": "Skiáthos, Yunanistan'da 4.7 büyüklüğünde deprem",
-      "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1986124",
       "date": "2026-04-28"
     },
     {

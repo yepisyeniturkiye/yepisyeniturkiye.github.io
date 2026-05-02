@@ -3,24 +3,24 @@
   "platform_name": "Conflict Intelligence Team",
   "homepage": "https://citeam.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-01T14:39:34.434986+00:00",
+  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "GRU Spetsnaz on Donbass: Investigation of 3 soldiers' deaths",
-      "title_tr": "Donbass'ta GRU Özel Kuvvetleri: 3 askerin ölümü soruşturması",
+      "title_en": "GRU Spetsnaz on Donbas: Investigation of 3 soldiers' deaths",
+      "title_tr": "Donbas'ta GRU Özel Kuvvetleri: 3 askerin ölümü soruşturması",
       "url": "https://citeam.org/16-brigada-gru-may-2015/",
       "date": ""
     },
     {
-      "title_en": "Geolocation of Spetsnaz in Luhansk",
-      "title_tr": "Luhansk'ta Özel Kuvvetlerin konum tespiti",
+      "title_en": "Geolocation of GRU Spetsnaz in Luhansk",
+      "title_tr": "Luhansk'ta GRU Özel Kuvvetleri'nin coğrafi konumu",
       "url": "https://citeam.org/mamai-luhansk/",
       "date": ""
     },
     {
       "title_en": "Debunking fake about 2000 dead Russian soldiers",
-      "title_tr": "2000 ölü Rus askeri iddiasını çürütme",
+      "title_tr": "2000 ölü Rus askeri hakkındaki sahte haberi çürütme",
       "url": "https://citeam.org/debunking-the-fake-2000/",
       "date": ""
     },
@@ -31,8 +31,8 @@
       "date": ""
     },
     {
-      "title_en": "National Guard special forces used to suppress Jan 31 protests",
-      "title_tr": "31 Ocak protestolarını bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
+      "title_en": "National Guard special forces used to suppress Jan 31 protests in Moscow",
+      "title_tr": "31 Ocak Moskova protestolarını bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
       "url": "https://citeam.org/ru-spetsnaz-january-31/",
       "date": "2021-02-01"
     }
