@@ -3,31 +3,25 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
+  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
-      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
-      "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
-      "date": "2025"
+      "title_en": "UN Comtrade Database: Global trade data platform",
+      "title_tr": "UN Comtrade Veritabanı: Küresel ticaret veri platformu",
+      "url": "https://comtradeplus.un.org/",
+      "date": ""
     },
     {
-      "title_en": "Data Availability Dashboard showing processing stages",
-      "title_tr": "İşleme aşamalarını gösteren Veri Kullanılabilirliği Panosu",
+      "title_en": "Data Availability Dashboard: Registered, In processing, In review",
+      "title_tr": "Veri Kullanılabilirliği Panosu: Kayıtlı, İşleniyor, İncelemede",
       "url": "https://comtradeplus.un.org/Visualization/DADashboard",
       "date": ""
     },
     {
-      "title_en": "Recent Releases page for latest trade data",
-      "title_tr": "En son ticaret verileri için Son Yayınlar sayfası",
-      "url": "https://comtradeplus.un.org/RecentReleases",
-      "date": ""
-    },
-    {
-      "title_en": "UN Comtrade Database Intelligence visualization by Francisco Sabido",
-      "title_tr": "Francisco Sabido tarafından UN Comtrade Veritabanı Zekası görselleştirmesi",
-      "url": "https://comtradeplus.un.org/Visualization/Labs",
+      "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
+      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
+      "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
       "date": ""
     }
   ]

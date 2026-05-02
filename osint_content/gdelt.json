@@ -3,7 +3,7 @@
   "platform_name": "GDELT Project",
   "homepage": "https://www.gdeltproject.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
+  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
   "error": "",
   "items": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "title_en": "GDELT Daily Trend Report",
-      "title_tr": "GDELT Günlük Eğilim Raporu",
+      "title_tr": "GDELT Günlük Trend Raporu",
       "url": "https://blog.gdeltproject.org/gdelt-daily-trend-reports/",
       "date": ""
     },

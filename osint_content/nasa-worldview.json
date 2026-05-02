@@ -3,7 +3,38 @@
   "platform_name": "NASA Worldview / EOSDIS",
   "homepage": "https://worldview.earthdata.nasa.gov",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
+  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
   "error": "",
-  "items": []
+  "items": [
+    {
+      "title_en": "Milky Seas",
+      "title_tr": "Sütlü Denizler",
+      "url": "https://worldview.earthdata.nasa.gov/?p=story&id=milky-seas",
+      "date": ""
+    },
+    {
+      "title_en": "Land Surface Disturbance",
+      "title_tr": "Yer Yüzeyi Bozulması",
+      "url": "https://worldview.earthdata.nasa.gov/?p=story&id=land-surface-disturbance",
+      "date": ""
+    },
+    {
+      "title_en": "El Niño Impacts Around the Globe",
+      "title_tr": "El Niño'nun Küresel Etkileri",
+      "url": "https://worldview.earthdata.nasa.gov/?p=story&id=el-nino-impacts-around-the-globe",
+      "date": ""
+    },
+    {
+      "title_en": "Surface Water Extent",
+      "title_tr": "Yüzey Suyu Yayılımı",
+      "url": "https://worldview.earthdata.nasa.gov/?p=story&id=surface-water-extent",
+      "date": ""
+    },
+    {
+      "title_en": "Atmospheric Rivers",
+      "title_tr": "Atmosferik Nehirler",
+      "url": "https://worldview.earthdata.nasa.gov/?p=story&id=atmospheric-rivers",
+      "date": ""
+    }
+  ]
 }

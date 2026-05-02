@@ -3,14 +3,14 @@
   "platform_name": "OpenSky Network",
   "homepage": "https://opensky-network.org",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
+  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "14th OpenSky Symposium in Madrid, Spain on 29-30 October 2026",
-      "title_tr": "14. OpenSky Sempozyumu, Madrid, İspanya'da 29-30 Ekim 2026",
+      "title_en": "14th OpenSky Symposium Call for Abstracts",
+      "title_tr": "14. OpenSky Sempozyumu Bildiri Çağrısı",
       "url": "https://symposium.opensky-network.org/",
-      "date": "2026-10-29"
+      "date": "2026-04-02"
     }
   ]
 }
