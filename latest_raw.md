@@ -7,12 +7,36 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2606 items**
-*Updated 2026-05-02 08:52 UTC*
+**Last 24 hours — 2636 items**
+*Updated 2026-05-02 10:31 UTC*
 
 ---
 
+- [Trump muscles a red state Senate race with strategic endorsement — and a backroom deal](https://www.alternet.org/trump-kentucky/) — *AlterNet* — 2026-05-02 10:29
+  > The night before the Kentucky Derby, Republican President Donald Trump placed his bets on two Republicans facing crowded primaries — U.S. Rep. Andy Barr for U.S. Senate and Ralph Alvarado for a U.S. House seat in central Kentucky. Trump sai
+- [US embassy warns Americans of ‘areas of heightened concern’ after Toboso killings](https://www.rappler.com/philippines/united-states-embassy-warning-areas-heightened-concern-luzon-visayas/) — *Rappler* — 2026-05-02 10:20
+  > The warning comes after the April 19 killings in Sitio Sinugmawan, Barangay Salamanca, Toboso, where at least 19 were killed during a military operation
+- [America has married a gaslighting, victim-blaming abuser](https://www.alternet.org/alternet-exclusives/gaslighting-trump/) — *AlterNet* — 2026-05-02 10:09
+  > Donald Trump, currently arguing on appeal that the 1st Amendment protected his right to incite the J6 mob , simultaneously claims the 1st Amendment does not protect a comedian’s right to insult him. Two days after a man tried to enter the C
+- [[Dash of SAS] Mary Jane Veloso doesn’t need a miracle. She needs the justice of equality.](https://www.rappler.com/voices/thought-leaders/mary-jane-veloso-justice-equality/) — *Rappler* — 2026-05-02 10:00
+  > Veloso's is not simply a story of survival; it is a story of a life where only something short of miracles can shape desperation. It is also a story that mirrors the lives of many overseas Filipino workers.
+- [The real reason Trump doesn't want Congress to vote on the war](https://www.alternet.org/trump-congress-2676843280/) — *AlterNet* — 2026-05-02 09:57
+  > Yesterday marked 60 days since the start of Trump’s failed war in Iran. The U.S. Constitution (Article I, Section 8) gives Congress the power “To declare War,” and the War Powers Resolution of 1973 — enacted over Nixon’s veto — mandates tha
+- [Never Apologize](https://theintercept.com/2026/05/02/public-apology-comey-mamdani/) — *The Intercept* — 2026-05-02 09:44
+  > James Comey, Zohran Mamdani, and the lost art of doubling down. The post Never Apologize appeared first on The Intercept .
+- [Time to fix India’s wildlife crime blind spot](https://frontline.thehindu.com/environment/conservation/wildlife-crime-data-gap-ncrb-forest-departments/article70911935.ece) — *Frontline* — 2026-05-02 09:30
+  > The data tell a misleading, partial story, with NCRB figures capturing only a fraction of offences while cases handled by forest departments remain largely invisible, obscuring the true scale, nature, and geography of illegal wildlife trade
+- [The Green Report: How active transport makes for liveable cities](https://www.rappler.com/environment/the-green-report-active-transport-makes-liveable-cities/) — *Rappler* — 2026-05-02 09:00
+  > Catch this episode on Saturday, May 2, at 5 pm
+- [Event With Links to Oil Industry Teaches Judges “Healthy Skepticism” of Climate Science](https://www.propublica.org/article/climate-science-oil-gas-fossil-fuel-judges-jim-jordan) — *ProPublica* — 2026-05-02 09:00
+  > The post Event With Links to Oil Industry Teaches Judges “Healthy Skepticism” of Climate Science appeared first on ProPublica .
+- [Após 1º encontro na Colômbia, coalizão de países pelo fim dos combustíveis fósseis espera a adesão de China e África](https://www.brasildefato.com.br/2026/05/02/apos-1o-encontro-na-colombia-coalizao-de-paises-pelo-fim-dos-combustiveis-fosseis-espera-a-adesao-de-china-e-africa/) — *Brasil de Fato* — 2026-05-02 09:00
+  > Os países que participaram da 1ª Conferência sobre a Transição para Longe dos Combustíveis Fósseis, em Santa Marta, na Colômbia, que terminou na quarta-feira (29), pretendem ampliar o número de nações do bloco, entre eles, China e o Grupo A
 - [Populism and Symbolism](https://www.newsclick.in/populism-and-symbolism) — *The OC Portal* — 2026-05-02 08:45
+- [Bengal polls: Prohibitory orders imposed in parts of Kolkata for 60 days](https://scroll.in/latest/1092541/bengal-polls-prohibitory-orders-imposed-in-parts-of-kolkata-for-60-days?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-02 08:16
+  > The action was reportedly taken after the police received inputs about possible violent demonstrations.
+- [May Indian nonfiction: Romila Thapar’s memoir and five other books to read this month](https://scroll.in/article/1092322/may-indian-nonfiction-romila-thapars-memoir-and-five-other-books-to-read-this-month?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-02 08:00
+  > A study of India’s economic troubles, a biography of a beloved singer, a graphic narrative of ‘new’ India, and more.
 - [The week in photos: April 25 to May 1, 2026](https://www.rappler.com/world/global-affairs/the-week-in-photos-april-25-may-1-2026/) — *Rappler* — 2026-05-02 08:00
   > A recap of news, sports, lifestyle, entertainment, and human interest images from the Philippines and around the globe
 - [The ‘Riot form’ in Noida and What Comes Next](https://www.newsclick.in/riot-form-noida-and-what-comes-next) — *The OC Portal* — 2026-05-02 07:51
@@ -54,6 +78,7 @@ For the clustered bilingual view, see [index.md](index.md).
 - [Capitalist crisis, war and the international class struggle](https://www.wsws.org/en/articles/2026/05/02/rlam-m02.html) — *The OC Portal* — 2026-05-02 03:51
 - [Democrats pave way for $70 billion infusion to ICE and Border Patrol](https://www.wsws.org/en/articles/2026/05/02/puyu-m02.html) — *The OC Portal* — 2026-05-02 03:51
 - [Homelessness among young people in Germany has almost tripled since 2022](https://www.wsws.org/en/articles/2026/05/02/onko-m02.html) — *The OC Portal* — 2026-05-02 03:51
+- [Stop the war against Iran!](https://www.wsws.org/en/articles/2026/05/02/nrbd-m02.html) — *The OC Portal* — 2026-05-02 03:30
 - [I moved from Mumbai to Delhi. I’m embarrassed by what I used to defend](https://scroll.in/article/1092364/i-moved-from-mumbai-to-delhi-im-embarrassed-by-what-i-used-to-defend?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-02 03:30
   > The country’s financial capital has been failing its residents for a long time but admitting that feels like a betrayal.
 - [Bengal elections: Repolling begins at 15 booths in South 24 Parganas district](https://scroll.in/latest/1092535/bengal-elections-repolling-begins-at-15-booths-in-south-24-parganas-district?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-02 03:16
@@ -62,6 +87,7 @@ For the clustered bilingual view, see [index.md](index.md).
   > Ghosh’s novels and essays are witness and warning, documentation and prophecy, showing us what we did and what it has cost us.
 - [[Newspoint] Our own inconvenient truth](https://www.rappler.com/voices/thought-leaders/newspoint-inconvenient-truth-sara-duterte-impeachment-hearings/) — *Rappler* — 2026-05-02 03:00
   > So, what’s with the box?
+- [PSTU leader Zé Maria sentenced to two years prison in Brazil for criticizing Israel: a grave attack on democratic rights](https://www.wsws.org/en/articles/2026/05/02/vyll-m02.html) — *The OC Portal* — 2026-05-02 02:30
 - [‘Faith and Fury’: Jyoti Yadav’s pandemic reports from UP, Bihar represent crucial field journalism](https://scroll.in/article/1092167/faith-and-fury-jyoti-yadavs-pandemic-reports-from-up-bihar-represent-crucial-field-journalism?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-02 02:00
   > In the ordinary details of people and their lives, Yadav puts many human faces to the countless, unwritten deaths during the pandemic years.
 - [Why a higher global index rank means less freedom for the Philippine press](https://www.rappler.com/philippines/press-freedom-index-2026-why-low-score/) — *Rappler* — 2026-05-02 02:00
@@ -72,6 +98,7 @@ For the clustered bilingual view, see [index.md](index.md).
   > On this episode of Counterpunch Radio, Rebecca Maria Goldschmidt speaks with Dr. Shahd Abusalama, Palestinian academic, writer, and artist, born and raised in Jabalia Refugee Camp, in northern Gaza. Shahd discusses her book, Between Reality
 - [Fury as 'brittle' MAGA pundit remains employed after expletive-laden explosion](https://www.alternet.org/scott-jennings-maga/) — *AlterNet* — 2026-05-02 01:42
   > Former CNN contributor Wajahat Ali called for MAGA commenter Scott Jennings to be fired from cable news after his humiliating Thursday night tantrum at liberal pundit Alan Mockler. Mockler demolished Jennings' arguments defending President 
+- [Disney announces full deployment of facial recognition at Disneyland Resort](https://www.wsws.org/en/articles/2026/05/02/pcgq-m02.html) — *The OC Portal* — 2026-05-02 01:30
 - [Cities across the US rise up for May Day 2026](https://www.youtube.com/shorts/Ffr84-ALZes) — *BreakThrough News* — 2026-05-02 01:00
   > Today, hundreds of thousands of people took to the streets in dozens of cities across the U.S. for International Workers’ Day, which commemorates the struggle waged by workers in Chicago in 1886 for an 8-hour workday. May Day is officially 
 - [[NEIGHBORS] ‘Kumusta ka na?’ — the question we all need to hear](https://www.rappler.com/people/neighbors-how-are-you-mental-well-being/) — *Rappler* — 2026-05-02 01:00
@@ -182,8 +209,12 @@ For the clustered bilingual view, see [index.md](index.md).
   > The war has almost no constituency outside of Donald Trump's biggest fans.
 - [UAW president calls to 'take back' May Day as day of action](https://www.youtube.com/shorts/H8PgWocq3aY) — *BreakThrough News* — 2026-05-01 18:05
   > "We're here today in America where people work their asses off and can't afford to live." @uaw.union president Shawn Fain calls on workers to revive the history of May Day, not just as a day of solidarity — but a day of action.
+- [Grêmio Musical Henrique Dias celebra 72 anos com festa aberta ao público em Olinda](https://www.brasildefato.com.br/2026/05/01/gremio-musical-henrique-dias-celebra-72-anos-com-festa-aberta-ao-publico-em-olinda/) — *Brasil de Fato* — 2026-05-01 18:04
+  > Comemoração marca trajetória de instituição pioneira na formação de músicos para orquestras de frevo em Olinda Fonte
 - [61% of Americans see Trump’s Iran war as ‘mistake’: new poll](https://asiatimes.com/2026/05/61-of-americans-see-trumps-iran-war-as-mistake-new-poll/) — *Asia Times* — 2026-05-01 17:58
   > More than 6 in 10 Americans now say President Donald Trump’s war in Iran was a “mistake,” according to a poll out Friday from the Washington Post, ABC News and Ipsos. Within two months, the war – which has inflicted thousands of civilian de
+- [1ª de Maio: PC russo exalta legado soviético em ato comemorativo em Moscou](https://www.brasildefato.com.br/2026/05/01/1a-de-maio-pc-russo-exalta-legado-sovietico-em-ato-comemorativo-em-moscou/) — *Brasil de Fato* — 2026-05-01 17:47
+  > O Partido Comunista da Rússia realizou um evento comemorativo do feriado do 1º de Maio, em Moscou, para celebrar o Dia Internacional da Solidariedade dos Trabalhadores. Membros e simpatizantes do partido se reuniram no centro da capital rus
 - [Met Police Won’t Investigate Ten Brits Accused of War Crimes in Gaza](https://novaramedia.com/2026/05/01/met-police-wont-investigate-ten-brits-accused-of-war-crimes-in-gaza/) — *Novara Media* — 2026-05-01 17:39
   > The Metropolitan police will not be opening an investigation into the ten British nationals accused of war crimes and crimes against humanity while fighting with the Israeli military in Gaza. A landmark 240-page report of evidence was deliv
 - ['Disaster': Correspondent details Trump’s big 'mistake' as even rural Americans turn on him](https://www.alternet.org/trump-polls/) — *AlterNet* — 2026-05-01 17:26
@@ -196,6 +227,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > CCTV footage shows an Israeli settler following a 48-year-old French Christian nun in the Old City of East Jerusalem before pushing her to the ground and kicking her. Another settler can be seen spitting at the entrance of the St. James Cat
 - [Brouhaha over Iran war costs to US taxpayers](https://asiatimes.com/2026/05/brouhaha-over-iran-war-costs-to-us-taxpayers/) — *Asia Times* — 2026-05-01 17:00
   > Outside analysts’ estimates of the total cost to American taxpayers of President Donald Trump’s Iran war have varied widely, but most put the number higher than the US$25 billion offered by the Pentagon. Iran’s foreign minister on Friday jo
+- [Lula aciona órgãos federais para acompanhar e atuar na situação das chuvas em Pernambuco](https://www.brasildefato.com.br/2026/05/01/lula-aciona-orgaos-federais-para-acompanhar-e-atuar-na-situacao-das-chuvas-em-pernambuco/) — *Brasil de Fato* — 2026-05-01 16:52
+  > Presidente usou redes sociais para afirmar ter acionado ministérios e órgãos do Governo Federal para atuarem no estado Fonte
 - [Iran eyeing 'mine-carrying dolphins' to fight US blockade: WSJ](https://www.alternet.org/iran-trump-hormuz/) — *AlterNet* — 2026-05-01 16:37
   > U.S. President Donald Trump is saying that the United States' war with Iran could be ending soon, but many critics of the war are skeptical about that claim and fear that the war could drag on for a long time . Meanwhile, the Strait of Horm
 - [Strait of Hormuz: As conflict drags on, at least 20,000 seafarers stranded in combat zone](https://scroll.in/article/1092506/strait-of-hormuz-as-conflict-drags-on-at-least-20000-seafarers-stranded-in-combat-zone?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 16:30
@@ -206,6 +239,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > “Starbucks became Starbucks because they were not unionized and they could exploit that, they could exploit labor,” Alec Baldwin, Academy-Award-nominated actor and producer of the new documentary “Baristas vs. Billionaires,” tells TRNN.
 - [MAGA deals with brewing crisis 'by denying reality:' top economist](https://www.alternet.org/send/trump-economy/) — *AlterNet* — 2026-05-01 16:10
   > President Donald Trump and the GOP have an affordability crisis on their hands, and they are dealing with it — not by solving it, as a “normal” political party would do — but by “denying reality,” argues Nobel laureate economist Paul Krugma
+- [Irã apresenta nova proposta para o fim da guerra; Israel segue devastando o Líbano](https://www.brasildefato.com.br/2026/05/01/ira-apresenta-nova-proposta-para-o-fim-da-guerra-israel-segue-devastando-o-libano/) — *Brasil de Fato* — 2026-05-01 16:03
+  > Autoridades do país encaminharam proposta ao Paquistão, que tem mediado as negociações entre Irã e EUA Fonte
 - [Why 'freewheeling' MAGA Christians are suddenly embracing Islam](https://www.alternet.org/maga-christians-islam/) — *AlterNet* — 2026-05-01 16:02
   > In recent months, there has been an unexpected trend among far-right, MAGA influencers. These often self-described Christian nationalists, some of whom have spent years railing against Muslims, are suddenly showing a strange level of intere
 - [Nepali students demand government reverse ban of political groups on campus](https://peoplesdispatch.org/2026/05/01/nepali-students-demand-government-reverse-ban-of-political-groups-on-campus/) — *People's Dispatch* — 2026-05-01 16:00
@@ -216,16 +251,28 @@ For the clustered bilingual view, see [index.md](index.md).
   > For his part, Governor Rubén Rocha has categorically denied the charges and claims that this is a politically motivated attack aimed at undermining the legitimacy of the MORENA government. The post Governor of Sinaloa slams US charges as sl
 - [Why Trump’s new ballroom ploy just might work: security experts](https://www.alternet.org/trumps-ballroom-secret-service/) — *AlterNet* — 2026-05-01 15:51
   > On Saturday, April 25, U.S. President Donald Trump survived a third assassination attempt when a gunman invaded the 2026 White House Correspondents Association Dinner at the Washington Hilton. Shots were exchanged, but U.S. Secret Service (
+- ['Critical deadline': Trump running out of time as more Republicans break ranks](https://www.alternet.org/trump-2676839780/) — *AlterNet* — 2026-05-01 15:50
+  > Friday marks "a critical deadline" for President Donald Trump and his war with Iran, as The Hill reports that he is running out of time to resolve the conflict while more and more Republicans break ranks and threaten to back measures to for
 - [Barbara Kopple on Her Labor Documentary Masterpieces](https://jacobin.com/2026/05/kopple-harlan-county-american-dream) — *Jacobin* — 2026-05-01 15:43
   > Barbara Kopple’s films Harlan County USA and American Dream captured labor struggle as it was happening: on picket lines, inside unions, and under pressure. Decades later, both remain some of the finest labor documentaries ever made.
+- [‘Inimigo do povo’: 1º de maio em SP foca em ataques ao Congresso e fim da escala 6×1](https://www.brasildefato.com.br/2026/05/01/inimigo-do-povo-1o-de-maio-em-sp-foca-em-ataques-ao-congresso-e-fim-da-escala-6x1/) — *Brasil de Fato* — 2026-05-01 15:41
+  > Trabalhadores reunidos na praça Roosevelt protestaram pela redução de pena dos golpistas e por jornada justa de trabalho Fonte
+- [Trump’s oil crisis not yet 'apocalyptic' — but causing major 'whiplash' for consumers](https://www.alternet.org/trump-oil-2676840063/) — *AlterNet* — 2026-05-01 15:27
+  > The U.S. is more insulated from President Donald Trump's global oil supply catastrophe than most other nations, according to a new report from Axios , but even though things are not yet "apocalyptic," it still "feels awful" for everyday con
 - [May Day 2026; Israel kills over 30 in Lebanon; Displaced Palestinians burn tents in protest of conditions; Mali rebels call for nationwide uprising](https://www.dropsitenews.com/p/may-day-2026-israel-lebanon-attacks-continue-mali-jnim-uprising) — *DropSite News* — 2026-05-01 15:25
   > Drop Site Daily: May 1, 2026
+- [This MAGA official is caught between Trump and frustrated US allies](https://www.alternet.org/hoekstra-trump-carney/) — *AlterNet* — 2026-05-01 15:16
+  > When the North Atlantic Treaty Organization (NATO) was founded after World War II in 1949, Canada was among the founding members. The United States' military, political and economic alliance with Canada goes way back, but during Donald Trum
 - [Flotilla Activists Beaten and Shot at by IDF, With 34 Hospitalised in Greece](https://novaramedia.com/2026/05/01/flotilla-activists-beaten-and-shot-at-by-idf-with-34-hospitalised-in-greece/) — *Novara Media* — 2026-05-01 15:09
   > Global Sumud Flotilla participants say they were punched, kicked, dragged across the floor with their hands tied, and shot at with real and rubber bullets on board an Israeli warship after they were kidnapped in international waters more th
 - [Israel kills child collecting cardboard in Gaza](https://electronicintifada.net/blogs/nora-barrows-friedman/israel-kills-child-collecting-cardboard-gaza) — *Electronic Intifada* — 2026-05-01 15:04
   > Israeli court extends administrative detention for Dr. Hussam Abu Safiya.
+- [Frustrated Republicans badmouth House speaker as conservative rebellion ramps up](https://www.alternet.org/republicans-congress-2676840230/) — *AlterNet* — 2026-05-01 15:03
+  > Friday brings the end of what Republicans have been calling “ hell week ,” and though they successfully passed several make-or-break pieces of hotly contested legislation, Politico is reporting that the victory “came at a cost": the further
 - [Shipwrecked in a time loop: Solvej Balle’s ‘On the Calculation of Volume’ plays a long game](https://scroll.in/article/1092412/shipwrecked-in-a-time-loop-solvej-balles-on-the-calculation-of-volume-plays-a-long-game?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 15:00
   > Balle employs fantasy to philosophise on the nature of reality and our renderings of it.
+- [Da Muribeca para Nova York, Lu Ferreira inaugura nova exposição individual](https://www.brasildefato.com.br/2026/05/01/da-muribeca-para-nova-york-lu-ferreira-inaugura-nova-exposicao-individual/) — *Brasil de Fato* — 2026-05-01 15:00
+  > A mostra reúne 27 obras e segue em cartaz até o dia 6 de junho na Broadway, Nova York Fonte
 - [System of sexual torture targeting Palestinians exposed in new report](https://electronicintifada.net/content/system-sexual-torture-targeting-palestinians-exposed-new-report/51373) — *Electronic Intifada* — 2026-05-01 14:59
   > Survivors describe rape, genital mutilation and forced humiliation carried out with impunity and shielded by authorities.
 - [‘This is the election bill’: Opposition questions Centre on hike in commercial LPG prices](https://scroll.in/latest/1092532/this-is-the-election-bill-opposition-questions-centre-on-hike-in-commercial-lpg-prices?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 14:55
@@ -236,8 +283,12 @@ For the clustered bilingual view, see [index.md](index.md).
   > Years of war and genocide have devastated our labor market and living standards.
 - [The Unions We Need Will Be Built by Workers, Not Labor Officials](https://truthout.org/articles/the-unions-we-need-will-be-built-by-workers-not-labor-officials/) — *Truthout* — 2026-05-01 14:44
   > Organizer Daniel Gross explains how to make sure that union building actually works and is sustained over time.
+- [Catto: ‘O palco é meu lugar de afirmação’](https://www.brasildefato.com.br/podcast/sabe-som/2026/05/01/catto-o-palco-e-meu-lugar-de-afirmacao/) — *Brasil de Fato* — 2026-05-01 14:43
+  > Catto conta como o processo de transição e a pandemia a colocaram no momento de maturidade artística e musical Fonte
 - [May 1: Day of Work or Workers’ Day?](https://jacobin.com/2026/05/may-day-france-draft-law) — *Jacobin* — 2026-05-01 14:37
   > In France, May Day has long been a day for all workers to stop working. A recent proposal for some businesses to remain open forced unions to defend the idea that French workers keep May Day as a day to themselves.
+- [Republicans have corrupted the court — but there’s a solution: analysis](https://www.alternet.org/supreme-court-2676839925/) — *AlterNet* — 2026-05-01 14:35
+  > In the wake of Wednesday’s Supreme Court decision that many say has gutted the Voting Rights Act and handed the GOP the ability to break up minority voting power, New York Times columnist Jamelle Bouie has a straightforward assessment of th
 - [Bengal: EC orders repoll at 15 booths in South 24 Parganas district](https://scroll.in/latest/1092531/west-bengal-ec-orders-repoll-at-15-booths-in-south-24-parnagas-district?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-01 14:13
   > The polling, held on April 29, was declared void based on reports submitted by returning officers and observers, the Election Commission said.
 - [Whistleblower says DOJ ordered prosecutors to rush SPLC indictment: report](https://www.alternet.org/news-politics/trump-doj-splc/) — *AlterNet* — 2026-05-01 14:11
@@ -1381,10 +1432,14 @@ For the clustered bilingual view, see [index.md](index.md).
   > The Foreign Office has quietly shut down its in-house unit logging Israeli war crimes in Gaza and Lebanon. The Guardian revealed last week that the International Humanitarian Law (IHL) cell, which helped government staff assess the scope of
 - [UAE exits OPEC; Israel extends Dr. Hossam Abu Safiya’s detention indefinitely; Senate to vote on resolution blocking military action against Cuba](https://www.dropsitenews.com/p/uae-opec-iran-humiliating-us-senate-cuba) — *DropSite News* — 2026-04-28 15:09
   > Drop Site Daily: April 27, 2026
+- [Two Indians, their firms face US sanctions for alleged links with Mexico-based drug cartel](https://scroll.in/latest/1092443/two-indians-their-firms-face-us-sanctions-for-alleged-links-with-mexico-based-drug-cartel?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-28 14:54
+  > The two Indians allegedly facilitated the sale and shipment of precursor chemicals used to produce illicit fentanyl.
 - [1ª Feijoada para Ogum do MST em São Paulo](https://mst.org.br/2026/04/28/1a-feijoada-para-ogum-do-mst-em-sao-paulo/) — *Landless Workers' Movement (MST)* — 2026-04-28 14:49
   > O post 1ª Feijoada para Ogum do MST em São Paulo apareceu primeiro em MST .
 - [Iran War Fuels £2.4bn Profits for BP](https://novaramedia.com/2026/04/28/iran-war-fuels-2-4bn-profits-for-bp/) — *Novara Media* — 2026-04-28 14:46
   > BP’s profits more than doubled in the first quarter of 2026 on the back of soaring oil prices triggered by the war on Iran. The British energy giant posted profits of £2.4bn between January and March following “exceptional” oil trading resu
+- [WhatsApp has banned 9,400 accounts linked to ‘digital arrest’ scams, Centre tells SC](https://scroll.in/latest/1092442/whatsapp-has-banned-9400-accounts-linked-to-digital-arrest-scams-centre-tells-sc?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-28 14:45
+  > While around 3,800 accounts had been flagged by the authorities, WhatsApp said its own processes enabled it to map and act against a much larger network.
 - [Despite his public bravado, Trump is desperate for a deal with Iran](https://mondoweiss.net/2026/04/despite-his-public-bravado-trump-is-desperate-for-a-deal-with-iran/) — *Mondoweiss* — 2026-04-28 14:40
   > Trump claims Iran has been weakened, but analyst Sina Toossi says it’s the U.S. that is desperate for a deal. Mondoweiss speaks with Toossi about the gains Iran has made during the war with the U.S. and Israel and what comes next.
 - [Israel blocked the March of Return. Palestinians marked the Nakba anyway](https://www.972mag.com/march-of-return-nakba-2026/) — *+972 Magazine* — 2026-04-28 14:30
@@ -1399,6 +1454,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Parlamentares franceses conheceram a Cooperativa Terra Livre, a Escola Latino-Americana de Agroecologia e a Unidade Básica de Saúde Chica Pelega O post Senadores da França visitam cooperativa 100% agroecológica no assentamento Contestado, n
 - [How a Tax Loophole Robbed Schools and Enriched a Trump Donor](https://jacobin.com/2026/04/yass-tax-credits-pennsylvania-schools) — *Jacobin* — 2026-04-28 13:19
   > For nearly 20 years, the Pennsylvania legislature funneled over $2.5 billion into private schools by letting wealthy donors such as Trump megadonor Jeffrey Yass fund tuition scholarships and receive tax credits covering 90 percent of their 
+- [Rush Hour: 1,468 voters added before Bengal polls, Sisodia won’t appear before Justice Sharma & more](https://scroll.in/latest/1092434/rush-hour-1468-voters-added-before-bengal-polls-sisodia-wont-appear-before-justice-sharma-more?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-04-28 13:19
+  > Become a Scroll member to get Rush Hour – a wrap of the day’s important stories delivered straight to your inbox every evening.
 - [The mad, sad, improbable world of Jiri Menzel](https://frontline.thehindu.com/arts-and-culture/cinema/closely-watched-trains-jiri-menzel/article70915702.ece) — *Frontline* — 2026-04-28 13:09
   > Sixty years on, Closely Watched Trains still shows how humour, sex, and small acts of defiance can outlast war, censorship, and the moral rot that power leaves in its wake.
 - [New books on the shelves](https://frontline.thehindu.com/books/new-books-dalit-stories-west-asian-history-trauma-india/article70887680.ece) — *Frontline* — 2026-04-28 12:50

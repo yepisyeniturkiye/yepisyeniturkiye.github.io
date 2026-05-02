@@ -3,7 +3,7 @@
   "platform_name": "USGS Earthquake Hazards",
   "homepage": "https://earthquake.usgs.gov",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-02T08:52:18.730761+00:00",
+  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "M4.0 - 1 km WNW of Cooter, Missouri",
-      "title_tr": "M4.0 - Cooter, Missouri'nin 1 km BKB'sı",
+      "title_tr": "M4.0 - Cooter, Missouri'nin 1 km KB'sı",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60620376",
       "date": "2026-04-23"
     },

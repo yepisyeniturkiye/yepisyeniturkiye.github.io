@@ -3,7 +3,7 @@
   "platform_name": "ACLED",
   "homepage": "https://acleddata.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-02T08:52:18.730761+00:00",
+  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
   "error": "",
   "items": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "title_en": "Ukraine Conflict Monitor",
-      "title_tr": "Ukrayna Çatışma İzleyicisi",
+      "title_tr": "Ukrayna Çatışma Monitörü",
       "url": "https://acleddata.com/monitor/ukraine-conflict-monitor",
       "date": ""
     },

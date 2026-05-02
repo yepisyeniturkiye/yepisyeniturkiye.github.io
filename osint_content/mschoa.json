@@ -3,7 +3,7 @@
   "platform_name": "MSCHOA (EU NAVFOR)",
   "homepage": "https://www.mschoa.org",
   "category": "osint_monitor_maritime",
-  "fetched_at": "2026-05-02T08:52:18.730761+00:00",
+  "fetched_at": "2026-05-02T10:31:24.363796+00:00",
   "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.mschoa.org/\nCall log:\n  - navigating to \"https://www.mschoa.org/\", waiting until \"domcontentloaded\"\n",
   "items": []
 }
