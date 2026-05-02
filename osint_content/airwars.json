@@ -3,7 +3,7 @@
   "platform_name": "Airwars",
   "homepage": "https://airwars.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
+  "fetched_at": "2026-05-02T08:52:18.730761+00:00",
   "error": "",
   "items": [
     {
@@ -13,8 +13,8 @@
       "date": "2026-03-27"
     },
     {
-      "title_en": "First civilian confirmed killed in an AI-assisted strike?",
-      "title_tr": "Yapay zeka destekli saldırıda öldürülen ilk sivil mi?",
+      "title_en": "First civilian confirmed killed in an AI-strike?",
+      "title_tr": "Bir yapay zeka saldırısında öldürülen ilk sivil mi?",
       "url": "https://airwars.org/the-first-civilian-confirmed-killed-in-an-ai-assisted-strike/",
       "date": "2026-03-10"
     },
@@ -31,8 +31,8 @@
       "date": "2025-08-20"
     },
     {
-      "title_en": "Airwars wins Overseas Press Club of America award for Gaza documentation",
-      "title_tr": "Airwars, Gazze belgelemesiyle Overseas Press Club of America ödülünü kazandı",
+      "title_en": "Airwars wins Overseas Press Club of America award",
+      "title_tr": "Airwars, Amerika Denizaşırı Basın Kulübü ödülünü kazandı",
       "url": "https://airwars.org/airwars-wins-overseas-press-club-of-america-award/",
       "date": "2025-04-19"
     }

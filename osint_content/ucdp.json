@@ -3,7 +3,7 @@
   "platform_name": "Uppsala Conflict Data Program",
   "homepage": "https://ucdp.uu.se",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
+  "fetched_at": "2026-05-02T08:52:18.730761+00:00",
   "error": "",
   "items": [
     {
@@ -15,12 +15,12 @@
     {
       "title_en": "2024 Conflict Charts",
       "title_tr": "2024 Çatışma Grafikleri",
-      "url": "https://ucdp.uu.se/year/2024",
-      "date": "2024"
+      "url": "https://ucdp.uu.se/downloads/charts/",
+      "date": ""
     },
     {
       "title_en": "Countries in Conflict Encyclopedia",
-      "title_tr": "Çatışmadaki Ülkeler Ansiklopedisi",
+      "title_tr": "Çatışma Ansiklopedisi Ülkeleri",
       "url": "https://ucdp.uu.se/#/encyclopedia",
       "date": ""
     },

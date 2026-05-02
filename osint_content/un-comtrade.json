@@ -3,37 +3,31 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-05-02T07:37:02.697761+00:00",
+  "fetched_at": "2026-05-02T08:52:18.730761+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Data Availability Trend: 1934 datasets registered, 162 in processing, 108 in review",
-      "title_tr": "Veri Kullanılabilirlik Trendi: 1934 veri seti kayıtlı, 162 işleniyor, 108 inceleniyor",
-      "url": "https://comtradeplus.un.org/DataAvailability",
-      "date": ""
-    },
-    {
-      "title_en": "Quick Search: Annual Exports of TOTAL from All to World in 2025",
-      "title_tr": "Hızlı Arama: 2025'te Dünyaya Toplam İhracat",
-      "url": "https://comtradeplus.un.org/TradeFlow",
-      "date": "2025"
-    },
-    {
-      "title_en": "Data visualizations of UN Comtrade data",
-      "title_tr": "UN Comtrade verilerinin veri görselleştirmeleri",
+      "title_en": "Data Availability Dashboard",
+      "title_tr": "Veri Kullanılabilirliği Panosu",
       "url": "https://comtradeplus.un.org/Visualization/DADashboard",
       "date": ""
     },
     {
-      "title_en": "Bulk Download of millions of records (Premium subscription required)",
-      "title_tr": "Milyonlarca kaydın toplu indirilmesi (Premium abonelik gerekli)",
-      "url": "https://comtradeplus.un.org/BulkFilesSearch",
+      "title_en": "Recent Releases",
+      "title_tr": "Son Yayınlar",
+      "url": "https://comtradeplus.un.org/RecentReleases",
       "date": ""
     },
     {
-      "title_en": "Recent Releases page for latest trade data",
-      "title_tr": "En son ticaret verileri için Son Yayınlar sayfası",
-      "url": "https://comtradeplus.un.org/RecentReleases",
+      "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
+      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
+      "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
+      "date": ""
+    },
+    {
+      "title_en": "UN Comtrade Database Intelligence",
+      "title_tr": "UN Comtrade Veritabanı Zekası",
+      "url": "https://comtradeplus.un.org/Visualization/Labs",
       "date": ""
     }
   ]
