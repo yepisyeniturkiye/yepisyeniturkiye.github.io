@@ -3,7 +3,7 @@
   "platform_name": "Copernicus Data Space",
   "homepage": "https://dataspace.copernicus.eu",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-03T10:46:08.018164+00:00",
+  "fetched_at": "2026-05-03T12:21:46.520101+00:00",
   "error": "",
   "items": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "title_en": "Sentinel-1D User Data Opening from 17/04/2026",
-      "title_tr": "17/04/2026'dan itibaren Sentinel-1D Kullanıcı Verilerinin Açılması",
+      "title_tr": "Sentinel-1D Kullanıcı Verileri 17/04/2026'dan itibaren açılıyor",
       "url": "https://dataspace.copernicus.eu/index.php/news/2026-4-16-sentinel-1d-user-data-opening-17042026",
       "date": "2026-04-16"
     },

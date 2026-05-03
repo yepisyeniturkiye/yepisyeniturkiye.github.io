@@ -7,13 +7,25 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2780 items**
-*Updated 2026-05-03 10:46 UTC*
+**Last 24 hours — 2792 items**
+*Updated 2026-05-03 12:21 UTC*
 
 ---
 
+- [What we're really fighting for](https://www.alternet.org/alternet-exclusives/trump-destruction-2676845087/) — *AlterNet* — 2026-05-03 12:16
+  > I just opened an online image so beautiful it stopped my thoughts, cut them off midstream so efficiently I forgot where they were going. The image, captured in this glorious video from Renee Volpe , shows a bird constructing its home from y
+- [Flotilla Organisers Subjected to ‘Extreme Brutality’ in Extended Israeli Detention](https://novaramedia.com/2026/05/03/flotilla-organisers-subject-to-extreme-brutality-in-extended-israeli-detention/) — *Novara Media* — 2026-05-03 11:58
+  > Israeli soldiers beat and tortured flotilla organisers Saif Abukeshek and Thiago Ávila after abducting them in international waters near Greece in the early hours of Thursday morning, lawyers and diplomats have said. After illegally interce
+- [Variante esportiva do pole dance passa a ser contemplada pelo Bolsa Atleta de Pernambuco](https://www.brasildefato.com.br/2026/05/03/variante-esportiva-do-pole-dance-passa-a-ser-contemplada-pelo-bolsa-atleta-de-pernambuco/) — *Brasil de Fato* — 2026-05-03 11:52
+  > Jovem esporte vem conquistando reconhecimento para Pernambuco no cenário nacional, contemplado em edital de incentivo Fonte
+- [As cidades pela ótica de Milton Santos](https://www.brasildefato.com.br/colunista/movimento-de-trabalhadoras-e-trabalhadores-por-direitos/2026/05/03/as-cidades-pela-otica-de-milton-santos/) — *Brasil de Fato* — 2026-05-03 11:00
+  > Em 2026, celebramos o centenário de nascimento de um dos maiores intelectuais brasileiros, reconhecido no mundo inteiro: Milton Santos. Nascido em Brotas de Macaúbas, na Bahia, em 03 de maio de 1926, ele foi um dos grandes intérpretes da re
+- [Who is Bea Millan-Windorski, Miss Universe Philippines 2026?](https://www.rappler.com/people/profiles/miss-universe-philippines-2026-winner-bea-millan-windorski/) — *Rappler* — 2026-05-03 11:00
+  > Growing up in a family of immigrants, newly crowned Miss Universe Philippines Bea Millan-Windorski says it’s in this country where she ‘felt a sense of belonging and home’
 - [Bengal is not just another election](https://frontline.thehindu.com/the-nation/west-bengal-election-bjp-danger/article70934712.ece) — *Frontline* — 2026-05-03 10:29
   > Why the battle for West Bengal’s Assembly is really a referendum on what kind of democracy India wants to be.
+- [Boat capsize in MP’s Jabalpur: Toll rises to 13, body of last missing person recovered](https://scroll.in/latest/1092564/boat-capsize-in-mps-jabalpur-toll-rises-to-13-body-of-last-missing-person-recovered?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-03 10:11
+  > The three-day search operation ended after the body of a five-year-old boy and his uncle were recovered on Sunday morning.
 - [ASEAN newsrooms issue joint statement about AI impact on journalism](https://www.rappler.com/about/statement-asean-newsrooms-artificial-intelligence-impact-journalism/) — *Rappler* — 2026-05-03 10:00
   > Read the full statement from more than a dozen Southeast Asian news outlets on how big tech and AI companies are making it difficult for news organizations to survive
 - [Giovanni Cidreira: ‘Eu gosto de colocar meu corpo na fogueira’](https://www.brasildefato.com.br/podcast/sabe-som/2026/05/01/giovanni-cidreira-eu-gosto-de-colocar-meu-corpo-na-fogueira/) — *Brasil de Fato* — 2026-05-03 09:00
@@ -946,8 +958,20 @@ For the clustered bilingual view, see [index.md](index.md).
   > Today, the American Federation of Government Employees (AFGE), the largest federal employee union, celebrated the end of the Department of Homeland Security shutdown, the longest government shutdown in U.S. history. AFGE National President 
 - [Wyden to Force Declassification of Secret Court Opinion on FISA “Serious Abuses”](https://www.commondreams.org/newswire/wyden-to-force-declassification-of-secret-court-opinion-on-fisa-serious-abuses) — *Common Dreams* — 2026-04-30 19:25
   > On Thursday, Sen. Ron Wyden (D-OR) proposed a short-term extension of FISA in exchange for declassifying a major opinion from the top government surveillance court, which revealed continuing violations of the controversial authority. Wyden’
+- [Na véspera do 1º de Maio, projeto busca regulamentar negociação coletiva no serviço público](https://www.brasildefato.com.br/2026/04/30/na-vespera-do-1o-de-maio-projeto-busca-regulamentar-negociacao-coletiva-no-servico-publico/) — *Brasil de Fato* — 2026-04-30 19:17
+  > A regulamentação das relações de trabalho no serviço público brasileiro pode avançar após décadas de reivindicação de servidores e entidades sindicais que pressionam pela efetivação do direito à negociação coletiva, à organização sindical p
+- [Festival de Cinema Estudantil do Brics é símbolo da cooperação cinematográfica, diz diretora da Escola Árabe de Cinema e TV](https://www.brasildefato.com.br/2026/04/30/festival-de-cinema-estudantil-do-brics-e-simbolo-da-cooperacao-cinematografica-diz-diretora-da-escola-arabe-de-cinema-e-tv/) — *Brasil de Fato* — 2026-04-30 19:15
+  > A Academia de Artes do Egito anunciou a realização da primeira edição do Festival Internacional de Cinema Estudantil do Brics (Brics International Student Film Festival), que acontecerá de 10 a 14 de maio de 2026 na sede da academia, locali
+- [Desemprego no 1º trimestre é de 6,1%, o menor já registrado no período](https://www.brasildefato.com.br/2026/04/30/desemprego-no-1o-trimestre-e-de-61-o-menor-ja-registrado-no-periodo/) — *Brasil de Fato* — 2026-04-30 19:15
+  > A taxa de desemprego no primeiro trimestre do ano ficou em 6,1%. O indicador fica acima do registrado no quarto trimestre de 2025 (5,1%), porém é a menor taxa de desocupação para um primeiro trimestre desde 2012, quando começou a série hist
 - [Kyrgyz President’s Longtime Ally Charged With Plotting to Seize Power](https://www.occrp.org/en/news/kyrgyz-presidents-longtime-ally-charged-with-plotting-to-seize-power) — *OCCRP* — 2026-04-30 19:05
   > Former security chief Kamchybek Tashiev is accused of plotting a violent power grab, marking a stunning collapse of his decade-long political alliance with President Sadyr Japarov.
+- [É preciso um Congresso com a cara do povo](https://www.brasildefato.com.br/colunista/editorial-bdfmg/2026/04/30/e-preciso-um-congresso-com-a-cara-do-povo/) — *Brasil de Fato* — 2026-04-30 19:01
+  > A votação da última quarta-feira (29), articulada pelo bolsonarismo e o centrão, junto do presidente do Senado Federal Davi Alcolumbre (União Brasil), que, por 42 votos a 34 e uma abstenção, rejeitou a indicação de Jorge Messias ao Supremo 
+- [Líder supremo do Irã diz que o futuro do Golfo Pérsico será sem os EUA e que o lugar de ‘forasteiros’ é ‘nas profundezas das águas’](https://www.brasildefato.com.br/2026/04/30/lider-supremo-do-ira-diz-que-o-futuro-do-golfo-persico-sera-sem-os-eua-e-que-o-lugar-de-forasteiros-e-nas-profundezas-das-aguas/) — *Brasil de Fato* — 2026-04-30 19:00
+  > O futuro do Golfo Pérsico não incluirá os Estados Unidos, e o lugar de estrangeiros que vão ao local, atraídos pela ganância, é no fundo de suas águas. As declarações foram feitas pelo aiatolá Mojtaba Khamenei, líder supremo do Irã desde ma
+- [1º de maio em Fortaleza reúne trabalhadores contra a escala 6×1, por tarifa zero e mais direitos sociais](https://www.brasildefato.com.br/2026/04/30/1o-de-maio-em-fortaleza-reune-trabalhadores-contra-a-escala-6x1-por-tarifa-zero-e-mais-direitos-sociais/) — *Brasil de Fato* — 2026-04-30 18:48
+  > No Dia Internacional do Trabalhador, comemorado nesta sexta-feira (1), centrais sindicais, movimentos sociais e partidos políticos irão celebrar a data de forma organizada, com a realização de atos políticos em diversas cidades brasileiras.
 - [New Florida Redistricting Map Could Deliver 4 New House Seats to GOP in Midterms](https://truthout.org/articles/new-florida-redistricting-map-could-deliver-4-new-house-seats-to-gop-in-midterms/) — *Truthout* — 2026-04-30 18:46
   > Polls show that a majority of Floridians don’t support the redistricting effort led by Gov. Ron DeSantis.
 - [Releasing Full 2024 Election Autopsy Would Be “Navel Gazing,” DNC Chair Says](https://truthout.org/articles/releasing-full-2024-election-autopsy-would-be-navel-gazing-dnc-chair-says/) — *Truthout* — 2026-04-30 18:19

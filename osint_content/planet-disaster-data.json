@@ -3,7 +3,7 @@
   "platform_name": "Planet Labs — Disaster Data Program",
   "homepage": "https://www.planet.com/disasterdata/",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-03T10:46:08.018164+00:00",
-  "error": "Page.goto: Timeout 20000ms exceeded.\nCall log:\n  - navigating to \"https://www.planet.com/disasterdata/\", waiting until \"domcontentloaded\"\n",
+  "fetched_at": "2026-05-03T12:21:46.520101+00:00",
+  "error": "",
   "items": []
 }

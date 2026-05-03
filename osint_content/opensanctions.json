@@ -3,7 +3,7 @@
   "platform_name": "OpenSanctions",
   "homepage": "https://www.opensanctions.org",
   "category": "osint_monitor_sanctions",
-  "fetched_at": "2026-05-03T10:46:08.018164+00:00",
+  "fetched_at": "2026-05-03T12:21:46.520101+00:00",
   "error": "",
   "items": [
     {
@@ -13,8 +13,8 @@
       "date": "2026-03-24"
     },
     {
-      "title_en": "As CIA closes World Factbook, we open global map of political power",
-      "title_tr": "CIA Dünya Factbook'u kapatırken, küresel siyasi güç haritamızı açıyoruz",
+      "title_en": "As CIA closes The World Factbook, we open global political map",
+      "title_tr": "CIA Dünya Factbook'u kapatırken, küresel siyasi haritamızı açıyoruz",
       "url": "https://www.opensanctions.org/articles/2026-02-18-every-politician/",
       "date": "2026-02-18"
     },
@@ -26,7 +26,7 @@
     },
     {
       "title_en": "This was 2025 at OpenSanctions",
-      "title_tr": "OpenSanctions'da 2025 böyleydi",
+      "title_tr": "OpenSanctions'ta 2025 böyle geçti",
       "url": "https://www.opensanctions.org/articles/2025-review/",
       "date": "2025-12-18"
     },
