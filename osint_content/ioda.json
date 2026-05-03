@@ -3,7 +3,7 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
+  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
   "error": "",
   "items": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "title_en": "Cuba Power Shortage Visible in Internet Connectivity Signals",
-      "title_tr": "Küba Elektrik Kesintisi İnternet Bağlantı Sinyallerinde Görülüyor",
+      "title_tr": "Küba Elektrik Kesintisi İnternet Bağlantı Sinyallerinde Görünüyor",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/CU?f...",
       "date": "2026-03-17"
     }

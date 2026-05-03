@@ -3,7 +3,38 @@
   "platform_name": "ACLED",
   "homepage": "https://acleddata.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
+  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
   "error": "",
-  "items": []
+  "items": [
+    {
+      "title_en": "60 days of the Iran war — 6 conflicts you didn’t see",
+      "title_tr": "İran savaşının 60 günü — görmediğiniz 6 çatışma",
+      "url": "https://acleddata.com/expert-comment/60-days-iran-war-6-conflicts-you-didnt-see",
+      "date": "2026-04-29"
+    },
+    {
+      "title_en": "Who are the Israel-backed armed groups fighting Hamas in Gaza?",
+      "title_tr": "Gazze'de Hamas'a karşı savaşan İsrail destekli silahlı gruplar kim?",
+      "url": "https://acleddata.com/report/who-are-israel-backed-armed-groups-fighting-hamas-gaza",
+      "date": "2026-04-27"
+    },
+    {
+      "title_en": "In Jammu and Kashmir, new risks for security forces and civilians threaten regional peace",
+      "title_tr": "Keşmir'de güvenlik güçleri ve siviller için yeni riskler bölgesel barışı tehdit ediyor",
+      "url": "https://acleddata.com/report/jammu-and-kashmir-new-risks-security-forces-and-civilians-threaten-regional-peace",
+      "date": "2026-04-23"
+    },
+    {
+      "title_en": "Ukraine Conflict Monitor",
+      "title_tr": "Ukrayna Çatışma Monitörü",
+      "url": "https://acleddata.com/monitor/ukraine-conflict-monitor",
+      "date": ""
+    },
+    {
+      "title_en": "Conflict Index",
+      "title_tr": "Çatışma Endeksi",
+      "url": "https://acleddata.com/series/acled-conflict-index",
+      "date": ""
+    }
+  ]
 }

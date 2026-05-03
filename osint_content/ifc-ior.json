@@ -3,7 +3,7 @@
   "platform_name": "Information Fusion Centre — Indian Ocean Region",
   "homepage": "https://www.ifc-ior.org",
   "category": "osint_monitor_maritime",
-  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
+  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
   "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.ifc-ior.org/\nCall log:\n  - navigating to \"https://www.ifc-ior.org/\", waiting until \"domcontentloaded\"\n",
   "items": []
 }

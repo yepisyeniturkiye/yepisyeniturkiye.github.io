@@ -3,7 +3,7 @@
   "platform_name": "Cloudflare Radar",
   "homepage": "https://radar.cloudflare.com",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-02T14:14:26.119983+00:00",
+  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
   "error": "",
   "items": [
     {
@@ -13,27 +13,27 @@
       "date": ""
     },
     {
-      "title_en": "Q1 2026 Internet disruptions review",
-      "title_tr": "2026 Q1 İnternet kesintileri incelemesi",
-      "url": "https://radar.cloudflare.com/reports?q=Q1+2026+Internet+disruptions",
+      "title_en": "Shutdowns, power outages, and conflict: a review of Q1 2026 Internet disruptions",
+      "title_tr": "Kapatmalar, elektrik kesintileri ve çatışma: 2026 Q1 İnternet kesintileri incelemesi",
+      "url": "https://radar.cloudflare.com/reports",
       "date": "2026-04"
     },
     {
-      "title_en": "Agent Readiness Scan for AI agents",
-      "title_tr": "Yapay zeka ajanları için Ajan Hazırlık Taraması",
-      "url": "https://blog.cloudflare.com/agent-readiness/",
+      "title_en": "Network Quality Test - new tool to measure Internet connection quality",
+      "title_tr": "Ağ Kalite Testi - İnternet bağlantı kalitesini ölçen yeni araç",
+      "url": "https://radar.cloudflare.com/speedtest",
       "date": ""
     },
     {
-      "title_en": "Outage: CelcomDigi Malaysia (AS4818)",
-      "title_tr": "Kesinti: CelcomDigi Malezya (AS4818)",
+      "title_en": "Last observed outage: Malaysia (CelcomDigi) - technical problem",
+      "title_tr": "Son gözlemlenen kesinti: Malezya (CelcomDigi) - teknik sorun",
       "url": "https://radar.cloudflare.com/outage-center?dateRange=12w",
       "date": "2026-04-30"
     },
     {
-      "title_en": "Network Quality Test (new tool)",
-      "title_tr": "Ağ Kalite Testi (yeni araç)",
-      "url": "https://radar.cloudflare.com/speedtest",
+      "title_en": "URL Scanner - updated tool",
+      "title_tr": "URL Tarayıcı - güncellenmiş araç",
+      "url": "https://radar.cloudflare.com/scan",
       "date": ""
     }
   ]
