@@ -7,15 +7,21 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2764 items**
-*Updated 2026-05-03 09:10 UTC*
+**Last 24 hours — 2780 items**
+*Updated 2026-05-03 10:46 UTC*
 
 ---
 
+- [Bengal is not just another election](https://frontline.thehindu.com/the-nation/west-bengal-election-bjp-danger/article70934712.ece) — *Frontline* — 2026-05-03 10:29
+  > Why the battle for West Bengal’s Assembly is really a referendum on what kind of democracy India wants to be.
+- [ASEAN newsrooms issue joint statement about AI impact on journalism](https://www.rappler.com/about/statement-asean-newsrooms-artificial-intelligence-impact-journalism/) — *Rappler* — 2026-05-03 10:00
+  > Read the full statement from more than a dozen Southeast Asian news outlets on how big tech and AI companies are making it difficult for news organizations to survive
 - [Giovanni Cidreira: ‘Eu gosto de colocar meu corpo na fogueira’](https://www.brasildefato.com.br/podcast/sabe-som/2026/05/01/giovanni-cidreira-eu-gosto-de-colocar-meu-corpo-na-fogueira/) — *Brasil de Fato* — 2026-05-03 09:00
   > Da periferia de Salvador (BA) para o Tiny Desk Brasil, o cantor, compositor e instrumentista Giovani Cidreira lança seu novo disco “Coração Disparado”, segundo ele, um reencontro com quem um dia ele foi. Gravado na Casa de Francisca, em São
 - [Living with rare disease: How policy shifts, medical progress bring hope to patients](https://www.rappler.com/people/human-interest/living-rare-disease-policy-shifts-medical-progress-bring-hope-patients/) — *Rappler* — 2026-05-03 09:00
   > PhilHealth has expanded its coverage for rare diseases through its Z Benefits Package, which now includes at least 10 rare genetic conditions
+- [Delhi: Nine killed in fire in residential building](https://scroll.in/latest/1092562/delhi-nine-killed-in-fire-in-residential-building?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-03 08:49
+  > A preliminary probe suggested that an air-conditioner blast might have triggered the fire, the police said.
 - [Trump says US could restart Iran strikes ‘if they misbehave’](https://www.rappler.com/world/middle-east/usa-israel-war-iran-updates-may-3-2026/) — *Rappler* — 2026-05-03 08:14
   > US President Donald Trump says he could not imagine Iran’s proposals being acceptable and that the country had not paid a sufficiently high price for its actions
 - [Taiwan president defiant as begins Eswatini trip; China calls him a ‘rat’](https://www.rappler.com/world/asia-pacific/taiwan-president-eswatini-trip-china-criticism/) — *Rappler* — 2026-05-03 08:02
@@ -82,12 +88,16 @@ For the clustered bilingual view, see [index.md](index.md).
   > Over 300 years, the language’s deep roots intertwined with Tamil to produce a distinct artistic tradition and cultural identity.
 - [Still can’t smile without Barry Manilow](https://www.rappler.com/people/artists/barry-manilow-music-icon/) — *Rappler* — 2026-05-03 02:00
   > 'Why Manilow? Because like all of you, ako’y Pinoy. And we have always had a particular tenderness for the well-crafted ballad.'
+- [Pan-African News Wire](https://panafricannews.blogspot.com/2026/05/lai-smuggles-himself-out-of-taiwan.html) — *The OC Portal* — 2026-05-03 01:45
+- [Pan-African News Wire](https://panafricannews.blogspot.com/2026/05/gt-voice-chinas-zero-tariff-policy-adds.html) — *The OC Portal* — 2026-05-03 01:45
+- [Pan-African News Wire](https://panafricannews.blogspot.com/2026/05/expanding-pie-of-china-africa.html) — *The OC Portal* — 2026-05-03 01:45
 - [‘Good work will be recognised someday’: Rakesh Bedi on going viral with ‘Dhurandhar’](https://scroll.in/reel/1092551/good-work-will-be-recognised-someday-rakesh-bedi-on-going-viral-with-dhurandhar?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-03 01:45
   > The monster success of Aditya Dhar’s films has given the veteran actor’s career a second wind.
 - [The Philippines I saw with Errol Wendel Chen, a researcher for the farmers](https://www.rappler.com/people/obituary/errol-wendel-chen-researcher-farmers-philippines-toboso-19/) — *Rappler* — 2026-05-03 01:00
   > This is a memorial note for a young man who dedicated himself to struggling alongside poor farmers and communities in the Philippines
 - [Defense official reveals alarming way US military learned about Trump’s troop withdrawal](https://www.alternet.org/trump-pentagon-2676844612/) — *AlterNet* — 2026-05-03 00:52
   > An anonymous U.S. defense official revealed the branches of the U.S. military learned of President Donald Trump’s decision to withdraw 5,000 troops from Germany “in real time,” without prior knowledge of the intended move, the AP reported S
+- [The Fifth Circuit Seeks to Unilaterally Reimpose an Outdated Abortion Pill Protocol](https://www.thenation.com/article/society/fifth-circuit-outdated-mifepristone-protocol/) — *The OC Portal* — 2026-05-03 00:45
 - [Avoir 19 ans en mai 1968 : Récit d’une expérience](https://mst.org.br/2026/05/02/avoir-19-ans-en-mai-1968-recit-dune-experience/) — *Landless Workers' Movement (MST)* — 2026-05-02 21:36
   > A l'époque, seulement 16% d'une classe d'âge entrait à l'université pour faire des études supérieures et parmi eux seulement 25% étaient des filles. O post Avoir 19 ans en mai 1968 : Récit d’une expérience apareceu primeiro em MST .
 - [Ter 19 anos em maio de 1968: Um relato de experiência](https://mst.org.br/2026/05/02/ter-19-anos-em-maio-de-1968-um-relato-de-experiencia/) — *Landless Workers' Movement (MST)* — 2026-05-02 20:56
@@ -180,6 +190,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Right-wing media darling Tucker Carlson recently spoke with the New York Times in a far-reaching interview that touched, in part, on his sharp criticisms of President Donald Trump — including his suggestion that the president might, in fact
 - [A Luta pela Terra e a Janela de Esperança no Sudeste do Pará](https://mst.org.br/2026/05/02/a-luta-pela-terra-e-a-janela-de-esperanca-no-sudeste-do-para/) — *Landless Workers' Movement (MST)* — 2026-05-02 13:40
   > A criação do Projeto de Assentamento Maria da Glória pelo Incra em dezembro de 2025 foi um passo concreto na direção correta. Mas a efetiva implantação do projeto depende da imissão na posse. Enquanto a Justiça não decidir, as famílias segu
+- [Mobile users across India get ‘extremely severe’ alerts as Centre tests emergency warning mechanism](https://scroll.in/latest/1092550/mobile-users-across-india-get-extremely-severe-alerts-as-centre-tests-emergency-warning-mechanism?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-02 13:38
+  > The government on Saturday tested a new system to send ‘real-time, geo-targeted alerts in multiple languages’ in cases of disasters.
 - [Fortes chuvas colocam Pernambuco e Paraíba em situação de emergência; governo federal envia ajuda](https://www.brasildefato.com.br/2026/05/02/fortes-chuvas-colocam-pernambuco-e-paraiba-em-situacao-de-emergencia-governo-federal-envia-ajuda/) — *Brasil de Fato* — 2026-05-02 13:30
   > Os estados de Pernambuco e Paraíba estão em situação de emergência por causa das fortes chuvas que atingem a região desde a sexta-feira (1º). Ao todo, foram registradas seis mortes, sendo quatro delas em Pernambuco e duas na Paraíba. Entre 
 - [Checkpoints, radio shows, and Fairouz](https://mondoweiss.net/2026/05/checkpoints-radio-shows-and-fairouz/) — *Mondoweiss* — 2026-05-02 13:30
@@ -892,16 +904,28 @@ For the clustered bilingual view, see [index.md](index.md).
   > Moscou afirmou, nesta quinta-feira (30), que suas forças permanecerão no Mali, ao rejeitar um apelo de separatistas para sua retirada do país africano, enquanto os insurgentes, juntamente com jihadistas, lançam ofensivas ferozes contra a ju
 - [China’s Manus AI case sets red lines to bar ‘Singapore washing’](https://asiatimes.com/2026/05/chinas-manus-ai-case-sets-red-lines-to-bar-singapore-washing/) — *Asia Times* — 2026-04-30 20:18
   > Beijing is seeking to clarify its decision to block Meta’s proposed acquisition of Manus, a Chinese agentic artificial intelligence (AI) startup, stressing that it will continue to support domestic companies’ overseas expansion, provided th
+- [Festival dos Trabalhadores puxa agenda cultural do feriado em Porto Alegre e outras cidades gaúchas](https://www.brasildefato.com.br/2026/04/30/festival-dos-trabalhadores-puxa-agenda-cultural-do-feriado-em-porto-alegre-e-outras-cidades-gauchas/) — *Brasil de Fato* — 2026-04-30 20:15
+  > O destaque é a programação do 1º de Maio no Rio Grande do Sul, que terá mobilização descentralizada em cinco cidades: Porto Alegre, Caxias do Sul, Santa Maria, Passo Fundo e Pelotas. Organizado pela Central Única dos Trabalhadores do RS (CU
 - [Ex-GOP strategist tears Trump apart for pushing 'vanity projects'](https://www.alternet.org/rick-wilson-trump-ballroom/) — *AlterNet* — 2026-04-30 20:15
   > President Donald Trump keeps flouting a White House ballroom and his Republican allies keep pushing for taxpayer funding for the project. But Never Trump conservative Rick Wilson, says the ballroom a blatant example of the president being w
 - [Ron Wyden Is Pissing Off the NSA’s Biggest Backers. Tom Cotton Warns There Will Be “Consequences.”](https://theintercept.com/2026/04/30/wyden-cotton-nsa-surveillance-fisa-702/) — *The Intercept* — 2026-04-30 20:09
   > Debate over a secret court opinion involving the Trump administration’s use of data collected by the NSA turned personal. The post Ron Wyden Is Pissing Off the NSA’s Biggest Backers. Tom Cotton Warns There Will Be “Consequences.” appeared f
 - [‘This is piracy’: Israel condemned for seizure of Gaza-bound flotilla near Greece](https://therealnews.com/piracy-israel-seizure-gaza-flotilla) — *The Real News Network* — 2026-04-30 20:07
   > “How on Earth,” asked the UN’s top Palestine expert, “is possible that Israel is allowed to assault and seize vessels in international waters just off Greece/Europe?”
+- [Regulamentação do trabalho cultural avança no Brasil e expõe urgência de um novo marco legal](https://www.brasildefato.com.br/colunista/comite-de-cultura-do-df/2026/04/30/regulamentacao-do-trabalho-cultural-avanca-no-brasil-e-expoe-urgencia-de-um-novo-marco-legal/) — *Brasil de Fato* — 2026-04-30 20:04
+  > Especialistas, governo e trabalhadores discutem Estatuto que reconhece a intermitência e outros problemas do setor e propõe novas formas de proteção A construção do Estatuto do Trabalhador e da Trabalhadora da Cultura, das Artes e dos Event
 - [Trump official quietly positioning himself as successor while JD Vance stumbles](https://www.alternet.org/maga-trump-rubio/) — *AlterNet* — 2026-04-30 19:58
   > While the MAGA movement has spent a decade as a cult of personality surrounding President Donald Trump, with the 79 year old lame duck president approaching the end of his political career, his followers have begun searching for a new leade
+- [PT avalia judicializar derrubada do veto ao PL da Dosimetria](https://www.brasildefato.com.br/2026/04/30/lider-do-pt-avalia-judicializar-derrubada-do-veto-ao-pl-da-dosimetria/) — *Brasil de Fato* — 2026-04-30 19:57
+  > O líder do PT na Câmara, deputado Pedro Uczai (PT-SC), afirmou que a equipe jurídica do partido está analisando a possibilidade de judicialização da derrubada do veto ao Projeto de Lei da Dosimetria, que beneficia os condenados pelos atos g
 - [Admin Uses Records Policy to Jail Scientist While Being Sued for Records Abuses](https://truthout.org/articles/admin-uses-records-policy-to-jail-scientist-while-being-sued-for-records-abuses/) — *Truthout* — 2026-04-30 19:46
   > The records charges are a thin veil for the administration’s continued attacks on public health, one commentator said.
+- [Feira do Livro da Rocha ocupa bairro do Bixiga, em SP, com programação gratuita e debate sobre bem viver](https://www.brasildefato.com.br/2026/04/30/feira-do-livro-da-rocha-ocupa-bairro-do-bixiga-em-sp-com-programacao-gratuita-e-debate-sobre-bem-viver/) — *Brasil de Fato* — 2026-04-30 19:43
+  > A Rua Rocha, no Bixiga, região central de São Paulo (SP), recebe entre os dias 1º e 3 de maio a segunda edição da Feira do Livro da Rocha (Flir), que reúne mais de 60 atividades culturais gratuitas ao longo do fim de semana. Com participaçã
+- [Baixa vacinação infantil preocupa BH: cobertura é de 14%; veja como se vacinar](https://www.brasildefato.com.br/2026/04/30/baixa-vacinacao-infantil-preocupa-bh-cobertura-e-de-14-veja-como-se-vacinar/) — *Brasil de Fato* — 2026-04-30 19:43
+  > A capital mineira enfrenta um cenário preocupante na saúde pública. A cobertura vacinal contra a gripe em crianças de seis meses a menores de seis anos atingiu apenas 14% do público-alvo. Esse é um índice considerado alarmante, que expõe a 
+- [‘Não é privilégio e não é penduricalho’: professores da UnB protestam contra a absorção da URP em frente ao MGI](https://www.brasildefato.com.br/2026/04/30/nao-e-privilegio-e-nao-e-penduricalho-professores-da-unb-protestam-contra-a-absorcao-da-urp-em-frente-ao-mgi/) — *Brasil de Fato* — 2026-04-30 19:42
+  > Docentes da Universidade de Brasília (UnB) realizaram um ato nesta quinta-feira (30) em frente ao Ministério de Gestão e Inovação de Serviços Públicos (MGI), contra a absorção da Unidade de Referência de Preços (URP). A manifestação reuniu 
 - [Democratic Leaders Wanted to Control the Maine Senate Race. Their Pick Just Dropped Out.](https://theintercept.com/2026/04/30/maine-janet-mills-graham-platner-senate/) — *The Intercept* — 2026-04-30 19:40
   > Janet Mills dropped out of the Senate race against Graham Platner, despite the establishment’s longtime support for the Maine governor. The post Democratic Leaders Wanted to Control the Maine Senate Race. Their Pick Just Dropped Out. appear
 - [Trump officials flood red state with deadly 'suicide' neurotoxin](https://www.alternet.org/trump-epa-maha/) — *AlterNet* — 2026-04-30 19:40
@@ -910,6 +934,10 @@ For the clustered bilingual view, see [index.md](index.md).
   > Keir Starmer has been accused of failing to combat antisemitism following a horrific knife attack on two Jewish men in North London. Plus: The US plans further military action in Iran, Israel detains 175 activists from a Gaza-bound aid flot
 - ['We will never beg on our knees!' Cubans reject Trump's threats with petitioning drive](https://www.youtube.com/shorts/Q-8RZvgnHHg) — *BreakThrough News* — 2026-04-30 19:34
   > "We don't want war, nor will we beg for anything on our knees." President Miguel Díaz-Canel has launched a "My Signature for the Homeland" petition drive as a show of unity among the Cuban people in the wake of Trump's attacks. BT spoke to 
+- [Fim da escala 6×1 será o maior legado trabalhista da nossa geração](https://www.brasildefato.com.br/colunista/vanda-de-assis/2026/04/30/fim-da-escala-6x1-sera-o-maior-legado-trabalhista-da-nossa-geracao/) — *Brasil de Fato* — 2026-04-30 19:32
+  > A Consolidação das Leis do Trabalho (CLT), criada em 1943, foi uma conquista histórica, fruto da luta do povo organizado e da pressão da classe trabalhadora, que estabeleceu limites para a jornada de trabalho e garantias básicas para proteg
+- [Congresso derruba veto de Lula sobre PL da dosimetria e alivia penas de golpistas](https://www.brasildefato.com.br/2026/04/30/congresso-derruba-veto-de-lula-sobre-pl-da-dosimetria-e-alivia-penas-de-golpistas/) — *Brasil de Fato* — 2026-04-30 19:32
+  > Votação foi marcada por embates entre governo e oposição sobre condução do processo legislativo e impactos da proposta Fonte
 - [Gas Prices Have Jumped 46 Percent Since Start of Iran War](https://truthout.org/articles/gas-prices-have-jumped-46-percent-since-start-of-iran-war/) — *Truthout* — 2026-04-30 19:29
   > Trump admitted high prices will remain for “a little while,” but his administration says they could last beyond 2027.
 - [Civil Rights Lawyer: SCOTUS Voting Rights Ruling Is “Free Pass to Discriminate”](https://truthout.org/video/civil-rights-lawyer-scotus-voting-rights-ruling-is-free-pass-to-discriminate/) — *Truthout* — 2026-04-30 19:28

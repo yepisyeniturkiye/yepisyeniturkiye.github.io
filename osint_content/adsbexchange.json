@@ -3,37 +3,37 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
+  "fetched_at": "2026-05-03T10:46:08.018164+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Tracking Map - unfiltered global flight data",
-      "title_tr": "İzleme Haritası - filtresiz küresel uçuş verileri",
+      "title_en": "Tracking Map: unfiltered global flight tracking",
+      "title_tr": "İzleme Haritası: filtresiz küresel uçuş takibi",
       "url": "https://globe.adsbexchange.com/",
       "date": ""
     },
     {
-      "title_en": "Feeder Leaderboard - top contributors",
-      "title_tr": "Besleyici Liderlik Tablosu - en iyi katkıda bulunanlar",
+      "title_en": "Feeder Leaderboard: top contributors",
+      "title_tr": "Besleyici Liderlik Tablosu: en iyi katkıda bulunanlar",
       "url": "https://globe.adsbexchange.com/leaderboard/",
       "date": ""
     },
     {
-      "title_en": "Enterprise API - commercial-grade flight data",
-      "title_tr": "Kurumsal API - ticari sınıf uçuş verileri",
-      "url": "https://www.adsbexchange.com/products/enterprise-api/",
+      "title_en": "Fastest Planes: real-time speed rankings",
+      "title_tr": "En Hızlı Uçaklar: gerçek zamanlı hız sıralamaları",
+      "url": "https://www.adsbexchange.com/?page_id=39341",
       "date": ""
     },
     {
-      "title_en": "Historical Data - unfiltered, unblocked",
-      "title_tr": "Geçmiş Veriler - filtresiz, engelsiz",
-      "url": "https://www.adsbexchange.com/products/historical-data/",
+      "title_en": "Close Calls (TCAS Alerts): near-miss events",
+      "title_tr": "Yakın Çağrılar (TCAS Uyarıları): ramak kala olayları",
+      "url": "https://www.adsbexchange.com/?page_id=39350",
       "date": ""
     },
     {
-      "title_en": "API Lite - for hobbyists and enthusiasts",
-      "title_tr": "API Lite - hobiciler ve meraklılar için",
-      "url": "https://www.adsbexchange.com/api-lite/",
+      "title_en": "Coverage Map: global feeder coverage",
+      "title_tr": "Kapsama Haritası: küresel besleyici kapsama alanı",
+      "url": "https://www.adsbexchange.com/coverage-map/",
       "date": ""
     }
   ]

@@ -3,38 +3,38 @@
   "platform_name": "Conflict Intelligence Team",
   "homepage": "https://citeam.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
+  "fetched_at": "2026-05-03T10:46:08.018164+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "National Guard special forces used to suppress protests in Moscow on January 31",
-      "title_tr": "31 Ocak'ta Moskova'daki protestoları bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
+      "title_en": "GRU Spetsnaz on Donbas: Investigation of 3 soldiers' deaths",
+      "title_tr": "Donbas'ta GRU Özel Kuvvetleri: 3 askerin ölümü soruşturması",
+      "url": "https://citeam.org/16-brigada-gru-may-2015/",
+      "date": ""
+    },
+    {
+      "title_en": "Geolocation of Spetsnaz presence in Luhansk",
+      "title_tr": "Luhansk'ta Özel Kuvvetler varlığının coğrafi konumu",
+      "url": "https://citeam.org/mamai-luhansk/",
+      "date": ""
+    },
+    {
+      "title_en": "Debunking fake about 2000 dead Russian soldiers",
+      "title_tr": "2000 ölü Rus askeri hakkındaki sahte haberin çürütülmesi",
+      "url": "https://citeam.org/debunking-the-fake-2000/",
+      "date": ""
+    },
+    {
+      "title_en": "Deployment of Russian troops to Syria",
+      "title_tr": "Rus birliklerinin Suriye'ye konuşlandırılması",
+      "url": "https://citeam.org/are-there-russian-troops-in-syria/",
+      "date": ""
+    },
+    {
+      "title_en": "National Guard special forces used to suppress Jan 31 protests",
+      "title_tr": "31 Ocak protestolarını bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
       "url": "https://citeam.org/ru-spetsnaz-january-31/",
       "date": "2021-02-01"
-    },
-    {
-      "title_en": "Analysis of Belarus Defense Minister's statement on protest numbers",
-      "title_tr": "Belarus Savunma Bakanı'nın protestocu sayısına ilişkin açıklamasının analizi",
-      "url": "https://citeam.org/belorussian-mod-statement/",
-      "date": "2020-08-21"
-    },
-    {
-      "title_en": "New evidence of Russian support for Libyan Marshal Haftar",
-      "title_tr": "Libyalı Mareşal Haftar'a Rus desteğine dair yeni kanıtlar",
-      "url": "https://citeam.org/russian-mercenaries-in-libya-2020/",
-      "date": "2020-05-25"
-    },
-    {
-      "title_en": "Reports of Russian mercenary deaths in Libya: another funeral",
-      "title_tr": "Libya'da Rus paralı asker ölümleri haberleri: bir cenaze daha",
-      "url": "https://citeam.org/ru-mercenaries-in-libya/",
-      "date": "2019-10-21"
-    },
-    {
-      "title_en": "Wagner Group mercenaries on the front line near Tripoli",
-      "title_tr": "Wagner Grubu paralı askerleri Trablus yakınlarındaki cephe hattında",
-      "url": "https://citeam.org/pmc-wagner-in-libya/",
-      "date": "2019-09-27"
     }
   ]
 }

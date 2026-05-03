@@ -3,23 +3,23 @@
   "platform_name": "AIS Hub",
   "homepage": "https://www.aishub.net",
   "category": "osint_monitor_maritime",
-  "fetched_at": "2026-05-03T09:10:22.460298+00:00",
+  "fetched_at": "2026-05-03T10:46:08.018164+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Real-time status: 87833 vessels in last 24 hours",
-      "title_tr": "Son 24 saatte 87833 gemi ile gerçek zamanlı durum",
+      "title_en": "Real-time status: 87679 vessels in last 24 hours",
+      "title_tr": "Son 24 saatte 87679 gemi ile gerçek zamanlı durum",
       "url": "https://www.aishub.net/",
       "date": ""
     },
     {
-      "title_en": "1506 stations contributing data",
-      "title_tr": "1506 istasyon veri katkısı sağlıyor",
+      "title_en": "1506 stations contributing AIS data",
+      "title_tr": "AIS verisi sağlayan 1506 istasyon",
       "url": "https://www.aishub.net/stations",
       "date": ""
     },
     {
-      "title_en": "Coverage in 80 countries",
+      "title_en": "Coverage across 80 countries",
       "title_tr": "80 ülkede kapsama alanı",
       "url": "https://www.aishub.net/coverage",
       "date": ""
