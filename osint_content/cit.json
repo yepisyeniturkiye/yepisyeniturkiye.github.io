@@ -3,36 +3,36 @@
   "platform_name": "Conflict Intelligence Team",
   "homepage": "https://citeam.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-03T12:21:46.520101+00:00",
+  "fetched_at": "2026-05-04T09:38:28.530968+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Suppression of protests on January 31 in Moscow involved National Guard special forces",
-      "title_tr": "31 Ocak Moskova protestolarının bastırılmasında Ulusal Muhafız özel kuvvetleri kullanıldı",
+      "title_en": "National Guard special forces used to suppress protests in Moscow on January 31",
+      "title_tr": "31 Ocak'ta Moskova'daki protestoları bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
       "url": "https://citeam.org/ru-spetsnaz-january-31/",
       "date": "2021-02-01"
     },
     {
-      "title_en": "Analysis of Belarus Defense Minister's statement on protest numbers",
-      "title_tr": "Belarus Savunma Bakanı'nın protestocu sayısı açıklamasının analizi",
+      "title_en": "Analysis of Belarusian Defense Minister's statement on protest numbers",
+      "title_tr": "Belarus Savunma Bakanı'nın protesto sayılarına ilişkin açıklamasının analizi",
       "url": "https://citeam.org/belorussian-mod-statement/",
       "date": "2020-08-21"
     },
     {
       "title_en": "New evidence of Russian support for Libyan Marshal Haftar",
-      "title_tr": "Libya Mareşali Haftar'a Rus desteğine dair yeni kanıtlar",
+      "title_tr": "Libyalı Mareşal Haftar'a Rus desteğine dair yeni kanıtlar",
       "url": "https://citeam.org/russian-mercenaries-in-libya-2020/",
       "date": "2020-05-25"
     },
     {
       "title_en": "Reports of Russian mercenary deaths in Libya: another funeral",
-      "title_tr": "Libya'da Rus paralı asker ölümleri: bir cenaze daha",
+      "title_tr": "Libya'da Rus paralı asker ölümleri haberleri: bir cenaze daha",
       "url": "https://citeam.org/ru-mercenaries-in-libya/",
       "date": "2019-10-21"
     },
     {
-      "title_en": "Wagner Group mercenaries on the front line near Tripoli",
-      "title_tr": "Wagner Grubu paralı askerleri Trablus yakınlarındaki cephede",
+      "title_en": "Wagner Group mercenaries on the front line near Tripoli, Libya",
+      "title_tr": "Wagner Grubu paralı askerleri Trablus yakınlarındaki cephe hattında",
       "url": "https://citeam.org/pmc-wagner-in-libya/",
       "date": "2019-09-27"
     }

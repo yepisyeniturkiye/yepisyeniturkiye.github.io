@@ -3,7 +3,7 @@
   "platform_name": "OpenCorporates",
   "homepage": "https://opencorporates.com",
   "category": "osint_monitor_sanctions",
-  "fetched_at": "2026-05-03T12:21:46.520101+00:00",
+  "fetched_at": "2026-05-04T09:38:28.530968+00:00",
   "error": "",
   "items": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "title_en": "Transparent company data and law enforcement go together like peanut butter and jelly",
-      "title_tr": "Şeffaf şirket verileri ve kolluk kuvvetleri fıstık ezmesi ve reçel gibi birbirine yakışır",
+      "title_tr": "Şeffaf şirket verileri ve kolluk kuvvetleri, fıstık ezmesi ve jöle gibi birbirine yakışır",
       "url": "https://blog.opencorporates.com/2024/06/20/transparent-company-data-and-law-enforcement/",
       "date": "2024-06-20"
     }

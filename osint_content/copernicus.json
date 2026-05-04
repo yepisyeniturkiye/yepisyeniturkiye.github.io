@@ -3,37 +3,37 @@
   "platform_name": "Copernicus Data Space",
   "homepage": "https://dataspace.copernicus.eu",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-03T12:21:46.520101+00:00",
+  "fetched_at": "2026-05-04T09:38:28.530968+00:00",
   "error": "",
   "items": [
     {
       "title_en": "New Sentinel-3 altimetry non-operational demonstration data products for Land Ice and Lakes & Reservoirs",
       "title_tr": "Yeni Sentinel-3 altimetri operasyonel olmayan demo veri ürünleri: Kara Buzu ve Göller & Rezervuarlar",
-      "url": "https://dataspace.copernicus.eu/index.php/news/2026-4-27-new-sentinel-3-altimetry-non-operational-demonstration-data-products-land-ice-and",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-27-new-sentinel-3-altimetry-non-operational-demonstration-data-products-land-ice-and",
       "date": "2026-04-27"
-    },
-    {
-      "title_en": "Major upgrade of CDSE networking on 28/04/2026",
-      "title_tr": "CDSE ağında 28/04/2026 tarihinde büyük yükseltme",
-      "url": "https://dataspace.copernicus.eu/index.php/news/2026-4-20-major-upgrade-cdse-networking-28042026",
-      "date": "2026-04-20"
     },
     {
       "title_en": "Sentinel-1D User Data Opening from 17/04/2026",
       "title_tr": "Sentinel-1D Kullanıcı Verileri 17/04/2026'dan itibaren açılıyor",
-      "url": "https://dataspace.copernicus.eu/index.php/news/2026-4-16-sentinel-1d-user-data-opening-17042026",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-16-sentinel-1d-user-data-opening-17042026",
       "date": "2026-04-16"
     },
     {
+      "title_en": "Planned upgrade of EOData storage 14/05/2026 from 06:00 to 10:00 CEST",
+      "title_tr": "EOData depolama yükseltmesi 14/05/2026 06:00-10:00 CEST arasında planlandı",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-30-planned-upgrade-eodata-storage-14052026-0600-1000-cest",
+      "date": "2026-04-30"
+    },
+    {
       "title_en": "Machine Learning for Forest Fire Mapping: Using openEO's Random Forest process",
-      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Orman sürecini kullanma",
+      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Orman süreci",
       "url": "https://dataspace.copernicus.eu/cases/machine-learning-forest-fire-mapping-using-openeos-random-forest-process",
       "date": ""
     },
     {
       "title_en": "The beauty of the green transition: solar panels on Hapcheon Lake, South Korea",
       "title_tr": "Yeşil dönüşümün güzelliği: Güney Kore, Hapcheon Gölü'ndeki güneş panelleri",
-      "url": "https://dataspace.copernicus.eu/index.php/gallery/2026-3-27-beauty-green-transition-solar-panels-hapcheon-lake-south-korea",
+      "url": "https://dataspace.copernicus.eu/gallery/2026-3-27-beauty-green-transition-solar-panels-hapcheon-lake-south-korea",
       "date": "2026-03-27"
     }
   ]
