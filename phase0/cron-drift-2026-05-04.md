@@ -55,4 +55,6 @@ Neither artifact affected today's published content. Calling it out so the next 
 Clean. Whole-word regex sweep across working tree for the operator's personal identifiers (given-name, given-name-surname compound, surname, employer-domain) and `/Users/<redacted>` paths returns zero matches. The substring `dev5` appears in `HANDOVER.md` only as the path component `~/dev5/yepisyeniturkiye.github.io`, which is generic and does not identify the operator. Substring matches of the operator's given-name fragment in news content (Turkish word for 'containing'; unrelated English/Spanish vocabulary; names of public figures) are not personal. Authorship throughout history is `Yepisyeni Türkiye <yepisyeniturkiye@gmail.com>` only. No history rewrite needed at the time of this entry.
 ## Hour-check (task 3)
 
-To be filled in after the +1h verification window.
+Live page re-verified at 10:45 UTC (+1h03m after push at 09:42 UTC): title `2026-05-04`, body size 110,978 bytes (unchanged from immediate post-push snapshot), all 8 regions still linked (mena, latam, africa, asia, eu, uk, us, global), TR/EN toggle present, OSINT footer populated. No partial rendering, no regression, no stale content. No `cortex-generic` golden pathway invocation needed because nothing broke during the wait window.
+
+The 10:17 UTC scheduled cron slot for today produced no GH Actions run by 10:45 UTC, extending the day's drop count to 3/3 — same shape as 2026-05-03. No follow-up push required; the manually published 5cd55e4 is the day's content of record.
