@@ -3,7 +3,7 @@
   "platform_name": "Airwars",
   "homepage": "https://airwars.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-04T09:38:28.530968+00:00",
+  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
   "error": "",
   "items": [
     {
@@ -19,8 +19,8 @@
       "date": "2026-03-10"
     },
     {
-      "title_en": "40% of U.S.-Mexico border handed over to the military",
-      "title_tr": "ABD-Meksika sınırının %40'ı orduya devredildi",
+      "title_en": "40% of U.S.-Mexico border handed over to the military (interactive map)",
+      "title_tr": "ABD-Meksika sınırının %40'ı orduya devredildi (etkileşimli harita)",
       "url": "https://airwars.org/more-than-40-of-u-s-mexico-border-has-been-handed-over-to-the-military/",
       "date": "2026-03-26"
     },
