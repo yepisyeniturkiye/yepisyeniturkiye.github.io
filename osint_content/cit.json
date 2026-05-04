@@ -3,18 +3,18 @@
   "platform_name": "Conflict Intelligence Team",
   "homepage": "https://citeam.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "National Guard special forces deployed to suppress protests in Moscow on January 31",
-      "title_tr": "31 Ocak'ta Moskova'daki protestoları bastırmak için Ulusal Muhafız özel kuvvetleri gönderildi",
+      "title_en": "National Guard special forces used to suppress protests in Moscow on January 31",
+      "title_tr": "31 Ocak'ta Moskova'daki protestoları bastırmak için Ulusal Muhafız özel kuvvetleri kullanıldı",
       "url": "https://citeam.org/ru-spetsnaz-january-31/",
       "date": "2021-02-01"
     },
     {
-      "title_en": "Analysis of Belarusian Defense Minister's statement on protest numbers",
-      "title_tr": "Belarus Savunma Bakanı'nın protestocu sayılarına ilişkin açıklamasının analizi",
+      "title_en": "Analysis of Belarus Defense Minister's statement on protest numbers",
+      "title_tr": "Belarus Savunma Bakanı'nın protesto sayılarına ilişkin açıklamasının analizi",
       "url": "https://citeam.org/belorussian-mod-statement/",
       "date": "2020-08-21"
     },
@@ -26,7 +26,7 @@
     },
     {
       "title_en": "Reports of Russian mercenary deaths in Libya: another funeral",
-      "title_tr": "Libya'da Rus paralı asker ölümleriyle ilgili haberler: bir cenaze daha",
+      "title_tr": "Libya'da Rus paralı asker ölümleri haberleri: bir cenaze daha",
       "url": "https://citeam.org/ru-mercenaries-in-libya/",
       "date": "2019-10-21"
     },

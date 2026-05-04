@@ -3,30 +3,30 @@
   "platform_name": "AIS Hub",
   "homepage": "https://www.aishub.net",
   "category": "osint_monitor_maritime",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Real-time status: 85423 vessels in last 24 hours",
-      "title_tr": "Son 24 saatte 85423 gemi gerçek zamanlı durumu",
+      "title_en": "Real-time status: 84489 vessels in last 24 hours",
+      "title_tr": "Gerçek zamanlı durum: Son 24 saatte 84489 gemi",
       "url": "https://www.aishub.net/",
       "date": ""
     },
     {
-      "title_en": "1508 stations contributing data",
-      "title_tr": "Veri sağlayan 1508 istasyon",
+      "title_en": "1508 stations contributing AIS data",
+      "title_tr": "AIS verisi sağlayan 1508 istasyon",
       "url": "https://www.aishub.net/stations",
       "date": ""
     },
     {
-      "title_en": "81 countries with coverage",
-      "title_tr": "Kapsama alanındaki 81 ülke",
+      "title_en": "81 countries covered by AISHub",
+      "title_tr": "AISHub tarafından kapsanan 81 ülke",
       "url": "https://www.aishub.net/countries",
       "date": ""
     },
     {
-      "title_en": "AIS Dispatcher software for Windows and Linux",
-      "title_tr": "Windows ve Linux için AIS Dispatcher yazılımı",
+      "title_en": "AIS Dispatcher application for Windows and Linux",
+      "title_tr": "Windows ve Linux için AIS Dispatcher uygulaması",
       "url": "https://www.aishub.net/ais-dispatcher",
       "date": ""
     },

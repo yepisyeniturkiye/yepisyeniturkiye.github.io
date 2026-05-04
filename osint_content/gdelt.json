@@ -3,7 +3,7 @@
   "platform_name": "GDELT Project",
   "homepage": "https://www.gdeltproject.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
   "items": [
     {
@@ -13,8 +13,8 @@
       "date": ""
     },
     {
-      "title_en": "Global Content Analysis Measures (GCAM) suite",
-      "title_tr": "Küresel İçerik Analizi Ölçümleri (GCAM) paketi",
+      "title_en": "GDELT Global Content Analysis Measures (GCAM)",
+      "title_tr": "GDELT Küresel İçerik Analizi Ölçütleri (GCAM)",
       "url": "https://blog.gdeltproject.org/introducing-the-global-content-analysis-measures-gcam/",
       "date": ""
     },

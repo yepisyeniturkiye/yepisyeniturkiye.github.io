@@ -3,12 +3,12 @@
   "platform_name": "Uppsala Conflict Data Program",
   "homepage": "https://ucdp.uu.se",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "UCDP Conflict Encyclopedia - Countries in Conflict",
-      "title_tr": "UCDP Çatışma Ansiklopedisi - Çatışmadaki Ülkeler",
+      "title_en": "UCDP Conflict Encyclopedia - Countries in Conflict View",
+      "title_tr": "UCDP Çatışma Ansiklopedisi - Çatışmadaki Ülkeler Görünümü",
       "url": "https://ucdp.uu.se/#/encyclopedia",
       "date": ""
     },

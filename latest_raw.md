@@ -7,11 +7,27 @@ title: Yepisyeni Türkiye — Raw Feed
 Untransformed rolling view of the last 24 hours, straight from the sources.
 For the clustered bilingual view, see [index.md](index.md).
 
-**Last 24 hours — 2927 items**
-*Updated 2026-05-04 11:24 UTC*
+**Last 24 hours — 2945 items**
+*Updated 2026-05-04 13:00 UTC*
 
 ---
 
+- [Why MAGA’s Christian revival claim is a total fantasy](https://www.alternet.org/christian-revival-marcotte/) — *AlterNet* — 2026-05-04 12:54
+  > In 2026, right-wing media have been full of reporting on an alleged Christian fundamentalist revival among young Generation Z men — who, they claim, are going to evangelical churches in big numbers. Many of these reports also claim that Gen
+- [The Sniper in the House](https://www.thenation.com/article/politics/the-sniper-in-the-house/) — *The OC Portal* — 2026-05-04 12:41
+- [How the Montana Plan Could Make “Citizens United” Irrelevant](https://www.thenation.com/article/politics/montana-plan-citizens-united-campaign-finance-reform-ballot-initiative/) — *The OC Portal* — 2026-05-04 12:41
+- [They Were Never Going to Stop After “Dobbs.” We Can Minimize the Harm.](https://www.thenation.com/article/society/mifepristone-attacks-dobbs-minimize-harm/) — *The OC Portal* — 2026-05-04 12:41
+- [Ladakh’s new district map deepens a Buddhist–Muslim divide](https://frontline.thehindu.com/the-nation/ladakh-district-rejig-kargil-discrimination/article70938502.ece) — *Frontline* — 2026-05-04 12:40
+  > Critics say the redrawing leaves Kargil shrunk and the Statehood movement strained.
+- [Novo Desenrola será lançado nesta segunda com uso do FGTS e bloqueio de apostas online](https://www.brasildefato.com.br/2026/05/04/novo-desenrola-sera-lancado-nesta-segunda-com-uso-do-fgts-e-bloqueio-de-apostas-online/) — *Brasil de Fato* — 2026-05-04 12:34
+  > O governo federal lança, nesta segunda-feira (4), a nova fase do programa Desenrola Brasil. A iniciativa traz novidades significativas, como a possibilidade de utilizar o saldo do Fundo de Garantia do Tempo de Serviço (FGTS) para a quitação
+- [Kafka Would Understand: Even Dead Must Prove They’re Dead](https://www.newsclick.in/kafka-would-understand-even-dead-must-prove-theyre-dead) — *The OC Portal* — 2026-05-04 12:29
+- [Trump’s GOP foe has a new nickname for disappointed MAGA voters](https://www.alternet.org/maga-trump-disappointment-syndrome/) — *AlterNet* — 2026-05-04 12:13
+  > The Republican "wild card" that has become a foe of President Donald Trump has developed a new nickname that may trigger the GOP leader. The Daily Beast noticed that Rep. Marjorie Taylor Greene (R-Ga.) has flipped the idea of "Trump Derange
+- [Trump digging himself into an even deeper hole: ex-GOP strategist](https://www.alternet.org/rick-wilson-trump-midterms/) — *AlterNet* — 2026-05-04 12:03
+  > With the United States' 2026 midterms only six months away, President Donald Trump's weak approval ratings are a major concern for GOP strategists and organizers. Republicans fear losing the U.S. House of Representatives, and Democratic str
+- [Short fiction by Paul Zacharia: A zealous nephew vows to catch his aunt’s secret lover red-handed](https://scroll.in/article/1092288/short-fiction-by-paul-zacharia-a-zealous-nephew-vows-to-catch-his-aunts-secret-lover-red-handed?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-04 12:00
+  > An excerpt from ‘The Canto of Clandestine Lovers’ in ‘50 Stories’.
 - [Pessoas em situação de rua na Paraíba, o programa De Volta para Minha Terra e a falta de enfrentamento concreto da problemática](https://www.brasildefato.com.br/colunista/felipe-candeia/2026/05/04/pessoas-em-situacao-de-rua-na-paraiba-o-programa-de-volta-para-minha-terra-e-a-falta-de-enfrentamento-concreto-da-problematica/) — *Brasil de Fato* — 2026-05-04 11:16
   > Por Felipe Candeia* Recentemente, a Assembleia Legislativa da Paraíba (ALPB) promulgou a Lei Estadual Nº 14.330/2026, após veto integral do então governador João Azevêdo, que institui o chamado programa De Volta para Minha Terra. Conforme s
 - [Like in Gaza, Israel is targeting rescue workers in South Lebanon, killing over 100 since March](https://mondoweiss.net/2026/05/like-in-gaza-israel-is-targeting-rescue-workers-in-south-lebanon-killing-over-100-since-march/) — *Mondoweiss* — 2026-05-04 11:15
@@ -22,6 +38,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > O governo do Irã anunciou nesta segunda-feira (4) a criação de uma nova zona de controle marítimo no Estreito de Ormuz, em resposta à operação militar dos Estados Unidos para escoltar navios na região. A medida foi divulgada pela Guarda Rev
 - [Assembly Elections 2026: BJP set for Bengal breakthrough as TVK, UDF upend South](https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece) — *Frontline* — 2026-05-04 11:00
   > Counting trends from five States point to the most consequential state-level shift since the 2024 general election.
+- [Puducherry Assembly elections: CM N Rangasamy wins Thattanchavady seat](https://scroll.in/latest/1092591/puducherry-assembly-elections-cm-n-rangasamy-wins-thattanchavady-seat?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-04 10:59
+  > The National Democratic Alliance, led by Rangasamy’s All India NR Congress, is leading in the Union Territory.
 - [Ask Me Anything with the CICC and CWC on child safety concerns on ‘Roblox’](https://www.rappler.com/technology/ask-me-anything-cicc-cwc-roblox-child-safety-concerns/) — *Rappler* — 2026-05-04 10:52
   > Got questions or thoughts on the risks children face on Roblox? Join Rappler’s Ask Me Anything session with the Cybercrime Investigation and Coordinating Center’s Aboy Paraiso and Council for the Welfare of Children’s Angelo Tapales on May 
 - [New Mexico seeks changes to Meta platforms in youth harm trial](https://www.rappler.com/technology/social-media/new-mexico-meta-platforms-youth-harm-trial-may-4-2026/) — *Rappler* — 2026-05-04 10:50
@@ -48,6 +66,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > The Trump administration falsely claims that boat strikes target fentanyl and have halted 97 percent of cocaine shipments to the U.S. The post Trump’s Killing Spree Isn’t Stopping the Flow of Drugs Into the U.S. appeared first on The Interc
 - [Trump official attacks ProPublica reporter in hostile online rant](https://www.alternet.org/trump-official-lashes-out-at-pro-publica-reporter-in/) — *AlterNet* — 2026-05-04 09:42
   > Counterterrorism czar Sebastian Gorka is one of the most controversial figures in the Trump administration, a gate crasher in the buttoned-up world of national security. In a field where quiet professionalism is revered, Gorka is loud and m
+- [Republicans got a wake-up call from an unlikely source: restrain Trump](https://www.alternet.org/alternet-exclusives/a-wake-up-call-for-the-gop/) — *AlterNet* — 2026-05-04 09:31
+  > Donald Trump isn’t just breaking norms, he’s running a live experiment on the limits of American power. Each move is a test: How far can a president go? What laws and how much of the Constitution can be ignored? And, most importantly, will 
 - [Republicans got a wake-up call from an unlikely source: restrain Trump](https://www.alternet.org/a-wake-up-call-for-the-gop/) — *AlterNet* — 2026-05-04 09:31
   > Donald Trump isn’t just breaking norms, he’s running a live experiment on the limits of American power. Each move is a test: How far can a president go? What laws and how much of the Constitution can be ignored? And, most importantly, will 
 - [Labour’s Deflection Machine Is in Full Swing Ahead of a Local Election Catastrophe](https://novaramedia.com/2026/05/04/labours-deflection-machine-is-in-full-swing-ahead-of-a-local-election-catastrophe/) — *Novara Media* — 2026-05-04 09:30
@@ -157,11 +177,19 @@ For the clustered bilingual view, see [index.md](index.md).
   > An excerpt from ‘A Celebration of Memories,’ by Kanwar Mohinder Singh Bedi ‘Sahar’, translated from the Urdu by Kamna Prasad.
 - [Price wars, tech wars: China’s auto bloodbath rages on](https://asiatimes.com/2026/05/price-wars-tech-wars-chinas-auto-bloodbath-rages-on/) — *Asia Times* — 2026-05-04 02:47
   > I’m in love with my car Gotta feel for my automobile Get a grip on my boy racer rollbar Such a thrill when your radials squeal – Queen After attending the Auto China 2024 exhibition in Beijing, this writer declared that “industrial blood-sp
+- [Start the week with a film: A bitter birthday in ‘The President’s Cake’](https://scroll.in/reel/1092568/start-the-week-with-a-film-a-birthday-from-hell-in-the-presidents-cake?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-04 02:35
+  > Iraqi director Hasan Hadi’s award-winning movie can be rented from streaming platforms in India.
 - [Federal appeals court issues nationwide ban on telemedicine and mail access to abortion pill mifepristone](https://www.wsws.org/en/articles/2026/05/04/bmqj-m04.html) — *The OC Portal* — 2026-05-04 02:24
 - [From Port Huron to postmodernism: The class politics of the “New” Students for a Democratic Society](https://www.wsws.org/en/articles/2026/05/04/ikaa-m04.html) — *The OC Portal* — 2026-05-04 02:24
 - [Labor blocks return of Australian citizens interned in Syria](https://www.wsws.org/en/articles/2026/05/04/icvw-m04.html) — *The OC Portal* — 2026-05-04 02:24
+- [India says ‘unjustified’ as Nepal objects to Mansarovar Yatra through Lipulekh area](https://scroll.in/latest/1092569/india-says-unjustified-as-nepal-objects-to-mansarovar-yatra-through-lipulekh-area?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-04 02:20
+  > New Delhi said that the pilgrimage route was not new and described Kathmandu’s position as a ‘unilateral artificial enlargement of territorial claims’.
 - [Fim da escala 6×1, combate à misoginia e à precarização do trabalho: o que os trabalhadores organizados de Pernambuco querem dos candidatos nas eleições de 2026](https://www.brasildefato.com.br/2026/05/03/fim-da-escala-6x1-combate-a-misoginia-e-a-precarizacao-do-trabalho-o-que-os-trabalhadores-organizados-de-pernambuco-querem-dos-candidatos-nas-eleicoes-de-2026/) — *Brasil de Fato* — 2026-05-04 01:13
   > Na manifestação do Dia do Trabalhador no Recife, o Brasil de Fato ouviu lideranças sindicais e políticas sobre a eleição Fonte
+- [An illustrator’s sketchbook of the Bengal poll campaign: A state holds its breath](https://scroll.in/article/1092566/an-illustrators-sketchbook-of-the-bengal-poll-campaign-a-state-holds-its-breath?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-04 01:00
+  > A glimpse of the many moods in Kolkata.
+- [Scroll’s Ayush Tiwari wins 2025 ACJ award for investigative journalism](https://scroll.in/latest/1092560/scrolls-ayush-tiwari-wins-2025-acj-award-for-investigative-journalism?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-04 00:54
+  > Tiwari was awarded for his investigative series on cybercrime.
 - [This week in history: May 4-10](https://www.wsws.org/en/articles/2026/05/03/aqtd-m03.html) — *The OC Portal* — 2026-05-04 00:24
 - [“I Demand that Cuba’s Sovereignty be Respected!”](https://resumen-english.org/2026/05/i-demand-that-cubas-sovereignty-be-respected/) — *The OC Portal* — 2026-05-03 20:24
 - [Em meio a cessar-fogo, Israel emite novas ordens de evacuação em cidades libanesas](https://www.brasildefato.com.br/2026/05/03/em-meio-a-cessar-fogo-israel-emite-novas-ordens-de-evacuacao-em-cidades-libanesas/) — *Brasil de Fato* — 2026-05-03 19:28
@@ -184,6 +212,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > President Donald Trump’s former lawyer is convinced his ex-boss has quite literally become a “madman” — and that he must be removed from office. “We’re in a real crisis here in the US,” attorney Ty Cobb told The i Paper in an interview that
 - [Após sequestro em águas internacionais, Israel prorroga prisão de ativistas brasileiro e palestino em dois dias](https://www.brasildefato.com.br/2026/05/03/tribunal-de-israel-prorroga-detencao-de-ativista-brasileiro-e-palestino-em-dois-dias/) — *Brasil de Fato* — 2026-05-03 16:54
   > A detenção dos ativistas Thiago Ávila, brasileiro, e Said Abu Keshek, espanhol-palestino, pelo governo israelense foi prorrogada em dois dias neste domingo (3) por um tribunal de Israel. De acordo com a agência de notícias AFP, eles são acu
+- [China’s huge spending on scientific, tech research puts question mark on US leadership in the field](https://scroll.in/article/1092405/china-huge-spending-on-scientific-tech-research-puts-question-mark-on-us-leadership-in-the-field?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-03 16:30
+  > The US has a lot to lose as it slashes funding and restricts scientific exchange.
 - [Ranting at midnight: Trump's late-night posts raise concern about his health](https://www.alternet.org/trumps-late-night/) — *AlterNet* — 2026-05-03 16:18
   > President Donald Trump makes late-night social media posts so frequently, a recent report indicates that he may literally not be getting enough sleep. “Donald Trump’s late-night and early-morning posting habit is now so prolific there were 
 - [Espetáculo ‘Vento Forte para Água e Sabão’ volta aos palcos do Recife em temporada comemorativa](https://www.brasildefato.com.br/2026/05/03/espetaculo-vento-forte-para-agua-e-sabao-volta-aos-palcos-do-recife-em-temporada-comemorativa/) — *Brasil de Fato* — 2026-05-03 16:18
@@ -198,6 +228,8 @@ For the clustered bilingual view, see [index.md](index.md).
   > Projeto "Concerto no Parque" leva Orquestra Rockfônica para passear por música erudita e popular Fonte
 - [Morre Raimundo Pereira, o maior dos jornalistas, por Breno Altman](https://www.brasildefato.com.br/2026/05/03/morre-raimundo-pereira-o-maior-dos-jornalistas-por-breno-altman/) — *Brasil de Fato* — 2026-05-03 15:10
   > A morte de Raimundo Rodrigues Pereira, neste 2 de maio de 2026, aos 85 anos, nos obriga a olhar para trás e reconhecer a dimensão de uma trajetória rara no jornalismo brasileiro — talvez a maior de todas. Expulso do Instituto Tecnológico de
+- [‘Closely Watched Trains’: The humour in Bohumil Hrabal’s 1965 novella is a response to ruination](https://scroll.in/article/1091813/closely-watched-trains-the-humour-in-bohumil-hrabals-1965-novella-is-a-response-to-ruination?utm_source=rss&utm_medium=public) — *Scroll.in* — 2026-05-03 15:00
+  > This is a story about a young man working at a train station in German-occupied Czechoslovakia during the Second World War.
 - [What I’m Seeing in Lebanon is Not a Ceasefire w/ journalist Steve Sweeney](https://www.youtube.com/watch?v=RTcMdcMibso) — *BreakThrough News* — 2026-05-03 15:00
   > They’re calling it a “ceasefire” in Lebanon, but on the ground, it looks nothing like one. In just the first week, Israel violated the ceasefire nearly 500 times, killing dozens of people, continuing airstrikes, issuing displacement orders,
 - [For Iranians, Despair Is Not Strategy](https://jacobin.com/2026/05/iran-diaspora-propaganda-pahlavi-repression) — *Jacobin* — 2026-05-03 14:59

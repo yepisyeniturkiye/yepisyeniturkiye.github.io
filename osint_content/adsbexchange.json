@@ -3,7 +3,38 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
-  "items": []
+  "items": [
+    {
+      "title_en": "Tracking Map - unfiltered global flight tracking",
+      "title_tr": "İzleme Haritası - filtresiz küresel uçuş takibi",
+      "url": "https://globe.adsbexchange.com/",
+      "date": ""
+    },
+    {
+      "title_en": "Feeder Leaderboard - top contributors",
+      "title_tr": "Besleyici Liderlik Tablosu - en iyi katkıda bulunanlar",
+      "url": "https://globe.adsbexchange.com/leaderboard/",
+      "date": ""
+    },
+    {
+      "title_en": "Fastest Planes - real-time speed tracking",
+      "title_tr": "En Hızlı Uçaklar - gerçek zamanlı hız takibi",
+      "url": "https://www.adsbexchange.com/?page_id=39341",
+      "date": ""
+    },
+    {
+      "title_en": "Close Calls (TCAS Alerts) - near mid-air collisions",
+      "title_tr": "Yakın Çağrılar (TCAS Uyarıları) - yakın hava çarpışmaları",
+      "url": "https://www.adsbexchange.com/?page_id=39350",
+      "date": ""
+    },
+    {
+      "title_en": "Coverage Map - global feeder coverage",
+      "title_tr": "Kapsama Haritası - küresel besleyici kapsama alanı",
+      "url": "https://www.adsbexchange.com/coverage-map/",
+      "date": ""
+    }
+  ]
 }

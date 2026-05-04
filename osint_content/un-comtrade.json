@@ -3,37 +3,25 @@
   "platform_name": "UN Comtrade",
   "homepage": "https://comtradeplus.un.org",
   "category": "osint_monitor_trade",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
-      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
-      "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
-      "date": "2025"
-    },
-    {
-      "title_en": "Data Availability Dashboard showing processing stages",
-      "title_tr": "İşleme aşamalarını gösteren Veri Kullanılabilirliği Panosu",
+      "title_en": "Data Availability Dashboard",
+      "title_tr": "Veri Kullanılabilirliği Panosu",
       "url": "https://comtradeplus.un.org/Visualization/DADashboard",
       "date": ""
     },
     {
-      "title_en": "Recent Releases page for latest trade data",
-      "title_tr": "En son ticaret verileri için Son Yayınlar sayfası",
+      "title_en": "Recent Releases",
+      "title_tr": "Son Yayınlar",
       "url": "https://comtradeplus.un.org/RecentReleases",
       "date": ""
     },
     {
-      "title_en": "Time Series data extraction tool",
-      "title_tr": "Zaman Serisi veri çıkarma aracı",
-      "url": "https://comtradeplus.un.org/DATimeSeries",
-      "date": ""
-    },
-    {
-      "title_en": "Bulk Download service for millions of records",
-      "title_tr": "Milyonlarca kayıt için Toplu İndirme hizmeti",
-      "url": "https://comtradeplus.un.org/BulkFilesSearch",
+      "title_en": "Introduction to Integrating Business and Trade Statistics e-learning course",
+      "title_tr": "İş ve Ticaret İstatistiklerini Bütünleştirmeye Giriş e-öğrenme kursu",
+      "url": "https://event.unitar.org/full-catalog/introduction-integrating-business-and-trade-statistics",
       "date": ""
     }
   ]

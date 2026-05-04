@@ -3,7 +3,7 @@
   "platform_name": "NASA FIRMS",
   "homepage": "https://firms.modaps.eosdis.nasa.gov",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-04T11:24:41.268414+00:00",
+  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
   "error": "",
   "items": [
     {
@@ -20,19 +20,19 @@
     },
     {
       "title_en": "Wildfire smoke, Chile Feb 4th 2023",
-      "title_tr": "Şili'deki Orman Yangını Dumanı, 4 Şubat 2023",
+      "title_tr": "Şili'de orman yangını dumanı, 4 Şubat 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-02-03;l:countries,aqua_crc;@-72.6,-36.6,8z",
       "date": "2023-02-04"
     },
     {
       "title_en": "Wildfire, Alberta Province, Canada May 5th 2023",
-      "title_tr": "Kanada Alberta Eyaleti'nde Orman Yangını, 5 Mayıs 2023",
+      "title_tr": "Kanada Alberta Eyaleti'nde orman yangını, 5 Mayıs 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-05-05;l:noaa20-viirs,countries,noaa20_m11;@-115.5,53.8,8z",
       "date": "2023-05-05"
     },
     {
       "title_en": "Wildfire, Quebec Province, Canada June 8th 2023",
-      "title_tr": "Kanada Quebec Eyaleti'nde Orman Yangını, 8 Haziran 2023",
+      "title_tr": "Kanada Quebec Eyaleti'nde orman yangını, 8 Haziran 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-06-04..2023-06-08,2023-06-08;l:countries,aqua_srb721;@-75.7,52.8,9z",
       "date": "2023-06-08"
     }
