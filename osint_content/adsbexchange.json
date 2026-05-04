@@ -3,7 +3,7 @@
   "platform_name": "ADS-B Exchange",
   "homepage": "https://www.adsbexchange.com",
   "category": "osint_monitor_aviation",
-  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
+  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
   "error": "",
   "items": [
     {
@@ -19,21 +19,21 @@
       "date": ""
     },
     {
-      "title_en": "Fastest Planes - real-time speed tracking",
-      "title_tr": "En Hızlı Uçaklar - gerçek zamanlı hız takibi",
-      "url": "https://www.adsbexchange.com/?page_id=39341",
+      "title_en": "Enterprise API - commercial-grade flight data API",
+      "title_tr": "Kurumsal API - ticari sınıf uçuş verisi API'si",
+      "url": "https://www.adsbexchange.com/products/enterprise-api/",
       "date": ""
     },
     {
-      "title_en": "Close Calls (TCAS Alerts) - near mid-air collisions",
-      "title_tr": "Yakın Çağrılar (TCAS Uyarıları) - yakın hava çarpışmaları",
-      "url": "https://www.adsbexchange.com/?page_id=39350",
+      "title_en": "Historical Data - unfiltered, unblocked archives",
+      "title_tr": "Geçmiş Veri - filtresiz, engelsiz arşivler",
+      "url": "https://www.adsbexchange.com/products/historical-data/",
       "date": ""
     },
     {
-      "title_en": "Coverage Map - global feeder coverage",
-      "title_tr": "Kapsama Haritası - küresel besleyici kapsama alanı",
-      "url": "https://www.adsbexchange.com/coverage-map/",
+      "title_en": "API Lite - for hobbyists and enthusiasts",
+      "title_tr": "API Lite - hobi ve meraklılar için",
+      "url": "https://www.adsbexchange.com/api-lite/",
       "date": ""
     }
   ]

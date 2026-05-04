@@ -3,7 +3,7 @@
   "platform_name": "ACLED",
   "homepage": "https://acleddata.com",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
+  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
   "error": "",
   "items": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "title_en": "Who are the Israel-backed armed groups fighting Hamas in Gaza?",
-      "title_tr": "Gazze'de Hamas'a karşı savaşan İsrail destekli silahlı gruplar kimler?",
+      "title_tr": "Gazze'de Hamas'a karşı savaşan İsrail destekli silahlı gruplar kim?",
       "url": "https://acleddata.com/report/who-are-israel-backed-armed-groups-fighting-hamas-gaza",
       "date": "2026-04-27"
     },
@@ -26,7 +26,7 @@
     },
     {
       "title_en": "Ukraine Conflict Monitor",
-      "title_tr": "Ukrayna Çatışma Monitörü",
+      "title_tr": "Ukrayna Çatışma İzleyicisi",
       "url": "https://acleddata.com/monitor/ukraine-conflict-monitor",
       "date": ""
     },

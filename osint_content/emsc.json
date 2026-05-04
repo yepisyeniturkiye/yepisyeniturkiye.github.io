@@ -3,7 +3,7 @@
   "platform_name": "EMSC (European-Mediterranean Seismological Centre)",
   "homepage": "https://www.emsc-csem.org",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
+  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
   "error": "",
   "items": [
     {
@@ -14,25 +14,25 @@
     },
     {
       "title_en": "Magnitude 6.0 earthquake in Sulat, Philippines",
-      "title_tr": "Sulat, Filipinler'de 6.0 büyüklüğünde deprem",
+      "title_tr": "Filipinler, Sulat'ta 6.0 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1989070",
       "date": "2026-05-04"
     },
     {
       "title_en": "Magnitude 5.7 earthquake in Hashimoto, Japan",
-      "title_tr": "Hashimoto, Japonya'da 5.7 büyüklüğünde deprem",
+      "title_tr": "Japonya, Hashimoto'da 5.7 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1988159",
       "date": "2026-05-02"
     },
     {
       "title_en": "Magnitude 5.8 earthquake in Keelung, Taiwan",
-      "title_tr": "Keelung, Tayvan'da 5.8 büyüklüğünde deprem",
+      "title_tr": "Tayvan, Keelung'da 5.8 büyüklüğünde deprem",
       "url": "https://www.emsc-csem.org/Earthquake_information/earthquake.php?id=1987759",
       "date": "2026-05-01"
     },
     {
       "title_en": "LastQuake Messenger Bot",
-      "title_tr": "LastQuake Messenger Botu",
+      "title_tr": "LastQuake Messenger Bot",
       "url": "https://m.me/LastQuakeBot",
       "date": ""
     }

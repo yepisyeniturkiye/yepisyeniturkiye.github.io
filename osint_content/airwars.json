@@ -3,7 +3,7 @@
   "platform_name": "Airwars",
   "homepage": "https://airwars.org",
   "category": "osint_monitor_conflict",
-  "fetched_at": "2026-05-04T13:00:39.455227+00:00",
+  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
   "error": "",
   "items": [
     {
@@ -19,22 +19,22 @@
       "date": "2026-03-10"
     },
     {
-      "title_en": "40% of U.S.-Mexico border handed over to the military: interactive map",
-      "title_tr": "ABD-Meksika sınırının %40'ı orduya devredildi: interaktif harita",
+      "title_en": "40% of U.S.-Mexico border handed over to the military",
+      "title_tr": "ABD-Meksika sınırının %40'ı orduya devredildi",
       "url": "https://airwars.org/more-than-40-of-u-s-mexico-border-has-been-handed-over-to-the-military/",
       "date": "2026-03-26"
-    },
-    {
-      "title_en": "The munitions of the Iran war: Open Source Munitions Portal",
-      "title_tr": "İran savaşının mühimmatları: Açık Kaynak Mühimmat Portalı",
-      "url": "https://osmp.ngo/collection/the-iran-war-2026/",
-      "date": "2026-03-04"
     },
     {
       "title_en": "Airwars publishes final of 5,000 civilian harm incidents from Russian actions in Syria",
       "title_tr": "Airwars, Rusya'nın Suriye'deki eylemlerinden 5.000 sivil zarar olayını yayınladı",
       "url": "https://airwars.org/airwars-publishes-final-of-5000-civilian-harm-incidents-from-russian-actions-in-syria/",
       "date": "2025-08-20"
+    },
+    {
+      "title_en": "Airwars wins Overseas Press Club of America award",
+      "title_tr": "Airwars, Overseas Press Club of America ödülünü kazandı",
+      "url": "https://airwars.org/airwars-wins-overseas-press-club-of-america-award/",
+      "date": "2025-04-19"
     }
   ]
 }
