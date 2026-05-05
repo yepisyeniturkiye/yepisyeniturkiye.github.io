@@ -3,18 +3,18 @@
   "platform_name": "NASA FIRMS",
   "homepage": "https://firms.modaps.eosdis.nasa.gov",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
+  "fetched_at": "2026-05-05T10:30:38.499482+00:00",
   "error": "",
   "items": [
     {
-      "title_en": "Greece July 19th 2023 Fire Map",
-      "title_tr": "Yunanistan 19 Temmuz 2023 Yangın Haritası",
+      "title_en": "Greece Fire Map July 19th 2023",
+      "title_tr": "Yunanistan Yangın Haritası 19 Temmuz 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-07-19;l:viirs,country-outline,viirs_crtc;@25.8,37.0,7z",
       "date": "2023-07-19"
     },
     {
-      "title_en": "Biobío Region, Chile Feb 3rd 2023 Fire Map",
-      "title_tr": "Şili Biobío Bölgesi 3 Şubat 2023 Yangın Haritası",
+      "title_en": "Biobío Region, Chile Fire Map Feb 3rd 2023",
+      "title_tr": "Biobío Bölgesi, Şili Yangın Haritası 3 Şubat 2023",
       "url": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;m:advanced,custom;d:2023-02-03;l:countries,aqua_srb721;@-73.4,-37.2,9z",
       "date": "2023-02-03"
     },

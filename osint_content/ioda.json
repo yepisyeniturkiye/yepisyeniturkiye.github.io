@@ -3,7 +3,7 @@
   "platform_name": "IODA (Internet Outage Detection and Analysis)",
   "homepage": "https://ioda.inetintel.cc.gatech.edu",
   "category": "osint_monitor_general",
-  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
+  "fetched_at": "2026-05-05T10:30:38.499482+00:00",
   "error": "",
   "items": [
     {
@@ -13,26 +13,26 @@
       "date": "2026-04-27"
     },
     {
-      "title_en": "Sharif University of Technology (AS12660) Offline After Airstrike",
-      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) Hava Saldırısı Sonrası Çevrimdışı",
+      "title_en": "Sharif University of Technology (AS12660) Offline After Airstrikes",
+      "title_tr": "Şerif Teknoloji Üniversitesi (AS12660) Hava Saldırıları Sonrası Çevrimdışı",
       "url": "https://ioda.inetintel.cc.gatech.edu/asn/12660-IR...",
       "date": "2026-04-06"
     },
     {
-      "title_en": "Amazon Web Services (AS16509) Damage in Bahrain",
-      "title_tr": "Bahreyn'de Amazon Web Services (AS16509) Hasarı",
+      "title_en": "Amazon Web Services (AS16509) in Bahrain Damage Visible in IODA",
+      "title_tr": "Bahreyn'deki Amazon Web Services (AS16509) Hasarı IODA'da Görünür",
       "url": "https://ioda.inetintel.cc.gatech.edu/asn/16509-BH...",
       "date": "2026-04-02"
     },
     {
-      "title_en": "Longest Internet Shutdown in Iran Documented by IODA",
-      "title_tr": "IODA Tarafından Belgelenen En Uzun İran İnternet Kesintisi",
+      "title_en": "Iran Near-Total Internet Shutdown Longest Documented by IODA",
+      "title_tr": "İran'da Neredeyse Tam İnternet Kesintisi IODA'nın Belgelediği En Uzun Kesinti",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/IR?f...",
       "date": "2026-03-19"
     },
     {
-      "title_en": "Power Shortage in Cuba Visible in IODA Connectivity Signals",
-      "title_tr": "Küba'da Elektrik Kesintisi IODA Bağlantı Sinyallerinde Görülüyor",
+      "title_en": "Cuba Power Shortage Visible in IODA Internet Connectivity Signals",
+      "title_tr": "Küba Elektrik Kesintisi IODA İnternet Bağlantı Sinyallerinde Görünür",
       "url": "https://ioda.inetintel.cc.gatech.edu/country/CU?f...",
       "date": "2026-03-17"
     }

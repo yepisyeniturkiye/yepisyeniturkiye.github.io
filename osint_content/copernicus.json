@@ -3,7 +3,7 @@
   "platform_name": "Copernicus Data Space",
   "homepage": "https://dataspace.copernicus.eu",
   "category": "osint_monitor_satellite",
-  "fetched_at": "2026-05-04T16:24:04.090247+00:00",
+  "fetched_at": "2026-05-05T10:30:38.499482+00:00",
   "error": "",
   "items": [
     {
@@ -14,27 +14,27 @@
     },
     {
       "title_en": "Sentinel-1D User Data Opening from 17/04/2026",
-      "title_tr": "Sentinel-1D Kullanıcı Verileri 17/04/2026'dan itibaren açılıyor",
+      "title_tr": "17/04/2026'dan itibaren Sentinel-1D Kullanıcı Verilerinin Açılması",
       "url": "https://dataspace.copernicus.eu/news/2026-4-16-sentinel-1d-user-data-opening-17042026",
       "date": "2026-04-16"
     },
     {
       "title_en": "Planned upgrade of EOData storage 14/05/2026 from 06:00 to 10:00 CEST",
-      "title_tr": "EOData depolama yükseltmesi 14/05/2026 06:00-10:00 CEST arasında planlandı",
+      "title_tr": "EOData depolama planlı yükseltmesi 14/05/2026 06:00-10:00 CEST",
       "url": "https://dataspace.copernicus.eu/news/2026-4-30-planned-upgrade-eodata-storage-14052026-0600-1000-cest",
       "date": "2026-04-30"
     },
     {
-      "title_en": "Machine Learning for Forest Fire Mapping: Using openEO's Random Forest process",
-      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Orman süreci",
-      "url": "https://dataspace.copernicus.eu/cases/machine-learning-forest-fire-mapping-using-openeos-random-forest-process",
-      "date": ""
+      "title_en": "Copernicus Sentinel-1C Data Unavailability on 28 April 2026",
+      "title_tr": "28 Nisan 2026'da Copernicus Sentinel-1C Veri Kullanılamazlığı",
+      "url": "https://dataspace.copernicus.eu/news/2026-4-29-copernicus-sentinel-1c-data-unavailability-28-april-2026",
+      "date": "2026-04-29"
     },
     {
-      "title_en": "The beauty of the green transition: solar panels on Hapcheon Lake, South Korea",
-      "title_tr": "Yeşil dönüşümün güzelliği: Hapcheon Gölü'ndeki güneş panelleri, Güney Kore",
-      "url": "https://dataspace.copernicus.eu/gallery/2026-3-27-beauty-green-transition-solar-panels-hapcheon-lake-south-korea",
-      "date": "2026-03-27"
+      "title_en": "Machine Learning for Forest Fire Mapping: Using openEO's Random Forest process",
+      "title_tr": "Orman Yangını Haritalaması için Makine Öğrenimi: openEO'nun Rastgele Orman sürecini kullanma",
+      "url": "https://dataspace.copernicus.eu/cases/machine-learning-forest-fire-mapping-using-openeos-random-forest-process",
+      "date": ""
     }
   ]
 }
